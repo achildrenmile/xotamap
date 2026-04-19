@@ -5,7 +5,10 @@ import type {
 } from 'maplibre-gl';
 
 const OPENFREEMAP_BASE = 'https://tiles.openfreemap.org';
-const PROXY_BASE = '/tiles';
+const PROXY_BASE =
+  typeof window !== 'undefined'
+    ? `${window.location.origin}/tiles`
+    : '/tiles';
 
 /**
  * Whether we're running behind the nginx proxy (production) or direct (dev).

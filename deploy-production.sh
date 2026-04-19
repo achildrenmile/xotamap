@@ -60,6 +60,7 @@ ssh "$DEPLOY_HOST" "
     $DOCKER_CMD run -d \
         --name '$CONTAINER_NAME' \
         --restart unless-stopped \
+        --network cloudflared-tunnel \
         -p '$CONTAINER_PORT' \
         -e SITE_NAME='xOTA Map' \
         -e SITE_DESCRIPTION='Alle Outdoor-Amateurfunk-Programme auf einer Karte' \
