@@ -2,9 +2,9 @@
  * GMA (Global Mountain Activity) reference data importer.
  *
  * Strategy:
- *   GMA provides reference data via its map interface at cqgma.org.
- *   The GMA map uses GeoJSON data which can be fetched from the map tiles/API.
- *   We attempt to fetch the summit database via known endpoints.
+ *   1. Fetch region list from /gmamap/load_gma_regions.php
+ *   2. For each region, fetch summits from /gmamap/load_gma.php?region=XXX
+ *   3. Response is GeoJSON FeatureCollection per region
  *
  * Source: https://www.cqgma.org
  */
@@ -23,133 +23,87 @@ import {
 import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
+const BASE_URL = 'https://www.cqgma.org/gmamap';
 const OUTPUT_DIR = join(process.cwd(), 'public/data/references');
-
-// Known GMA data endpoints (the map loads data from these)
-const GMA_ENDPOINTS = [
-  'https://www.cqgma.org/gmamap/data/summits.json',
-  'https://www.cqgma.org/gmamap/data/gma_summits.geojson',
-  'https://www.cqgma.org/api/summits/',
-];
-
-interface GmaSummit {
-  reference?: string;
-  ref?: string;
-  code?: string;
-  name?: string;
-  summitName?: string;
-  latitude?: number;
-  lat?: number;
-  longitude?: number;
-  lon?: number;
-  lng?: number;
-  altitude?: number;
-  height?: number;
-  elevation?: number;
-  points?: number;
-  region?: string;
-  association?: string;
-  lastActivation?: string;
-}
-
-function extractSummitData(raw: GmaSummit): {
-  code: string;
-  name: string;
-  lat: number;
-  lon: number;
-  elevation?: number;
-  points?: number;
-  region?: string;
-} | null {
-  const code = raw.reference ?? raw.ref ?? raw.code;
-  const name = raw.name ?? raw.summitName ?? '';
-  const lat = raw.latitude ?? raw.lat;
-  const lon = raw.longitude ?? raw.lon ?? raw.lng;
-
-  if (!code || lat === undefined || lon === undefined) return null;
-
-  return {
-    code,
-    name,
-    lat,
-    lon,
-    elevation: parseNumber(raw.altitude ?? raw.height ?? raw.elevation),
-    points: parseNumber(raw.points),
-    region: raw.region ?? raw.association,
-  };
-}
 
 export async function importGma(): Promise<ImportResult> {
   logSection('GMA — Global Mountain Activity');
   const result: ImportResult = { program: 'gma', count: 0, errors: [], skipped: 0 };
   const features: ReferenceFeature[] = [];
-  const rateLimit = createRateLimiter(2000);
+  const rateLimit = createRateLimiter(300);
 
-  let rawData: GmaSummit[] | null = null;
-
-  // Try known endpoints until one works
-  for (const endpoint of GMA_ENDPOINTS) {
-    await rateLimit();
-    try {
-      console.log(`  Trying endpoint: ${endpoint}`);
-      const res = await fetchWithRetry(endpoint, {}, 1, 3000);
-      const data = await res.json();
-
-      // Handle both array and GeoJSON responses
-      if (Array.isArray(data)) {
-        rawData = data as GmaSummit[];
-        console.log(`  Success: got ${formatCount(rawData.length)} records from array`);
-        break;
-      } else if (data?.type === 'FeatureCollection' && Array.isArray(data.features)) {
-        rawData = data.features.map((f: { properties?: GmaSummit; geometry?: { coordinates?: number[] } }) => ({
-          ...f.properties,
-          longitude: f.geometry?.coordinates?.[0],
-          latitude: f.geometry?.coordinates?.[1],
-        })) as GmaSummit[];
-        console.log(`  Success: got ${formatCount(rawData.length)} features from GeoJSON`);
-        break;
-      } else if (typeof data === 'object' && data.summits) {
-        rawData = data.summits as GmaSummit[];
-        console.log(`  Success: got ${formatCount(rawData.length)} summits from object`);
-        break;
-      }
-    } catch (err) {
-      console.warn(`  Endpoint failed: ${err instanceof Error ? err.message : err}`);
-    }
-  }
-
-  if (!rawData) {
-    const msg = 'No GMA data endpoint returned valid data. GMA import skipped.';
-    console.warn(`  WARNING: ${msg}`);
+  // Step 1: Fetch all region codes
+  console.log('  Fetching region list...');
+  let regions: string[];
+  try {
+    const res = await fetchWithRetry(`${BASE_URL}/load_gma_regions.php`);
+    regions = await res.json() as string[];
+    console.log(`  Found ${formatCount(regions.length)} regions`);
+  } catch (err) {
+    const msg = `Failed to fetch GMA regions: ${err instanceof Error ? err.message : err}`;
+    console.error(`  ERROR: ${msg}`);
     result.errors.push(msg);
-    // Write empty collection
     writeFileSync(join(OUTPUT_DIR, 'gma.geojson'), JSON.stringify(createFeatureCollection([])));
     return result;
   }
 
-  // Process summits
-  for (const raw of rawData) {
-    const summit = extractSummitData(raw);
-    if (!summit) {
-      result.skipped++;
-      continue;
-    }
+  // Step 2: Fetch summits per region
+  let processed = 0;
+  for (const region of regions) {
+    await rateLimit();
+    processed++;
+    try {
+      const res = await fetchWithRetry(
+        `${BASE_URL}/load_gma.php?region=${encodeURIComponent(region)}`,
+        {},
+        2,
+        1000
+      );
+      const data = await res.json() as {
+        type?: string;
+        features?: Array<{
+          geometry?: { coordinates?: number[] };
+          properties?: { ref?: string; name?: string; points?: number };
+        }>;
+      };
 
-    if (!isValidCoordinate(summit.lon, summit.lat)) {
-      result.skipped++;
-      continue;
-    }
+      if (data?.type === 'FeatureCollection' && Array.isArray(data.features)) {
+        for (const f of data.features) {
+          const lon = f.geometry?.coordinates?.[0];
+          const lat = f.geometry?.coordinates?.[1];
+          const code = f.properties?.ref;
+          const name = f.properties?.name ?? '';
 
-    features.push(
-      createFeature(summit.lon, summit.lat, {
-        code: summit.code,
-        program: 'gma',
-        name: summit.name,
-        elevation: summit.elevation,
-        points: summit.points,
-        region: summit.region,
-      })
-    );
+          if (!code || lon === undefined || lat === undefined) {
+            result.skipped++;
+            continue;
+          }
+
+          if (!isValidCoordinate(lon, lat)) {
+            result.skipped++;
+            continue;
+          }
+
+          features.push(
+            createFeature(lon, lat, {
+              code,
+              program: 'gma',
+              name,
+              points: parseNumber(f.properties?.points),
+              region,
+            })
+          );
+        }
+      }
+
+      if (processed % 100 === 0) {
+        console.log(`  Progress: ${processed}/${regions.length} regions, ${formatCount(features.length)} summits`);
+      }
+    } catch (err) {
+      const msg = `Failed to fetch GMA region ${region}: ${err instanceof Error ? err.message : err}`;
+      console.warn(`  WARNING: ${msg}`);
+      result.errors.push(msg);
+    }
   }
 
   // Write GeoJSON

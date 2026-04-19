@@ -3,11 +3,11 @@
  *
  * Strategy:
  *   1. Fetch list of associations from /api/associations
- *   2. For each association, fetch summits from /api/associations/{code}
- *   3. Normalize to GeoJSON FeatureCollection
+ *   2. For each association, fetch region list from /api/associations/{code}
+ *   3. For each region, fetch summits from /api/regions/{assoc}/{region}
+ *   4. Normalize to GeoJSON FeatureCollection
  *
  * API: https://api2.sota.org.uk/api/
- * Docs: https://api2.sota.org.uk/docs/index.html
  */
 
 import type { ImportResult, ReferenceFeature } from './types.js';
@@ -29,7 +29,14 @@ const OUTPUT_DIR = join(process.cwd(), 'public/data/references');
 
 interface SotaAssociation {
   associationCode: string;
-  name: string;
+  associationName: string;
+  regionsCount: number;
+}
+
+interface SotaRegionSummary {
+  regionCode: string;
+  regionName: string;
+  summits: number; // count, not array
 }
 
 interface SotaSummit {
@@ -41,14 +48,13 @@ interface SotaSummit {
   altM: number;
   activationCount: number;
   activationDate?: string;
-  regionCode?: string;
 }
 
 export async function importSota(): Promise<ImportResult> {
   logSection('SOTA — Summits On The Air');
   const result: ImportResult = { program: 'sota', count: 0, errors: [], skipped: 0 };
   const features: ReferenceFeature[] = [];
-  const rateLimit = createRateLimiter(1500);
+  const rateLimit = createRateLimiter(500);
 
   // Step 1: Fetch all associations
   console.log('  Fetching associations...');
@@ -64,38 +70,51 @@ export async function importSota(): Promise<ImportResult> {
     return result;
   }
 
-  // Step 2: Fetch summits per association
+  // Step 2: For each association, get regions, then fetch summits per region
   for (const assoc of associations) {
     await rateLimit();
     try {
-      console.log(`  Fetching summits for ${assoc.associationCode} (${assoc.name})...`);
-      const res = await fetchWithRetry(`${BASE_URL}/associations/${assoc.associationCode}`);
-      const data = await res.json() as { regions?: Array<{ summits?: SotaSummit[] }> };
+      const assocRes = await fetchWithRetry(`${BASE_URL}/associations/${assoc.associationCode}`);
+      const assocData = await assocRes.json() as { regions?: SotaRegionSummary[] };
+      const regions = assocData.regions ?? [];
 
-      const regions = data.regions ?? [];
       for (const region of regions) {
-        const summits = region.summits ?? [];
-        for (const summit of summits) {
-          if (!isValidCoordinate(summit.longitude, summit.latitude)) {
-            result.skipped++;
-            continue;
-          }
-
-          features.push(
-            createFeature(summit.longitude, summit.latitude, {
-              code: summit.summitCode,
-              program: 'sota',
-              name: summit.name,
-              elevation: parseNumber(summit.altM),
-              points: parseNumber(summit.points),
-              region: assoc.associationCode,
-              lastActivation: summit.activationDate ?? undefined,
-            })
+        await rateLimit();
+        try {
+          const regionRes = await fetchWithRetry(
+            `${BASE_URL}/regions/${assoc.associationCode}/${region.regionCode}`
           );
+          const regionData = await regionRes.json() as { summits?: SotaSummit[] };
+          const summits = regionData.summits ?? [];
+
+          for (const summit of summits) {
+            if (!isValidCoordinate(summit.longitude, summit.latitude)) {
+              result.skipped++;
+              continue;
+            }
+
+            features.push(
+              createFeature(summit.longitude, summit.latitude, {
+                code: summit.summitCode,
+                program: 'sota',
+                name: summit.name,
+                elevation: parseNumber(summit.altM),
+                points: parseNumber(summit.points),
+                region: assoc.associationCode,
+                lastActivation: summit.activationDate ?? undefined,
+              })
+            );
+          }
+        } catch (err) {
+          const msg = `Failed to fetch summits for ${assoc.associationCode}/${region.regionCode}: ${err instanceof Error ? err.message : err}`;
+          console.warn(`  WARNING: ${msg}`);
+          result.errors.push(msg);
         }
       }
+
+      console.log(`  ${assoc.associationCode}: ${regions.length} regions, ${features.length} summits so far`);
     } catch (err) {
-      const msg = `Failed to fetch summits for ${assoc.associationCode}: ${err instanceof Error ? err.message : err}`;
+      const msg = `Failed to fetch regions for ${assoc.associationCode}: ${err instanceof Error ? err.message : err}`;
       console.warn(`  WARNING: ${msg}`);
       result.errors.push(msg);
     }

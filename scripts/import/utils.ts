@@ -25,6 +25,7 @@ export async function fetchWithRetry(
     try {
       const response = await fetch(url, {
         ...options,
+        redirect: 'follow',
         headers: {
           'User-Agent': 'xOTA-Map-Import/1.0 (https://xotamap.oeradio.at)',
           'Accept': 'application/json',

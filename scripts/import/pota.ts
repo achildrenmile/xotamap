@@ -2,9 +2,10 @@
  * POTA (Parks On The Air) reference data importer.
  *
  * Strategy:
- *   1. Fetch all park locations via /programs/locations/ (paginated by location/country)
- *   2. Or use /location/parks/{locationCode} per country
- *   3. Normalize to GeoJSON FeatureCollection
+ *   1. Fetch program/location hierarchy from /programs/locations/
+ *   2. Extract flat location list from nested programs→entities→locations
+ *   3. For each location, fetch parks from /location/parks/{descriptor}
+ *   4. Normalize to GeoJSON FeatureCollection
  *
  * API: https://api.pota.app/
  */
@@ -16,7 +17,6 @@ import {
   createFeatureCollection,
   createRateLimiter,
   isValidCoordinate,
-  parseNumber,
   logSection,
   formatCount,
 } from './utils.js';
@@ -26,11 +26,10 @@ import { join } from 'node:path';
 const BASE_URL = 'https://api.pota.app';
 const OUTPUT_DIR = join(process.cwd(), 'public/data/references');
 
-interface PotaLocation {
+interface PotaLocationEntry {
   locationId: number;
   descriptor: string;
-  locationName: string;
-  entityId?: number;
+  name: string;
   parks?: number;
 }
 
@@ -41,28 +40,42 @@ interface PotaPark {
   longitude: number;
   grid?: string;
   locationDesc?: string;
-  locationName?: string;
-  entityName?: string;
-  parktypeId?: number;
-  parktypeDesc?: string;
   activations?: number;
-  lastActivation?: string;
+  qsos?: number;
 }
 
 export async function importPota(): Promise<ImportResult> {
   logSection('POTA — Parks On The Air');
   const result: ImportResult = { program: 'pota', count: 0, errors: [], skipped: 0 };
   const features: ReferenceFeature[] = [];
-  const rateLimit = createRateLimiter(2000);
+  const rateLimit = createRateLimiter(500);
   const seenCodes = new Set<string>();
 
-  // Step 1: Fetch all program locations
+  // Step 1: Fetch program/location hierarchy
   console.log('  Fetching program locations...');
-  let locations: PotaLocation[];
+  let locationDescriptors: { descriptor: string; name: string }[];
   try {
     const res = await fetchWithRetry(`${BASE_URL}/programs/locations/`);
-    locations = await res.json() as PotaLocation[];
-    console.log(`  Found ${formatCount(locations.length)} locations`);
+    const programs = await res.json() as Array<{
+      entities?: Array<{
+        locations?: Array<{ descriptor: string; name: string; parks?: number }>;
+      }>;
+    }>;
+
+    // Flatten nested structure to get all location descriptors
+    locationDescriptors = [];
+    for (const prog of programs) {
+      for (const entity of prog.entities ?? []) {
+        for (const loc of entity.locations ?? []) {
+          // Only fetch locations that have parks
+          if ((loc.parks ?? 0) > 0) {
+            locationDescriptors.push({ descriptor: loc.descriptor, name: loc.name });
+          }
+        }
+      }
+    }
+
+    console.log(`  Found ${formatCount(locationDescriptors.length)} locations with parks`);
   } catch (err) {
     const msg = `Failed to fetch POTA locations: ${err instanceof Error ? err.message : err}`;
     console.error(`  ERROR: ${msg}`);
@@ -71,10 +84,11 @@ export async function importPota(): Promise<ImportResult> {
   }
 
   // Step 2: Fetch parks per location
-  for (const loc of locations) {
+  let processed = 0;
+  for (const loc of locationDescriptors) {
     await rateLimit();
+    processed++;
     try {
-      console.log(`  Fetching parks for ${loc.descriptor} (${loc.locationName})...`);
       const res = await fetchWithRetry(`${BASE_URL}/location/parks/${loc.descriptor}`);
       const parks = await res.json() as PotaPark[];
 
@@ -93,9 +107,13 @@ export async function importPota(): Promise<ImportResult> {
             program: 'pota',
             name: park.name,
             region: loc.descriptor,
-            lastActivation: park.lastActivation ?? undefined,
+            lastActivation: undefined,
           })
         );
+      }
+
+      if (processed % 100 === 0) {
+        console.log(`  Progress: ${processed}/${locationDescriptors.length} locations, ${formatCount(features.length)} parks`);
       }
     } catch (err) {
       const msg = `Failed to fetch parks for ${loc.descriptor}: ${err instanceof Error ? err.message : err}`;

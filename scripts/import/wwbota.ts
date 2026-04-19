@@ -26,9 +26,9 @@ const OUTPUT_DIR = join(process.cwd(), 'public/data/references');
 
 // Known WWBOTA data endpoints
 const WWBOTA_ENDPOINTS = [
-  'https://wwbota.net/api/bunkers',
-  'https://wwbota.net/api/v1/bunkers',
-  'https://api.wwbota.net/bunkers',
+  'https://api.wwbota.net/bunkers/',
+  'https://wwbota.net/api/bunkers/',
+  'https://wwbota.net/api/v1/bunkers/',
 ];
 
 interface WwbotaBunker {
@@ -43,6 +43,7 @@ interface WwbotaBunker {
   longitude?: number;
   lon?: number;
   lng?: number;
+  long?: number;
   country?: string;
   countryCode?: string;
   region?: string;
@@ -98,7 +99,7 @@ export async function importWwbota(): Promise<ImportResult> {
     const code = bunker.reference ?? bunker.ref ?? bunker.code;
     const name = bunker.name ?? bunker.bunkerName ?? bunker.title ?? '';
     const lat = bunker.latitude ?? bunker.lat;
-    const lon = bunker.longitude ?? bunker.lon ?? bunker.lng;
+    const lon = bunker.longitude ?? bunker.lon ?? bunker.lng ?? bunker.long;
 
     if (!code || lat === undefined || lon === undefined) {
       result.skipped++;

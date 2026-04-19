@@ -2,11 +2,13 @@
  * IOTA (Islands On The Air) reference data importer.
  *
  * Strategy:
- *   IOTA provides JSON downloads of all island groups and islands.
- *   Available from https://www.iota-world.org/islands-on-the-air/downloads.html
- *   No API key required.
+ *   Use GMA's IOTA endpoint which provides center coordinates per group.
+ *   Fetches per continent: EU, AF, AS, NA, SA, OC, AN.
+ *   Fallback: IOTA official groups.json with bounding boxes (compute center).
  *
- * Source: https://www.iota-world.org
+ * Sources:
+ *   - https://www.cqgma.org/gmamap/load_iota.php?continent=XX
+ *   - https://www.iota-world.org/islands-on-the-air/downloads/
  */
 
 import type { ImportResult, ReferenceFeature } from './types.js';
@@ -22,130 +24,122 @@ import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 const OUTPUT_DIR = join(process.cwd(), 'public/data/references');
+const CONTINENTS = ['EU', 'AF', 'AS', 'NA', 'SA', 'OC', 'AN'];
 
-// Known IOTA download endpoints
-const IOTA_ENDPOINTS = [
-  'https://www.iota-world.org/json/iota_groups.json',
-  'https://www.iota-world.org/json/iota_islands.json',
-  'https://www.iota-world.org/iota-downloads/iota_groups.json',
-];
-
-interface IotaGroup {
-  groupRef?: string;
-  ref?: string;
-  reference?: string;
-  groupName?: string;
-  name?: string;
-  latitude?: number;
-  lat?: number;
-  longitude?: number;
-  lon?: number;
-  lng?: number;
-  continent?: string;
-  dxcc?: string;
-  dxccEntity?: string;
-  prefix?: string;
-  midLat?: number;
-  midLon?: number;
+interface GmaIotaGroup {
+  ref: string;
+  name: string;
+  centerLat: number;
+  centerLng: number;
+  locator?: string;
 }
 
-interface IotaIsland {
-  islandRef?: string;
-  groupRef?: string;
-  name?: string;
-  latitude?: number;
-  lat?: number;
-  longitude?: number;
-  lon?: number;
-  lng?: number;
+interface OfficialIotaGroup {
+  refno: string;
+  name: string;
+  latitude_max: number;
+  latitude_min: number;
+  longitude_max: number;
+  longitude_min: number;
+  dxcc_num?: number;
+  pc_credited?: number;
 }
 
 export async function importIota(): Promise<ImportResult> {
   logSection('IOTA — Islands On The Air');
   const result: ImportResult = { program: 'iota', count: 0, errors: [], skipped: 0 };
   const features: ReferenceFeature[] = [];
+  const seenCodes = new Set<string>();
 
-  // Try to fetch IOTA group data
-  let groupData: IotaGroup[] | null = null;
+  // Strategy 1: GMA's IOTA endpoint (has center coordinates)
+  let gmaSuccess = false;
+  console.log('  Trying GMA IOTA endpoints (per continent)...');
 
-  for (const endpoint of IOTA_ENDPOINTS) {
+  for (const continent of CONTINENTS) {
     try {
-      console.log(`  Trying endpoint: ${endpoint}`);
-      const res = await fetchWithRetry(endpoint, {}, 1, 3000);
-      const data = await res.json();
+      const res = await fetchWithRetry(
+        `https://www.cqgma.org/gmamap/load_iota.php?continent=${continent}`,
+        {},
+        2,
+        2000
+      );
+      const data = await res.json() as GmaIotaGroup[];
 
       if (Array.isArray(data)) {
-        groupData = data as IotaGroup[];
-        console.log(`  Success: got ${formatCount(groupData.length)} records`);
-        break;
-      } else if (data?.groups && Array.isArray(data.groups)) {
-        groupData = data.groups as IotaGroup[];
-        console.log(`  Success: got ${formatCount(groupData.length)} groups`);
-        break;
-      } else if (data?.islands && Array.isArray(data.islands)) {
-        // Islands file — convert to group-like entries
-        const islands = data.islands as IotaIsland[];
-        console.log(`  Got ${formatCount(islands.length)} individual islands, processing...`);
+        for (const group of data) {
+          if (seenCodes.has(group.ref)) continue;
+          seenCodes.add(group.ref);
 
-        // Group by group reference, use first island's coordinates per group
-        const groupMap = new Map<string, IotaGroup>();
-        for (const island of islands) {
-          const ref = island.groupRef ?? island.islandRef;
-          if (!ref || groupMap.has(ref)) continue;
+          if (!isValidCoordinate(group.centerLng, group.centerLat)) {
+            result.skipped++;
+            continue;
+          }
 
-          const lat = island.latitude ?? island.lat;
-          const lon = island.longitude ?? island.lon ?? island.lng;
-          if (lat === undefined || lon === undefined) continue;
-
-          groupMap.set(ref, {
-            groupRef: ref,
-            groupName: island.name,
-            latitude: lat,
-            longitude: lon,
-          });
+          features.push(
+            createFeature(group.centerLng, group.centerLat, {
+              code: group.ref,
+              program: 'iota',
+              name: group.name,
+              region: continent,
+            })
+          );
         }
-        groupData = Array.from(groupMap.values());
-        console.log(`  Consolidated to ${formatCount(groupData.length)} groups`);
-        break;
+        gmaSuccess = true;
       }
     } catch (err) {
-      console.warn(`  Endpoint failed: ${err instanceof Error ? err.message : err}`);
+      console.warn(`  WARNING: GMA IOTA ${continent} failed: ${err instanceof Error ? err.message : err}`);
     }
   }
 
-  if (!groupData) {
-    const msg = 'No IOTA endpoint returned valid data. IOTA import skipped.';
+  if (gmaSuccess && features.length > 0) {
+    console.log(`  GMA endpoint: got ${formatCount(features.length)} IOTA groups`);
+  } else {
+    // Strategy 2: Official IOTA groups.json (bounding boxes → compute center)
+    console.log('  GMA failed, trying official IOTA download...');
+    try {
+      const res = await fetchWithRetry(
+        'https://www.iota-world.org/islands-on-the-air/downloads/download-file.html?path=groups.json',
+        {},
+        2,
+        5000
+      );
+      const data = await res.json() as OfficialIotaGroup[];
+
+      if (Array.isArray(data)) {
+        for (const group of data) {
+          const code = group.refno;
+          if (!code || seenCodes.has(code)) continue;
+          seenCodes.add(code);
+
+          const lat = (group.latitude_max + group.latitude_min) / 2;
+          const lon = (group.longitude_max + group.longitude_min) / 2;
+
+          if (!isValidCoordinate(lon, lat)) {
+            result.skipped++;
+            continue;
+          }
+
+          features.push(
+            createFeature(lon, lat, {
+              code,
+              program: 'iota',
+              name: group.name,
+            })
+          );
+        }
+        console.log(`  Official endpoint: got ${formatCount(features.length)} IOTA groups`);
+      }
+    } catch (err) {
+      const msg = `Failed to fetch IOTA data: ${err instanceof Error ? err.message : err}`;
+      console.warn(`  WARNING: ${msg}`);
+      result.errors.push(msg);
+    }
+  }
+
+  if (features.length === 0) {
+    const msg = 'No IOTA data could be imported from any source.';
     console.warn(`  WARNING: ${msg}`);
     result.errors.push(msg);
-    writeFileSync(join(OUTPUT_DIR, 'iota.geojson'), JSON.stringify(createFeatureCollection([])));
-    return result;
-  }
-
-  // Process groups
-  for (const group of groupData) {
-    const code = group.groupRef ?? group.ref ?? group.reference;
-    const name = group.groupName ?? group.name ?? '';
-    const lat = group.latitude ?? group.lat ?? group.midLat;
-    const lon = group.longitude ?? group.lon ?? group.lng ?? group.midLon;
-
-    if (!code || lat === undefined || lon === undefined) {
-      result.skipped++;
-      continue;
-    }
-
-    if (!isValidCoordinate(lon, lat)) {
-      result.skipped++;
-      continue;
-    }
-
-    features.push(
-      createFeature(lon, lat, {
-        code,
-        program: 'iota',
-        name,
-        region: group.continent ?? group.dxcc ?? group.dxccEntity,
-      })
-    );
   }
 
   // Write GeoJSON
