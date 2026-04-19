@@ -1,0 +1,43 @@
+[
+  {
+    "code": "OE/SB-001",
+    "program": "sota",
+    "name": "Großer Hundstod",
+    "lat": 47.1987,
+    "lon": 13.2654,
+    "elevation": 2594,
+    "points": 10
+  },
+  {
+    "code": "OE/SB-003",
+    "program": "sota",
+    "name": "Hochkönig",
+    "lat": 47.2456,
+    "lon": 13.2901,
+    "elevation": 2941,
+    "points": 10
+  },
+  {
+    "code": "OE-0098",
+    "program": "pota",
+    "name": "Nationalpark Hohe Tauern (Salzburg)",
+    "lat": 47.1000,
+    "lon": 13.2700
+  },
+  {
+    "code": "OEFF-0098",
+    "program": "wwff",
+    "name": "Nationalpark Hohe Tauern",
+    "lat": 47.1200,
+    "lon": 13.2800
+  },
+  {
+    "code": "GMA/OE-252",
+    "program": "gma",
+    "name": "Hochkönig",
+    "lat": 47.2456,
+    "lon": 13.2901,
+    "elevation": 2941,
+    "points": 8
+  }
+]

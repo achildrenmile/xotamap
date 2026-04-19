@@ -1,0 +1,14 @@
+services:
+  xotamap:
+    build: .
+    container_name: xotamap
+    ports:
+      - "127.0.0.1:3082:80"
+    restart: unless-stopped
+    environment:
+      - SITE_NAME=xOTA Map
+      - SITE_DESCRIPTION=Alle Outdoor-Amateurfunk-Programme auf einer Karte
+      - PARENT_SITE_NAME=OE Radio
+      - PARENT_SITE_URL=https://oeradio.at
+      - PARENT_SITE_LOGO=https://oeradio.at/wp-content/uploads/2026/01/oeradiologo-300x200.png
+      - APP_VERSION=dev

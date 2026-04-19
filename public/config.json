@@ -1,0 +1,8 @@
+{
+  "siteName": "xOTA Map",
+  "siteDescription": "Alle Outdoor-Amateurfunk-Programme auf einer Karte",
+  "parentSiteName": "OE Radio",
+  "parentSiteUrl": "https://oeradio.at",
+  "parentSiteLogo": "https://oeradio.at/wp-content/uploads/2026/01/oeradiologo-300x200.png",
+  "version": "dev"
+}

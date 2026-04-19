@@ -1,0 +1,1010 @@
+{
+  "programs": [
+    {
+      "id": "P01",
+      "code": "SOTA",
+      "name": "Summits On The Air",
+      "nameDE": "Summits On The Air",
+      "focus": "Mountain summits reached on foot",
+      "focusDE": "Berggipfel, zu Fuß erreicht",
+      "tier": 1,
+      "website": "https://www.sota.org.uk",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 100000,
+      "color": "#E74C3C",
+      "icon": "mountain",
+      "rules": {
+        "minQsos": 4,
+        "activationRadius": "25m vertical from summit",
+        "equipment": "All equipment must be carried on foot, no motorised access",
+        "operatingModes": ["SSB", "CW", "FM", "FT8", "Digital"],
+        "specialRequirements": "Activator must ascend the summit on foot. No vehicles allowed in the activation zone."
+      },
+      "awards": [
+        { "name": "Activator — Mountain Goat", "points": 1000, "description": "1000 activator points" },
+        { "name": "Chaser — Shack Sloth", "points": 1000, "description": "1000 chaser points" },
+        { "name": "Activator — Super Sloth", "points": 10000, "description": "10000 activator points" }
+      ],
+      "links": {
+        "website": "https://www.sota.org.uk",
+        "rules": "https://www.sota.org.uk/Joining-In/General-Rules",
+        "logUpload": "https://sotadata.org.uk",
+        "referenceSearch": "https://sotamaps.org",
+        "spotPage": "https://sotawatch.sota.org.uk"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P02",
+      "code": "POTA",
+      "name": "Parks On The Air",
+      "nameDE": "Parks On The Air",
+      "focus": "Parks and nature reserves",
+      "focusDE": "Parks und Naturschutzgebiete",
+      "tier": 1,
+      "website": "https://pota.app",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 50000,
+      "color": "#27AE60",
+      "icon": "trees",
+      "rules": {
+        "minQsos": 10,
+        "activationRadius": "Within the park boundaries",
+        "equipment": "Portable or mobile operation from within the park",
+        "operatingModes": ["SSB", "CW", "FM", "FT8", "FT4", "Digital"],
+        "specialRequirements": "Operator must be physically within park boundaries. Park-to-park (P2P) contacts count double."
+      },
+      "awards": [
+        { "name": "Activator — Bronze", "points": 50, "description": "50 activated parks" },
+        { "name": "Activator — Silver", "points": 100, "description": "100 activated parks" },
+        { "name": "Activator — Gold", "points": 250, "description": "250 activated parks" },
+        { "name": "Activator — Platinum", "points": 500, "description": "500 activated parks" },
+        { "name": "Hunter — Bronze", "points": 50, "description": "50 hunted parks" },
+        { "name": "Hunter — Silver", "points": 100, "description": "100 hunted parks" },
+        { "name": "Hunter — Gold", "points": 250, "description": "250 hunted parks" },
+        { "name": "Hunter — Platinum", "points": 500, "description": "500 hunted parks" }
+      ],
+      "links": {
+        "website": "https://pota.app",
+        "rules": "https://docs.pota.app/docs/rules.html",
+        "logUpload": "https://pota.app/#/activations/upload",
+        "referenceSearch": "https://pota.app/#/map",
+        "spotPage": "https://pota.app/#/spots"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P03",
+      "code": "WWFF",
+      "name": "World Wide Flora & Fauna",
+      "nameDE": "World Wide Flora & Fauna",
+      "focus": "Protected nature areas worldwide",
+      "focusDE": "Naturschutzgebiete weltweit (172 Länder)",
+      "tier": 1,
+      "website": "https://wwff.co",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 40700,
+      "color": "#2ECC71",
+      "icon": "flower-2",
+      "rules": {
+        "minQsos": 44,
+        "activationRadius": "Within the protected area boundaries",
+        "equipment": "Portable operation from within the protected area",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "44 QSOs required for a valid activation. Must be within official protected area boundaries."
+      },
+      "awards": [
+        { "name": "Activator Award", "points": 44, "description": "44 QSOs in one activation" },
+        { "name": "WWFF Hunter — Bronze", "points": 100, "description": "100 different WWFF references worked" },
+        { "name": "WWFF Hunter — Silver", "points": 250, "description": "250 different WWFF references worked" },
+        { "name": "WWFF Hunter — Gold", "points": 500, "description": "500 different WWFF references worked" },
+        { "name": "WWFF Hunter — Diamond", "points": 1000, "description": "1000 different WWFF references worked" }
+      ],
+      "links": {
+        "website": "https://wwff.co",
+        "rules": "https://wwff.co/rules-faq/",
+        "logUpload": "https://logsearch.wwff.co",
+        "referenceSearch": "https://wwff.co/directory/",
+        "spotPage": "https://www.cqgma.org"
+      },
+      "subPrograms": ["OEFF", "DLFF", "VKFF", "JAFF", "FFF", "ONFF"]
+    },
+    {
+      "id": "P04",
+      "code": "GMA",
+      "name": "Global Mountain Activity",
+      "nameDE": "Global Mountain Activity",
+      "focus": "All mountains and hills worldwide",
+      "focusDE": "Alle Berge und Hügel weltweit",
+      "tier": 1,
+      "website": "https://www.cqgma.org",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 150000,
+      "color": "#8B4513",
+      "icon": "mountain-snow",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Summit area",
+        "equipment": "Any portable setup",
+        "operatingModes": ["SSB", "CW", "FM", "FT8", "Digital"],
+        "specialRequirements": "No minimum QSO count for activation. Points depend on summit prominence and height."
+      },
+      "awards": [
+        { "name": "GMA Activator Awards", "points": 100, "description": "Various activator point thresholds" },
+        { "name": "GMA Chaser Awards", "points": 100, "description": "Various chaser point thresholds" },
+        { "name": "Mountain Explorer", "description": "Multiple summits activated in one trip" }
+      ],
+      "links": {
+        "website": "https://www.cqgma.org",
+        "rules": "https://www.cqgma.org/gma-rules/",
+        "logUpload": "https://www.cqgma.org",
+        "referenceSearch": "https://www.cqgma.org/gmamap/",
+        "spotPage": "https://www.cqgma.org"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P05",
+      "code": "IOTA",
+      "name": "Islands On The Air",
+      "nameDE": "Islands On The Air",
+      "focus": "Island groups worldwide",
+      "focusDE": "Inselgruppen weltweit",
+      "tier": 1,
+      "website": "https://www.iota-world.org",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 1200,
+      "color": "#3498DB",
+      "icon": "palmtree",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "On the island",
+        "equipment": "Any setup, fixed or portable",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Operator must be physically on a qualifying island. QSL card required for awards."
+      },
+      "awards": [
+        { "name": "IOTA 100 Islands", "points": 100, "description": "100 IOTA groups worked and confirmed" },
+        { "name": "IOTA 200 Islands", "points": 200, "description": "200 IOTA groups worked and confirmed" },
+        { "name": "IOTA 500 Islands", "points": 500, "description": "500 IOTA groups worked and confirmed" },
+        { "name": "IOTA 750 Islands", "points": 750, "description": "750 IOTA groups worked and confirmed" },
+        { "name": "Honour Roll", "points": 1000, "description": "Top tier of IOTA island chasers" }
+      ],
+      "links": {
+        "website": "https://www.iota-world.org",
+        "rules": "https://www.iota-world.org/islands-on-the-air/about-iota.html",
+        "logUpload": "https://www.clublog.org",
+        "referenceSearch": "https://www.iota-world.org/islands-on-the-air/downloads.html",
+        "spotPage": "https://www.iota-world.org"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P06",
+      "code": "WCA",
+      "name": "World Castles Award",
+      "nameDE": "World Castles Award",
+      "focus": "Castles, palaces, and ruins worldwide",
+      "focusDE": "Burgen, Schlösser und Ruinen weltweit",
+      "tier": 2,
+      "website": "https://wcagroup.org",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 55000,
+      "color": "#9B59B6",
+      "icon": "castle",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Within castle grounds or within sight",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Operator must be at or near the castle/fortress. Photo documentation recommended."
+      },
+      "awards": [
+        { "name": "WCA Bronze", "points": 100, "description": "100 castles worked" },
+        { "name": "WCA Silver", "points": 200, "description": "200 castles worked" },
+        { "name": "WCA Gold", "points": 500, "description": "500 castles worked" },
+        { "name": "WCA Diamond", "points": 1000, "description": "1000 castles worked" }
+      ],
+      "links": {
+        "website": "https://wcagroup.org",
+        "rules": "https://wcagroup.org/?page_id=12",
+        "logUpload": "https://wcagroup.org",
+        "referenceSearch": "https://wcagroup.org/?page_id=207"
+      },
+      "subPrograms": ["COTA"]
+    },
+    {
+      "id": "P07",
+      "code": "WWBOTA",
+      "name": "Worldwide Bunkers On The Air",
+      "nameDE": "Worldwide Bunkers On The Air",
+      "focus": "Bunkers and military installations",
+      "focusDE": "Bunker und Militäranlagen",
+      "tier": 2,
+      "website": "https://wwbota.net",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 15000,
+      "color": "#7F8C8D",
+      "icon": "shield",
+      "rules": {
+        "minQsos": 5,
+        "activationRadius": "At or near the bunker structure",
+        "equipment": "Portable operation",
+        "operatingModes": ["SSB", "CW", "FM", "FT8", "Digital"],
+        "specialRequirements": "Operator must be at or in direct proximity of the bunker. Photo documentation encouraged."
+      },
+      "awards": [
+        { "name": "BOTA Activator — Bronze", "points": 10, "description": "10 bunkers activated" },
+        { "name": "BOTA Activator — Silver", "points": 25, "description": "25 bunkers activated" },
+        { "name": "BOTA Activator — Gold", "points": 50, "description": "50 bunkers activated" },
+        { "name": "BOTA Hunter — Bronze", "points": 25, "description": "25 bunkers worked" },
+        { "name": "BOTA Hunter — Silver", "points": 50, "description": "50 bunkers worked" },
+        { "name": "BOTA Hunter — Gold", "points": 100, "description": "100 bunkers worked" }
+      ],
+      "links": {
+        "website": "https://wwbota.net",
+        "rules": "https://wwbota.net/rules",
+        "logUpload": "https://wwbota.net",
+        "referenceSearch": "https://wwbota.net/bunkers",
+        "spotPage": "https://wwbota.net/spots"
+      },
+      "subPrograms": ["OEBOTA", "DLBOTA", "UKBOTA", "USBOTA", "CABOTA", "SPBOTA", "S5BOTA", "ITABOTA", "9ABOTA"]
+    },
+    {
+      "id": "P08",
+      "code": "BOTA",
+      "name": "Beaches On The Air",
+      "nameDE": "Beaches On The Air",
+      "focus": "Beaches worldwide",
+      "focusDE": "Strände weltweit",
+      "tier": 2,
+      "website": "https://beachesontheair.com",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 30000,
+      "color": "#F39C12",
+      "icon": "waves",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "On or directly adjacent to the beach",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Operator must be on or at the beach. Photo documentation encouraged."
+      },
+      "awards": [
+        { "name": "BOTA Bronze", "points": 25, "description": "25 beaches worked or activated" },
+        { "name": "BOTA Silver", "points": 50, "description": "50 beaches worked or activated" },
+        { "name": "BOTA Gold", "points": 100, "description": "100 beaches worked or activated" }
+      ],
+      "links": {
+        "website": "https://beachesontheair.com",
+        "rules": "https://beachesontheair.com/about/",
+        "referenceSearch": "https://beachesontheair.com"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P09",
+      "code": "HEMA",
+      "name": "HuMPs Excluding Marilyns Award",
+      "nameDE": "HuMPs Excluding Marilyns Award",
+      "focus": "Summits with 100–149m prominence",
+      "focusDE": "Gipfel mit 100–149m Prominenz",
+      "tier": 2,
+      "website": "http://hema.org.uk",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 3000,
+      "color": "#A0522D",
+      "icon": "triangle",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Within 25m vertical of summit",
+        "equipment": "Portable, summit reached on foot",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Summit must have between 100m and 149m topographic prominence. Similar rules to SOTA."
+      },
+      "awards": [
+        { "name": "HEMA Activator", "points": 100, "description": "Points-based activator awards" },
+        { "name": "HEMA Chaser", "points": 100, "description": "Points-based chaser awards" }
+      ],
+      "links": {
+        "website": "http://hema.org.uk",
+        "rules": "http://hema.org.uk/index.php",
+        "referenceSearch": "http://hema.org.uk"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P10",
+      "code": "WLOTA",
+      "name": "World Lighthouse On The Air",
+      "nameDE": "World Lighthouse On The Air",
+      "focus": "Lighthouses worldwide",
+      "focusDE": "Leuchttürme weltweit",
+      "tier": 2,
+      "website": "https://wlota.com",
+      "spotSource": "none",
+      "hasReferences": true,
+      "referenceCount": 8000,
+      "color": "#F1C40F",
+      "icon": "lighthouse",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the lighthouse",
+        "equipment": "Any setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Operator must be at or in direct proximity of the lighthouse. Based on the ARLHS World List of Lights."
+      },
+      "awards": [
+        { "name": "WLOTA Bronze", "points": 100, "description": "100 lighthouses worked" },
+        { "name": "WLOTA Silver", "points": 200, "description": "200 lighthouses worked" },
+        { "name": "WLOTA Gold", "points": 500, "description": "500 lighthouses worked" }
+      ],
+      "links": {
+        "website": "https://wlota.com",
+        "rules": "https://wlota.com",
+        "referenceSearch": "https://wlol.arlhs.com"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P11",
+      "code": "ILLW",
+      "name": "International Lighthouse Lightship Weekend",
+      "nameDE": "International Lighthouse Lightship Weekend",
+      "focus": "Lighthouses and lightships (annual event)",
+      "focusDE": "Leuchttürme und Feuerschiffe (jährliches Event)",
+      "tier": 2,
+      "website": "https://illw.net",
+      "spotSource": "none",
+      "hasReferences": true,
+      "referenceCount": 500,
+      "color": "#E67E22",
+      "icon": "lamp",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the lighthouse/lightship",
+        "equipment": "Any setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Event takes place on the third full weekend of August each year. Registration required."
+      },
+      "awards": [
+        { "name": "ILLW Certificate", "description": "Certificate for participation" }
+      ],
+      "links": {
+        "website": "https://illw.net",
+        "rules": "https://illw.net/index.php/entrants-ede-pages/rules-for-entrants",
+        "referenceSearch": "https://illw.net"
+      },
+      "subPrograms": [],
+      "eventPeriod": "Third full weekend of August"
+    },
+    {
+      "id": "P12",
+      "code": "TOTA",
+      "name": "Towers On The Air",
+      "nameDE": "Towers On The Air",
+      "focus": "Observation towers and lookout towers",
+      "focusDE": "Aussichtstürme und Türme",
+      "tier": 2,
+      "website": "https://wwtota.com",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 2000,
+      "color": "#1ABC9C",
+      "icon": "tower-control",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or on the tower",
+        "equipment": "Portable operation",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Operator must be at or on the tower. Tower must be in the TOTA reference database."
+      },
+      "awards": [
+        { "name": "TOTA Activator Awards", "description": "Based on number of towers activated" },
+        { "name": "TOTA Hunter Awards", "description": "Based on number of towers worked" }
+      ],
+      "links": {
+        "website": "https://wwtota.com",
+        "rules": "https://wwtota.com",
+        "logUpload": "https://wwtota.com",
+        "referenceSearch": "https://wwtota.com"
+      },
+      "subPrograms": ["OER", "OKR", "OMR", "DLR", "SPR", "PAR"]
+    },
+    {
+      "id": "P13",
+      "code": "LLOTA",
+      "name": "Lagos y Lagunas On The Air",
+      "nameDE": "Seen und Lagunen On The Air",
+      "focus": "Lakes, lagoons, and reservoirs",
+      "focusDE": "Seen, Lagunen und Stauseen",
+      "tier": 2,
+      "website": "https://www.outnaboot.ca/llota/",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 500,
+      "color": "#2980B9",
+      "icon": "droplets",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Within 200m of the lake/lagoon shore",
+        "equipment": "Portable operation",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Operator must be within 200 metres of the water body shore."
+      },
+      "awards": [
+        { "name": "LLOTA Activator", "description": "Based on number of lakes activated" },
+        { "name": "LLOTA Hunter", "description": "Based on number of lakes worked" }
+      ],
+      "links": {
+        "website": "https://www.outnaboot.ca/llota/",
+        "rules": "https://www.outnaboot.ca/llota/",
+        "referenceSearch": "https://www.outnaboot.ca/llota/"
+      },
+      "subPrograms": []
+    },
+    {
+      "id": "P14",
+      "code": "COTA-OE",
+      "name": "Castles On The Air Österreich",
+      "nameDE": "Castles On The Air Österreich",
+      "focus": "Castles and fortresses in Austria",
+      "focusDE": "Burgen und Festungen in Österreich",
+      "tier": 2,
+      "website": "http://www.afch.at/cota/",
+      "spotSource": "none",
+      "hasReferences": true,
+      "referenceCount": 800,
+      "color": "#8E44AD",
+      "icon": "landmark",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the castle",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Castle must be in the AFCH/ÖVSV reference list. Photo documentation recommended."
+      },
+      "awards": [
+        { "name": "COTA-OE Diploma", "description": "Various diploma levels for Austrian castles worked" }
+      ],
+      "links": {
+        "website": "http://www.afch.at/cota/",
+        "rules": "http://www.afch.at/cota/",
+        "referenceSearch": "http://www.afch.at/cota/"
+      },
+      "subPrograms": [],
+      "region": "Austria"
+    },
+    {
+      "id": "P15",
+      "code": "WOTA",
+      "name": "Wainwrights On The Air",
+      "nameDE": "Wainwrights On The Air",
+      "focus": "Wainwright fells in the Lake District",
+      "focusDE": "Wainwright-Gipfel im Lake District",
+      "tier": 3,
+      "website": "https://wota.org.uk",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 544,
+      "color": "#6B8E23",
+      "icon": "footprints",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Summit area",
+        "equipment": "Portable, summit reached on foot",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Summits are the 214 Wainwrights plus additional Outlying Fells."
+      },
+      "awards": [
+        { "name": "WOTA Awards", "description": "Awards based on Wainwrights activated and chased" }
+      ],
+      "links": {
+        "website": "https://wota.org.uk",
+        "rules": "https://wota.org.uk",
+        "referenceSearch": "https://wota.org.uk"
+      },
+      "subPrograms": [],
+      "region": "UK Lake District"
+    },
+    {
+      "id": "P16",
+      "code": "SiOTA",
+      "name": "Silos On The Air",
+      "nameDE": "Silos On The Air",
+      "focus": "Grain silos in Australia",
+      "focusDE": "Getreidesilos in Australien",
+      "tier": 3,
+      "website": "https://silosontheair.com",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 700,
+      "color": "#DAA520",
+      "icon": "cylinder",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the silo",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"]
+      },
+      "awards": [
+        { "name": "SiOTA Awards", "description": "Awards for silos activated and worked" }
+      ],
+      "links": {
+        "website": "https://silosontheair.com",
+        "rules": "https://silosontheair.com",
+        "referenceSearch": "https://silosontheair.com"
+      },
+      "subPrograms": [],
+      "region": "Australia"
+    },
+    {
+      "id": "P17",
+      "code": "MOTA",
+      "name": "Mills On The Air",
+      "nameDE": "Mühlen On The Air",
+      "focus": "Mills and windmills",
+      "focusDE": "Mühlen und Windmühlen",
+      "tier": 3,
+      "website": "https://www.cqgma.org",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 500,
+      "color": "#CD853F",
+      "icon": "wind",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the mill",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Often combined with annual Mühlentag (Mill Day) events."
+      },
+      "awards": [
+        { "name": "MOTA Awards", "description": "Awards via GMA system" }
+      ],
+      "links": {
+        "website": "https://www.cqgma.org",
+        "rules": "https://www.cqgma.org",
+        "referenceSearch": "https://www.cqgma.org"
+      },
+      "subPrograms": [],
+      "region": "Germany / International"
+    },
+    {
+      "id": "P18",
+      "code": "ECA",
+      "name": "English Castles Awards",
+      "nameDE": "English Castles Awards",
+      "focus": "Castles in England",
+      "focusDE": "Burgen in England",
+      "tier": 3,
+      "website": "https://www.cqgma.org",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 1000,
+      "color": "#800020",
+      "icon": "castle",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the castle",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"]
+      },
+      "awards": [
+        { "name": "ECA Awards", "description": "Awards via GMA system for English castles" }
+      ],
+      "links": {
+        "website": "https://www.cqgma.org",
+        "rules": "https://www.cqgma.org",
+        "referenceSearch": "https://www.cqgma.org"
+      },
+      "subPrograms": [],
+      "region": "England"
+    },
+    {
+      "id": "P19",
+      "code": "ELA",
+      "name": "English Lighthouses Awards",
+      "nameDE": "English Lighthouses Awards",
+      "focus": "Lighthouses in England",
+      "focusDE": "Leuchttürme in England",
+      "tier": 3,
+      "website": "https://www.cqgma.org",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 200,
+      "color": "#FFD700",
+      "icon": "lighthouse",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the lighthouse",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"]
+      },
+      "awards": [
+        { "name": "ELA Awards", "description": "Awards via GMA system for English lighthouses" }
+      ],
+      "links": {
+        "website": "https://www.cqgma.org",
+        "rules": "https://www.cqgma.org",
+        "referenceSearch": "https://www.cqgma.org"
+      },
+      "subPrograms": [],
+      "region": "England"
+    },
+    {
+      "id": "P20",
+      "code": "ZLOTA",
+      "name": "ZL On The Air",
+      "nameDE": "ZL On The Air",
+      "focus": "Various reference types in New Zealand",
+      "focusDE": "Verschiedene Referenzen in Neuseeland",
+      "tier": 3,
+      "website": "https://ontheair.nz",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 1500,
+      "color": "#006400",
+      "icon": "map-pin",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the reference",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"]
+      },
+      "awards": [
+        { "name": "ZLOTA Awards", "description": "Awards for New Zealand references activated and worked" }
+      ],
+      "links": {
+        "website": "https://ontheair.nz",
+        "rules": "https://ontheair.nz",
+        "logUpload": "https://ontheair.nz",
+        "referenceSearch": "https://ontheair.nz"
+      },
+      "subPrograms": [],
+      "region": "New Zealand"
+    },
+    {
+      "id": "P21",
+      "code": "ROTA",
+      "name": "Railways On The Air",
+      "nameDE": "Railways On The Air",
+      "focus": "Heritage railways and railway stations",
+      "focusDE": "Museumseisenbahnen und Bahnhöfe",
+      "tier": 3,
+      "website": "https://rfrg.org.uk",
+      "spotSource": "none",
+      "hasReferences": true,
+      "referenceCount": 150,
+      "color": "#4A4A4A",
+      "icon": "train-front",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the railway/station",
+        "equipment": "Any setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Typically held as an annual event weekend."
+      },
+      "awards": [
+        { "name": "ROTA Certificate", "description": "Certificate for participation" }
+      ],
+      "links": {
+        "website": "https://rfrg.org.uk",
+        "rules": "https://rfrg.org.uk"
+      },
+      "subPrograms": [],
+      "region": "UK / International"
+    },
+    {
+      "id": "P22",
+      "code": "KRMNPA",
+      "name": "Keith Roget Memorial National Parks Award",
+      "nameDE": "Keith Roget Memorial National Parks Award",
+      "focus": "National parks in VK (Australia)",
+      "focusDE": "Nationalparks in VK (Australien)",
+      "tier": 3,
+      "website": "https://parksnpeaks.org",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 800,
+      "color": "#228B22",
+      "icon": "trees",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Within the national park",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"]
+      },
+      "awards": [
+        { "name": "KRMNPA Awards", "description": "Awards for Australian national parks worked" }
+      ],
+      "links": {
+        "website": "https://parksnpeaks.org",
+        "rules": "https://parksnpeaks.org",
+        "referenceSearch": "https://parksnpeaks.org"
+      },
+      "subPrograms": [],
+      "region": "Australia"
+    },
+    {
+      "id": "P23",
+      "code": "HOTA",
+      "name": "Heritage On The Air",
+      "nameDE": "Heritage On The Air",
+      "focus": "Heritage sites in South Africa",
+      "focusDE": "Historische Stätten in Südafrika",
+      "tier": 3,
+      "website": "https://heritageontheair.co.za",
+      "spotSource": "none",
+      "hasReferences": true,
+      "referenceCount": 300,
+      "color": "#B8860B",
+      "icon": "building-2",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or near the heritage site",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"]
+      },
+      "awards": [
+        { "name": "HOTA Awards", "description": "Awards for heritage sites activated and worked" }
+      ],
+      "links": {
+        "website": "https://heritageontheair.co.za",
+        "rules": "https://heritageontheair.co.za",
+        "referenceSearch": "https://heritageontheair.co.za"
+      },
+      "subPrograms": [],
+      "region": "South Africa"
+    },
+    {
+      "id": "P24",
+      "code": "HOTA-UK",
+      "name": "Houses On The Air",
+      "nameDE": "Houses On The Air",
+      "focus": "Residential addresses with fixed locations",
+      "focusDE": "Wohnhäuser mit fester Adresse",
+      "tier": 3,
+      "website": "https://hota.org.uk",
+      "spotSource": "none",
+      "hasReferences": true,
+      "referenceCount": 5000,
+      "color": "#DC143C",
+      "icon": "home",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At the registered house address",
+        "equipment": "Any setup from the house location",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"]
+      },
+      "awards": [
+        { "name": "HOTA-UK Awards", "description": "Awards for houses activated and worked" }
+      ],
+      "links": {
+        "website": "https://hota.org.uk",
+        "rules": "https://hota.org.uk",
+        "referenceSearch": "https://hota.org.uk"
+      },
+      "subPrograms": [],
+      "region": "UK / International"
+    },
+    {
+      "id": "P25",
+      "code": "WAB",
+      "name": "Worked All Britain",
+      "nameDE": "Worked All Britain",
+      "focus": "British OS grid squares",
+      "focusDE": "Britische Ordnance-Survey-Kartenquadrate",
+      "tier": 3,
+      "website": "https://wab.org.uk",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 10000,
+      "color": "#4169E1",
+      "icon": "grid-3x3",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Within the OS grid square",
+        "equipment": "Any setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Based on Ordnance Survey 10km grid squares."
+      },
+      "awards": [
+        { "name": "WAB Award", "description": "Awards for collecting British grid squares" }
+      ],
+      "links": {
+        "website": "https://wab.org.uk",
+        "rules": "https://wab.org.uk",
+        "referenceSearch": "https://wab.org.uk"
+      },
+      "subPrograms": [],
+      "region": "United Kingdom"
+    },
+    {
+      "id": "P26",
+      "code": "WAI",
+      "name": "Worked All Ireland",
+      "nameDE": "Worked All Ireland",
+      "focus": "Irish grid squares",
+      "focusDE": "Irische Kartenquadrate",
+      "tier": 3,
+      "website": "https://www.qsl.net/ei2ip/wai.htm",
+      "spotSource": "spothole",
+      "hasReferences": true,
+      "referenceCount": 400,
+      "color": "#008000",
+      "icon": "grid-3x3",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "Within the grid square",
+        "equipment": "Any setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Based on Irish Grid reference squares."
+      },
+      "awards": [
+        { "name": "WAI Award", "description": "Awards for collecting Irish grid squares" }
+      ],
+      "links": {
+        "website": "https://www.qsl.net/ei2ip/wai.htm",
+        "rules": "https://www.qsl.net/ei2ip/wai.htm"
+      },
+      "subPrograms": [],
+      "region": "Ireland"
+    },
+    {
+      "id": "P27",
+      "code": "JOTA",
+      "name": "Jamboree On The Air",
+      "nameDE": "Jamboree On The Air",
+      "focus": "Scouting and amateur radio (annual event)",
+      "focusDE": "Pfadfinder und Amateurfunk (jährliches Event)",
+      "tier": 4,
+      "website": "https://www.jotajoti.info",
+      "spotSource": "none",
+      "hasReferences": false,
+      "color": "#6A0DAD",
+      "icon": "tent",
+      "rules": {
+        "minQsos": 1,
+        "equipment": "Any setup at a scout group station",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Annual event on the third full weekend of October. Organised by WOSM (World Organization of the Scout Movement)."
+      },
+      "awards": [
+        { "name": "JOTA Certificate", "description": "Participation certificate" }
+      ],
+      "links": {
+        "website": "https://www.jotajoti.info",
+        "rules": "https://www.jotajoti.info/jota"
+      },
+      "subPrograms": [],
+      "eventPeriod": "Third full weekend of October"
+    },
+    {
+      "id": "P28",
+      "code": "KOTA",
+      "name": "Kids On The Air",
+      "nameDE": "Kids On The Air",
+      "focus": "Children aged 10–15 in amateur radio",
+      "focusDE": "Kinder von 10–15 Jahren im Amateurfunk",
+      "tier": 4,
+      "website": "https://www.hamradio.cz/kota/",
+      "spotSource": "none",
+      "hasReferences": false,
+      "color": "#FF69B4",
+      "icon": "baby",
+      "rules": {
+        "minQsos": 1,
+        "equipment": "Supervised station at youth camps",
+        "operatingModes": ["SSB", "CW", "FM"],
+        "specialRequirements": "Participants are children aged 10–15. Supervised by licensed operators."
+      },
+      "awards": [
+        { "name": "KOTA Certificate", "description": "Participation certificate for young operators" }
+      ],
+      "links": {
+        "website": "https://www.hamradio.cz/kota/",
+        "rules": "https://www.hamradio.cz/kota/"
+      },
+      "subPrograms": [],
+      "eventPeriod": "Youth camps (various dates)"
+    },
+    {
+      "id": "P29",
+      "code": "YOTA",
+      "name": "Youngsters On The Air",
+      "nameDE": "Youngsters On The Air",
+      "focus": "Youth operators under 26",
+      "focusDE": "Jugendliche Funkamateure unter 26",
+      "tier": 4,
+      "website": "https://ham-yota.com",
+      "spotSource": "none",
+      "hasReferences": false,
+      "color": "#00CED1",
+      "icon": "users",
+      "rules": {
+        "minQsos": 1,
+        "equipment": "Any setup",
+        "operatingModes": ["SSB", "CW", "FM", "FT8", "Digital"],
+        "specialRequirements": "Participants must be under 26 years old. Annual YOTA Month in December with special callsigns."
+      },
+      "awards": [
+        { "name": "YOTA Award", "description": "Awards for working YOTA stations during December event" }
+      ],
+      "links": {
+        "website": "https://ham-yota.com",
+        "rules": "https://ham-yota.com/yota-month/"
+      },
+      "subPrograms": [],
+      "eventPeriod": "December (YOTA Month)"
+    },
+    {
+      "id": "P30",
+      "code": "GOTA",
+      "name": "Get On The Air",
+      "nameDE": "Get On The Air",
+      "focus": "Newcomer stations at Field Day",
+      "focusDE": "Newcomer-Stationen beim Field Day",
+      "tier": 4,
+      "website": "https://www.arrl.org/field-day",
+      "spotSource": "none",
+      "hasReferences": false,
+      "color": "#FF4500",
+      "icon": "radio",
+      "rules": {
+        "minQsos": 1,
+        "equipment": "Supervised station at Field Day events",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "GOTA station at ARRL Field Day for unlicensed or newly licensed operators. Supervised by a licensed control operator."
+      },
+      "awards": [
+        { "name": "GOTA Bonus Points", "description": "Bonus points in Field Day scoring" }
+      ],
+      "links": {
+        "website": "https://www.arrl.org/field-day",
+        "rules": "https://www.arrl.org/field-day"
+      },
+      "subPrograms": [],
+      "eventPeriod": "Fourth full weekend of June (ARRL Field Day)"
+    },
+    {
+      "id": "P31",
+      "code": "CHOTA",
+      "name": "Churches & Chapels On The Air",
+      "nameDE": "Churches & Chapels On The Air",
+      "focus": "Churches and chapels (annual event)",
+      "focusDE": "Kirchen und Kapellen (jährliches Event)",
+      "tier": 4,
+      "website": "https://www.wacral.org",
+      "spotSource": "none",
+      "hasReferences": false,
+      "color": "#C71585",
+      "icon": "church",
+      "rules": {
+        "minQsos": 1,
+        "activationRadius": "At or in the church/chapel",
+        "equipment": "Any portable or mobile setup",
+        "operatingModes": ["SSB", "CW", "FM", "Digital"],
+        "specialRequirements": "Annual event in September organised by WACRAL (World Association of Christian Radio Amateurs and Listeners)."
+      },
+      "awards": [
+        { "name": "CHOTA Certificate", "description": "Certificate for participation in the annual event" }
+      ],
+      "links": {
+        "website": "https://www.wacral.org",
+        "rules": "https://www.wacral.org/chota/"
+      },
+      "subPrograms": [],
+      "eventPeriod": "Second Saturday of September"
+    }
+  ]
+}

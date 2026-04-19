@@ -1,0 +1,16 @@
+{
+  "name": "xOTA Map",
+  "short_name": "xOTA Map",
+  "description": "Alle Outdoor-Amateurfunk-Programme auf einer Karte",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#0891b2",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

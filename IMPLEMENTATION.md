@@ -9,16 +9,16 @@
 
 ## Übersicht: 8 Epics, 42 Tasks
 
-| Epic | Tasks | Beschreibung |
-|------|-------|-------------|
-| E1 | T01–T06 | Projekt-Scaffolding & Infrastruktur |
-| E2 | T07–T12 | Shared Components & Layout (bandblick-Pattern) |
-| E3 | T13–T19 | Interaktive Karte (MapLibre + PMTiles) |
-| E4 | T20–T24 | Programm-Enzyklopädie |
-| E5 | T25–T29 | Echtzeit-Spots (Spothole) |
-| E6 | T30–T34 | Multi-Programm-Erkennung |
-| E7 | T35–T39 | Feld-Logging & ADIF-Export |
-| E8 | T40–T42 | Build-Pipeline & Deployment |
+| Epic | Tasks | Beschreibung | Model |
+|------|-------|-------------|-------|
+| E1 | T01–T06 | Projekt-Scaffolding & Infrastruktur | Sonnet (T04: Opus) |
+| E2 | T07–T12 | Shared Components & Layout (bandblick-Pattern) | Sonnet |
+| E3 | T13–T19 | Interaktive Karte (MapLibre + PMTiles) | Opus (T15,T18,T19: Sonnet) |
+| E4 | T20–T24 | Programm-Enzyklopädie | Opus (T22,T23: Sonnet) |
+| E5 | T25–T29 | Echtzeit-Spots (Spothole) | Sonnet (T25: Opus) |
+| E6 | T30–T34 | Multi-Programm-Erkennung | Opus (T32,T33: Sonnet) |
+| E7 | T35–T39 | Feld-Logging & ADIF-Export | Sonnet (T38: Opus) |
+| E8 | T40–T42 | Build-Pipeline & Deployment | Opus |
 
 Abhängigkeiten:
 
@@ -34,7 +34,7 @@ E8 parallel zu E3–E7
 
 ## E1 — Projekt-Scaffolding & Infrastruktur
 
-### T01 — Vite + React + TypeScript Projekt initialisieren
+### T01 — Vite + React + TypeScript Projekt initialisieren `🟢 Sonnet`
 
 **Req:** Technischer Stack
 **Beschreibung:** Projekt mit `npm create vite@latest` aufsetzen. React 18, TypeScript strict, ESLint.
@@ -59,7 +59,7 @@ E8 parallel zu E3–E7
 
 ---
 
-### T02 — Tailwind CSS konfigurieren
+### T02 — Tailwind CSS konfigurieren `🟢 Sonnet`
 
 **Req:** N5.6 (Dark/Light Theme), N5.1 (Mobile-first)
 **Beschreibung:** Tailwind 3 mit `class`-basiertem Dark Mode. Eigene Farbpalette für xOTA Map.
@@ -80,7 +80,7 @@ E8 parallel zu E3–E7
 
 ---
 
-### T03 — React Router Setup
+### T03 — React Router Setup `🟢 Sonnet`
 
 **Req:** F1 (Enzyklopädie), F2 (Karte), F5 (Spots), F6 (Logging)
 **Beschreibung:** Client-seitiges Routing mit react-router-dom v6. SPA mit nginx fallback.
@@ -114,7 +114,7 @@ E8 parallel zu E3–E7
 
 ---
 
-### T04 — Docker-Infrastruktur
+### T04 — Docker-Infrastruktur `🔵 Opus`
 
 **Req:** N6.11 (Runtime Config), Deploy-Pattern
 **Beschreibung:** Dockerfile (Multi-Stage), nginx.conf, docker-entrypoint.sh, docker-compose.yml — identisch zu bandblick-Pattern.
@@ -159,7 +159,7 @@ location ~* \.pmtiles$ {
 
 ---
 
-### T05 — Deploy-Script
+### T05 — Deploy-Script `🟢 Sonnet`
 
 **Req:** Deploy-Pattern (wie bandblick)
 **Beschreibung:** `deploy-production.sh` — git pull auf Synology → docker build → docker run.
@@ -177,7 +177,7 @@ location ~* \.pmtiles$ {
 
 ---
 
-### T06 — Public Config & Favicon
+### T06 — Public Config & Favicon `🟢 Sonnet`
 
 **Req:** N6.11, N6.12
 **Beschreibung:** Dev-Fallback `config.json`, Favicon, PWA manifest.
@@ -201,7 +201,7 @@ location ~* \.pmtiles$ {
 
 ## E2 — Shared Components & Layout
 
-### T07 — useConfig Hook
+### T07 — useConfig Hook `🟢 Sonnet`
 
 **Req:** N6.11, N6.12, N6.17
 **Beschreibung:** Hook der `/config.json` lädt und cached. Identisch zu bandblick.
@@ -232,7 +232,7 @@ interface AppConfig {
 
 ---
 
-### T08 — i18n System (4 Sprachen)
+### T08 — i18n System (4 Sprachen) `🟢 Sonnet`
 
 **Req:** F1.7, N5.5
 **Beschreibung:** i18n mit Context-Provider, 4 Sprachen (DE, EN, IT, SL). Pattern von bandblick erweitert.
@@ -258,7 +258,7 @@ interface AppConfig {
 
 ---
 
-### T09 — ThemeToggle Component
+### T09 — ThemeToggle Component `🟢 Sonnet`
 
 **Req:** N5.6
 **Beschreibung:** Dark/Light/Auto Toggle. Identisch zu bandblick.
@@ -277,7 +277,7 @@ interface AppConfig {
 
 ---
 
-### T10 — ParentSiteLogo & LanguageSelector
+### T10 — ParentSiteLogo & LanguageSelector `🟢 Sonnet`
 
 **Req:** N6.1, N6.3, N6.16
 **Beschreibung:** Logo-Component + Sprachauswahl (4 Sprachen). Identisch zu bandblick, erweitert um IT/SL.
@@ -298,7 +298,7 @@ interface AppConfig {
 
 ---
 
-### T11 — LegalModal (Impressum/Datenschutz)
+### T11 — LegalModal (Impressum/Datenschutz) `🟢 Sonnet`
 
 **Req:** N6.6, N6.7, N6.14
 **Beschreibung:** Modal für Impressum und Datenschutz. Identisch zu bandblick.
@@ -321,7 +321,7 @@ interface AppConfig {
 
 ---
 
-### T12 — App Layout (Header + Footer + Navigation)
+### T12 — App Layout (Header + Footer + Navigation) `🟢 Sonnet`
 
 **Req:** N6.1–N6.10
 **Beschreibung:** Haupt-Layout mit Header (Logo, Titel, Nav, Sprache, Theme), Footer (Version, Impressum, Datenschutz, GitHub), und Navigation zwischen Seiten.
@@ -361,7 +361,7 @@ xOTA Map v0.1.0 • Ein Tool von OE Radio • Impressum | Datenschutz | GitHub
 
 ## E3 — Interaktive Karte
 
-### T13 — MapLibre GL JS Integration
+### T13 — MapLibre GL JS Integration `🔵 Opus`
 
 **Req:** F2.1, F2.3
 **Beschreibung:** MapLibre GL JS mit OpenFreeMap Basemap via nginx Proxy.
@@ -401,7 +401,7 @@ const style = {
 
 ---
 
-### T14 — PMTiles Loader
+### T14 — PMTiles Loader `🔵 Opus`
 
 **Req:** F2.28, N1.3
 **Beschreibung:** PMTiles-Protokoll in MapLibre integrieren. Referenzen als Vektor-Tiles laden per HTTP Range Requests.
@@ -425,7 +425,7 @@ const style = {
 
 ---
 
-### T15 — Layer Switcher (Programm-Overlays)
+### T15 — Layer Switcher (Programm-Overlays) `🟢 Sonnet`
 
 **Req:** F2.4
 **Beschreibung:** Sidebar mit Checkbox-Liste zum Ein/Ausschalten der Referenz-Layer.
@@ -448,7 +448,7 @@ const style = {
 
 ---
 
-### T16 — Referenz-Popup (Klick auf Marker)
+### T16 — Referenz-Popup (Klick auf Marker) `🔵 Opus`
 
 **Req:** F2.16, F2.17, F2.18
 **Beschreibung:** Klick auf Referenz-Marker → Popup mit Details + Multi-Programm-Badge.
@@ -480,7 +480,7 @@ Letzte Aktivierung: 2025-08-12
 
 ---
 
-### T17 — Clustering (Performance)
+### T17 — Clustering (Performance) `🔵 Opus`
 
 **Req:** F2.26, F2.27, N1.3
 **Beschreibung:** Clustering bei niedrigem Zoom-Level. 200.000+ Referenzen ohne Ruckeln.
@@ -501,7 +501,7 @@ Letzte Aktivierung: 2025-08-12
 
 ---
 
-### T18 — Eigener Standort (GPS)
+### T18 — Eigener Standort (GPS) `🟢 Sonnet`
 
 **Req:** F2.25
 **Beschreibung:** GPS-Position des Users auf Karte anzeigen.
@@ -523,7 +523,7 @@ Letzte Aktivierung: 2025-08-12
 
 ---
 
-### T19 — Basemap-Stil-Wechsel
+### T19 — Basemap-Stil-Wechsel `🟢 Sonnet`
 
 **Req:** F2.2
 **Beschreibung:** Verschiedene Basemap-Stile wählbar (Standard, Topo, Satellit falls verfügbar).
@@ -545,7 +545,7 @@ Letzte Aktivierung: 2025-08-12
 
 ## E4 — Programm-Enzyklopädie
 
-### T20 — Programm-Datenmodell & Typedefs
+### T20 — Programm-Datenmodell & Typedefs `🔵 Opus`
 
 **Req:** F1, 3.2 (Erweiterbarkeit)
 **Beschreibung:** TypeScript Types für alle Programme. JSON-Schema für Programm-Metadaten.
@@ -589,7 +589,7 @@ interface Program {
 
 ---
 
-### T21 — Enzyklopädie-Inhalte generieren (4 Sprachen)
+### T21 — Enzyklopädie-Inhalte generieren (4 Sprachen) `🔵 Opus`
 
 **Req:** F1.2, F1.3, F1.4, F1.7, F1.8, F1.9
 **Beschreibung:** Markdown-Artikel für alle 31 Programme in DE/EN/IT/SL. Enthält: Beschreibung, Geschichte, Regeln, Awards, Getting Started, OE-spezifische Hinweise.
@@ -646,7 +646,7 @@ interface Program {
 
 ---
 
-### T22 — Markdown Renderer
+### T22 — Markdown Renderer `🟢 Sonnet`
 
 **Req:** F1.2
 **Beschreibung:** Markdown-Artikel im Browser rendern. Links müssen klickbar sein!
@@ -671,7 +671,7 @@ interface Program {
 
 ---
 
-### T23 — Programm-Übersichtsseite
+### T23 — Programm-Übersichtsseite `🟢 Sonnet`
 
 **Req:** F1.1, F1.5
 **Beschreibung:** `/encyclopedia` — Alle Programme als Karten mit Filter und Suche.
@@ -697,7 +697,7 @@ interface Program {
 
 ---
 
-### T24 — Programm-Detailseite
+### T24 — Programm-Detailseite `🔵 Opus`
 
 **Req:** F1.2–F1.9
 **Beschreibung:** `/encyclopedia/:id` — Vollständiger Artikel mit Regeln, Awards, Links.
@@ -726,7 +726,7 @@ interface Program {
 
 ## E5 — Echtzeit-Spots
 
-### T25 — Spothole API Client
+### T25 — Spothole API Client `🔵 Opus`
 
 **Req:** F5.1
 **Beschreibung:** Service für Spothole API. Typed Response, Error Handling.
@@ -765,7 +765,7 @@ interface Spot {
 
 ---
 
-### T26 — Spot Poller (Auto-Refresh)
+### T26 — Spot Poller (Auto-Refresh) `🟢 Sonnet`
 
 **Req:** F2.21, N1.4
 **Beschreibung:** Polling-Mechanismus: Spots alle 60s aktualisieren. Pausiert wenn Tab nicht aktiv.
@@ -787,7 +787,7 @@ interface Spot {
 
 ---
 
-### T27 — Spot-Tabelle (Listenansicht)
+### T27 — Spot-Tabelle (Listenansicht) `🟢 Sonnet`
 
 **Req:** F5.2
 **Beschreibung:** `/spots` — Tabellarische Ansicht aller aktuellen Spots.
@@ -814,7 +814,7 @@ interface Spot {
 
 ---
 
-### T28 — Spot-Filter
+### T28 — Spot-Filter `🟢 Sonnet`
 
 **Req:** F5.4, F2.22
 **Beschreibung:** Filter für Spots: Programm, Band, Mode, Alter.
@@ -839,7 +839,7 @@ interface Spot {
 
 ---
 
-### T29 — Spots auf Karte
+### T29 — Spots auf Karte `🟢 Sonnet`
 
 **Req:** F2.19, F2.20, F5.3
 **Beschreibung:** Live-Spots als animierte Marker auf der Hauptkarte.
@@ -865,7 +865,7 @@ interface Spot {
 
 ## E6 — Multi-Programm-Erkennung
 
-### T30 — Overlap-Grid Loader
+### T30 — Overlap-Grid Loader `🟢 Sonnet`
 
 **Req:** F3.2
 **Beschreibung:** Vorberechnete Überlappungs-Daten laden. Grid-Dateien per Fetch.
@@ -885,7 +885,7 @@ interface Spot {
 
 ---
 
-### T31 — Multi-Programm-Erkennung (Client-seitig)
+### T31 — Multi-Programm-Erkennung (Client-seitig) `🔵 Opus`
 
 **Req:** F3.1, F3.2, F3.3
 **Beschreibung:** Standort eingeben → alle zutreffenden Programme anzeigen.
@@ -910,7 +910,7 @@ interface Spot {
 
 ---
 
-### T32 — "Was gilt hier?" Panel
+### T32 — "Was gilt hier?" Panel `🟢 Sonnet`
 
 **Req:** F3.3, F3.4
 **Beschreibung:** Interaktives Panel das bei Kartenklick die Multi-Programm-Erkennung zeigt.
@@ -933,7 +933,7 @@ interface Spot {
 
 ---
 
-### T33 — Nächste Referenzen (optional)
+### T33 — Nächste Referenzen (optional) `🟢 Sonnet`
 
 **Req:** F3.5
 **Beschreibung:** "Nächste Referenzen in X km" für Programme die am aktuellen Standort nicht gelten.
@@ -952,7 +952,7 @@ interface Spot {
 
 ---
 
-### T34 — Standort-Suche (Geocoding)
+### T34 — Standort-Suche (Geocoding) `🔵 Opus`
 
 **Req:** F3.1
 **Beschreibung:** Adresse oder Ortsname eingeben → Koordinaten → Multi-Programm-Erkennung.
@@ -977,7 +977,7 @@ interface Spot {
 
 ## E7 — Feld-Logging & ADIF-Export
 
-### T35 — IndexedDB Schema (Dexie.js)
+### T35 — IndexedDB Schema (Dexie.js) `🟢 Sonnet`
 
 **Req:** F6.4
 **Beschreibung:** Dexie.js Schema für QSOs, Aktivierungen, Settings.
@@ -1029,7 +1029,7 @@ interface Activation {
 
 ---
 
-### T36 — QSO-Formular
+### T36 — QSO-Formular `🟢 Sonnet`
 
 **Req:** F6.1, F6.2
 **Beschreibung:** Einfaches Log-Formular im Feld.
@@ -1063,7 +1063,7 @@ interface Activation {
 
 ---
 
-### T37 — QSO-Tabelle (aktuelle Aktivierung)
+### T37 — QSO-Tabelle (aktuelle Aktivierung) `🟢 Sonnet`
 
 **Req:** F6.3
 **Beschreibung:** QSOs der aktuellen Aktivierung als Tabelle.
@@ -1087,7 +1087,7 @@ interface Activation {
 
 ---
 
-### T38 — ADIF-Export
+### T38 — ADIF-Export `🔵 Opus`
 
 **Req:** F7.1, F7.2, F7.4
 **Beschreibung:** ADIF 3.x Export aller QSOs einer Aktivierung.
@@ -1128,7 +1128,7 @@ interface Activation {
 
 ---
 
-### T39 — Wavelog-Hinweis & Permanenz-Warnung
+### T39 — Wavelog-Hinweis & Permanenz-Warnung `🟢 Sonnet`
 
 **Req:** F6.5, F6.6
 **Beschreibung:** Prominenter Hinweis dass Daten nur lokal sind + Link zu Wavelog.
@@ -1153,7 +1153,7 @@ interface Activation {
 
 ## E8 — Build-Pipeline & Deployment
 
-### T40 — Referenz-Daten Import Scripts
+### T40 — Referenz-Daten Import Scripts `🔵 Opus`
 
 **Req:** 6.3 (Build-Pipeline)
 **Beschreibung:** Scripts zum Abrufen und Normalisieren von Referenz-Daten aus allen APIs.
@@ -1184,7 +1184,7 @@ interface Activation {
 
 ---
 
-### T41 — PMTiles Build (tippecanoe)
+### T41 — PMTiles Build (tippecanoe) `🔵 Opus`
 
 **Req:** F2.28, 6.3
 **Beschreibung:** GeoJSON → PMTiles Konvertierung mit tippecanoe.
@@ -1207,7 +1207,7 @@ interface Activation {
 
 ---
 
-### T42 — GitHub Actions CI/CD
+### T42 — GitHub Actions CI/CD `🔵 Opus`
 
 **Req:** 6.3 (Build-Pipeline)
 **Beschreibung:** GitHub Actions Workflow: wöchentlicher Daten-Import + Build + Deploy.
@@ -1317,8 +1317,21 @@ Map + PMTiles + Layer-Switching + Clustering + Spots + Multi-Programm = Kernfeat
 
 ---
 
-## Offene Frage
+## Model-Zuordnung
 
-| # | Frage | Status |
-|---|-------|--------|
-| 1 | GitHub Repo: eigenes Repo `xotamap` oder Subfolder in `oeradioat`? | Offen |
+| Model | Tasks | Anteil |
+|-------|-------|--------|
+| 🟢 **Sonnet** | T01, T02, T03, T05, T06, T07, T08, T09, T10, T11, T12, T15, T18, T19, T22, T23, T26, T27, T28, T29, T30, T32, T33, T35, T36, T37, T39 | 27/42 (64%) |
+| 🔵 **Opus** | T04, T13, T14, T16, T17, T20, T21, T24, T25, T31, T34, T38, T40, T41, T42 | 15/42 (36%) |
+
+**Opus für:** MapLibre+Proxy config, PMTiles integration, clustering performance, encyclopedia content (124 articles, factual accuracy), multi-program geo algorithm, ADIF spec compliance, API import scripts (5+ different APIs), CI/CD pipeline.
+
+**Sonnet für:** Scaffolding, UI components, standard React patterns, CRUD, forms, tables, filters, hooks.
+
+---
+
+## Gelöste Fragen
+
+| # | Frage | Entscheidung |
+|---|-------|-------------|
+| 1 | GitHub Repo | Eigenes Repo: [github.com/achildrenmile/xotamap](https://github.com/achildrenmile/xotamap) |

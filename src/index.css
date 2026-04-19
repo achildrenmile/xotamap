@@ -1,0 +1,196 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Dark mode color scheme hint for browser chrome */
+.dark {
+  color-scheme: dark;
+}
+
+/* Custom scrollbar for dark mode */
+.dark ::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: #1f2937;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #4b5563;
+  border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #6b7280;
+}
+
+/* Light mode scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Smooth transitions for theme changes */
+* {
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+/* Focus styles */
+*:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* ── Reference Popup (T16) ── */
+.xota-reference-popup .maplibregl-popup-content {
+  padding: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  background: #ffffff;
+  color: #1f2937;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.dark .xota-reference-popup .maplibregl-popup-content {
+  background: #1f2937;
+  color: #e5e7eb;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.xota-reference-popup .maplibregl-popup-close-button {
+  font-size: 18px;
+  padding: 4px 8px;
+  color: #6b7280;
+  right: 2px;
+  top: 2px;
+}
+
+.xota-reference-popup .maplibregl-popup-close-button:hover {
+  color: #1f2937;
+  background: transparent;
+}
+
+.dark .xota-reference-popup .maplibregl-popup-close-button {
+  color: #9ca3af;
+}
+
+.dark .xota-reference-popup .maplibregl-popup-close-button:hover {
+  color: #e5e7eb;
+}
+
+.xota-reference-popup .maplibregl-popup-tip {
+  border-top-color: #ffffff;
+}
+
+.dark .xota-reference-popup .maplibregl-popup-tip {
+  border-top-color: #1f2937;
+}
+
+.xota-popup {
+  padding: 10px 12px;
+  min-width: 200px;
+}
+
+.xota-popup-title {
+  font-weight: 600;
+  font-size: 14px;
+  padding-right: 16px;
+  color: #111827;
+}
+
+.dark .xota-popup-title {
+  color: #f3f4f6;
+}
+
+.xota-popup-separator {
+  height: 1px;
+  background: #e5e7eb;
+  margin: 8px 0;
+}
+
+.dark .xota-popup-separator {
+  background: #374151;
+}
+
+.xota-popup-details {
+  margin-bottom: 8px;
+}
+
+.xota-popup-row {
+  margin-bottom: 2px;
+}
+
+.xota-popup-label {
+  color: #6b7280;
+  font-size: 12px;
+}
+
+.dark .xota-popup-label {
+  color: #9ca3af;
+}
+
+.xota-popup-links {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  padding-top: 4px;
+  border-top: 1px solid #f3f4f6;
+}
+
+.dark .xota-popup-links {
+  border-top-color: #374151;
+}
+
+.xota-popup-link {
+  color: #3b82f6;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.xota-popup-link:hover {
+  text-decoration: underline;
+  color: #2563eb;
+}
+
+.dark .xota-popup-link {
+  color: #60a5fa;
+}
+
+.dark .xota-popup-link:hover {
+  color: #93bbfd;
+}
