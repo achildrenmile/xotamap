@@ -33,9 +33,17 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
   // Add source and layer on mount, remove on unmount
   useEffect(() => {
     if (!map) return;
+    let cancelled = false;
 
-    // Wait for map style to load before adding sources
-    function addLayer() {
+    // Check if PMTiles file exists before adding source (avoids 404 console noise)
+    async function checkAndAddLayer() {
+      try {
+        const res = await fetch(`/data/references/${program}.pmtiles`, { method: 'HEAD' });
+        if (!res.ok || cancelled) return;
+      } catch {
+        return; // File doesn't exist or network error — skip silently
+      }
+
       if (map.getSource(src)) return;
 
       map.addSource(src, getPMTilesSource(program));
@@ -47,8 +55,6 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
         'source-layer': program,
         paint: {
           'circle-color': color,
-          // Opacity increases with zoom — at low zoom, overlapping dots
-          // naturally form a "cluster" visual effect
           'circle-opacity': [
             'interpolate',
             ['linear'],
@@ -58,25 +64,23 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
             10, 0.8,
             14, 0.9,
           ],
-          // Radius scales with zoom for visual hierarchy
           'circle-radius': [
             'interpolate',
             ['linear'],
             ['zoom'],
-            3, 1.5,   // very small at continent level
-            6, 3,     // small dots at country level
-            8, 5,     // medium at regional level
-            10, 7,    // larger at local level
-            12, 10,   // big dots at detail level
-            16, 14,   // full size
+            3, 1.5,
+            6, 3,
+            8, 5,
+            10, 7,
+            12, 10,
+            16, 14,
           ],
-          // Stroke provides contrast at higher zoom levels
           'circle-stroke-color': '#ffffff',
           'circle-stroke-width': [
             'interpolate',
             ['linear'],
             ['zoom'],
-            3, 0,     // no stroke at low zoom (too cluttered)
+            3, 0,
             8, 0.5,
             10, 1,
             14, 1.5,
@@ -89,7 +93,6 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
             8, 0.5,
             12, 0.8,
           ],
-          // Slight blur at low zoom for a softer cluster look
           'circle-blur': [
             'interpolate',
             ['linear'],
@@ -106,14 +109,13 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
     }
 
     if (map.isStyleLoaded()) {
-      addLayer();
+      checkAndAddLayer();
     } else {
-      map.on('load', addLayer);
+      map.on('load', () => { if (!cancelled) checkAndAddLayer(); });
     }
 
     return () => {
-      // eslint-disable-next-line react-hooks/exhaustive-deps
-      map.off('load', addLayer);
+      cancelled = true;
       try {
         if (map.getLayer(lyr)) map.removeLayer(lyr);
         if (map.getSource(src)) map.removeSource(src);
