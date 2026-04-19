@@ -33,17 +33,8 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
   // Add source and layer on mount, remove on unmount
   useEffect(() => {
     if (!map) return;
-    let cancelled = false;
 
-    // Check if PMTiles file exists before adding source (avoids 404 console noise)
-    async function checkAndAddLayer() {
-      try {
-        const res = await fetch(`/data/references/${program}.pmtiles`, { method: 'HEAD' });
-        if (!res.ok || cancelled) return;
-      } catch {
-        return; // File doesn't exist or network error — skip silently
-      }
-
+    function addLayer() {
       if (map.getSource(src)) return;
 
       map.addSource(src, getPMTilesSource(program));
@@ -109,13 +100,14 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
     }
 
     if (map.isStyleLoaded()) {
-      checkAndAddLayer();
+      addLayer();
     } else {
-      map.on('load', () => { if (!cancelled) checkAndAddLayer(); });
+      map.on('load', addLayer);
     }
 
     return () => {
-      cancelled = true;
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+      map.off('load', addLayer);
       try {
         if (map.getLayer(lyr)) map.removeLayer(lyr);
         if (map.getSource(src)) map.removeSource(src);
