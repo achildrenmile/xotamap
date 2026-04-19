@@ -7,8 +7,8 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
-DEPLOY_HOST="root@host-node-01"
-REMOTE_DIR="/opt/xotamap"
+DEPLOY_HOST="achildrenmile@host-node-01"
+REMOTE_DIR="/home/achildrenmile/xotamap"
 CONTAINER_NAME="xotamap"
 IMAGE_NAME="xotamap:latest"
 CONTAINER_PORT="127.0.0.1:3082:80"
