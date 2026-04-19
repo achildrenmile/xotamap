@@ -1,91 +1,119 @@
 export interface ImprintContent {
   title: string;
-  publisherLabel: string;
-  publisherName: string;
-  zvrLabel: string;
-  zvrNumber: string;
+  infoLabel: string;
+  providerLabel: string;
+  providerName: string;
+  addressLines: string[];
   emailLabel: string;
   email: string;
   webLabel: string;
   web: string;
   webUrl: string;
+  directionTitle: string;
+  directionText: string;
   liabilityTitle: string;
   liabilityText: string;
   copyrightTitle: string;
   copyrightText: string;
+  linksTitle: string;
+  linksText: string;
 }
 
 export const impressum: Record<string, ImprintContent> = {
   de: {
     title: 'Impressum',
-    publisherLabel: 'Medieninhaber und Herausgeber',
-    publisherName: 'Verein der Freunde von OE Radio',
-    zvrLabel: 'ZVR-Zahl',
-    zvrNumber: '1510891498',
+    infoLabel: 'Information gem. § 5 ECG und Offenlegung gem. § 25 MedG',
+    providerLabel: 'Diensteanbieter',
+    providerName: 'Michael Linder',
+    addressLines: ['Nötsch 219', '9611 Nötsch im Gailtal'],
     emailLabel: 'E-Mail',
     email: 'kontakt@oeradio.at',
     webLabel: 'Web',
     web: 'oeradio.at',
     webUrl: 'https://oeradio.at',
+    directionTitle: 'Grundlegende Richtung',
+    directionText:
+      'xOTA Map ist ein Community-Tool von oeradio.at — einem unabhängigen Informationsmedium für Funkamateure und am Amateurfunk Interessierte.',
     liabilityTitle: 'Haftungsausschluss',
     liabilityText:
-      'Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.',
+      'Sämtliche Texte auf der Website werden sorgfältig geprüft. Dessenungeachtet kann keine Garantie für die Richtigkeit, Vollständigkeit und Aktualität der Angaben übernommen werden.',
     copyrightTitle: 'Urheberrecht',
     copyrightText:
-      'Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem österreichischen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.',
+      'Sämtliche Texte, Grafiken und Bilder sind urheberrechtlich geschützt, eine Verwendung ist nur mit ausdrücklicher Genehmigung des Erstellers zulässig. Bei Fragen zum Urheberrecht wenden Sie sich bitte an kontakt@oeradio.at.',
+    linksTitle: 'Links',
+    linksText:
+      'Links auf diese Website sind erwünscht. Der Herausgeber identifiziert sich nicht mit dem Inhalt der Seiten, auf die gelinkt wird, und übernimmt dafür keine Haftung.',
   },
   en: {
-    title: 'Imprint',
-    publisherLabel: 'Publisher and Editor',
-    publisherName: 'Verein der Freunde von OE Radio',
-    zvrLabel: 'Association Registration Number',
-    zvrNumber: '1510891498',
+    title: 'Legal Notice',
+    infoLabel: 'Information pursuant to § 5 ECG and disclosure pursuant to § 25 MedG',
+    providerLabel: 'Service Provider',
+    providerName: 'Michael Linder',
+    addressLines: ['Nötsch 219', '9611 Nötsch im Gailtal', 'Austria'],
     emailLabel: 'Email',
     email: 'kontakt@oeradio.at',
     webLabel: 'Web',
     web: 'oeradio.at',
     webUrl: 'https://oeradio.at',
+    directionTitle: 'Editorial Direction',
+    directionText:
+      'xOTA Map is a community tool by oeradio.at — an independent information platform for amateur radio operators and those interested in amateur radio.',
     liabilityTitle: 'Liability Disclaimer',
     liabilityText:
-      'The contents of this website have been compiled with the greatest care. However, no guarantee can be given for the accuracy, completeness and topicality of the contents. As a service provider, we are responsible for our own content on these pages in accordance with general laws.',
+      'All texts on this website are carefully reviewed. Nevertheless, no guarantee can be given for the accuracy, completeness and timeliness of the information.',
     copyrightTitle: 'Copyright',
     copyrightText:
-      'The content and works on these pages created by the site operators are subject to Austrian copyright law. Contributions from third parties are marked as such. Reproduction, editing, distribution and any kind of use beyond the limits of copyright law require the written consent of the respective author or creator.',
+      'All texts, graphics and images are protected by copyright. Use is only permitted with the express permission of the creator. For copyright questions, please contact kontakt@oeradio.at.',
+    linksTitle: 'Links',
+    linksText:
+      'Links to this website are welcome. The publisher does not identify with the content of linked pages and assumes no liability for them.',
   },
   it: {
     title: 'Note legali',
-    publisherLabel: 'Editore e Redazione',
-    publisherName: 'Verein der Freunde von OE Radio',
-    zvrLabel: 'Numero di registrazione associazione',
-    zvrNumber: '1510891498',
+    infoLabel: 'Informazioni ai sensi del § 5 ECG e divulgazione ai sensi del § 25 MedG',
+    providerLabel: 'Fornitore del servizio',
+    providerName: 'Michael Linder',
+    addressLines: ['Nötsch 219', '9611 Nötsch im Gailtal', 'Austria'],
     emailLabel: 'E-mail',
     email: 'kontakt@oeradio.at',
     webLabel: 'Web',
     web: 'oeradio.at',
     webUrl: 'https://oeradio.at',
+    directionTitle: 'Orientamento editoriale',
+    directionText:
+      'xOTA Map è uno strumento comunitario di oeradio.at — una piattaforma informativa indipendente per radioamatori e interessati alla radio amatoriale.',
     liabilityTitle: 'Esclusione di responsabilità',
     liabilityText:
-      'I contenuti di questo sito web sono stati redatti con la massima cura. Tuttavia, non è possibile garantire la correttezza, la completezza e l\'attualità dei contenuti. In quanto fornitore di servizi, siamo responsabili dei nostri contenuti su queste pagine in conformità con le leggi generali.',
+      'Tutti i testi su questo sito web sono attentamente verificati. Tuttavia, non è possibile garantire la correttezza, la completezza e l\'attualità delle informazioni.',
     copyrightTitle: 'Diritto d\'autore',
     copyrightText:
-      'I contenuti e le opere su queste pagine creati dagli operatori del sito sono soggetti alla legge austriaca sul diritto d\'autore. I contributi di terzi sono contrassegnati come tali. La riproduzione, la modifica, la distribuzione e qualsiasi tipo di utilizzo al di là dei limiti del diritto d\'autore richiedono il consenso scritto del rispettivo autore o creatore.',
+      'Tutti i testi, la grafica e le immagini sono protetti dal diritto d\'autore. L\'uso è consentito solo con l\'espresso consenso del creatore. Per domande sul diritto d\'autore, contattare kontakt@oeradio.at.',
+    linksTitle: 'Link',
+    linksText:
+      'I link a questo sito web sono benvenuti. L\'editore non si identifica con il contenuto delle pagine collegate e non si assume alcuna responsabilità per esse.',
   },
   sl: {
     title: 'Impressum',
-    publisherLabel: 'Lastnik medija in izdajatelj',
-    publisherName: 'Verein der Freunde von OE Radio',
-    zvrLabel: 'Številka v registru združenj',
-    zvrNumber: '1510891498',
+    infoLabel: 'Informacije v skladu s § 5 ECG in razkritje v skladu s § 25 MedG',
+    providerLabel: 'Ponudnik storitev',
+    providerName: 'Michael Linder',
+    addressLines: ['Nötsch 219', '9611 Nötsch im Gailtal', 'Avstrija'],
     emailLabel: 'E-pošta',
     email: 'kontakt@oeradio.at',
     webLabel: 'Splet',
     web: 'oeradio.at',
     webUrl: 'https://oeradio.at',
+    directionTitle: 'Osnovna usmeritev',
+    directionText:
+      'xOTA Map je skupnostno orodje oeradio.at — neodvisne informacijske platforme za radioamaterje in zainteresirane za radioamaterstvo.',
     liabilityTitle: 'Omejitev odgovornosti',
     liabilityText:
-      'Vsebina tega spletnega mesta je bila sestavljena z največjo skrbnostjo. Vendar pa ni mogoče jamčiti za točnost, popolnost in aktualnost vsebine. Kot ponudnik storitev smo odgovorni za lastno vsebino na teh straneh v skladu s splošnimi zakoni.',
+      'Vsa besedila na tej spletni strani so skrbno preverjena. Kljub temu ni mogoče jamčiti za točnost, popolnost in aktualnost informacij.',
     copyrightTitle: 'Avtorske pravice',
     copyrightText:
-      'Vsebina in dela na teh straneh, ki so jih ustvarili upravljavci spletnega mesta, so predmet avstrijskega zakona o avtorskih pravicah. Prispevki tretjih oseb so kot takšni označeni. Reprodukcija, urejanje, distribucija in kakršna koli uporaba zunaj meja zakona o avtorskih pravicah zahtevata pisno soglasje zadevnega avtorja ali ustvarjalca.',
+      'Vsa besedila, grafika in slike so zaščiteni z avtorskimi pravicami. Uporaba je dovoljena samo z izrecnim dovoljenjem ustvarjalca. Za vprašanja o avtorskih pravicah se obrnite na kontakt@oeradio.at.',
+    linksTitle: 'Povezave',
+    linksText:
+      'Povezave na to spletno stran so dobrodošle. Izdajatelj se ne identificira z vsebino povezanih strani in zanje ne prevzema nobene odgovornosti.',
   },
 };

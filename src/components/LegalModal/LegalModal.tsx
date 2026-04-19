@@ -62,16 +62,18 @@ function ImprintContent({ language }: { language: string }) {
 
   return (
     <div className="space-y-6 text-gray-700 dark:text-gray-300">
+      <p className="text-sm font-medium">{content.infoLabel}</p>
+
       <section>
         <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-3">
-          {content.publisherLabel}
+          {content.providerLabel}
         </h3>
         <div className="space-y-1">
-          <p className="font-medium">{content.publisherName}</p>
-          <p>
-            {content.zvrLabel}: {content.zvrNumber}
-          </p>
-          <p>
+          <p className="font-medium">{content.providerName}</p>
+          {content.addressLines.map((line, i) => (
+            <p key={i}>{line}</p>
+          ))}
+          <p className="mt-2">
             {content.emailLabel}:{' '}
             <a
               href={`mailto:${content.email}`}
@@ -96,6 +98,13 @@ function ImprintContent({ language }: { language: string }) {
 
       <section>
         <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">
+          {content.directionTitle}
+        </h3>
+        <p className="text-sm leading-relaxed">{content.directionText}</p>
+      </section>
+
+      <section>
+        <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">
           {content.liabilityTitle}
         </h3>
         <p className="text-sm leading-relaxed">{content.liabilityText}</p>
@@ -107,6 +116,13 @@ function ImprintContent({ language }: { language: string }) {
         </h3>
         <p className="text-sm leading-relaxed">{content.copyrightText}</p>
       </section>
+
+      <section>
+        <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">
+          {content.linksTitle}
+        </h3>
+        <p className="text-sm leading-relaxed">{content.linksText}</p>
+      </section>
     </div>
   );
 }
@@ -116,6 +132,38 @@ function PrivacyContent({ language }: { language: string }) {
 
   return (
     <div className="space-y-6 text-gray-700 dark:text-gray-300">
+      <p className="text-xs text-gray-500 dark:text-gray-400">{content.date}</p>
+
+      <section>
+        <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">
+          {content.responsibleTitle}
+        </h3>
+        <div className="text-sm space-y-0.5">
+          <p className="font-medium">{content.responsibleName}</p>
+          {content.responsibleAddress.map((line, i) => (
+            <p key={i}>{line}</p>
+          ))}
+          <p className="mt-1">
+            <a
+              href={`mailto:${content.responsibleEmail}`}
+              className="text-blue-600 dark:text-blue-400 hover:underline"
+            >
+              {content.responsibleEmail}
+            </a>
+          </p>
+          <p>
+            <a
+              href={content.responsibleImprintUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 dark:text-blue-400 hover:underline"
+            >
+              {content.responsibleImprintLabel}
+            </a>
+          </p>
+        </div>
+      </section>
+
       <p className="leading-relaxed">{content.intro}</p>
 
       <section>
@@ -164,6 +212,20 @@ function PrivacyContent({ language }: { language: string }) {
             </li>
           ))}
         </ul>
+      </section>
+
+      <section>
+        <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">
+          {content.hostingTitle}
+        </h3>
+        <p className="text-sm leading-relaxed">{content.hostingText}</p>
+      </section>
+
+      <section>
+        <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">
+          {content.rightsTitle}
+        </h3>
+        <p className="text-sm leading-relaxed">{content.rightsText}</p>
       </section>
 
       <section>
