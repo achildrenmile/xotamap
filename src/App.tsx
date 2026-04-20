@@ -10,7 +10,7 @@ function AppLayout() {
   const [legalModal, setLegalModal] = useState<'imprint' | 'privacy' | null>(null);
 
   return (
-    <div className="min-h-screen bg-gray-100 dark:bg-gray-900 transition-colors flex flex-col">
+    <div className="h-full bg-gray-100 dark:bg-gray-900 transition-colors flex flex-col">
       <Header />
 
       {/* Page content — add bottom padding on mobile to clear the bottom tab bar */}
