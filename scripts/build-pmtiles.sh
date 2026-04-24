@@ -30,6 +30,7 @@ for geojson in "${DATA_DIR}"/*.geojson; do
     --minimum-zoom=2 \
     --no-tile-size-limit \
     --no-feature-limit \
+    --drop-rate=1 \
     --force \
     "$geojson"
 
