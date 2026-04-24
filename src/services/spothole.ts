@@ -22,7 +22,9 @@ import type { Spot, SpotFilters, SigRef } from '@/types/spot';
 // Configuration
 // ---------------------------------------------------------------------------
 
-const SPOTHOLE_BASE_URL = 'https://spothole.app/api/v1';
+const SPOTHOLE_BASE_URL = import.meta.env.DEV
+  ? 'https://spothole.app/api/v1'
+  : '/api/spothole';
 const REQUEST_TIMEOUT_MS = 10_000;
 const MIN_REQUEST_INTERVAL_MS = 60_000; // Rate limit: 1 request per minute
 
