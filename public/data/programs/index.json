@@ -142,7 +142,7 @@
             "tier": 1,
             "website": "https://wwff.co",
             "spotSource": "spothole",
-            "hasReferences": false,
+            "hasReferences": true,
             "referenceCount": 40700,
             "color": "#2ECC71",
             "icon": "flower-2",
@@ -325,7 +325,7 @@
             "tier": 2,
             "website": "https://wcagroup.org",
             "spotSource": "spothole",
-            "hasReferences": false,
+            "hasReferences": true,
             "referenceCount": 55000,
             "color": "#9B59B6",
             "icon": "castle",
@@ -556,7 +556,7 @@
             "tier": 2,
             "website": "https://wlota.com",
             "spotSource": "none",
-            "hasReferences": false,
+            "hasReferences": true,
             "referenceCount": 8000,
             "color": "#F1C40F",
             "icon": "lighthouse",
@@ -606,7 +606,7 @@
             "tier": 2,
             "website": "https://illw.net",
             "spotSource": "none",
-            "hasReferences": false,
+            "hasReferences": true,
             "referenceCount": 500,
             "color": "#E67E22",
             "icon": "lamp",
@@ -1427,6 +1427,35 @@
             },
             "subPrograms": [],
             "eventPeriod": "Second Saturday of September"
+        },
+        {
+            "id": "P32",
+            "code": "ARLHS",
+            "name": "Amateur Radio Lighthouse Society",
+            "nameDE": "Amateur Radio Lighthouse Society",
+            "focus": "Lighthouses worldwide",
+            "focusDE": "Leuchttürme weltweit",
+            "tier": 2,
+            "website": "https://arlhs.com",
+            "spotSource": "spothole",
+            "hasReferences": true,
+            "referenceCount": 12630,
+            "color": "#F39C12",
+            "icon": "lighthouse",
+            "rules": {
+                "minQsos": 1,
+                "activationRadius": "At or near the lighthouse",
+                "equipment": "Portable or fixed station",
+                "operatingModes": [
+                    "SSB",
+                    "CW",
+                    "FM",
+                    "Digital"
+                ],
+                "specialRequirements": "Operate from a lighthouse listed in the ARLHS World List of Lights"
+            },
+            "awards": [],
+            "scoring": {}
         }
     ]
 }

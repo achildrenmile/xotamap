@@ -16,6 +16,11 @@ import { importPota } from './pota.js';
 import { importGma } from './gma.js';
 import { importWwbota } from './wwbota.js';
 import { importIota } from './iota.js';
+import { importWwff } from './wwff.js';
+import { importWca } from './wca.js';
+import { importWlota } from './wlota.js';
+import { importIllw } from './illw.js';
+import { importArlhs } from './arlhs.js';
 import { normalizeAll } from './normalize.js';
 import { formatCount } from './utils.js';
 
@@ -24,9 +29,9 @@ const OUTPUT_DIR = join(process.cwd(), 'public/data/references');
 async function main(): Promise<void> {
   const startTime = Date.now();
 
-  console.log('╔══════════════════════════════════════════════════════════╗');
+  console.log('╔════��═════════════════════════════════════════════════════╗');
   console.log('║       xOTA Map — Reference Data Import Pipeline        ║');
-  console.log('╚══════════════════════════════════════════════════════════╝');
+  console.log('╚═════���════════════════════════════���═══════════════════════╝');
   console.log(`\nStarted at: ${new Date().toISOString()}`);
 
   // Ensure output directory exists
@@ -41,9 +46,14 @@ async function main(): Promise<void> {
   const importers: Array<{ name: string; fn: () => Promise<ImportResult> }> = [
     { name: 'SOTA', fn: importSota },
     { name: 'POTA', fn: importPota },
+    { name: 'WWFF', fn: importWwff },
     { name: 'GMA', fn: importGma },
-    { name: 'WWBOTA', fn: importWwbota },
     { name: 'IOTA', fn: importIota },
+    { name: 'WCA', fn: importWca },
+    { name: 'WWBOTA', fn: importWwbota },
+    { name: 'WLOTA', fn: importWlota },
+    { name: 'ILLW', fn: importIllw },
+    { name: 'ARLHS', fn: importArlhs },
   ];
 
   for (const importer of importers) {
@@ -70,9 +80,9 @@ async function main(): Promise<void> {
   const totalErrors = results.reduce((sum, r) => sum + r.errors.length, 0);
   const totalSkipped = results.reduce((sum, r) => sum + r.skipped, 0);
 
-  console.log('\n╔══════════════════════════════════════════════════════════╗');
+  console.log('\n╔═��═════════════════════════════════��══════════════════════╗');
   console.log('║                    Import Summary                       ║');
-  console.log('╠══════════════════════════════════════════════════════════╣');
+  console.log('╠═════════════════════���════════════════════════════════���═══╣');
   console.log('║ Program     │ References │ Skipped │ Errors             ║');
   console.log('╠─────────────┼────────────┼─────────┼────────────────────╣');
 
@@ -81,16 +91,16 @@ async function main(): Promise<void> {
     const count = formatCount(r.count).padStart(10);
     const skip = formatCount(r.skipped).padStart(7);
     const errs = formatCount(r.errors.length).padStart(6);
-    console.log(`║ ${prog} │ ${count} │ ${skip} │ ${errs}              ║`);
+    console.log(`��� ${prog} │ ${count} │ ${skip} │ ${errs}              ║`);
   }
 
-  console.log('╠─────────────┼────────────┼─────────┼────────────────────╣');
+  console.log('╠─────────────┼────────────┼────��────┼─────────────────���──╣');
   const totalProg = 'TOTAL'.padEnd(11);
   const totalCount = formatCount(totalFeatures).padStart(10);
   const totalSkip = formatCount(totalSkipped).padStart(7);
   const totalErrs = formatCount(totalErrors).padStart(6);
   console.log(`║ ${totalProg} │ ${totalCount} │ ${totalSkip} │ ${totalErrs}              ║`);
-  console.log('╚══════════════════════════════════════════════════════════╝');
+  console.log('╚════════════════════════════════════════════��═════════════╝');
   console.log(`\nCompleted in ${elapsed}s`);
 
   // Exit with error code if all importers failed

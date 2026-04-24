@@ -10,5 +10,5 @@ services:
       - SITE_DESCRIPTION=Alle Outdoor-Amateurfunk-Programme auf einer Karte
       - PARENT_SITE_NAME=OE Radio
       - PARENT_SITE_URL=https://oeradio.at
-      - PARENT_SITE_LOGO=https://oeradio.at/wp-content/uploads/2026/01/oeradiologo-300x200.png
+      - PARENT_SITE_LOGO=https://oeradio.at/wp-content/uploads/2026/01/oeradiologo.webp
       - APP_VERSION=dev

@@ -2,7 +2,7 @@ import type { Translations } from './translations';
 
 export const en: Translations = {
   // App
-  appTitle: 'xOTA Map',
+  appTitle: 'xOTA Map (Beta)',
   appSubtitle: 'Multi-Program xOTA Activations Map',
   footerText: 'xOTA Map • Multi-Program Activations',
 

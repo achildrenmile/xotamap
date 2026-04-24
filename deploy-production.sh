@@ -66,7 +66,7 @@ ssh "$DEPLOY_HOST" "
         -e SITE_DESCRIPTION='Alle Outdoor-Amateurfunk-Programme auf einer Karte' \
         -e PARENT_SITE_NAME='OE Radio' \
         -e PARENT_SITE_URL='https://oeradio.at' \
-        -e PARENT_SITE_LOGO='https://oeradio.at/wp-content/uploads/2026/01/oeradiologo-300x200.png' \
+        -e PARENT_SITE_LOGO='https://oeradio.at/wp-content/uploads/2026/01/oeradiologo.webp' \
         -e APP_VERSION='$APP_VERSION' \
         --health-cmd='wget --no-verbose --tries=1 --spider http://localhost:80/ || exit 1' \
         --health-interval=30s \
