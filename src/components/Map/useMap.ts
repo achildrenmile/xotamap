@@ -42,6 +42,7 @@ export function useMap(
         center: initialView.center,
         zoom: initialView.zoom,
         transformRequest,
+        attributionControl: false,
       });
 
       // Navigation controls (zoom +/-, compass)
