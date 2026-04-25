@@ -77,7 +77,7 @@ export function BasemapSelector({
         title={t.basemap}
         aria-label={t.basemap}
         aria-expanded={open}
-        className={`flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg border border-gray-200 bg-white/95 shadow-md backdrop-blur-sm text-sm font-medium text-gray-700 hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-900/95 dark:text-gray-200 dark:hover:bg-gray-800 transition-colors ${switching ? 'opacity-60 cursor-wait' : ''}`}
+        className={`flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg border border-gray-200 bg-white/95 shadow-md backdrop-blur-sm text-sm font-medium text-gray-700 hover:bg-gray-50 transition-colors ${switching ? 'opacity-60 cursor-wait' : ''}`}
       >
         <span aria-hidden="true">{activeOption?.icon ?? '🗺️'}</span>
         <span className="hidden sm:inline">{t.basemap}</span>
@@ -100,7 +100,7 @@ export function BasemapSelector({
 
       {/* Dropdown */}
       {open && (
-        <div className="absolute bottom-full mb-2 left-0 min-w-[9rem] rounded-xl border border-gray-200 bg-white/98 shadow-xl backdrop-blur-sm dark:border-gray-700 dark:bg-gray-900/98 overflow-hidden z-10">
+        <div className="absolute bottom-full mb-2 left-0 min-w-[9rem] rounded-xl border border-gray-200 bg-white/98 shadow-xl backdrop-blur-sm overflow-hidden z-10">
           {BASEMAP_OPTIONS.map((option) => (
             <button
               key={option.id}
@@ -109,8 +109,8 @@ export function BasemapSelector({
               className={`w-full flex items-center gap-2 px-3 py-2 text-sm text-left transition-colors
                 ${
                   activeStyle === option.id
-                    ? 'bg-blue-50 text-blue-700 font-medium dark:bg-blue-900/30 dark:text-blue-300'
-                    : 'text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-800'
+                    ? 'bg-blue-50 text-blue-700 font-medium'
+                    : 'text-gray-700 hover:bg-gray-50'
                 }`}
             >
               <span aria-hidden="true">{option.icon}</span>

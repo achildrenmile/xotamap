@@ -18,7 +18,7 @@ interface LayerSwitcherProps {
 
 /**
  * Sidebar panel with checkboxes to toggle reference layers per program.
- * Collapses on mobile via a toggle button.
+ * Always uses light styling since the map basemap is always light.
  */
 export function LayerSwitcher({
   programs,
@@ -33,16 +33,16 @@ export function LayerSwitcher({
   const withRefs = programs.filter((p) => p.hasReferences);
 
   return (
-    <div className="pointer-events-auto flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm dark:border-gray-700 dark:bg-gray-900/95 w-56 max-h-[calc(100vh-8rem)] overflow-hidden">
+    <div className="pointer-events-auto flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm w-56 max-h-[calc(100vh-8rem)] overflow-hidden">
       {/* Header */}
-      <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 dark:border-gray-700 flex-shrink-0">
-        <span className="text-sm font-semibold text-gray-800 dark:text-gray-100">
+      <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 flex-shrink-0">
+        <span className="text-sm font-semibold text-gray-800">
           {t.layerSwitcher}
         </span>
         <button
           type="button"
           onClick={() => setOpen((v) => !v)}
-          className="ml-2 p-1 rounded text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-100 transition-colors"
+          className="ml-2 p-1 rounded text-gray-500 hover:text-gray-800 transition-colors"
           aria-label={open ? t.hideAllLayers : t.showAllLayers}
           aria-expanded={open}
         >
@@ -66,18 +66,18 @@ export function LayerSwitcher({
       {open && (
         <>
           {/* All-on / All-off buttons */}
-          <div className="flex gap-1 px-3 py-2 border-b border-gray-100 dark:border-gray-800 flex-shrink-0">
+          <div className="flex gap-1 px-3 py-2 border-b border-gray-100 flex-shrink-0">
             <button
               type="button"
               onClick={onShowAll}
-              className="flex-1 text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-colors"
+              className="flex-1 text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 text-gray-700 transition-colors"
             >
               {t.showAllLayers}
             </button>
             <button
               type="button"
               onClick={onHideAll}
-              className="flex-1 text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-colors"
+              className="flex-1 text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 text-gray-700 transition-colors"
             >
               {t.hideAllLayers}
             </button>
@@ -88,23 +88,20 @@ export function LayerSwitcher({
             {withRefs.map((program) => (
               <label
                 key={program.code}
-                className="flex items-center gap-2 px-3 py-1.5 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-800/60 transition-colors"
+                className="flex items-center gap-2 px-3 py-1.5 cursor-pointer hover:bg-gray-50 transition-colors"
               >
-                {/* Color dot */}
                 <span
                   className="inline-block w-3 h-3 rounded-full flex-shrink-0 border border-white/30 shadow-sm"
                   style={{ backgroundColor: program.color }}
                   aria-hidden="true"
                 />
-                {/* Checkbox */}
                 <input
                   type="checkbox"
                   checked={visibility[program.code] ?? false}
                   onChange={() => onToggle(program.code)}
                   className="w-3.5 h-3.5 rounded border-gray-300 text-blue-600 focus:ring-blue-500 flex-shrink-0"
                 />
-                {/* Program code */}
-                <span className="text-xs text-gray-700 dark:text-gray-300 truncate leading-tight">
+                <span className="text-xs text-gray-700 truncate leading-tight">
                   {program.code}
                 </span>
               </label>

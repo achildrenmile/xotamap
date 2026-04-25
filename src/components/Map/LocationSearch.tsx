@@ -125,7 +125,7 @@ export function LocationSearch({ map, onLocationSelected }: LocationSearchProps)
   return (
     <div ref={containerRef} className="pointer-events-auto relative w-64">
       {/* Input row */}
-      <div className="flex items-center gap-1 px-2 py-1.5 rounded-lg border border-gray-200 bg-white/95 shadow-md backdrop-blur-sm dark:border-gray-700 dark:bg-gray-900/95">
+      <div className="flex items-center gap-1 px-2 py-1.5 rounded-lg border border-gray-200 bg-white/95 shadow-md backdrop-blur-sm">
         {/* Search icon */}
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -137,7 +137,7 @@ export function LocationSearch({ map, onLocationSelected }: LocationSearchProps)
           strokeWidth="2"
           strokeLinecap="round"
           strokeLinejoin="round"
-          className="flex-shrink-0 text-gray-400 dark:text-gray-500"
+          className="flex-shrink-0 text-gray-400"
           aria-hidden="true"
         >
           <circle cx="11" cy="11" r="8" />
@@ -152,7 +152,7 @@ export function LocationSearch({ map, onLocationSelected }: LocationSearchProps)
           onKeyDown={handleKeyDown}
           onFocus={() => { if (results.length > 0) setOpen(true); }}
           placeholder={t.searchLocationPlaceholder}
-          className="flex-1 bg-transparent text-xs text-gray-800 dark:text-gray-200 placeholder-gray-400 dark:placeholder-gray-500 focus:outline-none min-w-0"
+          className="flex-1 bg-transparent text-xs text-gray-800 placeholder-gray-400 focus:outline-none min-w-0"
           aria-label={t.searchLocation}
           autoComplete="off"
           autoCorrect="off"
@@ -162,7 +162,7 @@ export function LocationSearch({ map, onLocationSelected }: LocationSearchProps)
         {/* Spinner / clear button */}
         {searching ? (
           <svg
-            className="animate-spin h-3.5 w-3.5 flex-shrink-0 text-gray-400 dark:text-gray-500"
+            className="animate-spin h-3.5 w-3.5 flex-shrink-0 text-gray-400"
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
@@ -175,7 +175,7 @@ export function LocationSearch({ map, onLocationSelected }: LocationSearchProps)
           <button
             type="button"
             onClick={handleClear}
-            className="flex-shrink-0 p-0.5 rounded text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 transition-colors"
+            className="flex-shrink-0 p-0.5 rounded text-gray-400 hover:text-gray-600 transition-colors"
             aria-label={t.clearSearch}
           >
             <svg
@@ -198,19 +198,19 @@ export function LocationSearch({ map, onLocationSelected }: LocationSearchProps)
 
       {/* Dropdown results */}
       {open && results.length > 0 && (
-        <div className="absolute top-full left-0 right-0 mt-1 rounded-lg border border-gray-200 bg-white/98 shadow-lg backdrop-blur-sm dark:border-gray-700 dark:bg-gray-900/98 overflow-hidden z-50">
+        <div className="absolute top-full left-0 right-0 mt-1 rounded-lg border border-gray-200 bg-white/98 shadow-lg backdrop-blur-sm overflow-hidden z-50">
           {results.map((result, idx) => (
             <button
               key={idx}
               type="button"
               onClick={() => handleSelect(result)}
-              className="w-full px-3 py-2 text-left hover:bg-gray-50 dark:hover:bg-gray-800/60 transition-colors border-b border-gray-100 dark:border-gray-800 last:border-b-0"
+              className="w-full px-3 py-2 text-left hover:bg-gray-50 transition-colors border-b border-gray-100 last:border-b-0"
             >
-              <div className="text-xs text-gray-800 dark:text-gray-200 line-clamp-2 leading-tight">
+              <div className="text-xs text-gray-800 line-clamp-2 leading-tight">
                 {result.displayName}
               </div>
               {result.type && (
-                <div className="text-[10px] text-gray-400 dark:text-gray-500 mt-0.5 capitalize">
+                <div className="text-[10px] text-gray-400 mt-0.5 capitalize">
                   {result.type}
                 </div>
               )}

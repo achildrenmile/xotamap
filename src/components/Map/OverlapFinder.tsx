@@ -160,16 +160,16 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
   if (!visible || !selectedPoint) return null;
 
   return (
-    <div className="pointer-events-auto absolute bottom-8 right-2 z-20 w-72 max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm dark:border-gray-700 dark:bg-gray-900/95 overflow-hidden">
+    <div className="pointer-events-auto absolute bottom-8 right-2 z-20 w-72 max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm overflow-hidden">
       {/* Header */}
-      <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 dark:border-gray-700 flex-shrink-0">
-        <span className="text-sm font-semibold text-gray-800 dark:text-gray-100">
+      <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 flex-shrink-0">
+        <span className="text-sm font-semibold text-gray-800">
           {t.whatCountsHere}
         </span>
         <button
           type="button"
           onClick={handleDismiss}
-          className="p-1 rounded text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-100 transition-colors"
+          className="p-1 rounded text-gray-500 hover:text-gray-800 transition-colors"
           aria-label={t.close}
         >
           <svg
@@ -190,16 +190,16 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
       </div>
 
       {/* Coordinates */}
-      <div className="px-3 py-1.5 text-xs text-gray-500 dark:text-gray-400 border-b border-gray-100 dark:border-gray-800 flex-shrink-0">
+      <div className="px-3 py-1.5 text-xs text-gray-500 border-b border-gray-100 flex-shrink-0">
         {t.coordinates}: {selectedPoint.lat.toFixed(5)}, {selectedPoint.lon.toFixed(5)}
       </div>
 
       {/* Results */}
       <div className="overflow-y-auto flex-1 py-1">
         {loading ? (
-          <div className="flex items-center justify-center py-6 text-sm text-gray-500 dark:text-gray-400">
+          <div className="flex items-center justify-center py-6 text-sm text-gray-500">
             <svg
-              className="animate-spin -ml-1 mr-2 h-4 w-4 text-gray-500 dark:text-gray-400"
+              className="animate-spin -ml-1 mr-2 h-4 w-4 text-gray-500"
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
               viewBox="0 0 24 24"
@@ -211,7 +211,7 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
           </div>
         ) : matches.length === 0 ? (
           <>
-            <div className="py-4 text-center text-sm text-gray-500 dark:text-gray-400">
+            <div className="py-4 text-center text-sm text-gray-500">
               {t.noPrograms}
             </div>
             {selectedPoint && (
@@ -230,7 +230,7 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
                 key={`${match.program}-${match.reference}-${idx}`}
                 type="button"
                 onClick={() => handleFlyTo(match)}
-                className="w-full flex items-start gap-2 px-3 py-2 text-left hover:bg-gray-50 dark:hover:bg-gray-800/60 transition-colors"
+                className="w-full flex items-start gap-2 px-3 py-2 text-left hover:bg-gray-50 transition-colors"
                 title={t.flyToReference}
               >
                 {/* Program color dot */}
@@ -241,17 +241,17 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
                 />
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-1.5">
-                    <span className="text-xs font-semibold text-gray-800 dark:text-gray-100 truncate">
+                    <span className="text-xs font-semibold text-gray-800 truncate">
                       {match.reference}
                     </span>
-                    <span className="text-[10px] font-medium px-1 py-0.5 rounded bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-400 flex-shrink-0">
+                    <span className="text-[10px] font-medium px-1 py-0.5 rounded bg-gray-100 text-gray-600 flex-shrink-0">
                       {match.programCode}
                     </span>
                   </div>
-                  <div className="text-xs text-gray-500 dark:text-gray-400 truncate">
+                  <div className="text-xs text-gray-500 truncate">
                     {match.name}
                   </div>
-                  <div className="text-[10px] text-gray-400 dark:text-gray-500 mt-0.5">
+                  <div className="text-[10px] text-gray-400 mt-0.5">
                     {t.metersAway.replace('{m}', String(match.distance))}
                     {match.elevation != null && (
                       <span className="ml-2">
@@ -266,7 +266,7 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
                   </div>
                   {/* T32 — rules summary */}
                   {match.rules && (match.rules.minQsos != null || match.rules.activationRadius) && (
-                    <div className="text-[10px] text-gray-400 dark:text-gray-500 mt-0.5 flex flex-wrap gap-x-2">
+                    <div className="text-[10px] text-gray-400 mt-0.5 flex flex-wrap gap-x-2">
                       {match.rules.minQsos != null && (
                         <span>{t.minQsosShort}: {match.rules.minQsos}</span>
                       )}

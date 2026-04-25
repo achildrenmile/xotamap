@@ -114,7 +114,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="pointer-events-auto flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gray-200 bg-white/95 shadow-md backdrop-blur-sm dark:border-gray-700 dark:bg-gray-900/95 text-xs font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
+        className="pointer-events-auto flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gray-200 bg-white/95 shadow-md backdrop-blur-sm text-xs font-medium text-gray-700 hover:bg-gray-50 transition-colors"
         title={t.whatCountsHere}
       >
         <svg
@@ -138,10 +138,10 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
   }
 
   return (
-    <div className="pointer-events-auto w-72 max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm dark:border-gray-700 dark:bg-gray-900/95 overflow-hidden">
+    <div className="pointer-events-auto w-72 max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm overflow-hidden">
       {/* Header */}
-      <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 dark:border-gray-700 flex-shrink-0">
-        <span className="text-sm font-semibold text-gray-800 dark:text-gray-100">
+      <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 flex-shrink-0">
+        <span className="text-sm font-semibold text-gray-800">
           {t.whatCountsHere}
         </span>
         <button
@@ -154,7 +154,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
             setLonInput('');
             setSearchedPoint(null);
           }}
-          className="p-1 rounded text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-100 transition-colors"
+          className="p-1 rounded text-gray-500 hover:text-gray-800 transition-colors"
           aria-label={t.close}
         >
           <svg
@@ -175,14 +175,14 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
       </div>
 
       {/* Coordinate input */}
-      <form onSubmit={handleSubmit} className="px-3 py-2 border-b border-gray-100 dark:border-gray-800 flex-shrink-0">
+      <form onSubmit={handleSubmit} className="px-3 py-2 border-b border-gray-100 flex-shrink-0">
         <div className="flex gap-2 mb-2">
           <input
             type="text"
             placeholder="Lat"
             value={latInput}
             onChange={(e) => setLatInput(e.target.value)}
-            className="flex-1 px-2 py-1 text-xs rounded border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:ring-1 focus:ring-blue-500"
+            className="flex-1 px-2 py-1 text-xs rounded border border-gray-300 bg-white text-gray-800 focus:outline-none focus:ring-1 focus:ring-blue-500"
             aria-label="Latitude"
           />
           <input
@@ -190,7 +190,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
             placeholder="Lon"
             value={lonInput}
             onChange={(e) => setLonInput(e.target.value)}
-            className="flex-1 px-2 py-1 text-xs rounded border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:ring-1 focus:ring-blue-500"
+            className="flex-1 px-2 py-1 text-xs rounded border border-gray-300 bg-white text-gray-800 focus:outline-none focus:ring-1 focus:ring-blue-500"
             aria-label="Longitude"
           />
         </div>
@@ -205,7 +205,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
             type="button"
             onClick={handleUseGps}
             disabled={gpsLoading}
-            className="flex-1 text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-colors disabled:opacity-50"
+            className="flex-1 text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 text-gray-700 transition-colors disabled:opacity-50"
           >
             {gpsLoading ? t.loading : t.useMyLocation}
           </button>
@@ -214,7 +214,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
 
       {/* Hint when not searched yet */}
       {!searched && !loading && (
-        <div className="py-4 px-3 text-center text-xs text-gray-400 dark:text-gray-500">
+        <div className="py-4 px-3 text-center text-xs text-gray-400">
           {t.enterCoordinates}
           <br />
           <span className="text-[10px]">{t.rightClickHint}</span>
@@ -225,9 +225,9 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
       {(searched || loading) && (
         <div className="overflow-y-auto flex-1 py-1">
           {loading ? (
-            <div className="flex items-center justify-center py-6 text-sm text-gray-500 dark:text-gray-400">
+            <div className="flex items-center justify-center py-6 text-sm text-gray-500">
               <svg
-                className="animate-spin -ml-1 mr-2 h-4 w-4 text-gray-500 dark:text-gray-400"
+                className="animate-spin -ml-1 mr-2 h-4 w-4 text-gray-500"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
@@ -239,7 +239,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
             </div>
           ) : matches.length === 0 ? (
             <>
-              <div className="py-4 text-center text-sm text-gray-500 dark:text-gray-400">
+              <div className="py-4 text-center text-sm text-gray-500">
                 {t.noPrograms}
               </div>
               {searchedPoint && (
@@ -258,7 +258,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
                   key={`${match.program}-${match.reference}-${idx}`}
                   type="button"
                   onClick={() => handleFlyTo(match)}
-                  className="w-full flex items-start gap-2 px-3 py-2 text-left hover:bg-gray-50 dark:hover:bg-gray-800/60 transition-colors"
+                  className="w-full flex items-start gap-2 px-3 py-2 text-left hover:bg-gray-50 transition-colors"
                   title={t.flyToReference}
                 >
                   <span
@@ -268,17 +268,17 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
                   />
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-1.5">
-                      <span className="text-xs font-semibold text-gray-800 dark:text-gray-100 truncate">
+                      <span className="text-xs font-semibold text-gray-800 truncate">
                         {match.reference}
                       </span>
-                      <span className="text-[10px] font-medium px-1 py-0.5 rounded bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-400 flex-shrink-0">
+                      <span className="text-[10px] font-medium px-1 py-0.5 rounded bg-gray-100 text-gray-600 flex-shrink-0">
                         {match.programCode}
                       </span>
                     </div>
-                    <div className="text-xs text-gray-500 dark:text-gray-400 truncate">
+                    <div className="text-xs text-gray-500 truncate">
                       {match.name}
                     </div>
-                    <div className="text-[10px] text-gray-400 dark:text-gray-500 mt-0.5">
+                    <div className="text-[10px] text-gray-400 mt-0.5">
                       {t.metersAway.replace('{m}', String(match.distance))}
                       {match.elevation != null && (
                         <span className="ml-2">
@@ -293,7 +293,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
                     </div>
                     {/* T32 — rules summary */}
                     {match.rules && (match.rules.minQsos != null || match.rules.activationRadius) && (
-                      <div className="text-[10px] text-gray-400 dark:text-gray-500 mt-0.5 flex flex-wrap gap-x-2">
+                      <div className="text-[10px] text-gray-400 mt-0.5 flex flex-wrap gap-x-2">
                         {match.rules.minQsos != null && (
                           <span>{t.minQsosShort}: {match.rules.minQsos}</span>
                         )}

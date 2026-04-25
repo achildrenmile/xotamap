@@ -21,6 +21,7 @@ import { importWca } from './wca.js';
 import { importWlota } from './wlota.js';
 import { importIllw } from './illw.js';
 import { importArlhs } from './arlhs.js';
+import { importTota } from './tota.js';
 import { normalizeAll } from './normalize.js';
 import { formatCount } from './utils.js';
 
@@ -47,6 +48,7 @@ async function main(): Promise<void> {
     { name: 'SOTA', fn: importSota },
     { name: 'POTA', fn: importPota },
     { name: 'WWFF', fn: importWwff },
+    { name: 'TOTA', fn: importTota },
     { name: 'GMA', fn: importGma },
     { name: 'IOTA', fn: importIota },
     { name: 'WCA', fn: importWca },

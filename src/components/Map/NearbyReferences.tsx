@@ -123,8 +123,8 @@ export function NearbyReferences({ lat, lon, matchedPrograms, map }: NearbyRefer
   if (nearbyRefs.length === 0) return null;
 
   return (
-    <div className="border-t border-gray-100 dark:border-gray-800 mt-1 pt-1">
-      <div className="px-3 py-1 text-[10px] font-semibold uppercase tracking-wide text-gray-400 dark:text-gray-500">
+    <div className="border-t border-gray-100 mt-1 pt-1">
+      <div className="px-3 py-1 text-[10px] font-semibold uppercase tracking-wide text-gray-400">
         {t.nearestReferences}
       </div>
       {nearbyRefs.map((ref) => (
@@ -132,7 +132,7 @@ export function NearbyReferences({ lat, lon, matchedPrograms, map }: NearbyRefer
           key={`nearby-${ref.program}-${ref.reference}`}
           type="button"
           onClick={() => handleFlyTo(ref)}
-          className="w-full flex items-center gap-2 px-3 py-1.5 text-left hover:bg-gray-50 dark:hover:bg-gray-800/60 transition-colors"
+          className="w-full flex items-center gap-2 px-3 py-1.5 text-left hover:bg-gray-50 transition-colors"
           title={t.flyToReference}
         >
           <span
@@ -142,14 +142,14 @@ export function NearbyReferences({ lat, lon, matchedPrograms, map }: NearbyRefer
           />
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-1.5">
-              <span className="text-[11px] font-medium text-gray-700 dark:text-gray-300 truncate">
+              <span className="text-[11px] font-medium text-gray-700 truncate">
                 {ref.reference}
               </span>
-              <span className="text-[10px] px-1 rounded bg-gray-100 text-gray-500 dark:bg-gray-700 dark:text-gray-400 flex-shrink-0">
+              <span className="text-[10px] px-1 rounded bg-gray-100 text-gray-500 flex-shrink-0">
                 {ref.programCode}
               </span>
             </div>
-            <div className="text-[10px] text-gray-400 dark:text-gray-500 truncate">
+            <div className="text-[10px] text-gray-400 truncate">
               {t.distance.replace('{km}', String(ref.distanceKm))} — {ref.name}
             </div>
           </div>
