@@ -18,11 +18,11 @@ interface ReferencePopupProps {
 function buildReferenceUrl(program: string, refCode: string): string | null {
   switch (program.toLowerCase()) {
     case 'sota':
-      return `https://sotl.as/summits/${encodeURIComponent(refCode)}`;
+      return `https://sotl.as/summits/${refCode}`;
     case 'pota':
-      return `https://pota.app/#/park/${encodeURIComponent(refCode)}`;
+      return `https://pota.app/#/park/${refCode}`;
     case 'wwff':
-      return `https://wwff.co/directory/?showRef=${encodeURIComponent(refCode)}`;
+      return `https://wwff.co/directory/?showRef=${refCode}`;
     case 'gma':
     case 'hema':
     case 'wca':
@@ -32,17 +32,17 @@ function buildReferenceUrl(program: string, refCode: string): string | null {
     case 'mota':
     case 'arlhs':
     case 'illw':
-      return `https://www.cqgma.org/gmamap/?ref=${encodeURIComponent(refCode)}`;
+      return `https://www.cqgma.org/gmamap/?ref=${refCode}`;
     case 'iota':
-      return `https://www.iota-world.org/islands/?grpRef=${encodeURIComponent(refCode)}`;
+      return `https://www.iota-world.org/islands/?grpRef=${refCode}`;
     case 'wwbota':
-      return `https://wwbota.com/bunker/${encodeURIComponent(refCode)}`;
+      return `https://wwbota.com/bunker/${refCode}`;
     case 'tota':
-      return `https://wwtota.com/seznam/?ref=${encodeURIComponent(refCode)}`;
+      return `https://wwtota.com/seznam/?ref=${refCode}`;
     case 'bota':
       return `https://bfrg.at/bota`;
     case 'krmnpa':
-      return `https://parksnpeaks.org/park.php?park=${encodeURIComponent(refCode)}`;
+      return `https://parksnpeaks.org/park.php?park=${refCode}`;
     case 'wab':
       return `https://wab.org.uk`;
     case 'zlota':
