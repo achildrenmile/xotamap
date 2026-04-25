@@ -102,15 +102,18 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
       });
     }
 
+    // Try immediately, and also on load/styledata to handle race conditions
+    // where the map style isn't ready yet or gets swapped
     if (map.isStyleLoaded()) {
       addLayer();
-    } else {
-      map.on('load', addLayer);
     }
+    map.on('load', addLayer);
+    map.on('styledata', addLayer);
 
     return () => {
       // eslint-disable-next-line react-hooks/exhaustive-deps
       map.off('load', addLayer);
+      map.off('styledata', addLayer);
       try {
         if (map.getLayer(lyr)) map.removeLayer(lyr);
         if (map.getSource(src)) map.removeSource(src);
