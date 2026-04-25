@@ -18,6 +18,7 @@ export const de: Translations = {
   showAllLayers: 'Alle anzeigen',
   hideAllLayers: 'Alle ausblenden',
   moreInfo: 'Mehr Infos',
+  noMapData: 'Ohne Kartendaten',
   locateMe: 'Meinen Standort anzeigen',
   basemap: 'Basiskarte',
   basemapStandard: 'Standard',

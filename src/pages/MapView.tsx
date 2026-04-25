@@ -21,12 +21,13 @@ import programsData from '../../public/data/programs/index.json';
 
 const ALL_PROGRAMS: ProgramEntry[] = (
   programsData.programs as Array<{
+    id: string;
     code: string;
     name: string;
     color: string;
     hasReferences: boolean;
   }>
-).filter((p) => p.hasReferences);
+);
 
 export default function MapView() {
   const { t } = useI18n();
@@ -80,7 +81,7 @@ export default function MapView() {
           <>
             {/* Reference layers — rendered into map when map is ready */}
             {map &&
-              ALL_PROGRAMS.map((program) => (
+              ALL_PROGRAMS.filter((p) => p.hasReferences).map((program) => (
                 <ReferenceLayer
                   key={program.code}
                   map={map}

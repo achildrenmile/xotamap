@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useI18n } from '../../i18n';
 
 export interface ProgramEntry {
+  id: string;
   code: string;
   name: string;
   color: string;
@@ -32,6 +33,7 @@ export function LayerSwitcher({
   const [open, setOpen] = useState(true);
 
   const withRefs = programs.filter((p) => p.hasReferences);
+  const withoutRefs = programs.filter((p) => !p.hasReferences);
 
   return (
     <div className="pointer-events-auto flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm w-56 max-h-[calc(100vh-8rem)] overflow-hidden" style={{ colorScheme: 'light' }}>
@@ -107,6 +109,32 @@ export function LayerSwitcher({
                 </span>
               </label>
             ))}
+
+            {withoutRefs.length > 0 && (
+              <>
+                <div className="px-3 pt-2 pb-1 border-t border-gray-100 mt-1">
+                  <span className="text-[10px] font-medium text-gray-400 uppercase tracking-wide">
+                    {t.noMapData}
+                  </span>
+                </div>
+                {withoutRefs.map((program) => (
+                  <Link
+                    key={program.code}
+                    to={`/encyclopedia/${program.id}`}
+                    className="flex items-center gap-2 px-3 py-1.5 hover:bg-gray-50 transition-colors"
+                  >
+                    <span
+                      className="inline-block w-3 h-3 rounded-full flex-shrink-0 border border-white/30 shadow-sm opacity-50"
+                      style={{ backgroundColor: program.color }}
+                      aria-hidden="true"
+                    />
+                    <span className="text-xs text-gray-400 truncate leading-tight">
+                      {program.code}
+                    </span>
+                  </Link>
+                ))}
+              </>
+            )}
           </div>
 
           {/* Link to encyclopedia */}

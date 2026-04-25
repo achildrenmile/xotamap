@@ -18,6 +18,7 @@ export interface Translations {
   showAllLayers: string;
   hideAllLayers: string;
   moreInfo: string;
+  noMapData: string;
   locateMe: string;
   basemap: string;
   basemapStandard: string;

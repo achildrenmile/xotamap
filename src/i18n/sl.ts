@@ -18,6 +18,7 @@ export const sl: Translations = {
   showAllLayers: 'Pokaži vse',
   hideAllLayers: 'Skrij vse',
   moreInfo: 'Več informacij',
+  noMapData: 'Brez podatkov na karti',
   locateMe: 'Pokaži mojo lokacijo',
   basemap: 'Osnovna karta',
   basemapStandard: 'Standardna',
