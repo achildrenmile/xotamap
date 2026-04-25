@@ -2,7 +2,6 @@ import { MapPin } from 'lucide-react';
 import { useI18n } from '../../i18n';
 import { ParentSiteLogo } from '../ParentSiteLogo/ParentSiteLogo';
 import { LanguageSelector } from '../LanguageSelector/LanguageSelector';
-import { ThemeToggle } from '../ThemeToggle/ThemeToggle';
 import { Navigation } from '../Navigation/Navigation';
 
 export function Header() {
@@ -40,7 +39,6 @@ export function Header() {
           {/* Right: Language + Theme */}
           <div className="flex items-center gap-2 flex-shrink-0">
             <LanguageSelector />
-            <ThemeToggle />
           </div>
         </div>
       </div>
