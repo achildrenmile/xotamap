@@ -117,11 +117,11 @@ export default function MapView() {
             </div>
 
             {/* T30/T31 — Overlap finder (right-click / long-press) */}
-            {map && <OverlapFinder map={map} externalPoint={searchedPoint} />}
+            {map && <OverlapFinder map={map} externalPoint={searchedPoint} onActivate={showAll} />}
 
             {/* T31 — "What counts here?" standalone panel */}
             <div className="pointer-events-none absolute top-2 right-12 z-10 flex">
-              <WhatCountsHere map={map} />
+              <WhatCountsHere map={map} onActivate={showAll} />
             </div>
 
             {/* T34 — Location search */}

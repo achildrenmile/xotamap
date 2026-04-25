@@ -27,13 +27,15 @@ const PROGRAM_COLORS: Record<string, string> = {
 
 interface WhatCountsHereProps {
   map: maplibregl.Map | null;
+  /** Called when a search is triggered — used to enable all layers */
+  onActivate?: () => void;
 }
 
 /**
  * Standalone "What counts here?" panel/drawer.
  * Users can type coordinates or use GPS to find programs at a location.
  */
-export function WhatCountsHere({ map }: WhatCountsHereProps) {
+export function WhatCountsHere({ map, onActivate }: WhatCountsHereProps) {
   const { t } = useI18n();
   const { position, loading: gpsLoading, locate } = useGeolocation();
 
@@ -51,6 +53,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
       setSearched(true);
       setSearchedPoint({ lat, lon });
       setMatches([]);
+      onActivate?.();
       try {
         const results = await findProgramsAtLocation(lat, lon);
         setMatches(results);
@@ -60,7 +63,7 @@ export function WhatCountsHere({ map }: WhatCountsHereProps) {
         setLoading(false);
       }
     },
-    [],
+    [onActivate],
   );
 
   const handleSubmit = useCallback(

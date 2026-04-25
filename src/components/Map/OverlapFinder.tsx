@@ -28,6 +28,8 @@ interface OverlapFinderProps {
   map: maplibregl.Map;
   /** Optional external trigger: when this changes, open panel at that location */
   externalPoint?: { lat: number; lon: number } | null;
+  /** Called when panel opens — used to enable all layers so results are visible */
+  onActivate?: () => void;
 }
 
 interface SelectedPoint {
@@ -40,7 +42,7 @@ interface SelectedPoint {
  * Also accepts an externalPoint prop to programmatically open the panel (e.g. from LocationSearch).
  * Queries the overlap grid for all programs/references near the selected point.
  */
-export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
+export function OverlapFinder({ map, externalPoint, onActivate }: OverlapFinderProps) {
   const { t } = useI18n();
   const [selectedPoint, setSelectedPoint] = useState<SelectedPoint | null>(null);
   const [matches, setMatches] = useState<ProgramMatch[]>([]);
@@ -55,7 +57,8 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
     const { lat, lng } = e.lngLat;
     setSelectedPoint({ lat, lon: lng });
     setVisible(true);
-  }, []);
+    onActivate?.();
+  }, [onActivate]);
 
   // Handle long-press on mobile
   const handleTouchStart = useCallback((e: maplibregl.MapTouchEvent) => {
@@ -66,8 +69,9 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
       const { lat, lng } = e.lngLat;
       setSelectedPoint({ lat, lon: lng });
       setVisible(true);
+      onActivate?.();
     }, 600);
-  }, []);
+  }, [onActivate]);
 
   const handleTouchMove = useCallback((e: maplibregl.MapTouchEvent) => {
     if (!longPressStart.current || !longPressTimer.current) return;
@@ -111,7 +115,8 @@ export function OverlapFinder({ map, externalPoint }: OverlapFinderProps) {
     if (!externalPoint) return;
     setSelectedPoint({ lat: externalPoint.lat, lon: externalPoint.lon });
     setVisible(true);
-  }, [externalPoint]);
+    onActivate?.();
+  }, [externalPoint, onActivate]);
 
   // Fetch programs when selectedPoint changes
   useEffect(() => {
