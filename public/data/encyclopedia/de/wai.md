@@ -2,15 +2,38 @@
 
 ## Was ist WAI?
 
-Worked All Ireland (WAI) ist ein irisches Amateurfunkprogramm, das auf irischen Kartenquadraten basiert. Ziel ist es, möglichst viele verschiedene irische Grid-Referenzen zu arbeiten oder zu aktivieren. Das Programm umfasst rund 400 Referenzen.
+Worked All Ireland (WAI) ist ein Amateurfunkprogramm, das die gesamte Insel Irland abdeckt — sowohl die Republik Irland (Präfix EI) als auch Nordirland (Präfix GI). Das Programm basiert auf dem irischen Gitternetz (Irish Grid Reference System) und teilt die Insel in Planquadrate auf, die als Referenzen für Funkaktivierungen dienen.
+
+Mit rund 400 Referenzen bietet WAI eine überschaubare, aber reizvolle Sammlung an aktivierbaren Gebieten. Das Programm ist besonders bemerkenswert, weil es politische Grenzen überbrückt und die gesamte Insel als eine funkgeografische Einheit behandelt. Funkamateure aus beiden Landesteilen arbeiten gemeinsam an diesem Programm, was den verbindenden Charakter des Amateurfunks unterstreicht.
+
+WAI richtet sich sowohl an irische Funkamateure, die ihre Heimatinsel systematisch aktivieren möchten, als auch an internationale Stationen, die irische Referenzen sammeln wollen. Die ländliche Struktur großer Teile Irlands macht portable Aktivierungen besonders reizvoll, da viele Quadrate nur durch gezielte Expeditionen erreichbar sind.
 
 ## Regeln
 
-- **Minimum QSOs:** 1 Verbindung
-- **Aktivierungszone:** Innerhalb des Kartenquadrats
-- **Equipment:** Beliebiges Setup
-- **Region:** Irland
+- **Minimum QSOs:** Keine feste Mindestanzahl für eine gültige Aktivierung
+- **Aktivierungszone:** Innerhalb des jeweiligen irischen Planquadrats
+- **Equipment:** Keine Einschränkungen, alle Leistungsstufen erlaubt
+- **Betriebsarten:** Alle gängigen Betriebsarten (SSB, CW, FM, Digitalmodi)
+- **Besondere Anforderungen:** Die WAI-Referenznummer muss korrekt angegeben werden; QSL-Karten oder elektronische Bestätigungen als Nachweis
+
+## Punkte & Awards
+
+| Award | Anforderung |
+|-------|-------------|
+| WAI Bronze | 50 verschiedene WAI-Quadrate gearbeitet |
+| WAI Silver | 100 verschiedene WAI-Quadrate gearbeitet |
+| WAI Gold | 200 verschiedene WAI-Quadrate gearbeitet |
+| WAI All Ireland | Alle verfügbaren WAI-Referenzen gearbeitet |
+| WAI Activator Award | Bestimmte Anzahl an WAI-Quadraten selbst aktiviert |
+
+## Einstieg
+
+1. Informationen auf der offiziellen WAI-Seite einholen und die Referenzliste studieren
+2. Das eigene irische Planquadrat bestimmen oder ein Zielgebiet für eine Aktivierung auswählen
+3. QSOs unter Angabe der WAI-Referenz durchführen
+4. Logs einreichen und gearbeitete Quadrate dokumentieren
+5. Systematisch weitere Quadrate sammeln — besonders seltene ländliche Referenzen sind begehrt
 
 ## Links
 
-- [Offizielle Website](https://www.qsl.net/ei2ip/wai.htm)
+- [Offizielle WAI-Seite](https://www.qsl.net/ei2ip/wai.htm)
