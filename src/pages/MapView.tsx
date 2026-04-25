@@ -106,8 +106,8 @@ export default function MapView() {
             {/* T29 — Spot layer (above reference layers) */}
             {map && <SpotLayer map={map} spots={filteredSpots} />}
 
-            {/* Layer switcher sidebar — top-left overlay */}
-            <div className="pointer-events-none absolute top-2 left-2 z-10 flex flex-col">
+            {/* Layer switcher sidebar — top-left overlay, z-20 to stay above search bar on mobile */}
+            <div className="pointer-events-none absolute top-2 left-2 z-20 flex flex-col">
               <LayerSwitcher
                 programs={ALL_PROGRAMS}
                 visibility={visibility}
