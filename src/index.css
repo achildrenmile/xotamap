@@ -72,6 +72,13 @@ html, body, #root {
   outline-offset: 2px;
 }
 
+/* ── MapLibre controls: push down on mobile to avoid overlapping our custom controls ── */
+@media (max-width: 639px) {
+  .maplibregl-ctrl-top-right {
+    top: 5rem !important;
+  }
+}
+
 /* ── Reference Popup (T16) ── */
 .xota-reference-popup .maplibregl-popup-content {
   padding: 0;
