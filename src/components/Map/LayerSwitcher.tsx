@@ -34,7 +34,7 @@ export function LayerSwitcher({
   const withRefs = programs.filter((p) => p.hasReferences);
 
   return (
-    <div className="pointer-events-auto flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm w-56 max-h-[calc(100vh-8rem)] overflow-hidden">
+    <div className="pointer-events-auto flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm w-56 max-h-[calc(100vh-8rem)] overflow-hidden" style={{ colorScheme: 'light' }}>
       {/* Header */}
       <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 flex-shrink-0">
         <span className="text-sm font-semibold text-gray-800">
