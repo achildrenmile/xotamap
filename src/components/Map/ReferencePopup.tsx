@@ -36,7 +36,7 @@ function buildReferenceUrl(program: string, refCode: string): string | null {
     case 'iota':
       return `https://www.iota-world.org/islands/?grpRef=${refCode}`;
     case 'wwbota':
-      return `https://wwbota.com/bunker/${refCode}`;
+      return `https://wwbota.net/map/`;
     case 'tota':
       return `https://wwtota.com/seznam/?ref=${refCode}`;
     case 'bota':
