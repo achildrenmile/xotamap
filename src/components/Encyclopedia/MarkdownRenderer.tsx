@@ -1,4 +1,5 @@
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import type { Components } from 'react-markdown';
 
 interface MarkdownRendererProps {
@@ -140,7 +141,7 @@ const components: Components = {
 export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
   return (
     <div className="prose-reset max-w-none">
-      <ReactMarkdown components={components}>{content}</ReactMarkdown>
+      <ReactMarkdown remarkPlugins={[remarkGfm]} components={components}>{content}</ReactMarkdown>
     </div>
   );
 }
