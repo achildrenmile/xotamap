@@ -133,9 +133,9 @@ export default function MapView() {
               <WhatCountsHere map={map} onActivate={showAll} />
             </div>
 
-            {/* Basemap selector — bottom-left overlay */}
+            {/* Basemap selector — bottom-right overlay */}
             {map && (
-              <div className="pointer-events-none absolute bottom-4 sm:bottom-8 left-2 z-10 flex">
+              <div className="pointer-events-none absolute bottom-6 sm:bottom-8 right-2 z-10 flex">
                 <BasemapSelector
                   map={map}
                   activeStyle={activeBasemap}
