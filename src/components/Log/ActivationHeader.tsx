@@ -26,16 +26,16 @@ export function ActivationHeader({
   return (
     <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 px-4 py-3">
       {/* Left: activation info */}
-      <div className="flex items-center gap-3">
+      <div className="flex flex-wrap items-center gap-2 sm:gap-3 min-w-0">
         {activation ? (
           <>
             {/* Active indicator */}
-            <span className="flex items-center gap-1.5 text-sm font-medium text-green-700 dark:text-green-400">
-              <span className="inline-block h-2.5 w-2.5 rounded-full bg-green-500 animate-pulse" />
+            <span className="flex items-center gap-1.5 text-xs sm:text-sm font-medium text-green-700 dark:text-green-400">
+              <span className="inline-block h-2.5 w-2.5 rounded-full bg-green-500 animate-pulse flex-shrink-0" />
               {t.activeActivation}
             </span>
 
-            <div className="text-sm text-gray-700 dark:text-gray-300">
+            <div className="text-xs sm:text-sm text-gray-700 dark:text-gray-300 truncate">
               <span className="font-semibold">{activation.location || activation.date}</span>
               {activation.references.length > 0 && (
                 <span className="ml-2 text-gray-500 dark:text-gray-400 font-mono text-xs">
@@ -45,7 +45,7 @@ export function ActivationHeader({
             </div>
 
             {/* QSO count badge */}
-            <span className="inline-flex items-center justify-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300">
+            <span className="inline-flex items-center justify-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300 flex-shrink-0">
               {t.qsoCount.replace('{count}', String(qsoCount))}
             </span>
           </>

@@ -139,7 +139,7 @@ export default function ProgramDetail() {
 
   return (
     <div className="h-full overflow-y-auto bg-gray-50 dark:bg-gray-900">
-      <div className="max-w-4xl mx-auto px-4 py-8">
+      <div className="max-w-4xl mx-auto px-3 sm:px-4 py-4 sm:py-8">
 
         {/* Breadcrumb */}
         <nav className="flex items-center gap-2 text-sm mb-6" aria-label="Breadcrumb">
@@ -154,7 +154,7 @@ export default function ProgramDetail() {
         </nav>
 
         {/* Program header card */}
-        <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-6 mb-6 shadow-sm">
+        <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-4 sm:p-6 mb-6 shadow-sm">
           <ProgramHeader program={program} />
 
           {/* Action buttons */}
@@ -190,7 +190,7 @@ export default function ProgramDetail() {
         </div>
 
         {/* Markdown article */}
-        <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-6 mb-6 shadow-sm">
+        <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-4 sm:p-6 mb-6 shadow-sm">
           <ArticleSection program={program} />
         </div>
 
@@ -203,7 +203,7 @@ export default function ProgramDetail() {
 
         {/* Awards list */}
         {program.awards && program.awards.length > 0 && (
-          <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-6 shadow-sm">
+          <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-4 sm:p-6 shadow-sm">
             <AwardsList awards={program.awards} />
           </div>
         )}

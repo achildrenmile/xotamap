@@ -180,7 +180,7 @@ export default function LogView() {
   }
 
   return (
-    <div className="flex flex-col gap-4 p-4 max-w-5xl mx-auto w-full">
+    <div className="flex flex-col gap-3 sm:gap-4 p-3 sm:p-4 max-w-5xl mx-auto w-full">
       {/* Page title */}
       <h1 className="text-xl font-bold text-gray-900 dark:text-gray-100">{t.logTitle}</h1>
 

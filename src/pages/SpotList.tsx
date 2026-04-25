@@ -56,11 +56,11 @@ export default function SpotList() {
       {/* Page header */}
       <div className="px-4 pt-4 pb-2 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
         <div className="flex items-center justify-between flex-wrap gap-2">
-          <h1 className="text-xl font-bold text-gray-900 dark:text-gray-100">{t.spotsTitle}</h1>
+          <h1 className="text-lg sm:text-xl font-bold text-gray-900 dark:text-gray-100">{t.spotsTitle}</h1>
 
-          <div className="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+          <div className="flex items-center gap-2 sm:gap-3 text-xs sm:text-sm text-gray-500 dark:text-gray-400">
             {/* Last update */}
-            <span>{t.lastUpdate}: <span className="font-medium text-gray-700 dark:text-gray-300">{lastUpdateText}</span></span>
+            <span className="hidden sm:inline">{t.lastUpdate}: <span className="font-medium text-gray-700 dark:text-gray-300">{lastUpdateText}</span></span>
 
             {/* Refresh countdown */}
             <span className="hidden sm:inline">{refreshText}</span>

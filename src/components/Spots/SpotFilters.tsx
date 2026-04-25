@@ -70,9 +70,9 @@ export function SpotFilters({
 
   return (
     <div className="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 px-4 py-3">
-      <div className="flex flex-wrap items-end gap-4">
+      <div className="flex flex-wrap items-end gap-3 sm:gap-4">
         {/* Programs multi-select */}
-        <div className="relative min-w-[160px]">
+        <div className="relative w-full sm:w-auto sm:min-w-[160px]">
           <span className={labelClass}>{t.filterPrograms}</span>
           <button
             type="button"
@@ -110,7 +110,7 @@ export function SpotFilters({
         </div>
 
         {/* Band dropdown */}
-        <div className="min-w-[110px]">
+        <div className="flex-1 min-w-[100px] sm:min-w-[110px] sm:flex-none">
           <span className={labelClass}>{t.filterBand}</span>
           <select
             value={filters.band}
@@ -125,7 +125,7 @@ export function SpotFilters({
         </div>
 
         {/* Mode dropdown */}
-        <div className="min-w-[110px]">
+        <div className="flex-1 min-w-[100px] sm:min-w-[110px] sm:flex-none">
           <span className={labelClass}>{t.filterMode}</span>
           <select
             value={filters.mode}
@@ -140,7 +140,7 @@ export function SpotFilters({
         </div>
 
         {/* Max age dropdown */}
-        <div className="min-w-[110px]">
+        <div className="flex-1 min-w-[100px] sm:min-w-[110px] sm:flex-none">
           <span className={labelClass}>{t.filterMaxAge}</span>
           <select
             value={filters.maxAge ?? ''}

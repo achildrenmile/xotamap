@@ -11,10 +11,10 @@ export default function ProgramHeader({ program }: ProgramHeaderProps) {
   const focusText = language === 'de' ? program.focusDE : program.focus;
 
   return (
-    <div className="flex items-start gap-5">
+    <div className="flex items-start gap-3 sm:gap-5">
       {/* Large colored program icon */}
       <div
-        className="w-14 h-14 rounded-2xl flex-shrink-0 shadow-md flex items-center justify-center text-white font-bold text-xl"
+        className="w-10 h-10 sm:w-14 sm:h-14 rounded-xl sm:rounded-2xl flex-shrink-0 shadow-md flex items-center justify-center text-white font-bold text-base sm:text-xl"
         style={{ backgroundColor: program.color }}
         aria-hidden="true"
       >
@@ -23,8 +23,8 @@ export default function ProgramHeader({ program }: ProgramHeaderProps) {
 
       <div className="flex-1 min-w-0">
         {/* Code row */}
-        <div className="flex flex-wrap items-center gap-3 mb-1">
-          <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+        <div className="flex flex-wrap items-center gap-2 sm:gap-3 mb-1">
+          <h1 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-gray-100">
             {program.code}
           </h1>
           {program.region && (

@@ -121,12 +121,12 @@ export default function MapView() {
             {map && <OverlapFinder map={map} externalPoint={searchedPoint} onActivate={showAll} />}
 
             {/* T31 — "What counts here?" standalone panel */}
-            <div className="pointer-events-none absolute top-2 right-12 z-10 flex">
+            <div className="pointer-events-none absolute top-12 sm:top-2 right-2 sm:right-12 z-10 flex">
               <WhatCountsHere map={map} onActivate={showAll} />
             </div>
 
             {/* T34 — Location search */}
-            <div className="pointer-events-none absolute top-2 left-1/2 -translate-x-1/2 z-10 flex">
+            <div className="pointer-events-none absolute top-2 right-2 sm:right-auto sm:left-1/2 sm:-translate-x-1/2 z-10 flex">
               <LocationSearch
                 map={map}
                 onLocationSelected={(lat, lon) => setSearchedPoint({ lat, lon })}
@@ -135,7 +135,7 @@ export default function MapView() {
 
             {/* Basemap selector — bottom-left overlay */}
             {map && (
-              <div className="pointer-events-none absolute bottom-8 left-2 z-10 flex">
+              <div className="pointer-events-none absolute bottom-4 sm:bottom-8 left-2 z-10 flex">
                 <BasemapSelector
                   map={map}
                   activeStyle={activeBasemap}

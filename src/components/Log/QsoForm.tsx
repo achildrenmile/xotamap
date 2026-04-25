@@ -199,7 +199,7 @@ export function QsoForm({ activationId, activeReferences, onQsoAdded }: QsoFormP
         </div>
       )}
 
-      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2 sm:gap-3">
         {/* Callsign */}
         <div className="col-span-2 sm:col-span-1">
           <label className={labelClass}>{t.callsign} *</label>

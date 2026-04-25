@@ -165,7 +165,7 @@ export function OverlapFinder({ map, externalPoint, onActivate }: OverlapFinderP
   if (!visible || !selectedPoint) return null;
 
   return (
-    <div className="pointer-events-auto absolute bottom-8 right-2 z-20 w-72 max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm overflow-hidden">
+    <div className="pointer-events-auto absolute bottom-16 sm:bottom-8 left-2 right-2 sm:left-auto sm:right-2 z-20 sm:w-72 max-h-[50vh] sm:max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm overflow-hidden">
       {/* Header */}
       <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 flex-shrink-0">
         <span className="text-sm font-semibold text-gray-800">

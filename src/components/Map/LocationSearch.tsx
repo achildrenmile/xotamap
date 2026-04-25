@@ -123,7 +123,7 @@ export function LocationSearch({ map, onLocationSelected }: LocationSearchProps)
   }, []);
 
   return (
-    <div ref={containerRef} className="pointer-events-auto relative w-64">
+    <div ref={containerRef} className="pointer-events-auto relative w-[calc(100vw-7rem)] sm:w-64">
       {/* Input row */}
       <div className="flex items-center gap-1 px-2 py-1.5 rounded-lg border border-gray-200 bg-white/95 shadow-md backdrop-blur-sm">
         {/* Search icon */}

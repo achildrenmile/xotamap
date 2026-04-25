@@ -141,7 +141,7 @@ export function WhatCountsHere({ map, onActivate }: WhatCountsHereProps) {
   }
 
   return (
-    <div className="pointer-events-auto w-72 max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm overflow-hidden">
+    <div className="pointer-events-auto w-[calc(100vw-1rem)] sm:w-72 max-h-[60vh] flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm overflow-hidden">
       {/* Header */}
       <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 flex-shrink-0">
         <span className="text-sm font-semibold text-gray-800">

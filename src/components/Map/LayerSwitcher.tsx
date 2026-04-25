@@ -21,6 +21,7 @@ interface LayerSwitcherProps {
 /**
  * Sidebar panel with checkboxes to toggle reference layers per program.
  * Always uses light styling since the map basemap is always light.
+ * Starts collapsed on mobile (< 640px) to avoid blocking the map.
  */
 export function LayerSwitcher({
   programs,
@@ -30,13 +31,13 @@ export function LayerSwitcher({
   onHideAll,
 }: LayerSwitcherProps) {
   const { t } = useI18n();
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(() => window.innerWidth >= 640);
 
   const withRefs = programs.filter((p) => p.hasReferences);
   const withoutRefs = programs.filter((p) => !p.hasReferences);
 
   return (
-    <div className="pointer-events-auto flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm w-56 max-h-[calc(100vh-8rem)] overflow-hidden" style={{ colorScheme: 'light' }}>
+    <div className="pointer-events-auto flex flex-col rounded-xl border border-gray-200 bg-white/95 shadow-lg backdrop-blur-sm w-44 sm:w-56 max-h-[calc(100vh-10rem)] sm:max-h-[calc(100vh-8rem)] overflow-hidden" style={{ colorScheme: 'light' }}>
       {/* Header */}
       <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 flex-shrink-0">
         <span className="text-sm font-semibold text-gray-800">
