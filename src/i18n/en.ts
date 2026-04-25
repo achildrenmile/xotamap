@@ -14,9 +14,10 @@ export const en: Translations = {
 
   // Map
   mapLoading: 'Loading map…',
-  layerSwitcher: 'Layers',
-  showAllLayers: 'Show all layers',
-  hideAllLayers: 'Hide all layers',
+  layerSwitcher: 'Programs',
+  showAllLayers: 'Show all',
+  hideAllLayers: 'Hide all',
+  moreInfo: 'More info',
   locateMe: 'Show my location',
   basemap: 'Base map',
   basemapStandard: 'Standard',

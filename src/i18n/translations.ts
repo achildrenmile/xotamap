@@ -17,6 +17,7 @@ export interface Translations {
   layerSwitcher: string;
   showAllLayers: string;
   hideAllLayers: string;
+  moreInfo: string;
   locateMe: string;
   basemap: string;
   basemapStandard: string;

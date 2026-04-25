@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import { useI18n } from '../../i18n';
 
 export interface ProgramEntry {
@@ -106,6 +107,16 @@ export function LayerSwitcher({
                 </span>
               </label>
             ))}
+          </div>
+
+          {/* Link to encyclopedia */}
+          <div className="px-3 py-2 border-t border-gray-100 flex-shrink-0">
+            <Link
+              to="/encyclopedia"
+              className="text-xs text-blue-600 hover:text-blue-800 hover:underline transition-colors"
+            >
+              {t.moreInfo} →
+            </Link>
           </div>
         </>
       )}

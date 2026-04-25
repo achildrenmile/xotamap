@@ -14,9 +14,10 @@ export const sl: Translations = {
 
   // Map
   mapLoading: 'Nalaganje karte…',
-  layerSwitcher: 'Plasti',
-  showAllLayers: 'Pokaži vse plasti',
-  hideAllLayers: 'Skrij vse plasti',
+  layerSwitcher: 'Programi',
+  showAllLayers: 'Pokaži vse',
+  hideAllLayers: 'Skrij vse',
+  moreInfo: 'Več informacij',
   locateMe: 'Pokaži mojo lokacijo',
   basemap: 'Osnovna karta',
   basemapStandard: 'Standardna',

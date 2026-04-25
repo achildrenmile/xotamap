@@ -14,9 +14,10 @@ export const it: Translations = {
 
   // Map
   mapLoading: 'Caricamento mappa…',
-  layerSwitcher: 'Livelli',
-  showAllLayers: 'Mostra tutti i livelli',
-  hideAllLayers: 'Nascondi tutti i livelli',
+  layerSwitcher: 'Programmi',
+  showAllLayers: 'Mostra tutti',
+  hideAllLayers: 'Nascondi tutti',
+  moreInfo: 'Maggiori info',
   locateMe: 'Mostra la mia posizione',
   basemap: 'Mappa base',
   basemapStandard: 'Standard',
