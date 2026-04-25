@@ -212,32 +212,44 @@
             "color": "#1ABC9C",
             "icon": "tower-control",
             "rules": {
-                "minQsos": 1,
-                "activationRadius": "At or on the tower",
-                "equipment": "Portable operation",
+                "minQsos": 3,
+                "activationRadius": "200m from tower",
+                "equipment": "Portable, self-powered",
                 "operatingModes": [
                     "SSB",
                     "CW",
                     "FM",
                     "Digital"
                 ],
-                "specialRequirements": "Operator must be at or on the tower. Tower must be in the TOTA reference database."
+                "specialRequirements": "3 QSOs on VHF or 13 on HF. No terrestrial repeaters. Tower must be in TOTA database."
             },
             "awards": [
                 {
-                    "name": "TOTA Activator Awards",
-                    "description": "Based on number of towers activated"
+                    "name": "Activator Sprint",
+                    "description": "50/100/200/500 points yearly"
                 },
                 {
-                    "name": "TOTA Hunter Awards",
-                    "description": "Based on number of towers worked"
+                    "name": "Activator Alltime",
+                    "description": "100/200/300/500 points"
+                },
+                {
+                    "name": "Activator Special",
+                    "description": "100/200/300/500 unique towers"
+                },
+                {
+                    "name": "Hunter Diplomas",
+                    "description": "Same tiers as activator"
+                },
+                {
+                    "name": "Tower-to-Tower R2R",
+                    "description": "25/50/75 unique R2R contacts (from 2026)"
                 }
             ],
             "links": {
                 "website": "https://wwtota.com",
-                "rules": "https://wwtota.com",
+                "rules": "https://wwtota.com/rules/",
                 "logUpload": "https://wwtota.com",
-                "referenceSearch": "https://wwtota.com"
+                "referenceSearch": "https://wwtota.com/seznam/"
             },
             "subPrograms": [
                 "OER",
