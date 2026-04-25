@@ -16,6 +16,19 @@ WAB è particolarmente popolare tra i radioamatori mobili, che attraversano dive
 - **Modi operativi:** Tutti i modi (SSB, CW, FM, modi digitali)
 - **Requisiti speciali:** Il riferimento corretto del quadrato WAB (ad es. SP15) deve essere indicato durante il QSO
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni da casa e raccolgono contatti con operatori che trasmettono da diversi quadrati WAB. Durante il QSO è essenziale annotare il riferimento WAB comunicato dall'attivatore, poiché è la base per la richiesta dei premi. I radioamatori mobili britannici in movimento sono fonti ideali per raccogliere nuovi quadrati, così come le spedizioni portatili mirate in quadrati rari.
+
+| Premio | Requisito |
+|--------|-----------|
+| WAB Book 1 | Primo livello — numero base di quadrati lavorati |
+| WAB Book 2–10 | Livelli avanzati con numero crescente di quadrati |
+| WAB Counties Award | Tutte le contee britanniche lavorate |
+| WAB Islands Award | Determinato numero di isole britanniche lavorate |
+
+I log per i premi del cacciatore vengono inviati tramite il sito [wab.org.uk](https://wab.org.uk), dove è disponibile anche il sistema di gestione del Book Number.
+
 ## Punti & Premi
 
 | Premio | Requisito |

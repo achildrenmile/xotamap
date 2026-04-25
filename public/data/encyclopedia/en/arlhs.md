@@ -11,10 +11,12 @@ Lighthouse activations are especially popular among radio amateurs because they 
 ## Rules
 
 - **Minimum QSOs:** 1 contact
-- **Activation Zone:** At or in the immediate vicinity of the lighthouse
+- **Activation Zone:** Within 1,000 metres of the lighthouse; if 1,000 metres is not possible, visual sight of the lighthouse is sufficient
 - **Equipment:** Any portable or mobile setup
 - **Operating Modes:** SSB, CW, FM, all digital modes
-- **Special Requirements:** The lighthouse must be listed in the ARLHS World List of Lights (WLOL). Some lighthouses require access permission.
+- **Permission:** Written permission from the owner is recommended for private lighthouses
+- **QSL card:** The ARLHS number must appear on the QSL card
+- **Special Requirements:** The lighthouse must be listed in the ARLHS World List of Lights (WLOL).
 
 ## Points & Awards
 
@@ -35,6 +37,10 @@ Lighthouse activations are especially popular among radio amateurs because they 
 ## Austria-specific Notes
 
 Although Austria is a landlocked country, there are occasional historic light beacons on larger lakes. For ARLHS activations, trips to neighbouring countries are a good option — Croatia, Italy and Slovenia have numerous lighthouses along the Adriatic coast.
+
+## For Hunters
+
+Hunters work ARLHS lighthouses from a fixed location, collecting unique WLOL references. Tiered awards are available for hunters: WLOL Award (100 lighthouses), WLOL 250, WLOL 500 and WLOL 1000. QSL exchange is recommended to confirm the contact — the activator's QSL card must show the ARLHS number.
 
 ## Links
 

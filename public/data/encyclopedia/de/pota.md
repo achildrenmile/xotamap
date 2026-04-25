@@ -16,6 +16,21 @@ Im Gegensatz zu SOTA, wo der Aufstieg Teil der Herausforderung ist, liegt bei PO
 - **Betriebsarten:** SSB, CW, FM, FT8, FT4, alle digitalen Modes
 - **Besondere Anforderungen:** Der Operator muss sich physisch innerhalb der Parkgrenzen befinden. Park-zu-Park (P2P) Kontakte zählen doppelt.
 
+## Für Jäger
+
+POTA-Jäger (Hunter) arbeiten Aktivierer von zu Hause aus. Für jeden einzigartigen Park, mit dem eine Verbindung hergestellt wird, zählt **1 Punkt**. Park-zu-Park-Kontakte (P2P) — bei denen beide Stationen aktiv in einem Park senden — zählen **doppelt**.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| Hunter — Bronze | 50 verschiedene Parks gearbeitet |
+| Hunter — Silver | 100 verschiedene Parks gearbeitet |
+| Hunter — Gold | 250 verschiedene Parks gearbeitet |
+| Hunter — Platinum | 500 verschiedene Parks gearbeitet |
+
+Jäger-QSOs werden auf [pota.app](https://pota.app) eingetragen. Über die Echtzeit-Spots auf [pota.app/#/spots](https://pota.app/#/spots) lassen sich aktive Aktivierer verfolgen.
+
 ## Punkte & Awards
 
 | Stufe | Anforderung |

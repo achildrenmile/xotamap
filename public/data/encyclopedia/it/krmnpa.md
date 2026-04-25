@@ -16,6 +16,19 @@ Il programma è gestito tramite la piattaforma Parks'n'Peaks, che supporta anche
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, digitale, FM)
 - **Requisiti speciali:** Rispettare le autorizzazioni dell'ente parco; in alcuni parchi vigono restrizioni per antenne o generatori
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dai parchi nazionali australiani da casa e raccolgono contatti per i propri premi. Ogni collegamento con un attivatore che trasmette dall'interno di un parco registrato KRMNPA conta come nuovo riferimento. Le attivazioni vengono annunciate sulla piattaforma Parks'n'Peaks e sui cluster radioamatoriali, rendendo facile individuare le stazioni attive dall'estero o da altre città australiane.
+
+| Premio | Requisito |
+|--------|-----------|
+| KRMNPA Bronze | 25 parchi diversi lavorati |
+| KRMNPA Silver | 50 parchi diversi lavorati |
+| KRMNPA Gold | 100 parchi diversi lavorati |
+| Platinum | 200 parchi diversi lavorati |
+
+I log per i premi del cacciatore vengono inviati tramite la piattaforma [parksnpeaks.org](https://parksnpeaks.org), dove è possibile monitorare i progressi e richiedere i diplomi.
+
 ## Punti & Premi
 
 | Premio | Requisito |

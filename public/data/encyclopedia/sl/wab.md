@@ -16,6 +16,22 @@ WAB je posebej priljubljen med mobilnimi radioamaterji, ki med voznjo peljejo sk
 - **Nacini delovanja:** Vsi nacini (SSB, CW, FM, digitalni nacini)
 - **Posebne zahteve:** Pri QSO je treba navesti pravilno WAB-referenco kvadrata (npr. SP15)
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. WAB je v bistvu lovski program — cilj je zbrati čim več različnih kvadratov OS National Grid z delanjem mobilnih in prenosnih postaj, ki se premikata po kvadratih. Za vsak QSO mora aktivator sporočiti svojo WAB-referenco.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| WAB Book 1 | Osnovno število različnih kvadratov delanih |
+| WAB Book 2–10 | Napredne stopnje z naraščajočim številom kvadratov |
+| WAB All Districts | Vsi okraji določenega območja delani |
+| WAB Counties Award | Vse britanske grofije delane |
+| WAB Islands Award | Določeno število britanskih otokov delanih |
+
+Kontakte bereži in napredek spremljaj prek platforme [wab.org.uk](https://wab.org.uk). Spote aktivnih postaj poišči v DX-cluster sistemih.
+
 ## Tocke & Nagrade
 
 | Nagrada | Zahteva |

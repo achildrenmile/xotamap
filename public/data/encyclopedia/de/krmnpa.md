@@ -16,6 +16,21 @@ Das Programm wird ueber die Plattform Parks'n'Peaks verwaltet, die auch andere a
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, Digital, FM)
 - **Besondere Anforderungen:** Genehmigungen der Parkverwaltung beachten; in manchen Parks gelten Einschraenkungen fuer Antennen oder Generatoren
 
+## Für Jäger
+
+KRMNPA-Jäger arbeiten Aktivierer aus australischen Nationalparks von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Parkbesuch erforderlich. Da Australien weit von Europa und Nordamerika entfernt ist, sind KRMNPA-Aktivierungen gefragte DX-Kontakte. Jede Verbindung mit einer gültigen KRMNPA-Referenz zählt für die gestaffelten Jäger-Awards.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| KRMNPA Bronze | 25 verschiedene Parks kontaktiert |
+| KRMNPA Silver | 50 verschiedene Parks kontaktiert |
+| KRMNPA Gold | 100 verschiedene Parks kontaktiert |
+| Platinum | 200 verschiedene Parks kontaktiert |
+
+Aktive KRMNPA-Aktivierungen und Spots sind auf der Parks'n'Peaks-Plattform (parksnpeaks.org) sowie auf DX-Cluster-Plattformen zu finden.
+
 ## Punkte & Awards
 
 | Award | Anforderung |

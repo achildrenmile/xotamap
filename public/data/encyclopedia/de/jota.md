@@ -16,6 +16,19 @@ Anders als die meisten xOTA-Programme basiert JOTA nicht auf Referenznummern ode
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes — SSB auf Kurzwelle ist am beliebtesten
 - **Besondere Anforderungen:** Die Station muss von einem lizenzierten Funkamateur betrieben werden. Pfadfinder ohne Lizenz duerfen unter Aufsicht am Mikrofon sprechen (je nach nationaler Regelung). Anmeldung ueber die JOTA-JOTI-Plattform wird empfohlen.
 
+## Für Jäger
+
+Beim JOTA können erfahrene Funkamateure aktiv JOTA-Stationen von Pfadfindergruppen aus aller Welt jagen — von zu Hause oder einem beliebigen Standort aus. Besonders auf Kurzwelle sind am dritten Oktober-Wochenende zahlreiche JOTA-Stationen auf den bekannten Frequenzen aktiv. Für Jäger, die mehrere JOTA-Stationen arbeiten, kann ein JOTA Month Award beantragt werden.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| JOTA-JOTI Zertifikat | Für jeden Teilnehmer — auch für externe Stationen auf Anfrage |
+| JOTA Month Award | Für Jäger, die mehrere JOTA-Pfadfinderstationen arbeiten |
+
+JOTA-Spots und aktive Frequenzen werden auf [jotajoti.info](https://www.jotajoti.info) sowie auf gängigen DX-Cluster-Plattformen bekanntgegeben.
+
 ## Punkte & Awards
 
 | Stufe | Beschreibung |

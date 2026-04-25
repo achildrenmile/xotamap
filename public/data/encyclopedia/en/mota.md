@@ -14,6 +14,18 @@ The programme celebrates the industrial and agricultural heritage of Europe. Mil
 - **Operating Modes:** All modes permitted (SSB, CW, FM, digital modes)
 - **Special Requirements:** Obtain permission from the mill owner or association; take particular care around working mills with moving parts
 
+## For Hunters/Chasers
+
+Hunters work MOTA mill stations from home or any location, counting each unique mill reference toward their chaser awards. When a MOTA activator announces a mill reference, hunters call in and log the contact. Chaser logs are uploaded via the GMA portal at cqgma.org, which tracks worked references automatically.
+
+| Award | Requirement |
+|-------|-------------|
+| MOTA Bronze | 20 different mills contacted |
+| MOTA Silver | 50 different mills contacted |
+| MOTA Gold | 100 different mills contacted |
+
+Active MOTA spots can be found on the GMA website and standard DX cluster networks.
+
 ## Points & Awards
 
 | Award Level | Requirement |

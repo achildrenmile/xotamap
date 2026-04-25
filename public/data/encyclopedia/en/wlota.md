@@ -9,9 +9,11 @@ Lighthouses have always held a special fascination, and WLOTA combines this with
 ## Rules
 
 - **Minimum QSOs:** 1 contact
-- **Activation zone:** At or near the lighthouse
+- **Activation zone:** On the same island as the lighthouse (not merely "at or near")
 - **Equipment:** Any setup
 - **Operating modes:** SSB, CW, FM, all digital modes
+- **Maritime mobile:** Operating from the water does **not** count as a valid activation
+- **New lighthouse authentication:** 100 QSOs are required to add a new lighthouse to the WLOL database
 - **Special requirements:** The lighthouse must be registered in the ARLHS World List of Lights (WLOL).
 
 ## Points & Awards
@@ -33,7 +35,12 @@ Lighthouses have always held a special fascination, and WLOTA combines this with
 
 Austria is landlocked and has no lighthouses of its own. Austrian operators can participate as chasers or activate lighthouses abroad.
 
+## For Hunters
+
+Hunters work activated lighthouses from a fixed location. Each unique WLOL lighthouse worked counts towards the hunter score. Hunter awards mirror the activator tiers: WLOTA Bronze (100 lighthouses), Silver (200) and Gold (500). Contacts are submitted via the WLOTA website and logs should include the WLOL reference number.
+
 ## Links
 
 - [Official Website](https://wlota.com)
+- [WLOTA Rules](https://wlota.com/index.php/awards/rules-award)
 - [ARLHS World List of Lights](https://wlol.arlhs.com)

@@ -12,6 +12,20 @@ Beaches On The Air (BOTA) je mednarodni program za radioamaterstvo, ki spodbuja 
 - **Načini delovanja:** SSB, CW, FM, vsi digitalni načini
 - **Posebne zahteve:** Fotografska dokumentacija priporočena. Slana voda in pesek zahtevata dodatno zaščito opreme.
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem na registrirani plaži lovec zbira obdelane reference. Ker je BOTA odprt program brez strogih pravil, je lovljenje enostavno — dovolj je slediti spotom na spletu in klicati aktivatorje.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| BOTA Bron | 25 različnih plaž obdelanih |
+| BOTA Srebro | 50 različnih plaž obdelanih |
+| BOTA Zlato | 100 različnih plaž obdelanih |
+
+Spote aktivnih postaj najdeš na spletni strani [beachesontheair.com](https://beachesontheair.com). Dnevnik oddaš prek iste platforme.
+
 ## Točke & Nagrade
 
 | Stopnja | Zahteva |

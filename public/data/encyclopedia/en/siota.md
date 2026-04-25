@@ -16,6 +16,20 @@ The programme encourages the exploration of rural Australia and takes radio amat
 - **Operating Modes:** All modes permitted (SSB, CW, FT8, FM, etc.)
 - **Special Requirements:** The activated silo must be registered in the SiOTA database; a photo from the location is appreciated
 
+## For Hunters/Chasers
+
+Hunters work SiOTA activators from home or any location, accumulating unique silo references toward chaser awards. Each silo reference worked counts once, regardless of how many times it is contacted. Hunters log their QSOs and submit them via the SiOTA website at silosontheair.com.
+
+| Award | Requirement |
+|-------|-------------|
+| SiOTA Bronze | 10 different silo references worked |
+| SiOTA Silver | 25 different silo references worked |
+| SiOTA Gold | 50 different silo references worked |
+| SiOTA Platinum | 100 different silo references worked |
+| Silo Art Award | All painted silos on the Silo Art Trail worked |
+
+Active SiOTA spots are announced on the SiOTA platform and standard DX cluster networks.
+
 ## Points & Awards
 
 | Award | Requirement |

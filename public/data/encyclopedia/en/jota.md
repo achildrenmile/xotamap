@@ -16,6 +16,12 @@ Unlike most xOTA programmes, JOTA is not based on reference numbers or the activ
 - **Operating Modes:** SSB, CW, FM, all digital modes — SSB on HF is the most popular
 - **Special Requirements:** The station must be operated by a licensed radio amateur. Scouts without a licence may speak on the microphone under supervision (depending on national regulations). Registration via the JOTA-JOTI platform is recommended.
 
+## For Hunters/Chasers
+
+JOTA does not have a formal hunter/chaser programme with awards for worked contacts. However, licensed radio amateurs who contact JOTA Scout stations during the October weekend are warmly welcomed — every QSO contributes to the Scout group's experience and global participation count. Many operators make a point of working as many JOTA stations as possible during the event weekend.
+
+No log submission or chaser certificate is issued, but contacts with JOTA stations can be noted in a personal log. JOTA station spots and frequencies are published on the JOTA-JOTI platform at jotajoti.info in advance of the event.
+
 ## Points & Awards
 
 | Level | Description |

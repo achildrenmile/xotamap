@@ -16,6 +16,22 @@ HOTA spodbuja skupnostni duh v radioamaterstvu, tako da vsakodnevne bivalne pros
 - **Nacini delovanja:** Vsi nacini (SSB, CW, FT8, FM itd.)
 - **Posebne zahteve:** Hisa mora biti registrirana v sistemu HOTA in imeti veljavno referencno stevilko
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem na registrirani hiši lovec zbira HOTA-reference. Ker je HOTA zasnovan z nizko vstopno oviro, je lovljenje dostopno vsem — tudi z enostavno VHF ali KV postajo.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| HOTA Bronze | 25 različnih HOTA-referenc delanih |
+| HOTA Silver | 50 različnih HOTA-referenc delanih |
+| HOTA Gold | 100 različnih HOTA-referenc delanih |
+| HOTA Platinum | 250 različnih HOTA-referenc delanih |
+| HOTA Diamond | 500 različnih HOTA-referenc delanih |
+
+Spote aktivnih postaj in beleženje dnevnika poteka prek uradne platforme [hota.org.uk](https://hota.org.uk).
+
 ## Tocke & Nagrade
 
 | Nagrada | Zahteva |

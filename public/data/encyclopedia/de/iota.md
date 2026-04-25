@@ -16,6 +16,22 @@ IOTA-Aktivierungen erfordern oft erheblichen logistischen Aufwand, da viele Inse
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
 - **Besondere Anforderungen:** Der Operator muss sich physisch auf einer qualifizierenden Insel befinden. Für Awards ist eine QSL-Karte oder elektronische Bestätigung erforderlich.
 
+## Für Jäger
+
+IOTA-Jäger (Chaser) arbeiten Inselstationen von zu Hause aus. Gewertet werden **bestätigte IOTA-Gruppen** — es genügt ein QSO mit einer beliebigen Insel innerhalb einer Gruppe. Für Awards ist eine Bestätigung über QSL-Karte oder LoTW (Logbook of the World) zwingend erforderlich; die Einreichung erfolgt über [Club Log](https://www.clublog.org).
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| IOTA 100 | 100 IOTA-Gruppen bestätigt |
+| IOTA 200 | 200 IOTA-Gruppen bestätigt |
+| IOTA 500 | 500 IOTA-Gruppen bestätigt |
+| IOTA 750 | 750 IOTA-Gruppen bestätigt |
+| Honour Roll | 1.000+ IOTA-Gruppen bestätigt (Topwertung) |
+
+Aktive IOTA-Expeditionen werden auf den einschlägigen DX-Cluster-Diensten angekündigt. QSL-Karten oder LoTW-Bestätigungen sind für die Award-Einreichung unbedingt nötig.
+
 ## Punkte & Awards
 
 | Stufe | Anforderung |

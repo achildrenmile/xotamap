@@ -16,6 +16,18 @@ Darueber hinaus organisiert YOTA jaehrlich ein internationales Sommercamp, bei d
 - **Betriebsarten:** SSB, CW, FM, FT8, FT4 und alle digitalen Modes
 - **Besondere Anforderungen:** Teilnehmer sollen unter 26 Jahre alt sein. Fuer den YOTA Month beantragen nationale Amateurfunkverbaende spezielle YOTA-Rufzeichen. Erfahrene Funkamateure duerfen als Mentoren unterstuetzen.
 
+## Für Jäger
+
+Beim YOTA Month im Dezember können alle Funkamateure — unabhängig vom Alter — aktiv nach YOTA-Sonderstationen aus verschiedenen Ländern jagen. Wer mehrere YOTA-Stationen arbeitet, kann den YOTA Month Award beantragen. Das Jagen von YOTA-Stationen ist eine wichtige Form der Unterstützung: Jedes QSO motiviert die jungen Operatoren und zeigt ihnen, dass sie weltweit empfangen werden.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| YOTA Month Award | Für Jäger, die mehrere YOTA-Sonderstationen im Dezember arbeiten |
+
+Aktive YOTA-Stationen und deren Frequenzen werden auf [ham-yota.com](https://ham-yota.com) sowie auf DX-Cluster-Plattformen angekündigt.
+
 ## Punkte & Awards
 
 | Stufe | Beschreibung |

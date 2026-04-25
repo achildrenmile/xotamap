@@ -10,10 +10,12 @@ Unlike many other programmes, the activation zone is relatively generously defin
 
 ## Rules
 
-- **Minimum QSOs:** 1 contact
+- **Minimum QSOs:** 10 contacts
 - **Activation Zone:** Within 200 metres of the shore of the lake, lagoon or reservoir
 - **Equipment:** Portable or mobile operation
-- **Operating Modes:** SSB, CW, FM, all digital modes
+- **Operating Modes:** SSB, CW, FM, all digital modes — **no repeater operation** (simplex only)
+- **Maritime mobile:** Operating from the water (boat on the lake) is also valid
+- **Log submission:** ADIF log must be submitted within 30 days of the activation
 - **Special Requirements:** The water body must be registered in the LLOTA reference database. New water bodies can be proposed.
 
 ## Points & Awards
@@ -39,7 +41,11 @@ Unlike many other programmes, the activation zone is relatively generously defin
 
 Austria is a paradise for LLOTA activations. With hundreds of lakes, there are countless opportunities — from Lake Constance in the west, through the Carinthian lakes (Woerthersee, Millstaetter See, Ossiacher See), to Neusiedler See in the east. Alpine reservoirs (e.g. Speicher Koelnbrein, Schlegeis Reservoir) are also appealing locations.
 
+## For Hunters
+
+Hunters participate from a fixed location — home or any stationary setup — and work stations activating LLOTA lakes. Each unique lake worked counts towards the hunter score. Hunters can earn the same tiered awards (Bronze/Silver/Gold) as activators. Contacts are credited via the ADIF log submitted through the LLOTA system.
+
 ## Links
 
 - [Official Website & Reference Database](https://www.outnaboot.ca/llota/)
-- [LLOTA Rules](https://www.outnaboot.ca/llota/)
+- [LLOTA Rules](https://llota.app/reglas.html)

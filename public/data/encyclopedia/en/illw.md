@@ -12,6 +12,8 @@ ILLW was founded in 1998, evolving from the Scottish Northern Lighthouse Weekend
 - **Activation zone:** At or near the lighthouse/lightship
 - **Equipment:** Any setup
 - **Operating modes:** SSB, CW, FM, all digital modes
+- **Not a contest:** ILLW is not a contest — there are no points, no rankings and no prizes
+- **Station identification:** Stations are encouraged to append "LIGHT" or "LIGHTHOUSE" to their callsign (e.g. G3XYZ/LIGHTHOUSE)
 - **Special requirements:** Event takes place on the third full weekend of August. Registration on the ILLW website required.
 
 ## Points & Awards
@@ -32,8 +34,12 @@ ILLW was founded in 1998, evolving from the Scottish Northern Lighthouse Weekend
 
 Austria has no lighthouses of its own, but Austrian operators regularly participate as chasers. For an activation, lighthouses in neighbouring countries are a good option.
 
+## For Hunters
+
+Hunters participate from home or a fixed location and work registered ILLW lighthouses during the event weekend. Since ILLW is not a contest there is no formal hunter scoring — the appeal lies in collecting contacts with as many different lighthouses around the world as possible. Contacts can be used towards WLOTA or ARLHS awards provided the relevant reference numbers were exchanged.
+
 ## Links
 
 - [Official Website](https://illw.net)
-- [Rules for Entrants](https://illw.net/index.php/entrants-ede-pages/rules-for-entrants)
+- [Guidelines](https://illw.net/index.php/guidelines)
 - [Registration](https://illw.net)

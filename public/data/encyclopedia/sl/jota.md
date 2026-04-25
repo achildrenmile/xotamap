@@ -16,6 +16,12 @@ V nasprotju z vecino xOTA-programov JOTA ne temelji na referencnih stevilkah ali
 - **Nacini delovanja:** SSB, CW, FM, vsi digitalni nacini — SSB na kratkem valu je najbolj priljubljen
 - **Posebne zahteve:** Postajo mora upravljati licenciran radioamater. Taborniki brez licence smejo pod nadzorom govoriti v mikrofon (odvisno od nacionalne zakonodaje). Prijava prek platforme JOTA-JOTI je priporocljiva.
 
+## Za Lovce
+
+JOTA ni klasičen referencni program z lovskimi nagradami, a vsak radioamater, ki med oktobrskim koncem tedna navezuje stike s taborniškimi postajami, posredno prispeva k uspehu dogodka. Izkušeni radioamaterji so spodbujeni, da aktivno iščejo postaje JOTA in govorijo z mladimi taborniki — ta mednarodni stik je srce celotnega programa.
+
+Formalne lovske nagrade za JOTA niso predvidene. Radioamaterji, ki skrbijo za postaje ali lovijo taborniške postaje, lahko od organizacije JOTA-JOTI prejmejo potrdilo o udeležbi. Kontakti s taborniškimi postajami se priporoča beležiti v običajnem dnevniku QSO.
+
 ## Tocke & Nagrade
 
 | Stopnja | Opis |

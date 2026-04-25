@@ -16,6 +16,22 @@ Program spodbuja raziskovanje podezelske Avstralije in radioamaterje vodi na kra
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FT8, FM itd.)
 - **Posebne zahteve:** Aktivirani silos mora biti registriran v bazi podatkov SiOTA; fotografija z lokacije je dobrodosla
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem pri registriranem silosu lovec zbira reference SiOTA. Spote aktivnih postaj najdeš na platformi SiOTA ali v splošnih radioamaterskih spot sistemih.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| SiOTA Bronze | 10 različnih referenc silosov delanih |
+| SiOTA Silver | 25 različnih referenc silosov delanih |
+| SiOTA Gold | 50 različnih referenc silosov delanih |
+| SiOTA Platinum | 100 različnih referenc silosov delanih |
+| Silo Art Award | Vsi poslikani silosi Silo Art Trail delani |
+
+Dnevnik oddaš in napredek spremljaš prek uradne spletne strani [silosontheair.com](https://silosontheair.com).
+
 ## Tocke & Nagrade
 
 | Nagrada | Zahteva |

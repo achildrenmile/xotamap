@@ -16,6 +16,19 @@ SOTA unterscheidet zwischen Aktivierern (die vom Gipfel funken) und Jägern (die
 - **Betriebsarten:** SSB, CW, FM, FT8, alle digitalen Modes
 - **Besondere Anforderungen:** Der Aktivierer muss den Gipfel aus eigener Kraft erreichen. Fahrzeuge, Seilbahnen oder andere motorisierte Transportmittel sind für den Aufstieg nicht erlaubt.
 
+## Für Jäger
+
+SOTA-Jäger (Hunter) arbeiten Aktivierer von zu Hause oder einem beliebigen anderen Standort aus — kein Gipfelaufstieg erforderlich. Für jede Verbindung mit einem Aktivierer auf einem qualifizierenden Gipfel erhält der Jäger **1 Jägerpunkt**, unabhängig vom Punktwert des Gipfels.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| Shack Sloth | 1.000 Jägerpunkte |
+| Super Sloth | 10.000 Jägerpunkte |
+
+Jäger-QSOs werden auf [sotadata.org.uk](https://sotadata.org.uk) eingetragen. Es empfiehlt sich, die Echtzeit-Spots auf [SOTAwatch](https://sotawatch.sota.org.uk) zu verfolgen, um aktive Aktivierer zu finden.
+
 ## Punkte & Awards
 
 | Stufe | Punkte |

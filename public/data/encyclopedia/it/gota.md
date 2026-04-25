@@ -16,6 +16,12 @@ A differenza della maggior parte dei programmi xOTA, GOTA non è un programma di
 - **Modi operativi:** Tutti i modi ammessi al Field Day (SSB, CW, digitale)
 - **Requisiti speciali:** Un operatore di controllo licenziato deve supervisionare la stazione GOTA in ogni momento; gli operatori GOTA non devono possedere una licenza attiva della classe più alta
 
+## Per i Cacciatori
+
+GOTA è un evento orientato alla partecipazione diretta sul campo e non prevede una categoria formale di "cacciatore" nel senso tradizionale. Tuttavia, i radioamatori già licenziati possono collegarsi alle stazioni GOTA durante il fine settimana dell'ARRL Field Day per contribuire al punteggio del gruppo e supportare i nuovi operatori. Ogni QSO effettuato con una stazione GOTA conta per il punteggio complessivo del Field Day del gruppo ospitante.
+
+Non esistono premi specifici per chi collega stazioni GOTA dall'esterno, ma la partecipazione contribuisce alla promozione del radioamatorismo tra i principianti. Chi desidera monitorare le stazioni GOTA attive può consultare le frequenze standard del Field Day e i cluster radioamatoriali durante l'evento.
+
 ## Punti & Premi
 
 | Risultato | Punti |

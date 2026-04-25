@@ -16,6 +16,21 @@ WAI je namenjen tako irskim radioamaterjem, ki zelijo sistematicno aktivirati sv
 - **Nacini delovanja:** Vsi obicajni nacini (SSB, CW, FM, digitalni nacini)
 - **Posebne zahteve:** WAI-referencna stevilka mora biti pravilno navedena; QSL-kartice ali elektronske potrditve kot dokaz
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. WAI je zasnovan tako, da nagrajuje zbiranje irskih kvadratov — vsak QSO z aktivatorjem, ki navede veljavno WAI-referenco, šteje. Ker so nekateri oddaljeni irski kvadrati redko aktivirani, so stiki z njimi posebej cenjeni.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| WAI Bronze | 50 različnih WAI-kvadratov delanih |
+| WAI Silver | 100 različnih WAI-kvadratov delanih |
+| WAI Gold | 200 različnih WAI-kvadratov delanih |
+| WAI All Ireland | Vse razpoložljive WAI-reference delane |
+
+Kontakte dokumentiraj z QSL-karticami ali elektronskimi potrditvami in jih oddaj za nagrade. Spote poišči v splošnih DX-cluster sistemih.
+
 ## Tocke & Nagrade
 
 | Nagrada | Zahteva |

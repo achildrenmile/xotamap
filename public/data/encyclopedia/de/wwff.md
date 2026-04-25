@@ -16,6 +16,21 @@ WWFF unterscheidet sich von POTA durch die höhere Mindest-QSO-Zahl (44 statt 10
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
 - **Besondere Anforderungen:** 44 QSOs sind erforderlich. Man muss sich innerhalb der Grenzen des offiziell anerkannten Schutzgebietes befinden.
 
+## Für Jäger
+
+WWFF-Jäger (Hunter) arbeiten Aktivierer von zu Hause aus. Für jede Verbindung mit einer Station in einem qualifizierenden WWFF-Schutzgebiet wird die Referenz gewertet. Es kommt auf die Anzahl **verschiedener WWFF-Referenzen** an, nicht auf die Gesamtzahl der QSOs.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| Hunter — Bronze | 100 verschiedene WWFF-Referenzen gearbeitet |
+| Hunter — Silver | 250 verschiedene WWFF-Referenzen gearbeitet |
+| Hunter — Gold | 500 verschiedene WWFF-Referenzen gearbeitet |
+| Hunter — Diamond | 1.000 verschiedene WWFF-Referenzen gearbeitet |
+
+Jäger-Logs werden auf [logsearch.wwff.co](https://logsearch.wwff.co) eingetragen. Spots finden sich über die GMA-Plattform oder andere Spot-Dienste.
+
 ## Punkte & Awards
 
 | Stufe | Anforderung |

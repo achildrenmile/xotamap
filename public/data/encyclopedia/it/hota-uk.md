@@ -16,6 +16,20 @@ HOTA promuove lo spirito comunitario nel radioamatorismo trasformando luoghi abi
 - **Modi operativi:** Tutti i modi (SSB, CW, FT8, FM ecc.)
 - **Requisiti speciali:** La casa deve essere registrata nel sistema HOTA e possedere un numero di riferimento valido
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dalle case registrate da casa propria e raccolgono contatti per i propri premi. Ogni collegamento con un attivatore che trasmette da un riferimento HOTA-UK valido conta come nuovo riferimento nel log del cacciatore. Gli spot vengono pubblicati sul sito ufficiale e sui cluster radioamatoriali, rendendo facile individuare le stazioni attive.
+
+| Premio | Requisito |
+|--------|-----------|
+| HOTA Bronze | 25 riferimenti HOTA diversi lavorati |
+| HOTA Silver | 50 riferimenti HOTA diversi lavorati |
+| HOTA Gold | 100 riferimenti HOTA diversi lavorati |
+| HOTA Platinum | 250 riferimenti HOTA diversi lavorati |
+| HOTA Diamond | 500 riferimenti HOTA diversi lavorati |
+
+I premi per i cacciatori vengono richiesti tramite il sito [hota.org.uk](https://hota.org.uk), dove è possibile caricare i log e monitorare i progressi.
+
 ## Punti & Premi
 
 | Premio | Requisito |

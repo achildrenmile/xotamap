@@ -16,6 +16,20 @@ Alfred Wainwrights handgezeichnete Karten und detaillierten Routenbeschreibungen
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
 - **Besonderes:** Die Gipfel umfassen die 214 Wainwrights sowie weitere Outlying Fells im Lake District, England
 
+## Für Jäger
+
+WOTA-Jäger arbeiten Wainwright-Aktivierer von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Aufstieg in den Lake District erforderlich. Jede Verbindung mit einem Aktivierer auf einem qualifizierenden Wainwright-Gipfel zählt für die Jäger-Awards. Da die meisten Aktivierungen im UKW-Bereich oder auf Kurzwelle mit portablen Stationen stattfinden, sind gute Ausbreitungsbedingungen hilfreich.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| WOTA Bronze | 50 verschiedene Wainwrights gearbeitet |
+| WOTA Silver | 100 verschiedene Wainwrights gearbeitet |
+| WOTA Gold | 214 Wainwrights gearbeitet (alle Original-Gipfel) |
+
+Aktive WOTA-Aktivierungen und Spots sind auf wota.org.uk sowie auf DX-Cluster-Plattformen zu finden.
+
 ## Punkte & Awards
 
 | Award | Anforderung |

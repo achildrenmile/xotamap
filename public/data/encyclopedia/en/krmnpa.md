@@ -16,6 +16,19 @@ The programme is managed through the Parks'n'Peaks platform, which also supports
 - **Operating Modes:** All modes permitted (SSB, CW, Digital, FM)
 - **Special Requirements:** Observe park management permits; some parks have restrictions on antennas or generators
 
+## For Hunters/Chasers
+
+Hunters work KRMNPA activators from home or any location, collecting unique Australian national and state park references toward chaser awards. Each park reference worked counts once regardless of how many times it is contacted. Chaser logs are submitted via the Parks'n'Peaks platform at parksnpeaks.org, which tracks progress automatically.
+
+| Award | Requirement |
+|-------|-------------|
+| KRMNPA Bronze | 25 different parks contacted |
+| KRMNPA Silver | 50 different parks contacted |
+| KRMNPA Gold | 100 different parks contacted |
+| Platinum | 200 different parks contacted |
+
+Active KRMNPA spots are posted on the Parks'n'Peaks website and standard DX cluster networks.
+
 ## Points & Awards
 
 | Award | Requirement |

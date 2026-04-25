@@ -14,6 +14,20 @@ Das Programm verbindet die Faszination fuer englische Geschichte mit dem Amateur
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Zugangserlaubnis des Grundstueckseigentuemers beachten; viele Burgen sind im Besitz von English Heritage oder National Trust und erfordern Eintritt
 
+## Für Jäger
+
+ECA-Jäger arbeiten Burgenstationen von zu Hause aus und sammeln Kontakte für eigene Awards. Jeder bestätigte QSO mit einer aktiven ECA-Burg zählt als Jägerpunkt.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| ECA Bronze | 25 verschiedene Burgen gearbeitet |
+| ECA Silber | 50 verschiedene Burgen gearbeitet |
+| ECA Gold | 100 verschiedene Burgen gearbeitet |
+
+QSOs werden über das GMA-Portal auf [cqgma.org](https://www.cqgma.org) geloggt. Aktive Burgenstationen findest du über die GMA-Spotseite.
+
 ## Punkte & Awards
 
 | Award-Stufe | Anforderung |

@@ -14,6 +14,20 @@ Program praznuje industrijsko in kmetijsko dediscino Evrope. Mlini so bili skozi
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FM, digitalni nacini)
 - **Posebne zahteve:** Pridobi dovoljenje lastnika ali drustva mlina; posebna previdnost pri delujocih mlinih s premicnimi deli
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem pri registriranem mlinu lovec zbira reference MOTA. Spote aktivnih postaj najdeš na portalu GMA na [cqgma.org](https://www.cqgma.org).
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| MOTA Bronze | 20 različnih mlinov kontaktiranih |
+| MOTA Srebro | 50 različnih mlinov kontaktiranih |
+| MOTA Zlato | 100 različnih mlinov kontaktiranih |
+
+Dnevnik naložiš prek portala GMA, kjer se lovske aktivnosti samodejno evidentirajo in upoštevajo pri nagradah.
+
 ## Tocke & Nagrade
 
 | Stopnja nagrade | Zahteva |

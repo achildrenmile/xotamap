@@ -16,6 +16,20 @@ WAB is particularly popular among mobile operators who drive through different g
 - **Operating Modes:** All modes (SSB, CW, FM, digital modes)
 - **Special Requirements:** The correct WAB grid square reference (e.g. SP15) must be provided during the QSO
 
+## For Hunters/Chasers
+
+Hunters work WAB stations from home or any location, collecting contacts with operators in different OS grid squares. During each QSO, the activator's WAB grid square reference (e.g. SP15) must be exchanged — this is the core mechanic of the programme. Hunters log each unique square worked and progress through the WAB Book award system.
+
+| Award | Requirement |
+|-------|-------------|
+| WAB Book 1 | First tier — introductory number of grid squares worked |
+| WAB Book 2–10 | Advancing tiers with increasing square counts |
+| WAB All Districts | All districts of a specific area worked |
+| WAB Counties Award | All British counties worked |
+| WAB Islands Award | Specified number of British islands worked |
+
+Logs are submitted via the WAB membership system at wab.org.uk. WAB nets and mobile stations are regularly active on 144 MHz FM and HF SSB; upcoming activations are announced in the WAB newsletter and on club nets.
+
 ## Points & Awards
 
 | Award | Requirement |

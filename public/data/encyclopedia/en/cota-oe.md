@@ -16,6 +16,18 @@ Austria possesses an extraordinarily rich cultural heritage of castles — from 
 - **Operating modes:** SSB, CW, FM, all digital modes
 - **Special requirements:** Castle must be in the AFCH/OVSV reference list. Photo documentation recommended.
 
+## For Hunters/Chasers
+
+Hunters work Austrian castle stations from home or any location, collecting contacts toward their own awards. When a COTA-OE activator announces a castle reference on the air, hunters call in and log the contact. The COTA-OE diploma programme has tiered levels based on the number of unique Austrian castle references worked.
+
+| Award | Requirement |
+|-------|-------------|
+| COTA-OE Diploma Bronze | 25 unique Austrian castles worked |
+| COTA-OE Diploma Silver | 100 unique Austrian castles worked |
+| COTA-OE Diploma Gold | 250 unique Austrian castles worked |
+
+Contacts should be logged and submitted to the COTA-OE manager via email. Spots for active COTA-OE activations are posted on DX cluster networks and the AFCH website.
+
 ## Points & Awards
 
 | Level | Description |

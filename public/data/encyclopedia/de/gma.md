@@ -16,6 +16,12 @@ Mit über 150.000 Referenzen weltweit ist GMA die umfangreichste Outdoor-Datenba
 - **Betriebsarten:** Alle Bänder und Betriebsarten erlaubt (SSB, CW, FM, FT8, alle Digitalmodi)
 - **Besondere Anforderungen:** Keine Transporteinschränkung — Seilbahn, Auto, Fahrrad alles erlaubt. Der Standort muss eine gültige GMA-Referenznummer haben.
 
+## Für Jäger
+
+GMA-Jäger (Chaser) arbeiten Aktivierer von zu Hause aus. Für jedes QSO mit einer Station an einem GMA-Referenzpunkt (Berg, Burg, Leuchtturm etc.) erhält der Jäger **1 Punkt**. Es gibt keine Mindestanzahl an QSOs — jeder Kontakt zählt.
+
+Erreichte Punkte werden über die Awards der GMA-Plattform anerkannt. Die Logs werden auf [cqgma.org](https://www.cqgma.org) hochgeladen. Spots aktiver Aktivierer sind ebenfalls auf der GMA-Website in Echtzeit einsehbar.
+
 ## Punkte & Awards
 
 Bei Bergaktivierungen gilt: **1 Punkt pro 100 Höhenmeter** des Gipfels.

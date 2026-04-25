@@ -16,6 +16,21 @@ Program se upravlja prek platforme Parks'n'Peaks, ki podpira tudi druge avstrals
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, digitalno, FM)
 - **Posebne zahteve:** Upostevaj dovoljenja parkovne uprave; v nekaterih parkih veljajo omejitve za antene ali generatorje
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem v avstralskem nacionalnem ali državnem parku lovec zbira reference KRMNPA. Spote aktivnih postaj najdeš na platformi Parks'n'Peaks ali v splošnih DX-cluster sistemih.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| KRMNPA Bronze | 25 različnih parkov kontaktiranih |
+| KRMNPA Silver | 50 različnih parkov kontaktiranih |
+| KRMNPA Gold | 100 različnih parkov kontaktiranih |
+| Platinum | 200 različnih parkov kontaktiranih |
+
+Dnevnik oddaš in napredek spremljaš prek platforme [parksnpeaks.org](https://parksnpeaks.org).
+
 ## Tocke & Nagrade
 
 | Nagrada | Zahteva |

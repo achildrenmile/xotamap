@@ -8,11 +8,25 @@ Vsak grad ima edinstveno WCA referenčno številko, sestavljeno iz predpone drž
 
 ## Pravila
 
-- **Minimalno QSO-jev:** 1 zveza (brez minimuma)
-- **Aktivacijska cona:** Na območju gradu ali v vidnem polju gradu
+- **Minimalno QSO-jev:** 50 zvez potrebnih za veljavno aktivacijo
+- **Aktivacijska cona:** V radiju 1 km od gradu/trdnjave
 - **Oprema:** Katerakoli prenosna ali mobilna konfiguracija
 - **Načini delovanja:** SSB, CW, FM, vsi digitalni načini
-- **Posebne zahteve:** Fotografska dokumentacija je priporočena.
+- **Posebne zahteve:** Fotografska dokumentacija je lahko zahtevana. Lokacija mora biti trajna utrdba ali obnovljena terenska utrdba.
+
+## Za Hunterje/Chaserje
+
+Hunterji delajo zveze z gradovnimi postajami od doma in zbirajo kontakte za lastne nagrade. Za hunterje so na voljo naslednje nagrade:
+
+| Nagrada | Zahteva |
+|---------|---------|
+| WCA-50 | 50 različnih gradov obdelanih |
+| WCA-100 | 100 različnih gradov obdelanih |
+| WCA-200 | 200 različnih gradov obdelanih |
+| WCA-500 | 500 različnih gradov obdelanih |
+| WCA-1000 | 1.000 različnih gradov obdelanih |
+
+Kot dokazilo so potrebne QSL kartice ali elektronske potrditve (npr. prek sistema WCA za dnevnike).
 
 ## Točke & Nagrade
 

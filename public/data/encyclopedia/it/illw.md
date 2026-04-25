@@ -12,6 +12,8 @@ ILLW è stato fondato nel 1998. L'evento promuove l'operazione da fari e navi-fa
 - **Zona di attivazione:** Presso o vicino al faro
 - **Equipaggiamento:** Qualsiasi configurazione
 - **Modi operativi:** SSB, CW, FM, tutti i modi digitali
+- **Non è un contest:** ILLW non è un contest — non ci sono punti, classifiche o premi
+- **Identificazione della stazione:** Le stazioni sono incoraggiate ad aggiungere "LIGHT" o "LIGHTHOUSE" al proprio nominativo (es. IK0XYZ/LIGHTHOUSE)
 - **Requisiti speciali:** L'evento si svolge il terzo fine settimana di agosto. Registrazione richiesta.
 
 ## Punti & Premi
@@ -27,7 +29,12 @@ ILLW è stato fondato nel 1998. L'evento promuove l'operazione da fari e navi-fa
 3. **Registrati:** Registra la tua partecipazione sul sito ILLW.
 4. **Attiva:** Opera dal faro durante il weekend dell'evento.
 
+## Per i Hunter
+
+I hunter partecipano da casa o da una postazione fissa e lavorano i fari ILLW registrati durante il weekend dell'evento. Poiché ILLW non è un contest, non esiste un punteggio formale per i hunter — il fascino sta nel raccogliere contatti con il maggior numero possibile di fari in tutto il mondo. I contatti possono essere utilizzati per i premi WLOTA o ARLHS, a condizione che siano stati scambiati i relativi numeri di riferimento.
+
 ## Link
 
 - [Sito ufficiale](https://illw.net)
-- [Regole](https://illw.net/index.php/entrants-ede-pages/rules-for-entrants)
+- [Linee guida](https://illw.net/index.php/guidelines)
+- [Registrazione](https://illw.net)

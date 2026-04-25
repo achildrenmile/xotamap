@@ -16,6 +16,20 @@ Program uziva veliko priljubljenost tako med novozelandskimi radioamaterji kot m
 - **Nacini delovanja:** SSB, CW, FM in vsi digitalni nacini
 - **Posebnost:** Razlicni tipi referenc na Novi Zelandiji (vrhovi, parki, svetilniki itd.)
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem na novozelandski referenci ZLOTA lovec zbira točke. Ker platforma združuje različne tipe referenc (vrhovi, parki, svetilniki itd.), je raznolikost lovljenih lokacij posebej bogata. Spote aktivnih postaj najdeš na portalu [ontheair.nz](https://ontheair.nz).
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| ZLOTA Bronze | 50 referenc kontaktiranih |
+| ZLOTA Silver | 150 referenc kontaktiranih |
+| ZLOTA Gold | 300 referenc kontaktiranih |
+
+Dnevnik naložiš in napredek spremljaš prek uradne platforme [ontheair.nz](https://ontheair.nz).
+
 ## Tocke & Nagrade
 
 | Nagrada | Zahteva |

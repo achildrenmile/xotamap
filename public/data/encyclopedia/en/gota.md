@@ -16,6 +16,10 @@ Unlike most xOTA programmes, GOTA is not a reference-based activation programme.
 - **Operating Modes:** All modes allowed at Field Day (SSB, CW, Digital)
 - **Special Requirements:** A licensed control operator must supervise the GOTA station at all times; GOTA operators must not hold an active licence of the highest class
 
+## For Hunters/Chasers
+
+Because GOTA is an operating category within ARRL Field Day rather than a reference-based programme, there is no formal hunter/chaser role in the traditional xOTA sense. Any amateur radio operator can work a GOTA station during the Field Day weekend — each QSO counts toward that group's overall Field Day score. There are no separate chaser awards or logs for GOTA contacts. If you work a Field Day station running a GOTA category, simply log the contact as a normal Field Day QSO.
+
 ## Points & Awards
 
 | Achievement | Points |

@@ -10,10 +10,12 @@ V primerjavi z mnogimi drugimi programi je aktivacijska cona dokaj velikodusno o
 
 ## Pravila
 
-- **Najmanj QSO:** 1 zveza
+- **Najmanj QSO:** 10 zvez
 - **Aktivacijska cona:** Znotraj 200 metrov od brega jezera, lagune ali zajezitvnega jezera
 - **Oprema:** Prenosno ali mobilno delovanje
-- **Nacini delovanja:** SSB, CW, FM, vsi digitalni nacini
+- **Nacini delovanja:** SSB, CW, FM, vsi digitalni nacini — **brez ponavljalnikov** (samo simpleks frekvence)
+- **Pomorsko mobilno:** Delovanje z vode (coln na jezeru) je prav tako veljavno
+- **Oddaja dnevnika:** ADIF-dnevnik mora biti oddan v 30 dneh po aktivaciji
 - **Posebne zahteve:** Vodno telo mora biti registrirano v referencni bazi podatkov LLOTA. Nove vode je mogoce predlagati.
 
 ## Tocke & Nagrade
@@ -39,7 +41,11 @@ V primerjavi z mnogimi drugimi programi je aktivacijska cona dokaj velikodusno o
 
 Avstrija je raj za aktivacije LLOTA. S stotinami jezer se ponujajo neskoncne moznosti — od Bodenskega jezera na zahodu prek koroskih jezer (Worthersee, Millstaetter See, Ossiacher See) do Neziderskega jezera na vzhodu. Tudi zajezitvena jezera v Alpah (npr. Speicher Koelnbrein, Schlegeis-Stausee) so privlacne lokacije.
 
+## Za lovce (Hunter)
+
+Lovci sodelujejo s fiksne lokacije — od doma ali katere koli stacionarne postavitve — in delajo postaje, ki aktivirajo jezera LLOTA. Vsako unikatno jezero, ki ga lovci delajo, steje za njihov rezultat. Lovci lahko pridobijo enake stopenjske nagrade (Bron/Srebro/Zlato) kot aktivatorji. Zveze se pripisejo prek ADIF-dnevnika, ki ga aktivator odda prek sistema LLOTA.
+
 ## Povezave
 
 - [Uradna spletna stran in referencna baza podatkov](https://www.outnaboot.ca/llota/)
-- [Pravila LLOTA](https://www.outnaboot.ca/llota/)
+- [Pravila LLOTA](https://llota.app/reglas.html)

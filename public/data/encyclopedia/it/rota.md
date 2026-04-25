@@ -14,6 +14,18 @@ Il programma è stato creato per richiamare l'attenzione sull'importanza della c
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FM, modi digitali)
 - **Requisiti speciali:** Registrazione tramite il sito RFRG prima dell'evento; rispettare rigorosamente le norme di sicurezza del terreno ferroviario
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni ferroviarie da casa durante il fine settimana ROTA e raccolgono contatti per i propri premi. Non è necessario recarsi fisicamente alle ferrovie storiche — basta collegarsi alle stazioni attive sulle frequenze standard dell'evento. Gli spot vengono pubblicati sui cluster radioamatoriali e sul sito RFRG, rendendo semplice individuare le stazioni ferroviarie attive.
+
+| Premio | Requisito |
+|--------|-----------|
+| ROTA Bronzo | 15 stazioni ferroviarie diverse lavorate |
+| ROTA Argento | 30 stazioni ferroviarie diverse lavorate |
+| ROTA Oro | 50 stazioni ferroviarie diverse lavorate |
+
+I log per i premi del cacciatore vengono inviati alla RFRG tramite il sito [rfrg.org.uk](https://www.rfrg.org.uk) dopo il fine settimana dell'evento.
+
 ## Punti & Premi
 
 | Livello del premio | Requisito |

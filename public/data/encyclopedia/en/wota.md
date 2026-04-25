@@ -16,6 +16,19 @@ Alfred Wainwright's hand-drawn maps and detailed route descriptions have inspire
 - **Operating Modes:** All modes permitted (SSB, CW, FM, digital modes)
 - **Special:** Summits are the 214 Wainwrights plus additional Outlying Fells in the Lake District, England
 
+## For Hunters/Chasers
+
+Hunters work WOTA activators from home or any location, collecting Wainwright summit references toward chaser awards. When an activator reaches a Wainwright summit, hunters call in and log the summit reference. Both worked and activated summits count toward the same award tiers, so chasers and activators share a unified award ladder.
+
+| Award | Requirement |
+|-------|-------------|
+| WOTA Bronze | 50 different Wainwrights worked |
+| WOTA Silver | 100 different Wainwrights worked |
+| WOTA Gold | 214 Wainwrights worked (all original summits) |
+| WOTA Outlying Fells | Additional Outlying Fells worked |
+
+Chaser logs are submitted via the WOTA website at wota.org.uk. Active WOTA spots are posted on the WOTA website and standard DX cluster networks; most activations take place on 2m FM (145.500 MHz calling) and HF SSB.
+
 ## Points & Awards
 
 | Award | Requirement |

@@ -14,6 +14,18 @@ The programme was created to raise awareness of the importance of preserving her
 - **Operating Modes:** All modes permitted (SSB, CW, FM, digital modes)
 - **Special Requirements:** Registration via the RFRG website before the event; strictly observe safety regulations on railway premises
 
+## For Hunters/Chasers
+
+Hunters work ROTA railway station activators during the annual September event weekend, collecting contacts toward chaser awards. Because ROTA is a time-limited event, chasing is concentrated on the event weekend. Any amateur can call ROTA stations as they appear on the air — no prior registration is required to chase.
+
+| Award | Requirement |
+|-------|-------------|
+| ROTA Bronze | 15 different railway stations contacted |
+| ROTA Silver | 30 different railway stations contacted |
+| ROTA Gold | 50 different railway stations contacted |
+
+Active ROTA spots during the event are posted on DX cluster networks and the RFRG website at rfrg.org.uk. Chaser logs and award applications are submitted to the RFRG after the event weekend.
+
 ## Points & Awards
 
 | Award Level | Requirement |

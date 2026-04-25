@@ -12,6 +12,8 @@ ILLW je bil ustanovljen leta 1998. Dogodek spodbuja delovanje iz svetilnikov in 
 - **Aktivacijska cona:** Pri ali blizu svetilnika
 - **Oprema:** Katerakoli konfiguracija
 - **Načini delovanja:** SSB, CW, FM, vsi digitalni načini
+- **Ni tekmovanje:** ILLW ni contest — ni tockovanj, lestvic ali nagrad
+- **Identifikacija postaje:** Postaje so spodbujene, da svojemu klicnemu znaku dodajo "LIGHT" ali "LIGHTHOUSE" (npr. S50XYZ/LIGHTHOUSE)
 - **Posebne zahteve:** Dogodek poteka tretji polni vikend v avgustu. Potrebna registracija.
 
 ## Točke & Nagrade
@@ -27,7 +29,12 @@ ILLW je bil ustanovljen leta 1998. Dogodek spodbuja delovanje iz svetilnikov in 
 3. **Registriraj se:** Registriraj svojo udeležbo na spletni strani ILLW.
 4. **Aktiviraj:** Oddajaj iz svetilnika med vikendom dogodka.
 
+## Za lovce (Hunter)
+
+Lovci sodelujejo od doma ali s fiksne lokacije in delajo registrirane svetilnike ILLW med vikendom dogodka. Ker ILLW ni tekmovanje, ni formalnega tockovnega sistema za lovce — privlacnost je v zbiranju zvez z najvec razlicnimi svetilniki po vsem svetu. Zveze se lahko upostevajo za nagrade WLOTA ali ARLHS, ce so bile izmenjane ustrezne referencne stevilke.
+
 ## Povezave
 
 - [Uradna spletna stran](https://illw.net)
-- [Pravila](https://illw.net/index.php/entrants-ede-pages/rules-for-entrants)
+- [Smernice](https://illw.net/index.php/guidelines)
+- [Registracija](https://illw.net)

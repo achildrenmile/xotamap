@@ -9,9 +9,11 @@ Leuchttürme üben seit jeher eine besondere Faszination aus, und WLOTA verbinde
 ## Regeln
 
 - **Minimum QSOs:** 1 Verbindung
-- **Aktivierungszone:** Am oder in unmittelbarer Nähe des Leuchtturms
+- **Aktivierungszone:** Auf derselben Insel wie der Leuchtturm (nicht nur „in der Nähe")
 - **Equipment:** Beliebiges Setup
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
+- **Maritim mobile:** Betrieb vom Wasser aus zählt **nicht** als gültige Aktivierung
+- **Neuer Leuchtturm:** Für die Aufnahme eines neuen Leuchtturms in die WLOL-Datenbank sind 100 QSOs erforderlich
 - **Besondere Anforderungen:** Leuchtturm muss in der ARLHS World List of Lights (WLOL) registriert sein.
 
 ## Punkte & Awards
@@ -33,7 +35,12 @@ Leuchttürme üben seit jeher eine besondere Faszination aus, und WLOTA verbinde
 
 Österreich hat als Binnenland keine eigenen Leuchttürme. Österreichische Funkamateure können als Jäger teilnehmen oder Leuchttürme im Ausland aktivieren.
 
+## Für Jäger (Hunter)
+
+Jäger arbeiten aktivierte Leuchttürme von einem stationären Standort aus. Jeder gearbeitete WLOL-Leuchtturm zählt zur Jagdwertung. Für Jäger gibt es Stufenawards: WLOTA Bronze (100 Leuchttürme), Silver (200) und Gold (500). Kontakte werden über die WLOTA-Website eingreicht. Logs sollten die WLOL-Referenznummer enthalten.
+
 ## Links
 
 - [Offizielle Website](https://wlota.com)
+- [WLOTA Regeln](https://wlota.com/index.php/awards/rules-award)
 - [ARLHS World List of Lights](https://wlol.arlhs.com)

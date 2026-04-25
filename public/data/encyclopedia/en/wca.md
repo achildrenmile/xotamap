@@ -10,11 +10,25 @@ WCA connects amateur radio with cultural heritage and history. Many activators t
 
 ## Rules
 
-- **Minimum QSOs:** 1 contact (no minimum)
-- **Activation zone:** On the castle grounds or within sight of the castle
+- **Minimum QSOs:** 50 contacts required for a valid activation
+- **Activation zone:** Within 1 km of the castle/fortress
 - **Equipment:** Any portable or mobile setup
 - **Operating modes:** SSB, CW, FM, all digital modes
-- **Special requirements:** Photo documentation is recommended.
+- **Special requirements:** Photo documentation may be requested. The site must be a permanent fortification or a restored field fortification.
+
+## For Hunters/Chasers
+
+Hunters work castle stations from home and collect contacts toward their own awards. The following awards are available for hunters:
+
+| Award | Requirement |
+|-------|-------------|
+| WCA-50 | 50 unique castles worked |
+| WCA-100 | 100 unique castles worked |
+| WCA-200 | 200 unique castles worked |
+| WCA-500 | 500 unique castles worked |
+| WCA-1000 | 1,000 unique castles worked |
+
+QSL cards or electronic confirmations (e.g. via the WCA log system) are required as proof.
 
 ## Points & Awards
 

@@ -16,6 +16,19 @@ WAI si rivolge sia ai radioamatori irlandesi che desiderano attivare sistematica
 - **Modi operativi:** Tutti i modi comuni (SSB, CW, FM, modi digitali)
 - **Requisiti speciali:** Il numero di riferimento WAI deve essere indicato correttamente; cartoline QSL o conferme elettroniche come prova
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dall'Irlanda da casa e raccolgono contatti con operatori che trasmettono da diversi quadrati WAI. Durante il QSO è essenziale annotare il riferimento WAI comunicato dall'attivatore. Poiché molti quadrati rurali irlandesi vengono attivati raramente, ogni nuovo riferimento è particolarmente prezioso. Le stazioni attive possono essere individuate tramite i cluster radioamatoriali e le mailing list dedicate al programma.
+
+| Premio | Requisito |
+|--------|-----------|
+| WAI Bronze | 50 quadrati WAI diversi lavorati |
+| WAI Silver | 100 quadrati WAI diversi lavorati |
+| WAI Gold | 200 quadrati WAI diversi lavorati |
+| WAI All Ireland | Tutti i riferimenti WAI disponibili lavorati |
+
+I log per i premi del cacciatore vengono inviati tramite la [pagina ufficiale WAI](https://www.qsl.net/ei2ip/wai.htm), dove sono disponibili istruzioni dettagliate per la richiesta dei diplomi.
+
 ## Punti & Premi
 
 | Premio | Requisito |

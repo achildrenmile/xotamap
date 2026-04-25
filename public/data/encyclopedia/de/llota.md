@@ -10,10 +10,12 @@ Im Gegensatz zu vielen anderen Programmen ist die Aktivierungszone relativ groß
 
 ## Regeln
 
-- **Minimum QSOs:** 1 Verbindung
+- **Minimum QSOs:** 10 Verbindungen
 - **Aktivierungszone:** Innerhalb von 200 Metern vom Ufer des Sees, der Lagune oder des Stausees
 - **Equipment:** Portabel- oder Mobilbetrieb
-- **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
+- **Betriebsarten:** SSB, CW, FM, alle digitalen Modes — **kein Relaisbetrieb** (ausschließlich Simplexfrequenzen)
+- **Maritim mobile:** Betrieb vom Wasser aus (Boot auf dem See) ist ebenfalls gültig
+- **Log-Einreichung:** ADIF-Log muss innerhalb von 30 Tagen nach der Aktivierung eingereicht werden
 - **Besondere Anforderungen:** Das Gewässer muss in der LLOTA-Referenzdatenbank registriert sein. Neue Gewässer können vorgeschlagen werden.
 
 ## Punkte & Awards
@@ -39,7 +41,11 @@ Im Gegensatz zu vielen anderen Programmen ist die Aktivierungszone relativ groß
 
 Österreich ist ein Paradies für LLOTA-Aktivierungen. Mit hunderten Seen bieten sich unzählige Möglichkeiten — vom Bodensee im Westen über die Kärntner Seen (Wörthersee, Millstätter See, Ossiacher See) bis zum Neusiedler See im Osten. Auch Stauseen in den Alpen (z.B. Speicher Kölnbrein, Schlegeis-Stausee) sind reizvolle Standorte.
 
+## Für Jäger (Hunter)
+
+Jäger nehmen stationär von zu Hause oder einem festen Standort aus teil und arbeiten aktivierte LLOTA-Seen. Für jeden gearbeiteten See zählt der Kontakt zur Jagdwertung. Jäger können dieselben Stufenawards (Bronze/Silber/Gold) erhalten wie Aktivierer. Kontakte werden über das ADIF-Log eingereicht, das der Aktivierer beim LLOTA-System hinterlegt, oder durch eigene Einreichung über die LLOTA-Website.
+
 ## Links
 
 - [Offizielle Website & Referenzdatenbank](https://www.outnaboot.ca/llota/)
-- [LLOTA Regeln](https://www.outnaboot.ca/llota/)
+- [LLOTA Regeln](https://llota.app/reglas.html)

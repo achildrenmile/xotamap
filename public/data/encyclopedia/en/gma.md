@@ -16,6 +16,12 @@ With over 150,000 references worldwide, GMA is the most extensive outdoor databa
 - **Operating modes:** All bands and modes permitted (SSB, CW, FM, FT8, all digital modes)
 - **Special requirements:** No transport restrictions — cable car, car, bicycle all allowed. The location must have a valid GMA reference number.
 
+## For Hunters/Chasers
+
+Hunters work GMA activators from home or any location, accumulating chaser points for each unique reference contacted. Because GMA aggregates references from many programmes (mountains, castles, lighthouses, mills, nature parks), hunters can collect a huge variety of contacts through a single platform. Each QSO with a GMA activator earns chaser points, with mountain contacts scaled by the elevation of the summit.
+
+Chaser logs are uploaded via the GMA portal at cqgma.org, which automatically calculates totals and displays leaderboards. Active spots for ongoing activations are shown on the GMA map in real time and on standard DX cluster networks. There are no formal standalone chaser awards at the GMA level, but country-specific and programme-specific hunter awards (e.g. for castles or lighthouses) are available within the platform.
+
 ## Points & Awards
 
 For mountain activations: **1 point per 100 metres of elevation**.

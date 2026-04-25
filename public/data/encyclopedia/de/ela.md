@@ -14,6 +14,20 @@ Leuchttuerme ueben seit jeher eine besondere Anziehungskraft aus, und das ELA-Pr
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Einige Leuchttuerme sind nur per Boot erreichbar oder haben eingeschraenkten Zugang; Gezeiten und Wetterbedingungen beachten
 
+## Für Jäger
+
+ELA-Jäger arbeiten Leuchtturmstationen von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Besuch an der Küste erforderlich. Für jeden Kontakt mit einer aktivierten ELA-Referenz erhält der Jäger eine Gutschrift auf seinem GMA-Konto. Die gesammelten Leuchttürme zählen für die gestaffelten Jäger-Awards.
+
+**Jäger-Awards:**
+
+| Award-Stufe | Anforderung |
+|---|---|
+| ELA Bronze | 15 verschiedene Leuchttuerme kontaktiert |
+| ELA Silber | 30 verschiedene Leuchttuerme kontaktiert |
+| ELA Gold | 60 verschiedene Leuchttuerme kontaktiert |
+
+Aktive ELA-Stationen sind auf der GMA-Website unter cqgma.org in der Aktivierungsliste einsehbar. Spots erscheinen auch auf DX-Cluster-Plattformen.
+
 ## Punkte & Awards
 
 | Award-Stufe | Anforderung |

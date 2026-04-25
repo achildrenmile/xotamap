@@ -2,15 +2,16 @@
 
 **The universal platform for outdoor amateur radio programs.**
 
-All 30+ xOTA programs — SOTA, POTA, WWFF, GMA, IOTA, and many more — on a single interactive map with encyclopedia, real-time spots, multi-program detection, and field logging.
+All 34 xOTA programs — SOTA, POTA, WWFF, GMA, IOTA, and many more — on a single interactive map with encyclopedia, real-time spots, multi-program detection, and field logging.
 
 ## Features
 
-- **Reference Atlas** — All reference locations of all programs as switchable overlays on an interactive map, even without active spots
-- **Encyclopedia** — All 30+ programs described with rules, awards, and getting-started guides (DE/EN/IT/SL)
-- **Multi-Program Detection** — "This location counts for SOTA + POTA + WWFF + GMA" — find overlapping programs at any point
+- **Reference Atlas** — 11 programs with full map overlays (PMTiles vector tiles), all 34 programs visible in layer switcher
+- **Encyclopedia** — All 34 programs with rules, awards, hunter/chaser info, and getting-started guides in 4 languages (DE/EN/IT/SL)
+- **Multi-Program Detection** — "What counts here?" — find overlapping programs at any point via right-click, long-press, or location search
 - **Real-Time Spots** — Live spots from 21 programs via Spothole, on map and as filterable table
 - **Field Logging** — Lightweight QSO logging with ADIF export for upload to SOTA/POTA/Wavelog
+- **Location Search** — Search by place name, summit, or coordinates to fly to any location
 - **Offline-Ready** — PWA with Service Worker caching for field use
 
 ## Tech Stack
@@ -30,12 +31,10 @@ All 30+ xOTA programs — SOTA, POTA, WWFF, GMA, IOTA, and many more — on a si
 | CI/CD | GitHub Actions |
 | Languages | DE, EN, IT, SL |
 
-## Covered Programs (30+)
+## Covered Programs (34)
 
-**Tier 1:** SOTA, POTA, WWFF, GMA, IOTA
-**Tier 2:** WCA/COTA, WWBOTA, BOTA, HEMA, WLOTA, ILLW, TOTA, LLOTA, COTA-OE
-**Tier 3:** WOTA, SiOTA, MOTA, ECA, ELA, ZLOTA, ROTA, KRMNPA, HOTA, HOTA-UK, WAB, WAI
-**Tier 4:** JOTA, KOTA, YOTA, GOTA, CHOTA
+**With map data (11):** SOTA, POTA, WWFF, GMA, IOTA, TOTA, WCA, WWBOTA, WLOTA, ILLW, ARLHS
+**Encyclopedia only (23):** BOTA, HEMA, LLOTA, COTA-OE, WOTA, SiOTA, MOTA, ECA, ELA, ZLOTA, ROTA, KRMNPA, HOTA, HOTA-UK, WAB, WAI, JOTA, KOTA, YOTA, GOTA, CHOTA, SCOTA, BiWOTA
 
 ## Development
 
@@ -70,7 +69,7 @@ Deploys to Synology NAS via SSH — identical pattern to other oeradio.at tools 
 
 Reference data is updated weekly via GitHub Actions:
 
-1. Fetch from SOTA/POTA/GMA/IOTA/WWBOTA APIs
+1. Fetch from SOTA/POTA/GMA/IOTA/WWBOTA/WCA/WLOTA/ILLW/ARLHS/TOTA APIs
 2. Normalize to GeoJSON
 3. Convert to PMTiles (tippecanoe)
 4. Precompute overlap grid
@@ -86,6 +85,18 @@ No database. No backend. The server only serves static files. All logic runs in 
 - **Basemap tiles:** OpenFreeMap via nginx reverse proxy
 
 For permanent logging, use [Wavelog](https://wavelog.oeradio.at).
+
+## Encyclopedia
+
+Each program has a dedicated article in 4 languages (DE/EN/IT/SL) covering:
+- Program overview and purpose
+- Activation rules and requirements (min QSOs, activation zone, equipment)
+- Hunter/chaser participation and awards
+- Points, awards, and certificates
+- Getting started guide with links to official resources
+
+Encyclopedia files: `public/data/encyclopedia/{de,en,it,sl}/*.md`
+Program metadata: `public/data/programs/index.json`
 
 ## Documentation
 

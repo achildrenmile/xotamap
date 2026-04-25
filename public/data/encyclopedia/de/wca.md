@@ -10,11 +10,25 @@ WCA verbindet Amateurfunk mit kulturellem Erbe und Geschichte. Viele Aktivierer 
 
 ## Regeln
 
-- **Minimum QSOs:** 1 Verbindung (keine Mindestanzahl)
-- **Aktivierungszone:** Auf dem Burggelände oder in Sichtweite der Burg
+- **Minimum QSOs:** 50 Verbindungen erforderlich für eine gültige Aktivierung
+- **Aktivierungszone:** Innerhalb von 1 km vom Burggelände/der Festung
 - **Equipment:** Beliebiges portables oder mobiles Setup
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
-- **Besondere Anforderungen:** Fotodokumentation wird empfohlen.
+- **Besondere Anforderungen:** Fotodokumentation kann angefordert werden. Die Anlage muss eine permanente Befestigung oder eine wiederhergestellte Feldbefestigung sein.
+
+## Für Hunter/Chaser
+
+Hunter arbeiten Burgstationen von zu Hause aus und sammeln dabei Punkte für eigene Awards. Für Hunter gelten folgende Auszeichnungen:
+
+| Award | Anforderung |
+|-------|-------------|
+| WCA-50 | 50 verschiedene Burgen gearbeitet |
+| WCA-100 | 100 verschiedene Burgen gearbeitet |
+| WCA-200 | 200 verschiedene Burgen gearbeitet |
+| WCA-500 | 500 verschiedene Burgen gearbeitet |
+| WCA-1000 | 1.000 verschiedene Burgen gearbeitet |
+
+Zum Nachweis werden QSL-Karten oder elektronische Bestätigungen (z.B. über das WCA-Logsystem) benötigt.
 
 ## Punkte & Awards
 

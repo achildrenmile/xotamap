@@ -14,6 +14,20 @@ Das Programm feiert das industrielle und landwirtschaftliche Erbe Europas. Muehl
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Genehmigung des Muehleneigentuemers oder -vereins einholen; besondere Vorsicht bei funktionsfaehigen Muehlen mit beweglichen Teilen
 
+## Für Jäger
+
+MOTA-Jäger arbeiten Mühlenstationen von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Mühlenbesuch erforderlich. Jede Verbindung mit einer aktivierten MOTA-Referenz zählt für die gestaffelten Jäger-Awards. Da viele Mühlen in malerischen ländlichen Lagen stehen, bieten MOTA-Aktivierungen oft interessante Ausbreitungsbedingungen.
+
+**Jäger-Awards:**
+
+| Award-Stufe | Anforderung |
+|---|---|
+| MOTA Bronze | 20 verschiedene Mühlen kontaktiert |
+| MOTA Silber | 50 verschiedene Mühlen kontaktiert |
+| MOTA Gold | 100 verschiedene Mühlen kontaktiert |
+
+Aktive MOTA-Stationen sind auf der GMA-Website unter cqgma.org in der Aktivierungsliste einsehbar. Spots erscheinen auch auf DX-Cluster-Plattformen.
+
 ## Punkte & Awards
 
 | Award-Stufe | Anforderung |

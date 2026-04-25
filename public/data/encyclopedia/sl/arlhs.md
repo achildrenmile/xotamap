@@ -11,10 +11,12 @@ Aktivacije svetilnikov so med radioamaterji posebej priljubljene, saj pogosto po
 ## Pravila
 
 - **Najmanj QSO:** 1 zveza
-- **Aktivacijska cona:** Na svetilniku ali v njegovi neposredni blizini
+- **Aktivacijska cona:** Znotraj 1.000 metrov od svetilnika; ce 1.000 metrov ni dosegljivih, zadostuje vizualni pogled na svetilnik
 - **Oprema:** Poljubna prenosna ali mobilna oprema
 - **Nacini delovanja:** SSB, CW, FM, vsi digitalni nacini
-- **Posebne zahteve:** Svetilnik mora biti vpisan v ARLHS World List of Lights (WLOL). Pri nekaterih svetilnikih je potrebno dovoljenje za dostop.
+- **Dovoljenje:** Za zasebne svetilnike se priporoca pisno dovoljenje lastnika
+- **QSL kartica:** Stevilka ARLHS mora biti navedena na QSL kartici
+- **Posebne zahteve:** Svetilnik mora biti vpisan v ARLHS World List of Lights (WLOL).
 
 ## Tocke & Nagrade
 
@@ -35,6 +37,10 @@ Aktivacije svetilnikov so med radioamaterji posebej priljubljene, saj pogosto po
 ## Opombe za Avstrijo
 
 Ceprav je Avstrija celinska drzava, obstajajo na velikih jezerih posamezni zgodovinski svetilni objekti. Za ARLHS-aktivacije so primerna potovanja v sosednje drzave — Hrvaska, Italija in Slovenija imajo stevilne svetilnike na jadranski obali.
+
+## Za lovce (Hunter)
+
+Lovci delajo svetilnike ARLHS s fiksne lokacije in zbirajo unikatne reference WLOL. Na voljo so stopenjske nagrade za lovce: WLOL Award (100 svetilnikov), WLOL 250, WLOL 500 in WLOL 1000. Za potrditev zveze je priporocljiva izmenjava QSL kartic — QSL kartica aktivatorja mora vsebovati stevilko ARLHS.
 
 ## Povezave
 

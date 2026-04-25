@@ -16,6 +16,22 @@ WAB ist besonders bei mobilen Funkamateuren beliebt, die während Autofahrten du
 - **Betriebsarten:** Alle Betriebsarten (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Die korrekte WAB-Quadratreferenz (z. B. SP15) muss beim QSO angegeben werden
 
+## Für Jäger
+
+WAB-Jäger sammeln Kontakte mit Stationen aus verschiedenen OS-Planquadraten von zu Hause oder einem beliebigen Standort aus. Da das Programm auf dem britischen Kartengitter basiert, ist das korrekte Austauschen der WAB-Quadratreferenz (z. B. SP15) beim QSO entscheidend. Je mehr unterschiedliche Planquadrate gearbeitet werden, desto höhere Award-Stufen können beantragt werden.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| WAB Book 1 | Erste Stufe — Grundanzahl an Planquadraten gearbeitet |
+| WAB Book 2–10 | Fortgeschrittene Stufen mit steigender Quadratanzahl |
+| WAB All Districts | Alle Distrikte eines bestimmten Gebiets gearbeitet |
+| WAB Counties Award | Alle britischen Grafschaften gearbeitet |
+| WAB Islands Award | Bestimmte Anzahl britischer Inseln gearbeitet |
+
+Aktive WAB-Stationen und ihre aktuellen Quadratreferenzen werden oft über DX-Cluster und die WAB-Mailingliste bekanntgegeben.
+
 ## Punkte & Awards
 
 | Award | Anforderung |

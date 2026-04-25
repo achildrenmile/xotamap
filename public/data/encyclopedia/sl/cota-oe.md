@@ -11,6 +11,18 @@ Castles On The Air Austria (COTA-OE) je avstrijski program za gradove, ki ga upr
 - **Oprema:** Katerakoli prenosna ali mobilna konfiguracija
 - **Načini delovanja:** SSB, CW, FM, vsi digitalni načini
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem na avstrijskem gradu lovec zbira obdelane reference COTA-OE. Spote aktivnih postaj poišči na splošnih radioamaterskih spot platformah (npr. DX-cluster) ali v skupinah na socialnih omrežjih.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| COTA-OE Diploma | Različne stopnje za obdelane avstrijske gradove |
+
+Dnevnik pošlji upravitelju COTA-OE na [spletni strani AFCH](http://www.afch.at/cota/).
+
 ## Točke & Nagrade
 
 | Stopnja | Opis |

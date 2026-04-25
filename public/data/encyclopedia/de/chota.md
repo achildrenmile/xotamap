@@ -16,6 +16,19 @@ Im Gegensatz zu vielen anderen xOTA-Programmen gibt es bei CHOTA kein formalisie
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
 - **Besondere Anforderungen:** Genehmigung des Pfarrers oder der Kirchenverwaltung einholen. Respektvoller Umgang mit dem sakralen Ort. Die Station darf Gottesdienste oder kirchliche Aktivitaeten nicht stoeren.
 
+## Für Jäger
+
+CHOTA-Jäger arbeiten die aktivierten Kirchenstationen von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Kirchenbesuch erforderlich. Wer am CHOTA-Wochenende (zweiter September-Samstag) aktiv nach Kirchenstationen sucht, kann zahlreiche interessante Verbindungen sammeln. Da CHOTA kein formales Referenzsystem mit nummerierten Standorten verwendet, steht das Erlebnis der Verbindung im Vordergrund.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| CHOTA-Jäger Zertifikat | Für Stationen, die mehrere CHOTA-Stationen gearbeitet haben |
+| Besondere Auszeichnung | Für herausragende Teilnahme über mehrere Jahre |
+
+Spots für aktive CHOTA-Stationen finden sich auf den üblichen Cluster-Plattformen (DXCluster, PSKReporter) sowie in der WACRAL-Community.
+
 ## Punkte & Awards
 
 | Stufe | Beschreibung |

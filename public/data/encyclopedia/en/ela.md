@@ -14,6 +14,18 @@ Lighthouses have always held a special fascination, and the ELA programme combin
 - **Operating Modes:** All modes permitted (SSB, CW, FM, digital modes)
 - **Special Requirements:** Some lighthouses are only accessible by boat or have restricted access; pay attention to tides and weather conditions
 
+## For Hunters/Chasers
+
+Hunters work English lighthouse stations from home or any fixed location, counting each unique lighthouse reference toward their chaser awards. When a lighthouse activator is on the air, hunters call in and log the reference. Contacts are uploaded via the GMA portal at cqgma.org, which tracks worked references automatically.
+
+| Award | Requirement |
+|-------|-------------|
+| ELA Bronze | 15 different lighthouses contacted |
+| ELA Silver | 30 different lighthouses contacted |
+| ELA Gold | 60 different lighthouses contacted |
+
+Active ELA spots are visible on the GMA website and standard DX cluster networks.
+
 ## Points & Awards
 
 | Award Level | Requirement |

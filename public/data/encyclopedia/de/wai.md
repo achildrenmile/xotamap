@@ -16,6 +16,21 @@ WAI richtet sich sowohl an irische Funkamateure, die ihre Heimatinsel systematis
 - **Betriebsarten:** Alle gängigen Betriebsarten (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Die WAI-Referenznummer muss korrekt angegeben werden; QSL-Karten oder elektronische Bestätigungen als Nachweis
 
+## Für Jäger
+
+WAI-Jäger sammeln Kontakte mit Stationen aus verschiedenen irischen Planquadraten von zu Hause oder einem beliebigen Standort aus. Das korrekte Austauschen der WAI-Referenznummer beim QSO ist dabei entscheidend. Da manche ländliche Quadrate selten aktiviert werden, sind diese als besonders begehrte Kontakte anzusehen.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| WAI Bronze | 50 verschiedene WAI-Quadrate gearbeitet |
+| WAI Silver | 100 verschiedene WAI-Quadrate gearbeitet |
+| WAI Gold | 200 verschiedene WAI-Quadrate gearbeitet |
+| WAI All Ireland | Alle verfügbaren WAI-Referenzen gearbeitet |
+
+Aktive WAI-Stationen kündigen ihre Aktivierungen häufig auf DX-Cluster-Plattformen und in der irischen Amateurfunk-Community an.
+
 ## Punkte & Awards
 
 | Award | Anforderung |

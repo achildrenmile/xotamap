@@ -14,6 +14,20 @@ Svetilniki od nekdaj izzeravajo poseben car, in program ELA povezuje to pomorsko
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FM, digitalni nacini)
 - **Posebne zahteve:** Nekateri svetilniki so dostopni le z ladjo ali imajo omejen dostop; upostevaj plimovanje in vremenske razmere
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem pri angleškem svetilniku lovec prejme potrditev in zbira reference ELA. Spote aktivnih postaj najdeš na portalu GMA na [cqgma.org](https://www.cqgma.org).
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| ELA Bronze | 15 različnih svetilnikov kontaktiranih |
+| ELA Srebro | 30 različnih svetilnikov kontaktiranih |
+| ELA Zlato | 60 različnih svetilnikov kontaktiranih |
+
+Dnevnik naložiš prek portala GMA, kjer se lovske aktivnosti samodejno beležijo.
+
 ## Tocke & Nagrade
 
 | Stopnja nagrade | Zahteva |

@@ -392,8 +392,8 @@
             "color": "#9B59B6",
             "icon": "castle",
             "rules": {
-                "minQsos": 1,
-                "activationRadius": "Within castle grounds or within sight",
+                "minQsos": 50,
+                "activationRadius": "Within 1km of the castle/fortress",
                 "equipment": "Any portable or mobile setup",
                 "operatingModes": [
                     "SSB",
@@ -401,7 +401,7 @@
                     "FM",
                     "Digital"
                 ],
-                "specialRequirements": "Operator must be at or near the castle/fortress. Photo documentation recommended."
+                "specialRequirements": "Minimum 50 QSOs for a valid activation. Operator must be within 1km of the reference. Photo documentation may be requested."
             },
             "awards": [
                 {
@@ -449,9 +449,9 @@
             "color": "#7F8C8D",
             "icon": "shield",
             "rules": {
-                "minQsos": 5,
-                "activationRadius": "At or near the bunker structure",
-                "equipment": "Portable operation",
+                "minQsos": 25,
+                "activationRadius": "Within 1000m of bunker coordinates",
+                "equipment": "Portable operation (no fixed home station)",
                 "operatingModes": [
                     "SSB",
                     "CW",
@@ -459,7 +459,7 @@
                     "FT8",
                     "Digital"
                 ],
-                "specialRequirements": "Operator must be at or in direct proximity of the bunker. Photo documentation encouraged."
+                "specialRequirements": "25 QSOs on HF (or 5 on VHF-only). Up to 5 bunkers simultaneously within 1000m. Must use WWBOTA Logger. No home station operation."
             },
             "awards": [
                 {
@@ -495,7 +495,7 @@
             ],
             "links": {
                 "website": "https://wwbota.net",
-                "rules": "https://wwbota.net/rules",
+                "rules": "https://wwbota.net/awardsnew/",
                 "logUpload": "https://wwbota.net",
                 "referenceSearch": "https://wwbota.net/bunkers",
                 "spotPage": "https://wwbota.net/spots"
@@ -620,15 +620,15 @@
             "icon": "lighthouse",
             "rules": {
                 "minQsos": 1,
-                "activationRadius": "At or near the lighthouse",
-                "equipment": "Any setup",
+                "activationRadius": "On the same island as the lighthouse",
+                "equipment": "Any setup (no maritime mobile)",
                 "operatingModes": [
                     "SSB",
                     "CW",
                     "FM",
                     "Digital"
                 ],
-                "specialRequirements": "Operator must be at or in direct proximity of the lighthouse. Based on the ARLHS World List of Lights."
+                "specialRequirements": "Operator must be land-based on the same island as the lighthouse. Maritime mobile does not count. Based on the ARLHS World List of Lights."
             },
             "awards": [
                 {
@@ -649,7 +649,7 @@
             ],
             "links": {
                 "website": "https://wlota.com",
-                "rules": "https://wlota.com",
+                "rules": "https://wlota.com/index.php/awards/rules-award",
                 "referenceSearch": "https://wlol.arlhs.com"
             },
             "subPrograms": []
@@ -687,7 +687,7 @@
             ],
             "links": {
                 "website": "https://illw.net",
-                "rules": "https://illw.net/index.php/entrants-ede-pages/rules-for-entrants",
+                "rules": "https://illw.net/index.php/guidelines",
                 "referenceSearch": "https://illw.net"
             },
             "subPrograms": [],
@@ -707,16 +707,16 @@
             "color": "#2980B9",
             "icon": "droplets",
             "rules": {
-                "minQsos": 1,
+                "minQsos": 10,
                 "activationRadius": "Within 200m of the lake/lagoon shore",
-                "equipment": "Portable operation",
+                "equipment": "Portable or mobile (no fixed station)",
                 "operatingModes": [
                     "SSB",
                     "CW",
                     "FM",
                     "Digital"
                 ],
-                "specialRequirements": "Operator must be within 200 metres of the water body shore."
+                "specialRequirements": "10 QSOs minimum. Within 200m of water's edge. No terrestrial repeaters (simplex only). ADIF log within 30 days. Maritime mobile on the water also valid."
             },
             "awards": [
                 {
@@ -730,7 +730,7 @@
             ],
             "links": {
                 "website": "https://www.outnaboot.ca/llota/",
-                "rules": "https://www.outnaboot.ca/llota/",
+                "rules": "https://llota.app/reglas.html",
                 "referenceSearch": "https://www.outnaboot.ca/llota/"
             },
             "subPrograms": []
@@ -1438,7 +1438,7 @@
                     "FM",
                     "Digital"
                 ],
-                "specialRequirements": "Operate from a lighthouse listed in the ARLHS World List of Lights"
+                "specialRequirements": "Within 1000m of lighthouse, or visual sight if 1000m not possible. Written permission recommended for private lights. ARLHS number must appear on QSL card."
             },
             "awards": [],
             "scoring": {}

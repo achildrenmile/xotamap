@@ -14,6 +14,18 @@ I fari esercitano da sempre un fascino particolare, e il programma ELA unisce qu
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FM, modi digitali)
 - **Requisiti speciali:** Alcuni fari sono raggiungibili solo in barca o hanno accesso limitato; prestare attenzione a maree e condizioni meteorologiche
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dai fari inglesi da casa e raccolgono contatti per i propri premi. Ogni collegamento con un attivatore ELA in un faro diverso conta come nuovo riferimento. Gli spot vengono pubblicati sulla piattaforma GMA e su SOTAwatch, rendendo facile individuare le stazioni attive.
+
+| Premio | Requisito |
+|--------|-----------|
+| ELA Bronzo | 15 fari diversi lavorati |
+| ELA Argento | 30 fari diversi lavorati |
+| ELA Oro | 60 fari diversi lavorati |
+
+I premi per i cacciatori vengono richiesti tramite il portale GMA su [cqgma.org](https://www.cqgma.org), dove si caricano i log ADIF con i riferimenti ELA lavorati.
+
 ## Punti & Premi
 
 | Livello del premio | Requisito |

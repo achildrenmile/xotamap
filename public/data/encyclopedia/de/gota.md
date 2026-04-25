@@ -16,6 +16,12 @@ Im Gegensatz zu den meisten xOTA-Programmen ist GOTA kein referenzbasiertes Akti
 - **Betriebsarten:** Alle beim Field Day zugelassenen Betriebsarten (SSB, CW, Digital)
 - **Besondere Anforderungen:** Ein lizenzierter Kontroll-Operator muss die GOTA-Station jederzeit beaufsichtigen; GOTA-Operatoren duerfen keine aktive Lizenz der hoechsten Klasse besitzen
 
+## Für Jäger
+
+Da GOTA eine Betriebskategorie innerhalb des ARRL Field Day ist und kein eigenständiges Referenzprogramm, gibt es keine klassische Jäger-Rolle. Wer jedoch während des Field-Day-Wochenendes eine GOTA-Station kontaktiert, trägt zum Field-Day-Ergebnis der jeweiligen Gruppe bei. Für externe Stationen, die GOTA-Stationen arbeiten, gelten die normalen Field-Day-Regeln.
+
+Besonders wertvoll ist der Jäger-Aspekt für erfahrene Funkamateure, die gezielt GOTA-Stationen anrufen und den Newcomers am Mikrofon erste erfolgreiche QSO-Erlebnisse ermöglichen. Dies ist ein wichtiger Beitrag zur Nachwuchsförderung im Amateurfunk.
+
 ## Punkte & Awards
 
 | Leistung | Punkte |

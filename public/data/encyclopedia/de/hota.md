@@ -14,6 +14,20 @@ Suedafrika verfuegt ueber eine aussergewoehnliche kulturelle Vielfalt, die sich 
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Gueltige suedafrikanische oder CEPT-kompatible Amateurfunklizenz; Zugangserlaubnis fuer geschuetzte Staetten einholen
 
+## Für Jäger
+
+HOTA-Jäger arbeiten Kulturerbestätten-Stationen von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Besuch der Stätte erforderlich. Jede Verbindung mit einer aktivierten HOTA-Referenz zählt für die Jäger-Awards. Da Südafrika eines der wenigen afrikanischen xOTA-Programme hat, sind HOTA-Aktivierungen besonders begehrte DX-Kontakte.
+
+**Jäger-Awards:**
+
+| Award-Stufe | Anforderung |
+|---|---|
+| HOTA Bronze | 25 verschiedene Stätten kontaktiert |
+| HOTA Silber | 50 verschiedene Stätten kontaktiert |
+| HOTA Gold | 100 verschiedene Stätten kontaktiert |
+
+Aktive HOTA-Stationen können auf der HOTA-Website unter heritageontheair.co.za sowie auf gängigen DX-Cluster-Plattformen verfolgt werden.
+
 ## Punkte & Awards
 
 | Award-Stufe | Anforderung |

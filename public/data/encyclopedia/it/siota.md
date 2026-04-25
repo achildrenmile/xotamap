@@ -16,6 +16,20 @@ Il programma promuove l'esplorazione dell'Australia rurale e porta i radioamator
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FT8, FM ecc.)
 - **Requisiti speciali:** Il silo attivato deve essere registrato nel database SiOTA; è gradita una foto dalla postazione
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dai silos da casa e raccolgono contatti per i propri premi. Ogni collegamento con un attivatore che trasmette da un riferimento SiOTA registrato conta come nuovo silo nel log del cacciatore. Le attivazioni vengono annunciate sul sito ufficiale e sui cluster radioamatoriali, permettendo di individuare facilmente le stazioni attive anche dall'estero.
+
+| Premio | Requisito |
+|--------|-----------|
+| SiOTA Bronze | 10 riferimenti silo diversi lavorati |
+| SiOTA Silver | 25 riferimenti silo diversi lavorati |
+| SiOTA Gold | 50 riferimenti silo diversi lavorati |
+| SiOTA Platinum | 100 riferimenti silo diversi lavorati |
+| Silo Art Award | Tutti i silos dipinti del Silo Art Trail lavorati |
+
+I premi per i cacciatori vengono richiesti tramite il sito ufficiale [silosontheair.com](https://silosontheair.com), dove è possibile caricare i log e monitorare i progressi.
+
 ## Punti & Premi
 
 | Premio | Requisito |

@@ -16,6 +16,19 @@ WAI is aimed at both Irish radio amateurs who want to systematically activate th
 - **Operating Modes:** All common modes (SSB, CW, FM, digital modes)
 - **Special Requirements:** The WAI reference number must be correctly provided; QSL cards or electronic confirmations serve as proof
 
+## For Hunters/Chasers
+
+Hunters work WAI stations from home or any location, collecting contacts across the Irish grid squares. During each QSO, the WAI reference must be exchanged — hunters record the unique square references worked and submit logs toward awards. International chasers are particularly valued, as they help activators in remote rural squares reach the required contact counts.
+
+| Award | Requirement |
+|-------|-------------|
+| WAI Bronze | 50 different WAI squares worked |
+| WAI Silver | 100 different WAI squares worked |
+| WAI Gold | 200 different WAI squares worked |
+| WAI All Ireland | All available WAI references worked |
+
+Log submissions and award applications are handled via the official WAI page. Upcoming WAI activations are announced on Irish amateur radio nets and the WAI page.
+
 ## Points & Awards
 
 | Award | Requirement |

@@ -16,6 +16,22 @@ Das Programm fördert die Erkundung des ländlichen Australiens und bringt Funka
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FT8, FM usw.)
 - **Besondere Anforderungen:** Das aktivierte Silo muss in der SiOTA-Datenbank registriert sein; ein Foto vom Standort wird gerne gesehen
 
+## Für Jäger
+
+SiOTA-Jäger arbeiten Silostationen von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Besuch im australischen Outback erforderlich. Da Australien weit von Europa entfernt ist, sind SiOTA-Aktivierungen attraktive DX-Kontakte. Jede Verbindung mit einer registrierten SiOTA-Referenz zählt für die gestaffelten Jäger-Awards.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| SiOTA Bronze | 10 verschiedene Silo-Referenzen gearbeitet |
+| SiOTA Silver | 25 verschiedene Silo-Referenzen gearbeitet |
+| SiOTA Gold | 50 verschiedene Silo-Referenzen gearbeitet |
+| SiOTA Platinum | 100 verschiedene Silo-Referenzen gearbeitet |
+| Silo Art Award | Alle bemalten Silos des Silo Art Trail gearbeitet |
+
+Aktive SiOTA-Stationen und Spots sind auf silosontheair.com sowie auf DX-Cluster-Plattformen zu finden.
+
 ## Punkte & Awards
 
 | Award | Anforderung |

@@ -16,6 +16,21 @@ TOTA verfügt über eine aktive Referenzdatenbank mit Koordinaten und eine Karte
 - **Betriebsarten:** Alle Bänder und Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Turm muss in der TOTA-Referenzdatenbank registriert sein. Kontakte über terrestrische Relais sind nicht erlaubt, Satellitenkontakte sind gestattet. Jedes QSO muss Rufzeichen, Rapport, Name und QTH enthalten.
 
+## Für Jäger
+
+TOTA-Jäger (Hunter) arbeiten Turmaktivierungen von zu Hause aus. Für jedes eindeutige QSO mit einem aktiven Turm-Aktivierer wird **1 Punkt** gewertet. Ab 2026 sind auch Turm-zu-Turm-Kontakte (R2R — Reference to Reference) möglich, bei denen beide Stationen von einem registrierten Turm senden.
+
+**Jäger-Diplome** (gleiche Stufen wie Aktivierer):
+
+| Stufe | Sprint (jährlich) | Alltime | Special (eindeutige Türme) |
+|-------|-------------------|---------|---------------------------|
+| Bronze | 50 Punkte | 100 Punkte | 100 Türme |
+| Silber | 100 Punkte | 200 Punkte | 200 Türme |
+| Gold | 200 Punkte | 300 Punkte | 300 Türme |
+| Platin | 500 Punkte | 500 Punkte | 500 Türme |
+
+Jäger-Logs werden auf [wwtota.com](https://wwtota.com) hochgeladen. Spots aktiver Aktivierer sind über die TOTA-Website und gängige DX-Cluster-Dienste verfügbar.
+
 ## Punkte & Awards
 
 | Kategorie | Punkte |

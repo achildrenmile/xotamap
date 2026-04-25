@@ -14,6 +14,18 @@ Il programma celebra il patrimonio industriale e agricolo dell'Europa. Per secol
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FM, modi digitali)
 - **Requisiti speciali:** Ottenere il permesso del proprietario o dell'associazione del mulino; particolare cautela con i mulini funzionanti dotati di parti mobili
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dai mulini da casa e raccolgono contatti per i propri premi. Ogni collegamento con un attivatore che trasmette da un riferimento MOTA valido conta come nuovo mulino nel log del cacciatore. Gli spot vengono pubblicati sulla piattaforma GMA e sui cluster radioamatoriali, permettendo di individuare facilmente le stazioni attive.
+
+| Premio | Requisito |
+|--------|-----------|
+| MOTA Bronzo | 20 mulini diversi lavorati |
+| MOTA Argento | 50 mulini diversi lavorati |
+| MOTA Oro | 100 mulini diversi lavorati |
+
+I premi per i cacciatori vengono richiesti tramite il portale GMA su [cqgma.org](https://www.cqgma.org), dove si caricano i log ADIF con i riferimenti MOTA lavorati.
+
 ## Punti & Premi
 
 | Livello del premio | Requisito |

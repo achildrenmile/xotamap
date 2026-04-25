@@ -16,6 +16,18 @@ Con oltre 150.000 riferimenti in tutto il mondo, GMA e il database outdoor piu e
 - **Modi operativi:** Tutte le bande e modi permessi (SSB, CW, FM, FT8, tutti i modi digitali)
 - **Requisiti speciali:** Nessuna restrizione sul mezzo di trasporto — funivia, auto, bicicletta, tutto permesso. Il sito deve avere un numero di riferimento GMA valido.
 
+## Per i Cacciatori
+
+I cacciatori lavorano gli attivatori da casa e raccolgono contatti con riferimenti GMA di tutto il mondo. Ogni collegamento con un attivatore che trasmette da un sito GMA valido — che si tratti di una montagna, un castello, un faro o un mulino — conta per i premi del cacciatore. Gli spot delle attivazioni vengono pubblicati in tempo reale sulla mappa GMA e sul cluster integrato, rendendo semplice individuare le stazioni attive.
+
+| Premio | Requisito |
+|--------|-----------|
+| GMA Chaser Award | Premi graduati in base al numero di riferimenti GMA unici lavorati |
+| Premi per programma | Premi specifici per fari (ELA), mulini (MOTA), torri ecc. |
+| Premi per paese | Premi basati sui riferimenti DXCC lavorati tramite GMA |
+
+I log possono essere caricati direttamente sul portale GMA su [cqgma.org](https://www.cqgma.org), dove il sistema calcola automaticamente i punti e i premi disponibili.
+
 ## Punti & Premi
 
 Per le attivazioni in montagna: **1 punto ogni 100 metri di altitudine**.

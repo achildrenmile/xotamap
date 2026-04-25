@@ -16,6 +16,18 @@ COTA-OE hat eine eigene Referenzliste mit hunderten österreichischen Burgen und
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
 - **Besondere Anforderungen:** Burg muss in der AFCH/ÖVSV-Referenzliste eingetragen sein. Fotodokumentation wird empfohlen.
 
+## Für Jäger
+
+COTA-OE-Jäger arbeiten Burgenstationen von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Burgenbesuch erforderlich. Für jede Verbindung mit einer aktivierten österreichischen Burg zählt der Kontakt für das COTA-OE-Diplom. Je mehr verschiedene Burgreferenzen gearbeitet werden, desto höhere Diplomstufen können beantragt werden.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| COTA-OE Diplom | Verschiedene Stufen für gearbeitete österreichische Burgreferenzen |
+
+Aktive COTA-OE-Stationen werden auf der AFCH-Website sowie auf gängigen DX-Cluster-Plattformen angekündigt.
+
 ## Punkte & Awards
 
 | Stufe | Beschreibung |

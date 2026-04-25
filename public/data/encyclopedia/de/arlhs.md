@@ -11,10 +11,12 @@ Leuchtturm-Aktivierungen sind bei Funkamateuren besonders beliebt, da sie oft an
 ## Regeln
 
 - **Minimum QSOs:** 1 Verbindung
-- **Aktivierungszone:** Am oder in unmittelbarer Nähe des Leuchtturms
+- **Aktivierungszone:** Innerhalb von 1.000 Metern vom Leuchtturm; falls 1.000 m nicht erreichbar sind, genügt Sichtweite auf den Leuchtturm
 - **Equipment:** Beliebiges portables oder mobiles Setup
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Betriebsarten
-- **Besondere Anforderungen:** Der Leuchtturm muss in der ARLHS World List of Lights (WLOL) gelistet sein. Bei manchen Leuchttürmen ist eine Zugangsgenehmigung erforderlich.
+- **Genehmigung:** Bei privaten Leuchttürmen wird eine schriftliche Genehmigung des Eigentümers empfohlen
+- **QSL-Karte:** Die ARLHS-Referenznummer muss auf der QSL-Karte angegeben werden
+- **Besondere Anforderungen:** Der Leuchtturm muss in der ARLHS World List of Lights (WLOL) gelistet sein.
 
 ## Punkte & Awards
 
@@ -35,6 +37,10 @@ Leuchtturm-Aktivierungen sind bei Funkamateuren besonders beliebt, da sie oft an
 ## OE-spezifische Hinweise
 
 Obwohl Österreich ein Binnenland ist, gibt es an den großen Seen vereinzelt historische Leuchtfeuer. Für ARLHS-Aktivierungen bieten sich Reisen in Nachbarländer an — Kroatien, Italien und Slowenien haben zahlreiche Leuchttürme an der Adriaküste.
+
+## Für Jäger (Hunter)
+
+Jäger arbeiten ARLHS-Leuchttürme von einem stationären Standort aus und sammeln so verschiedene WLOL-Referenzen. Für Jäger stehen Stufenawards zur Verfügung: WLOL Award (100 Leuchttürme), WLOL 250, WLOL 500 und WLOL 1000. Zur Bestätigung des Kontakts ist ein QSL-Austausch sinnvoll — die QSL-Karte des Aktivierers muss die ARLHS-Nummer enthalten.
 
 ## Links
 

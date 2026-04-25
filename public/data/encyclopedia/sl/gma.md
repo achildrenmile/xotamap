@@ -16,6 +16,20 @@ Z vec kot 150.000 referencami po vsem svetu je GMA najobseznejsa outdoor baza po
 - **Nacini delovanja:** Vsi pasovi in nacini dovoljeni (SSB, CW, FM, FT8, vsi digitalni nacini)
 - **Posebne zahteve:** Brez omejitev glede prevoznega sredstva — zicnica, avto, kolo, vse dovoljeno. Lokacija mora imeti veljavno GMA referencno stevilko.
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem na GMA referenci lovec zbira točke in napreduje po lestvici. GMA je ena redkih platform, kjer lovci prav tako zbirajo točke na podlagi nadmorske višine aktivirane lokacije. Spote aktivnih postaj najdeš v realnem času na portalu [cqgma.org](https://www.cqgma.org).
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| GMA Trailblazer (Lovec) | Kumulativne točke iz lovskih zvezd |
+| Nagrade po državah | Lovske nagrade za posamezne DXCC entitete |
+| Go Green XOTA | Okolju prijazne lovske aktivnosti |
+
+Dnevnik naložiš prek portala GMA, kjer se vse lovske aktivnosti samodejno evidentirajo.
+
 ## Tocke & Nagrade
 
 Za gorske aktivacije: **1 tocka na 100 metrov nadmorske visine**.

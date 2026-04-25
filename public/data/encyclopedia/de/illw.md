@@ -12,6 +12,8 @@ ILLW wurde 1998 gegründet und hat sich aus dem schottischen Northern Lighthouse
 - **Aktivierungszone:** Am oder in unmittelbarer Nähe des Leuchtturms/Feuerschiffs
 - **Equipment:** Beliebiges Setup
 - **Betriebsarten:** SSB, CW, FM, alle digitalen Modes
+- **Kein Wettbewerb:** ILLW ist kein Contest — es gibt keine Punkte, keine Ranglisten und keine Preise
+- **Stationsidentifikation:** Aktivierer werden ermutigt, „LIGHT" oder „LIGHTHOUSE" an ihr Rufzeichen anzuhängen (z.B. OE1XYZ/LIGHTHOUSE)
 - **Besondere Anforderungen:** Event findet am dritten vollen Wochenende im August statt. Registrierung auf der ILLW-Website erforderlich.
 
 ## Punkte & Awards
@@ -32,8 +34,12 @@ ILLW wurde 1998 gegründet und hat sich aus dem schottischen Northern Lighthouse
 
 Österreich hat keine eigenen Leuchttürme, aber österreichische Funkamateure nehmen regelmäßig als Jäger teil und arbeiten ILLW-Stationen weltweit. Für eine eigene ILLW-Aktivierung bieten sich Leuchttürme in den Nachbarländern an.
 
+## Für Jäger (Hunter)
+
+Jäger nehmen von zu Hause oder einem stationären Standort teil und arbeiten registrierte ILLW-Leuchttürme während des Event-Wochenendes. Da ILLW kein Contest ist, gibt es keine formale Jagdwertung — der Reiz liegt im Sammeln von Kontakten mit möglichst vielen verschiedenen Leuchttürmen aus aller Welt. Kontakte können für WLOTA- oder ARLHS-Awards genutzt werden, sofern die entsprechenden Referenznummern ausgetauscht wurden.
+
 ## Links
 
 - [Offizielle Website](https://illw.net)
-- [Regeln für Teilnehmer](https://illw.net/index.php/entrants-ede-pages/rules-for-entrants)
+- [Richtlinien](https://illw.net/index.php/guidelines)
 - [Registrierung](https://illw.net)

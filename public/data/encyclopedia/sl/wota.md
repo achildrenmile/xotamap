@@ -16,6 +16,21 @@ Alfredove rocno narisane karte in podrobni opisi poti so navdihnile generacije p
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FM, digitalni nacini)
 - **Posebnost:** Vrhovi vključujejo 214 Wainwrightov ter dodatne Outlying Fells v Lake Districtu, Anglija
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem na Wainwrightovem vrhu v Lake Districtu lovec zbira reference WOTA. Spote aktivnih postaj najdeš na platformi WOTA ali v DX-cluster sistemih.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| WOTA Bronze | 50 različnih Wainwrightov delanih |
+| WOTA Silver | 100 različnih Wainwrightov delanih |
+| WOTA Gold | 214 Wainwrightov delanih (vsi originalni vrhovi) |
+| WOTA Outlying Fells | Dodatni Outlying Fells delani |
+
+Dnevnik naložiš in napredek spremljaš prek uradne platforme [wota.org.uk](https://wota.org.uk).
+
 ## Tocke & Nagrade
 
 | Nagrada | Zahteva |

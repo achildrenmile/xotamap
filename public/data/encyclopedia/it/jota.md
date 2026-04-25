@@ -16,6 +16,12 @@ A differenza della maggior parte dei programmi xOTA, JOTA non si basa su numeri 
 - **Modi operativi:** SSB, CW, FM, tutti i modi digitali — SSB in onde corte è il più popolare
 - **Requisiti speciali:** La stazione deve essere gestita da un radioamatore licenziato. Gli scout senza licenza possono parlare al microfono sotto supervisione (secondo le normative nazionali). Si raccomanda la registrazione tramite la piattaforma JOTA-JOTI.
 
+## Per i Cacciatori
+
+Durante il fine settimana JOTA, i radioamatori di tutto il mondo possono collegarsi alle stazioni scout attive, contribuendo a dare agli scout un'esperienza di contatto internazionale. Non è richiesta alcuna registrazione speciale per lavorare una stazione JOTA — basta ascoltare le frequenze tipiche dell'evento e rispondere alle chiamate. Le stazioni JOTA si trovano abitualmente sulle bande HF (40 m, 20 m, 15 m) in SSB e sulle bande VHF in FM.
+
+Non esistono premi formali per i cacciatori JOTA, ma molte organizzazioni nazionali di radioamatori emettono certificati di partecipazione su richiesta. Il contatto con uno scout da un altro paese rappresenta già di per sé una ricompensa. Le stazioni attive possono essere monitorate tramite i cluster radioamatoriali e la piattaforma [jotajoti.info](https://www.jotajoti.info).
+
 ## Punti & Premi
 
 | Livello | Descrizione |

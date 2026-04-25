@@ -14,6 +14,20 @@ Juzna Afrika razpolaga z izjemno kulturno raznolikostjo, ki se odraza v njenih s
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FM, digitalni nacini)
 - **Posebne zahteve:** Veljavna juznoafriska ali CEPT-kompatibilna radioamaterska licenca; pridobi dovoljenje za dostop do zascitenih lokacij
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Za vsako zvezo z aktivatorjem na lokaciji kulturne dediščine v Južni Afriki lovec zbira reference HOTA. Spote aktivnih postaj poišči na spletni strani HOTA ali v splošnih radioamaterskih spot sistemih.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| HOTA Bronze | 25 različnih lokacij kontaktiranih |
+| HOTA Srebro | 50 različnih lokacij kontaktiranih |
+| HOTA Zlato | 100 različnih lokacij kontaktiranih |
+
+Dnevnik naložiš prek spletne strani [heritageontheair.co.za](https://www.heritageontheair.co.za), kjer se tvoj napredek samodejno beleži.
+
 ## Tocke & Nagrade
 
 | Stopnja nagrade | Zahteva |

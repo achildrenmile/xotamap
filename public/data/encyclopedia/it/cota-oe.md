@@ -11,6 +11,16 @@ Castles On The Air Austria (COTA-OE) è il programma austriaco dei castelli, ges
 - **Equipaggiamento:** Qualsiasi configurazione portatile o mobile
 - **Modi operativi:** SSB, CW, FM, tutti i modi digitali
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dai castelli austriaci da casa o dalla propria stazione fissa e raccolgono contatti per i propri premi. Non è necessario recarsi fisicamente ai castelli — basta collegare le stazioni che trasmettono da un riferimento COTA-OE valido. I contatti vanno registrati indicando il numero di riferimento del castello attivato.
+
+| Premio | Requisito |
+|--------|-----------|
+| Diploma COTA-OE Cacciatore | Vari livelli in base al numero di castelli austriaci unici lavorati |
+
+I diplomi per i cacciatori sono disponibili sul sito AFCH. I log possono essere inviati in formato ADIF al gestore del programma.
+
 ## Punti & Premi
 
 | Livello | Descrizione |

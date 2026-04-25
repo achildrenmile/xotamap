@@ -16,6 +16,22 @@ HOTA fördert den Gemeinschaftsgedanken im Amateurfunk, indem es alltägliche Wo
 - **Betriebsarten:** Alle Betriebsarten (SSB, CW, FT8, FM usw.)
 - **Besondere Anforderungen:** Das Haus muss im HOTA-System registriert sein und eine gültige Referenznummer besitzen
 
+## Für Jäger
+
+HOTA-Jäger arbeiten registrierte Hausstationen von zu Hause oder einem beliebigen anderen Standort aus — das eigene Shack kann dabei selbst eine HOTA-Referenz sein. Jede Verbindung mit einer anderen HOTA-Referenz zählt für die Jäger-Awards. Da es in ganz Großbritannien rund 5.000 registrierte Referenzen gibt, ist das Jagdpotenzial sehr groß.
+
+**Jäger-Awards:**
+
+| Award | Anforderung |
+|-------|-------------|
+| HOTA Bronze | 25 verschiedene HOTA-Referenzen gearbeitet |
+| HOTA Silver | 50 verschiedene HOTA-Referenzen gearbeitet |
+| HOTA Gold | 100 verschiedene HOTA-Referenzen gearbeitet |
+| HOTA Platinum | 250 verschiedene HOTA-Referenzen gearbeitet |
+| HOTA Diamond | 500 verschiedene HOTA-Referenzen gearbeitet |
+
+Aktive HOTA-Stationen und Spots sind auf hota.org.uk sowie in der HOTA-Community auf sozialen Medien zu finden.
+
 ## Punkte & Awards
 
 | Award | Anforderung |

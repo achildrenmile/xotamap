@@ -16,6 +16,18 @@ Le mappe disegnate a mano e le descrizioni dettagliate dei percorsi di Alfred Wa
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FM, modi digitali)
 - **Particolarità:** Le vette comprendono i 214 Wainwrights e ulteriori Outlying Fells nel Lake District, Inghilterra
 
+## Per i Cacciatori
+
+I cacciatori lavorano le stazioni dalle vette Wainwright da casa e raccolgono contatti per i propri premi. Non è necessario salire sulle vette — basta collegarsi agli attivatori che trasmettono da un riferimento WOTA valido nel Lake District. Gli spot vengono pubblicati sulla piattaforma WOTA e su SOTAwatch, rendendo semplice individuare le stazioni attive in tempo reale.
+
+| Premio | Requisito |
+|--------|-----------|
+| WOTA Bronze | 50 Wainwrights diversi lavorati |
+| WOTA Silver | 100 Wainwrights diversi lavorati |
+| WOTA Gold | 214 Wainwrights lavorati (tutte le vette originali) |
+
+I premi per i cacciatori vengono richiesti tramite il sito ufficiale [wota.org.uk](https://wota.org.uk), dove è possibile caricare i log e monitorare i progressi verso le diverse classi di premio.
+
 ## Punti & Premi
 
 | Premio | Requisito |

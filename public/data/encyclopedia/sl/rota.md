@@ -14,6 +14,20 @@ Program je bil ustanovljen, da opozori na pomen ohranjanja zgodovinskih zeleznic
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FM, digitalni nacini)
 - **Posebne zahteve:** Prijava prek spletne strani RFRG pred dogodkom; strogo upostevanje varnostnih predpisov na zelezniskem obmocju
 
+## Za Lovce
+
+Lovci delajo aktivatorje od doma ali katerekoli druge lokacije. Med letnim koncem tedna ROTA (običajno september) lovci iščejo postaje, ki oddajajo z zgodovinskih železniških postaj in prog po Veliki Britaniji. Spote aktivnih postaj poišči v DX-cluster sistemih ali na spletni strani RFRG.
+
+**Nagrade za lovce:**
+
+| Nagrada | Zahteva |
+|---------|---------|
+| ROTA Bronze | 15 različnih železniških postaj kontaktiranih |
+| ROTA Srebro | 30 različnih železniških postaj kontaktiranih |
+| ROTA Zlato | 50 različnih železniških postaj kontaktiranih |
+
+Ker je ROTA letni dogodek, se kontakti beležijo v dnevnik in predložijo RFRG po koncu tedna na [rfrg.org.uk](https://www.rfrg.org.uk).
+
 ## Tocke & Nagrade
 
 | Stopnja nagrade | Zahteva |

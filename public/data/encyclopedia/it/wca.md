@@ -8,11 +8,25 @@ Ogni castello ha un numero di riferimento WCA univoco composto dal prefisso del 
 
 ## Regole
 
-- **QSO minimi:** 1 collegamento (nessun minimo)
-- **Zona di attivazione:** Sul terreno del castello o in vista del castello
+- **QSO minimi:** 50 collegamenti richiesti per un'attivazione valida
+- **Zona di attivazione:** Entro 1 km dal castello/fortezza
 - **Equipaggiamento:** Qualsiasi configurazione portatile o mobile
 - **Modi operativi:** SSB, CW, FM, tutti i modi digitali
-- **Requisiti speciali:** Documentazione fotografica raccomandata.
+- **Requisiti speciali:** La documentazione fotografica può essere richiesta. Il sito deve essere una fortificazione permanente o una fortificazione campale restaurata.
+
+## Per i Hunter/Chaser
+
+I hunter collegano le stazioni dai castelli da casa propria e raccolgono contatti per i propri premi. Sono disponibili i seguenti premi per i hunter:
+
+| Premio | Requisito |
+|--------|-----------|
+| WCA-50 | 50 castelli diversi lavorati |
+| WCA-100 | 100 castelli diversi lavorati |
+| WCA-200 | 200 castelli diversi lavorati |
+| WCA-500 | 500 castelli diversi lavorati |
+| WCA-1000 | 1.000 castelli diversi lavorati |
+
+Sono richieste QSL card o conferme elettroniche (ad es. tramite il sistema di log WCA) come prova.
 
 ## Punti & Premi
 

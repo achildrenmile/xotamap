@@ -14,6 +14,20 @@ Das Programm wurde ins Leben gerufen, um auf die Bedeutung der Erhaltung histori
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
 - **Besondere Anforderungen:** Anmeldung ueber die RFRG-Webseite vor dem Event; Sicherheitsvorschriften des Eisenbahngelaendes strikt einhalten
 
+## Für Jäger
+
+ROTA-Jäger arbeiten die aktivierten Eisenbahnstationen von zu Hause oder einem beliebigen anderen Standort aus — kein eigener Bahnhofsbesuch erforderlich. Am ROTA-Wochenende im September sind zahlreiche historische Eisenbahnen und Bahnhöfe auf den Bändern aktiv. Jede Verbindung mit einer ROTA-Referenz zählt für die Jäger-Awards.
+
+**Jäger-Awards:**
+
+| Award-Stufe | Anforderung |
+|---|---|
+| ROTA Bronze | 15 verschiedene Eisenbahnstationen kontaktiert |
+| ROTA Silber | 30 verschiedene Eisenbahnstationen kontaktiert |
+| ROTA Gold | 50 verschiedene Eisenbahnstationen kontaktiert |
+
+Spots für aktive ROTA-Stationen sind auf der RFRG-Website (rfrg.org.uk) sowie auf gängigen DX-Cluster-Plattformen zu finden.
+
 ## Punkte & Awards
 
 | Award-Stufe | Anforderung |

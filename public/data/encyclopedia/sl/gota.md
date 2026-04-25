@@ -16,6 +16,12 @@ V nasprotju z vecino xOTA-programov GOTA ni referencni aktivacijski program. Ni 
 - **Nacini delovanja:** Vsi nacini, dovoljeni na Field Day (SSB, CW, digitalno)
 - **Posebne zahteve:** Licenciran nadzorni operater mora ves cas nadzorovati postajo GOTA; operaterji GOTA ne smejo imeti aktivne licence najvisje kategorije
 
+## Za Lovce
+
+GOTA je posebna kategorija znotraj ARRL Field Day in ni klasičen referencni program, zato vloga tradicionalnega "lovca" pri GOTA ne obstaja. Kljub temu lahko izkušeni radioamaterji pokličejo postaje GOTA med Field Day koncem tedna in s tem prispevajo k skupni oceni njihove ekipe. Vsak QSO z aktivno postajo GOTA prispeva točke za skupino Field Day.
+
+Formalne lovske nagrade za GOTA niso predvidene — vrednotenje poteka izključno v okviru skupne uvrstitve ARRL Field Day. Kontakti z GOTA postajami se beležijo v skupnem dnevniku Field Day ekipe.
+
 ## Tocke & Nagrade
 
 | Dosezek | Tocke |

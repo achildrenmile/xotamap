@@ -16,6 +16,20 @@ HOTA promotes the community spirit of amateur radio by turning everyday residenc
 - **Operating Modes:** All modes (SSB, CW, FT8, FM, etc.)
 - **Special Requirements:** The house must be registered in the HOTA system and have a valid reference number
 
+## For Hunters/Chasers
+
+Hunters work HOTA stations from home or any location, collecting unique house references toward chaser awards. Because any registered house can be an activation site, HOTA offers a wide variety of references to chase. Contacts are logged on the HOTA website at hota.org.uk, which tracks worked references and progress toward awards automatically.
+
+| Award | Requirement |
+|-------|-------------|
+| HOTA Bronze | 25 different HOTA references worked |
+| HOTA Silver | 50 different HOTA references worked |
+| HOTA Gold | 100 different HOTA references worked |
+| HOTA Platinum | 250 different HOTA references worked |
+| HOTA Diamond | 500 different HOTA references worked |
+
+Spots for active HOTA stations can be found on the HOTA website and standard DX cluster networks.
+
 ## Points & Awards
 
 | Award | Requirement |
