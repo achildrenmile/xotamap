@@ -106,8 +106,16 @@ export default function MapView() {
             {/* T29 — Spot layer (above reference layers) */}
             {map && <SpotLayer map={map} spots={filteredSpots} />}
 
-            {/* Layer switcher sidebar — top-left overlay, z-20 to stay above search bar on mobile */}
-            <div className="pointer-events-none absolute top-2 left-2 z-20 flex flex-col">
+            {/* T34 — Location search: top row on mobile (full width), centered on desktop */}
+            <div className="pointer-events-none absolute top-2 left-2 right-2 sm:left-1/2 sm:right-auto sm:-translate-x-1/2 z-10 flex">
+              <LocationSearch
+                map={map}
+                onLocationSelected={(lat, lon) => setSearchedPoint({ lat, lon })}
+              />
+            </div>
+
+            {/* Layer switcher sidebar — below search on mobile, top-left on desktop */}
+            <div className="pointer-events-none absolute top-12 sm:top-2 left-2 z-10 flex flex-col">
               <LayerSwitcher
                 programs={ALL_PROGRAMS}
                 visibility={visibility}
@@ -120,17 +128,9 @@ export default function MapView() {
             {/* T30/T31 — Overlap finder (right-click / long-press) */}
             {map && <OverlapFinder map={map} externalPoint={searchedPoint} onActivate={showAll} />}
 
-            {/* T31 — "What counts here?" standalone panel */}
+            {/* T31 — "What counts here?" button — below search on mobile, top-right on desktop */}
             <div className="pointer-events-none absolute top-12 sm:top-2 right-2 sm:right-12 z-10 flex">
               <WhatCountsHere map={map} onActivate={showAll} />
-            </div>
-
-            {/* T34 — Location search */}
-            <div className="pointer-events-none absolute top-2 right-2 sm:right-auto sm:left-1/2 sm:-translate-x-1/2 z-10 flex">
-              <LocationSearch
-                map={map}
-                onLocationSelected={(lat, lon) => setSearchedPoint({ lat, lon })}
-              />
             </div>
 
             {/* Basemap selector — bottom-left overlay */}
