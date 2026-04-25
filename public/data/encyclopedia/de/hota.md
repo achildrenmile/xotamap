@@ -8,7 +8,7 @@ Suedafrika verfuegt ueber eine aussergewoehnliche kulturelle Vielfalt, die sich 
 
 ## Regeln
 
-- **Minimum QSOs:** 10 QSOs fuer eine gueltige Aktivierung
+- **Minimum QSOs:** 1 QSO fuer eine gueltige Aktivierung (jeder Kontakt zaehlt)
 - **Aktivierungszone:** Innerhalb des Gelaendes oder in unmittelbarer Naehe der Kulturerbestaette
 - **Equipment:** Portable Ausruestung empfohlen; maximal 100 Watt Sendeleistung
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)

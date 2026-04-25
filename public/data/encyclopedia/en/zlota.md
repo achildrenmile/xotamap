@@ -10,11 +10,11 @@ The programme is popular with both New Zealand radio amateurs and international 
 
 ## Rules
 
-- **Minimum QSOs:** Varies by reference type; typically at least 4 QSOs for a valid activation
-- **Activation Zone:** Depends on the reference type (e.g. summit zone for summits, park boundaries for national parks)
-- **Equipment:** No special restrictions; portable equipment recommended
-- **Operating Modes:** All common modes (SSB, CW, FT8, FM, etc.)
-- **Special Requirements:** Valid amateur radio licence; observe local regulations in nature reserves
+- **Minimum QSOs:** 1 (any contact counts)
+- **Activation Zone:** At or near the reference
+- **Equipment:** Any portable or mobile setup
+- **Operating Modes:** SSB, CW, FM, all digital modes
+- **Special:** Various reference types in New Zealand (summits, parks, lighthouses, etc.)
 
 ## Points & Awards
 

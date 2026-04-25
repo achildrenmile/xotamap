@@ -10,11 +10,11 @@ Le mappe disegnate a mano e le descrizioni dettagliate dei percorsi di Alfred Wa
 
 ## Regole
 
-- **QSO minimi:** Almeno 4 QSO per un'attivazione valida
-- **Zona di attivazione:** Entro 25 metri dal punto di vetta del rispettivo Wainwright
-- **Attrezzatura:** Alimentazione autonoma obbligatoria, nessun collegamento alla rete elettrica in vetta
+- **QSO minimi:** 1 QSO è sufficiente per un'attivazione valida
+- **Zona di attivazione:** Area della vetta del rispettivo Wainwright (nessuna restrizione di distanza specifica)
+- **Attrezzatura:** Operazione portatile; la vetta deve essere raggiunta a piedi, nessun accesso motorizzato
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FM, modi digitali)
-- **Requisiti speciali:** La salita deve essere effettuata a piedi; nessun aiuto motorizzato per raggiungere la vetta
+- **Particolarità:** Le vette comprendono i 214 Wainwrights e ulteriori Outlying Fells nel Lake District, Inghilterra
 
 ## Punti & Premi
 

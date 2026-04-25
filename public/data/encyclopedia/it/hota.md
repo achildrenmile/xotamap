@@ -8,7 +8,7 @@ Il Sudafrica possiede una straordinaria diversità culturale che si riflette nei
 
 ## Regole
 
-- **QSO minimi:** 10 QSO per un'attivazione valida
+- **QSO minimi:** 1 QSO per un'attivazione valida (qualsiasi contatto è valido)
 - **Zona di attivazione:** All'interno dell'area o nelle immediate vicinanze del sito del patrimonio culturale
 - **Attrezzatura:** Equipaggiamento portatile consigliato; massimo 100 Watt di potenza
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FM, modi digitali)

@@ -10,11 +10,11 @@ Il programma gode di grande popolarità sia tra i radioamatori neozelandesi che 
 
 ## Regole
 
-- **QSO minimi:** Varia a seconda del tipo di riferimento, generalmente almeno 4 QSO per un'attivazione valida
-- **Zona di attivazione:** Dipende dal tipo di riferimento (ad es. zona di vetta per le cime, confini del parco per i parchi nazionali)
-- **Attrezzatura:** Nessuna restrizione particolare, equipaggiamento portatile consigliato
-- **Modi operativi:** Tutti i modi comuni (SSB, CW, FT8, FM ecc.)
-- **Requisiti speciali:** Licenza radioamatoriale valida; nelle aree naturali protette rispettare le normative locali
+- **QSO minimi:** 1 (qualsiasi contatto conta)
+- **Zona di attivazione:** Al o vicino al riferimento
+- **Attrezzatura:** Qualsiasi setup portatile o mobile
+- **Modi operativi:** SSB, CW, FM e tutti i modi digitali
+- **Particolarità:** Vari tipi di riferimento in Nuova Zelanda (vette, parchi, fari, ecc.)
 
 ## Punti & Premi
 

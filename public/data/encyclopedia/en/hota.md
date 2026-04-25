@@ -8,7 +8,7 @@ South Africa possesses an extraordinary cultural diversity reflected in its monu
 
 ## Rules
 
-- **Minimum QSOs:** 10 QSOs for a valid activation
+- **Minimum QSOs:** 1 QSO for a valid activation (any contact counts)
 - **Activation Zone:** Within the grounds or in the immediate vicinity of the heritage site
 - **Equipment:** Portable equipment recommended; maximum 100 watts transmit power
 - **Operating Modes:** All modes permitted (SSB, CW, FM, digital modes)

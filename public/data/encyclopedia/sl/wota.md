@@ -10,11 +10,11 @@ Alfredove rocno narisane karte in podrobni opisi poti so navdihnile generacije p
 
 ## Pravila
 
-- **Najmanj QSO:** Vsaj 4 QSO za veljavno aktivacijo
-- **Aktivacijska cona:** Znotraj 25 metrov od vrha ustreznega Wainwrighta
-- **Oprema:** Lastno napajanje obvezno, brez omreznega napajanja na vrhu
+- **Najmanj QSO:** 1 QSO zadostuje za veljavno aktivacijo
+- **Aktivacijska cona:** Območje vrha ustreznega Wainwrighta (brez posebne omejitve razdalje)
+- **Oprema:** Prenosni obratovanje; vzpon mora biti opravljen peš, brez motoriziranega dostopa do vrha
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FM, digitalni nacini)
-- **Posebne zahteve:** Vzpon mora biti opravljen pesce; brez motoriziranih pomocnih sredstev do vrha
+- **Posebnost:** Vrhovi vključujejo 214 Wainwrightov ter dodatne Outlying Fells v Lake Districtu, Anglija
 
 ## Tocke & Nagrade
 

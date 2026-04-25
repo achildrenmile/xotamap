@@ -10,8 +10,8 @@ The programme encourages the exploration of rural Australia and takes radio amat
 
 ## Rules
 
-- **Minimum QSOs:** At least 10 QSOs recommended for a valid activation
-- **Activation Zone:** Within line of sight of the registered silo
+- **Minimum QSOs:** 1 QSO — any contact counts
+- **Activation Zone:** At or near the silo
 - **Equipment:** No restrictions; portable operation is common
 - **Operating Modes:** All modes permitted (SSB, CW, FT8, FM, etc.)
 - **Special Requirements:** The activated silo must be registered in the SiOTA database; a photo from the location is appreciated

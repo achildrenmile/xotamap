@@ -10,11 +10,11 @@ Alfred Wainwright's hand-drawn maps and detailed route descriptions have inspire
 
 ## Rules
 
-- **Minimum QSOs:** At least 4 QSOs for a valid activation
-- **Activation Zone:** Within 25 metres of the summit point of the respective Wainwright
-- **Equipment:** Self-contained power supply required; no mains power at the summit
+- **Minimum QSOs:** 1 QSO is sufficient for a valid activation
+- **Activation Zone:** Summit area of the respective Wainwright (no specific distance restriction)
+- **Equipment:** Portable operation; the summit must be reached on foot, no motorised access
 - **Operating Modes:** All modes permitted (SSB, CW, FM, digital modes)
-- **Special Requirements:** The ascent must be made on foot; no motorised assistance to the summit
+- **Special:** Summits are the 214 Wainwrights plus additional Outlying Fells in the Lake District, England
 
 ## Points & Awards
 

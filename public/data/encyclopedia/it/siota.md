@@ -10,8 +10,8 @@ Il programma promuove l'esplorazione dell'Australia rurale e porta i radioamator
 
 ## Regole
 
-- **QSO minimi:** Almeno 10 QSO raccomandati per un'attivazione valida
-- **Zona di attivazione:** A portata visiva del silo registrato
+- **QSO minimi:** 1 QSO — qualsiasi contatto è valido
+- **Zona di attivazione:** Al o vicino al silo
 - **Attrezzatura:** Nessuna restrizione, l'attività portatile è abituale
 - **Modi operativi:** Tutti i modi consentiti (SSB, CW, FT8, FM ecc.)
 - **Requisiti speciali:** Il silo attivato deve essere registrato nel database SiOTA; è gradita una foto dalla postazione

@@ -10,11 +10,11 @@ Alfred Wainwrights handgezeichnete Karten und detaillierten Routenbeschreibungen
 
 ## Regeln
 
-- **Minimum QSOs:** Mindestens 4 QSOs für eine gültige Aktivierung
-- **Aktivierungszone:** Innerhalb von 25 Metern um den Gipfelpunkt des jeweiligen Wainwright
-- **Equipment:** Eigene Stromversorgung erforderlich, kein Netzbetrieb am Gipfel
+- **Minimum QSOs:** 1 QSO genügt für eine gültige Aktivierung
+- **Aktivierungszone:** Gipfelbereich des jeweiligen Wainwright (keine spezifische Abstandsbeschränkung)
+- **Equipment:** Portabler Betrieb; der Aufstieg muss zu Fuß erfolgen, kein motorisierter Zugang zum Gipfel
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FM, Digitalmodi)
-- **Besondere Anforderungen:** Der Aufstieg muss zu Fuß erfolgen; keine motorisierte Hilfe zum Gipfel
+- **Besonderes:** Die Gipfel umfassen die 214 Wainwrights sowie weitere Outlying Fells im Lake District, England
 
 ## Punkte & Awards
 

@@ -10,11 +10,11 @@ Das Programm erfreut sich sowohl bei neuseelaendischen Funkamateuren als auch be
 
 ## Regeln
 
-- **Minimum QSOs:** Variiert je nach Referenztyp, in der Regel mindestens 4 QSOs fuer eine gueltige Aktivierung
-- **Aktivierungszone:** Abhaengig vom Referenztyp (z.B. Gipfelzone bei Summits, Parkgrenzen bei Nationalparks)
-- **Equipment:** Keine besonderen Einschraenkungen, portable Ausruestung empfohlen
-- **Betriebsarten:** Alle gaengigen Betriebsarten (SSB, CW, FT8, FM etc.)
-- **Besondere Anforderungen:** Gueltige Amateurfunklizenz; bei Naturschutzgebieten sind lokale Vorschriften zu beachten
+- **Minimum QSOs:** 1 (jedes QSO zaehlt)
+- **Aktivierungszone:** Am oder nahe der Referenz
+- **Equipment:** Jede portable oder mobile Ausruestung
+- **Betriebsarten:** SSB, CW, FM und alle digitalen Betriebsarten
+- **Besonderheit:** Verschiedene Referenztypen in Neuseeland (Gipfel, Parks, Leuchttuerme u.v.m.)
 
 ## Punkte & Awards
 

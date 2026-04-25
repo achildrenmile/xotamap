@@ -275,8 +275,8 @@
             "icon": "mountain-snow",
             "rules": {
                 "minQsos": 1,
-                "activationRadius": "Summit area",
-                "equipment": "Any portable setup",
+                "activationRadius": "At or near the reference point",
+                "equipment": "Any portable or mobile setup, no restrictions",
                 "operatingModes": [
                     "SSB",
                     "CW",
@@ -284,30 +284,36 @@
                     "FT8",
                     "Digital"
                 ],
-                "specialRequirements": "No minimum QSO count for activation. Points depend on summit prominence and height."
+                "specialRequirements": "No minimum QSO count. No transport restrictions. 1 point per 100m elevation for mountains. Multi-program platform covering mountains, castles, lighthouses, mills, and nature parks."
             },
             "awards": [
                 {
-                    "name": "GMA Activator Awards",
-                    "points": 100,
-                    "description": "Various activator point thresholds"
+                    "name": "GMA Trailblazer",
+                    "description": "Cumulative points based on elevation"
                 },
                 {
-                    "name": "GMA Chaser Awards",
-                    "points": 100,
-                    "description": "Various chaser point thresholds"
+                    "name": "GMA Mill Quest (MOTA)",
+                    "description": "Activating mills and windmills"
                 },
                 {
-                    "name": "Mountain Explorer",
-                    "description": "Multiple summits activated in one trip"
+                    "name": "GMA Tower Quest",
+                    "description": "Activating towers"
+                },
+                {
+                    "name": "GMA Top 16 DL",
+                    "description": "The 16 highest summits in Germany"
+                },
+                {
+                    "name": "Go Green XOTA",
+                    "description": "Eco-friendly outdoor activations"
                 }
             ],
             "links": {
                 "website": "https://www.cqgma.org",
-                "rules": "https://www.cqgma.org/gma-rules/",
                 "logUpload": "https://www.cqgma.org",
                 "referenceSearch": "https://www.cqgma.org/gmamap/",
-                "spotPage": "https://www.cqgma.org"
+                "spotPage": "https://www.cqgma.org",
+                "forum": "https://cqgma.info"
             },
             "subPrograms": []
         },
@@ -1436,6 +1442,93 @@
             },
             "awards": [],
             "scoring": {}
+        },
+        {
+            "id": "P33",
+            "code": "SCOTA",
+            "name": "Scout Camps On The Air",
+            "nameDE": "Scout Camps On The Air",
+            "focus": "BSA Scout camps in the USA",
+            "focusDE": "Pfadfinderlager in den USA",
+            "website": "https://scota.us",
+            "spotSource": "none",
+            "hasReferences": false,
+            "referenceCount": 200,
+            "color": "#556B2F",
+            "icon": "compass",
+            "rules": {
+                "minQsos": 1,
+                "activationRadius": "Within scout camp boundaries",
+                "equipment": "Any setup at a scout camp station",
+                "operatingModes": [
+                    "SSB",
+                    "CW",
+                    "FM",
+                    "Digital"
+                ],
+                "specialRequirements": "Camps must be activated by registered Scouts (youth or adults). Approval from camp ranger or director required. Point-based awards: World Jamboree=10pts, National Jamboree=9pts, High Adventure=7-8pts, Council=4-5pts."
+            },
+            "awards": [
+                {
+                    "name": "SCOTA Award",
+                    "points": 50,
+                    "description": "50 points from scout camp contacts (25 must be council stations)"
+                },
+                {
+                    "name": "Quality Camp Station Award",
+                    "description": "Silver and Gold levels for BSA camps with permanent stations"
+                },
+                {
+                    "name": "Quality Scout Station Award",
+                    "description": "Silver and Gold levels for individual Radio Scout stations"
+                }
+            ],
+            "links": {
+                "website": "https://scota.us",
+                "rules": "https://scota.us/awards/",
+                "referenceSearch": "https://scota.us"
+            },
+            "subPrograms": [],
+            "region": "USA"
+        },
+        {
+            "id": "P34",
+            "code": "BIWOTA",
+            "name": "British Inland Waterways On The Air",
+            "nameDE": "British Inland Waterways On The Air",
+            "focus": "Canals, rivers, and towpaths in the UK",
+            "focusDE": "Kanäle, Flüsse und Treidelpfade in Großbritannien",
+            "website": "https://www.nharg.org.uk/biwota",
+            "spotSource": "none",
+            "hasReferences": false,
+            "referenceCount": 100,
+            "color": "#4682B4",
+            "icon": "sailboat",
+            "rules": {
+                "minQsos": 1,
+                "activationRadius": "On or near a UK inland waterway",
+                "equipment": "Any portable or mobile setup",
+                "operatingModes": [
+                    "SSB",
+                    "CW",
+                    "FM",
+                    "Digital"
+                ],
+                "specialRequirements": "Open to all amateurs who are boaters, cyclists, walkers and other users of canals, rivers, towpaths and riverbanks. Many clubs obtain Special Event Station callsigns."
+            },
+            "awards": [
+                {
+                    "name": "BiWOTA Certificate",
+                    "description": "Certificate for participation in the annual event"
+                }
+            ],
+            "links": {
+                "website": "https://www.nharg.org.uk/biwota",
+                "rules": "https://rsgb.org/main/clubs/special-interest-groups/biwota-british-inland-waterways-air/"
+            },
+            "subPrograms": [],
+            "region": "United Kingdom",
+            "eventPeriod": "August bank holiday weekend"
         }
     ]
 }

@@ -8,7 +8,7 @@ Juzna Afrika razpolaga z izjemno kulturno raznolikostjo, ki se odraza v njenih s
 
 ## Pravila
 
-- **Najmanj QSO:** 10 QSO za veljavno aktivacijo
+- **Najmanj QSO:** 1 QSO za veljavno aktivacijo (vsak kontakt šteje)
 - **Aktivacijska cona:** Na obmocju ali v neposredni blizini lokacije kulturne dediscine
 - **Oprema:** Priporocena prenosna oprema; najvec 100 W oddajne moci
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FM, digitalni nacini)

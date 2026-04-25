@@ -10,8 +10,8 @@ Das Programm fördert die Erkundung des ländlichen Australiens und bringt Funka
 
 ## Regeln
 
-- **Minimum QSOs:** Mindestens 10 QSOs für eine gültige Aktivierung empfohlen
-- **Aktivierungszone:** In Sichtweite des registrierten Silos
+- **Minimum QSOs:** 1 QSO – jeder Funkverbindung zählt
+- **Aktivierungszone:** Am oder nahe dem Silo
 - **Equipment:** Keine Einschränkungen, Portabelbetrieb ist üblich
 - **Betriebsarten:** Alle Betriebsarten erlaubt (SSB, CW, FT8, FM usw.)
 - **Besondere Anforderungen:** Das aktivierte Silo muss in der SiOTA-Datenbank registriert sein; ein Foto vom Standort wird gerne gesehen

@@ -10,8 +10,8 @@ Program spodbuja raziskovanje podezelske Avstralije in radioamaterje vodi na kra
 
 ## Pravila
 
-- **Najmanj QSO:** Priporocenih vsaj 10 QSO za veljavno aktivacijo
-- **Aktivacijska cona:** V vidnem polju registriranega silosa
+- **Najmanj QSO:** 1 QSO — vsaka zveza šteje
+- **Aktivacijska cona:** Pri ali blizu silosa
 - **Oprema:** Brez omejitev, obicajno je prenosno delovanje
 - **Nacini delovanja:** Vsi nacini dovoljeni (SSB, CW, FT8, FM itd.)
 - **Posebne zahteve:** Aktivirani silos mora biti registriran v bazi podatkov SiOTA; fotografija z lokacije je dobrodosla

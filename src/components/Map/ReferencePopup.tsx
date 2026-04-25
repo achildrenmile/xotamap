@@ -57,6 +57,10 @@ function buildReferenceUrl(program: string, refCode: string): string | null {
       return `https://www.outnaboot.ca/llota/`;
     case 'cota-oe':
       return `http://www.afch.at/cota/`;
+    case 'scota':
+      return `https://scota.us`;
+    case 'biwota':
+      return `https://www.nharg.org.uk/biwota`;
     default:
       return null;
   }

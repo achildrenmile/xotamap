@@ -10,11 +10,11 @@ Program uziva veliko priljubljenost tako med novozelandskimi radioamaterji kot m
 
 ## Pravila
 
-- **Najmanj QSO:** Odvisno od tipa reference, obicajno vsaj 4 QSO za veljavno aktivacijo
-- **Aktivacijska cona:** Odvisno od tipa reference (npr. vrsna cona pri vrhovih, meje parka pri nacionalnih parkih)
-- **Oprema:** Brez posebnih omejitev, priporocena prenosna oprema
-- **Nacini delovanja:** Vsi obicajni nacini (SSB, CW, FT8, FM itd.)
-- **Posebne zahteve:** Veljavna radioamaterska licenca; pri naravnih rezervatih je treba upostevati lokalne predpise
+- **Najmanj QSO:** 1 (vsaka zveza se steje)
+- **Aktivacijska cona:** Pri ali blizu reference
+- **Oprema:** Katera koli prenosna ali mobilna postaja
+- **Nacini delovanja:** SSB, CW, FM in vsi digitalni nacini
+- **Posebnost:** Razlicni tipi referenc na Novi Zelandiji (vrhovi, parki, svetilniki itd.)
 
 ## Tocke & Nagrade
 
