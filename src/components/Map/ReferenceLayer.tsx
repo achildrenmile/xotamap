@@ -37,6 +37,8 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
     if (!map) return;
 
     function addLayer() {
+      // Only add when style is fully loaded — otherwise addSource may fail
+      if (!map.isStyleLoaded()) return;
       if (map.getSource(src)) return;
 
       map.addSource(src, getPMTilesSource(program));
@@ -102,18 +104,20 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
       });
     }
 
-    // Try immediately, and also on load/styledata to handle race conditions
-    // where the map style isn't ready yet or gets swapped
+    // Try immediately, and also on load/styledata/idle to handle race conditions
+    // where the map style isn't ready yet or gets swapped (basemap change)
     if (map.isStyleLoaded()) {
       addLayer();
     }
     map.on('load', addLayer);
     map.on('styledata', addLayer);
+    map.on('idle', addLayer);
 
     return () => {
       // eslint-disable-next-line react-hooks/exhaustive-deps
       map.off('load', addLayer);
       map.off('styledata', addLayer);
+      map.off('idle', addLayer);
       try {
         if (map.getLayer(lyr)) map.removeLayer(lyr);
         if (map.getSource(src)) map.removeSource(src);
