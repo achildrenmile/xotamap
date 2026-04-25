@@ -276,13 +276,10 @@ export class SpotholeError extends Error {
  * });
  * ```
  */
-export async function fetchSpots(filters?: SpotFilters): Promise<Spot[]> {
-  // Rate limit check
+export async function fetchSpots(filters?: SpotFilters): Promise<Spot[] | null> {
+  // Rate limit check — silently return null instead of throwing
   if (!canRequest()) {
-    const waitMs = msUntilNextRequest();
-    throw new SpotholeError(
-      `Rate limited: please wait ${Math.ceil(waitMs / 1000)}s before the next request`,
-    );
+    return null;
   }
 
   const params = buildQueryParams(filters);

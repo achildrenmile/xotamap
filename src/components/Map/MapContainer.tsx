@@ -1,4 +1,4 @@
-import { useRef, useEffect, useState, type ReactNode } from 'react';
+import { useRef, type ReactNode } from 'react';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import type maplibregl from 'maplibre-gl';
 import { useMap } from './useMap';
@@ -6,14 +6,6 @@ import { initPMTiles } from '../../services/pmtiles';
 
 // Register PMTiles protocol once
 initPMTiles();
-
-/**
- * Detect whether the browser is currently in dark mode,
- * checking both the Tailwind 'dark' class and the OS preference.
- */
-function isDarkMode(): boolean {
-  return document.documentElement.classList.contains('dark');
-}
 
 interface MapContainerProps {
   /**
@@ -25,21 +17,9 @@ interface MapContainerProps {
 
 export function MapContainer({ children }: MapContainerProps) {
   const containerRef = useRef<HTMLDivElement | null>(null);
-  const [darkMode, setDarkMode] = useState(isDarkMode);
 
-  // Watch for dark mode changes (Tailwind toggles the 'dark' class on <html>)
-  useEffect(() => {
-    const observer = new MutationObserver(() => {
-      setDarkMode(isDarkMode());
-    });
-    observer.observe(document.documentElement, {
-      attributes: true,
-      attributeFilter: ['class'],
-    });
-    return () => observer.disconnect();
-  }, []);
-
-  const map = useMap(containerRef, undefined, darkMode);
+  // Always use light mode for the map basemap
+  const map = useMap(containerRef, undefined, false);
 
   return (
     <div className="relative h-full w-full">

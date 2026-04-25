@@ -24,7 +24,6 @@ const ALL_PROGRAMS: ProgramEntry[] = (
     code: string;
     name: string;
     color: string;
-    tier: number;
     hasReferences: boolean;
   }>
 ).filter((p) => p.hasReferences);

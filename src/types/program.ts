@@ -27,7 +27,6 @@ export interface Program {
   nameDE: string;
   focus: string;
   focusDE: string;
-  tier: 1 | 2 | 3 | 4;
   website: string;
   spotSource: 'spothole' | 'direct' | 'none';
   hasReferences: boolean;

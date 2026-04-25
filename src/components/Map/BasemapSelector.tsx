@@ -13,7 +13,6 @@ interface BasemapOption {
 const BASEMAP_OPTIONS: BasemapOption[] = [
   { id: 'standard', labelKey: 'basemapStandard', icon: '🗺️' },
   { id: 'outdoor', labelKey: 'basemapOutdoor', icon: '🏕️' },
-  { id: 'dark', labelKey: 'basemapDark', icon: '🌙' },
 ];
 
 interface BasemapSelectorProps {

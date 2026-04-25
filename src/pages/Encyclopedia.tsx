@@ -16,7 +16,6 @@ export default function Encyclopedia() {
   const [error, setError] = useState<string | null>(null);
 
   const [search, setSearch] = useState('');
-  const [tierFilter, setTierFilter] = useState<number | null>(null);
 
   useEffect(() => {
     fetch('/data/programs/index.json')
@@ -37,7 +36,6 @@ export default function Encyclopedia() {
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
     return programs.filter((p) => {
-      if (tierFilter !== null && p.tier !== tierFilter) return false;
       if (q) {
         return (
           p.code.toLowerCase().includes(q) ||
@@ -48,7 +46,7 @@ export default function Encyclopedia() {
       }
       return true;
     });
-  }, [programs, search, tierFilter]);
+  }, [programs, search]);
 
   const programsFoundText = t.programsFound.replace('{count}', String(filtered.length));
 
@@ -81,13 +79,11 @@ export default function Encyclopedia() {
           <p className="text-sm text-gray-500 dark:text-gray-400">{programsFoundText}</p>
         </div>
 
-        {/* Filters */}
+        {/* Search */}
         <div className="mb-6">
           <ProgramFilter
             search={search}
             onSearchChange={setSearch}
-            tier={tierFilter}
-            onTierChange={setTierFilter}
           />
         </div>
 

@@ -53,8 +53,10 @@ export function useSpotPoller(filters?: SpotFilters): UseSpotPollerResult {
 
     try {
       const result = await fetchSpots(filtersRef.current);
-      setSpots(result);
-      setLastUpdate(new Date());
+      if (result !== null) {
+        setSpots(result);
+        setLastUpdate(new Date());
+      }
     } catch (err: unknown) {
       setError(err instanceof Error ? err.message : 'Unknown error');
     } finally {

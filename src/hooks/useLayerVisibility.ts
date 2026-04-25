@@ -35,27 +35,25 @@ interface UseLayerVisibilityResult {
 
 /**
  * Manages per-program layer visibility state.
- * Persists to localStorage. Tier-1 programs are on by default.
+ * Persists to localStorage. All programs with references default to on.
  */
 export function useLayerVisibility(
-  programs: Array<{ code: string; tier: number; hasReferences: boolean }>,
+  programs: Array<{ code: string; hasReferences: boolean }>,
 ): UseLayerVisibilityResult {
   const [visibility, setVisibility] = useState<Record<string, boolean>>(() => {
     const stored = loadFromStorage();
     if (stored) {
-      // Fill in any programs not yet in storage (default: tier-1 on)
       const merged: Record<string, boolean> = { ...stored };
       for (const p of programs) {
         if (!(p.code in merged)) {
-          merged[p.code] = p.tier === 1 && p.hasReferences;
+          merged[p.code] = p.hasReferences;
         }
       }
       return merged;
     }
-    // First visit: default to tier-1 programs with references = on
     const defaults: Record<string, boolean> = {};
     for (const p of programs) {
-      defaults[p.code] = p.tier === 1 && p.hasReferences;
+      defaults[p.code] = p.hasReferences;
     }
     return defaults;
   });

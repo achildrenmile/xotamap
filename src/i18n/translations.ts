@@ -29,12 +29,6 @@ export interface Translations {
   encyclopediaTitle: string;
   programsFound: string;
   searchPrograms: string;
-  filterByTier: string;
-  allTiers: string;
-  tier1: string;
-  tier2: string;
-  tier3: string;
-  tier4: string;
   showOnMap: string;
   rules: string;
   awards: string;

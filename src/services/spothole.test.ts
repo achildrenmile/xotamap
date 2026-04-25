@@ -141,7 +141,7 @@ describe('spothole service', () => {
     const spots = await fetchSpots({ needsSig: true });
     expect(spots).toHaveLength(1);
 
-    const spot: Spot = spots[0];
+    const spot: Spot = spots![0];
     expect(spot.id).toBe('abc123def456');
     expect(spot.callsign).toBe('OE5JFE/P');
     expect(spot.name).toBe('Josef');
@@ -177,8 +177,8 @@ describe('spothole service', () => {
 
     const spots = await fetchSpots();
     // POTA spot has time 1700000100, SOTA has 1700000000
-    expect(spots[0].programCode).toBe('POTA');
-    expect(spots[1].programCode).toBe('SOTA');
+    expect(spots![0].programCode).toBe('POTA');
+    expect(spots![1].programCode).toBe('SOTA');
   });
 
   it('builds query parameters correctly', async () => {
@@ -285,13 +285,13 @@ describe('spothole service', () => {
 
     const spots = await fetchSpots();
     expect(spots).toHaveLength(1);
-    expect(spots[0].name).toBeUndefined();
-    expect(spots[0].lat).toBeUndefined();
-    expect(spots[0].lon).toBeUndefined();
-    expect(spots[0].reference).toBeUndefined();
-    expect(spots[0].programCode).toBe('UNKNOWN');
-    expect(spots[0].mode).toBe('');
-    expect(spots[0].band).toBe('');
-    expect(spots[0].sigRefs).toHaveLength(0);
+    expect(spots![0].name).toBeUndefined();
+    expect(spots![0].lat).toBeUndefined();
+    expect(spots![0].lon).toBeUndefined();
+    expect(spots![0].reference).toBeUndefined();
+    expect(spots![0].programCode).toBe('UNKNOWN');
+    expect(spots![0].mode).toBe('');
+    expect(spots![0].band).toBe('');
+    expect(spots![0].sigRefs).toHaveLength(0);
   });
 });
