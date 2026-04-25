@@ -11,19 +11,56 @@ interface ReferencePopupProps {
   t: Translations;
 }
 
-/** Known program websites for building official page links */
-const PROGRAM_WEBSITES: Record<string, string> = {
-  sota: 'https://www.sota.org.uk',
-  pota: 'https://pota.app',
-  wwff: 'https://wwff.co',
-  gma: 'https://www.cqgma.org',
-  iota: 'https://www.iota-world.org',
-  cota: 'https://cota.cc',
-  lota: 'https://www.lota.cc',
-  bota: 'https://bfrg.at/bota',
-  slota: 'https://slota.hamradio.si',
-  hema: 'https://hfrg.at/hema',
-};
+/**
+ * Build a deep link to the specific reference page for a program.
+ * Returns null if no deep link pattern is known.
+ */
+function buildReferenceUrl(program: string, refCode: string): string | null {
+  switch (program.toLowerCase()) {
+    case 'sota':
+      return `https://sotl.as/summits/${encodeURIComponent(refCode)}`;
+    case 'pota':
+      return `https://pota.app/#/park/${encodeURIComponent(refCode)}`;
+    case 'wwff':
+      return `https://wwff.co/directory/?showRef=${encodeURIComponent(refCode)}`;
+    case 'gma':
+    case 'hema':
+    case 'wca':
+    case 'wlota':
+    case 'eca':
+    case 'ela':
+    case 'mota':
+    case 'arlhs':
+    case 'illw':
+      return `https://www.cqgma.org/gmamap/?ref=${encodeURIComponent(refCode)}`;
+    case 'iota':
+      return `https://www.iota-world.org/islands/?grpRef=${encodeURIComponent(refCode)}`;
+    case 'wwbota':
+      return `https://wwbota.com/bunker/${encodeURIComponent(refCode)}`;
+    case 'tota':
+      return `https://wwtota.com/seznam/?ref=${encodeURIComponent(refCode)}`;
+    case 'bota':
+      return `https://bfrg.at/bota`;
+    case 'krmnpa':
+      return `https://parksnpeaks.org/park.php?park=${encodeURIComponent(refCode)}`;
+    case 'wab':
+      return `https://wab.org.uk`;
+    case 'zlota':
+      return `https://ontheair.nz`;
+    case 'siota':
+      return `https://silosontheair.com`;
+    case 'wota':
+      return `https://wota.org.uk`;
+    case 'hota-uk':
+      return `https://hota.org.uk`;
+    case 'llota':
+      return `https://www.outnaboot.ca/llota/`;
+    case 'cota-oe':
+      return `http://www.afch.at/cota/`;
+    default:
+      return null;
+  }
+}
 
 /**
  * Build popup HTML for a clicked reference feature.
@@ -79,9 +116,9 @@ function buildPopupHTML(
   // Links
   html += '<div class="xota-popup-links">';
 
-  const website = PROGRAM_WEBSITES[program.toLowerCase()];
-  if (website) {
-    html += `<a href="${website}" target="_blank" rel="noopener noreferrer" class="xota-popup-link">&rarr; ${escapeHtml(t.popupOfficialPage)}</a>`;
+  const deepLink = buildReferenceUrl(program, refCode);
+  if (deepLink) {
+    html += `<a href="${deepLink}" target="_blank" rel="noopener noreferrer" class="xota-popup-link">&rarr; ${escapeHtml(refCode)} @ ${escapeHtml(programCode)}</a>`;
   }
 
   html += `<a href="/encyclopedia/${encodeURIComponent(program.toLowerCase())}" class="xota-popup-link">&rarr; ${escapeHtml(t.popupEncyclopedia)}</a>`;

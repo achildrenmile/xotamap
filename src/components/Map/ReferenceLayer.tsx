@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 import type maplibregl from 'maplibre-gl';
 import { getPMTilesSource } from '../../services/pmtiles';
 
@@ -29,6 +29,8 @@ export function layerId(program: string): string {
 export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerProps) {
   const src = sourceId(program);
   const lyr = layerId(program);
+  const visibleRef = useRef(visible);
+  visibleRef.current = visible;
 
   // Add source and layer on mount, remove on unmount
   useEffect(() => {
@@ -94,7 +96,8 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
           ],
         },
         layout: {
-          visibility: visible ? 'visible' : 'none',
+          // Use ref to get current visibility at time of layer creation
+          visibility: visibleRef.current ? 'visible' : 'none',
         },
       });
     }
@@ -118,16 +121,27 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [map, program, color]);
 
-  // Toggle visibility
+  // Toggle visibility — also handle style changes that re-create layers
   useEffect(() => {
     if (!map) return;
-    try {
-      if (map.getLayer(lyr)) {
-        map.setLayoutProperty(lyr, 'visibility', visible ? 'visible' : 'none');
+
+    const applyVisibility = () => {
+      try {
+        if (map.getLayer(lyr)) {
+          map.setLayoutProperty(lyr, 'visibility', visible ? 'visible' : 'none');
+        }
+      } catch {
+        // Layer may not exist yet
       }
-    } catch {
-      // Layer may not exist yet
-    }
+    };
+
+    applyVisibility();
+    // Re-apply after style data loads (handles basemap switch race condition)
+    map.on('styledata', applyVisibility);
+
+    return () => {
+      map.off('styledata', applyVisibility);
+    };
   }, [map, lyr, visible]);
 
   return null;
