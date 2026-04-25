@@ -24,7 +24,7 @@ export default function Encyclopedia() {
         return res.json() as Promise<ProgramIndex>;
       })
       .then((data) => {
-        setPrograms(data.programs.filter((p: Program) => p.hasReferences));
+        setPrograms(data.programs);
         setLoading(false);
       })
       .catch((err: unknown) => {
