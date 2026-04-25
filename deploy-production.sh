@@ -62,7 +62,7 @@ ssh "$DEPLOY_HOST" "
         --restart unless-stopped \
         --network cloudflared-tunnel \
         -p '$CONTAINER_PORT' \
-        -e SITE_NAME='xOTA Map' \
+        -e SITE_NAME='xOTA Map (Beta)' \
         -e SITE_DESCRIPTION='Alle Outdoor-Amateurfunk-Programme auf einer Karte' \
         -e PARENT_SITE_NAME='OE Radio' \
         -e PARENT_SITE_URL='https://oeradio.at' \

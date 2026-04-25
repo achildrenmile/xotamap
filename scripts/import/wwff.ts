@@ -2,11 +2,10 @@
  * WWFF (World Wide Flora & Fauna) reference data importer.
  *
  * Strategy:
- *   1. Fetch prefix list from CQG MA: /gmamap/load_wwff_prefixes.php
- *   2. For each prefix, fetch references from /gmamap/load_wwff.php?prefix=XXX
- *   3. Normalize to GeoJSON FeatureCollection
+ *   Download the official WWFF directory CSV which contains all references
+ *   with coordinates.
  *
- * Source: https://www.cqgma.org/gmamap/
+ * Source: https://wwff.co/wwff-data/wwff_directory.csv
  */
 
 import type { ImportResult, ReferenceFeature } from './types.js';
@@ -14,7 +13,6 @@ import {
   fetchWithRetry,
   createFeature,
   createFeatureCollection,
-  createRateLimiter,
   isValidCoordinate,
   logSection,
   formatCount,
@@ -22,82 +20,112 @@ import {
 import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-const BASE_URL = 'https://www.cqgma.org/gmamap';
+const CSV_URL = 'https://wwff.co/wwff-data/wwff_directory.csv';
 const OUTPUT_DIR = join(process.cwd(), 'public/data/references');
 
-interface WwffRef {
-  ref: string;
-  name: string;
-  latitude: number;
-  longitude: number;
-  label?: string;
+function parseCsvLine(line: string): string[] {
+  const fields: string[] = [];
+  let current = '';
+  let inQuotes = false;
+
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (ch === '"') {
+      inQuotes = !inQuotes;
+    } else if (ch === ',' && !inQuotes) {
+      fields.push(current);
+      current = '';
+    } else {
+      current += ch;
+    }
+  }
+  fields.push(current);
+  return fields;
 }
 
 export async function importWwff(): Promise<ImportResult> {
   logSection('WWFF — World Wide Flora & Fauna');
   const result: ImportResult = { program: 'wwff', count: 0, errors: [], skipped: 0 };
   const features: ReferenceFeature[] = [];
-  const rateLimit = createRateLimiter(300);
-  const seenCodes = new Set<string>();
 
-  // Step 1: Fetch all prefixes
-  console.log('  Fetching WWFF prefixes...');
-  let prefixes: string[];
+  console.log('  Downloading WWFF directory CSV...');
+  let csvText: string;
   try {
-    const res = await fetchWithRetry(`${BASE_URL}/load_wwff_prefixes.php`);
-    prefixes = await res.json() as string[];
-    console.log(`  Found ${formatCount(prefixes.length)} prefixes`);
+    const res = await fetchWithRetry(CSV_URL, {
+      headers: { Accept: 'text/csv' },
+    });
+    csvText = await res.text();
+    console.log(`  Downloaded ${formatCount(csvText.length)} bytes`);
   } catch (err) {
-    const msg = `Failed to fetch WWFF prefixes: ${err instanceof Error ? err.message : err}`;
+    const msg = `Failed to download WWFF CSV: ${err instanceof Error ? err.message : err}`;
     console.error(`  ERROR: ${msg}`);
     result.errors.push(msg);
     writeFileSync(join(OUTPUT_DIR, 'wwff.geojson'), JSON.stringify(createFeatureCollection([])));
     return result;
   }
 
-  // Step 2: Fetch references per prefix
-  let processed = 0;
-  for (const prefix of prefixes) {
-    await rateLimit();
-    processed++;
-    try {
-      const res = await fetchWithRetry(
-        `${BASE_URL}/load_wwff.php?prefix=${encodeURIComponent(prefix)}`,
-        {},
-        2,
-        1000
-      );
-      const refs = await res.json() as WwffRef[];
+  const lines = csvText.split('\n');
+  if (lines.length < 2) {
+    result.errors.push('WWFF CSV is empty');
+    writeFileSync(join(OUTPUT_DIR, 'wwff.geojson'), JSON.stringify(createFeatureCollection([])));
+    return result;
+  }
 
-      if (!Array.isArray(refs)) continue;
+  // Parse header to find column indices
+  const header = parseCsvLine(lines[0]);
+  const colIdx: Record<string, number> = {};
+  header.forEach((h, i) => { colIdx[h.trim().toLowerCase()] = i; });
 
-      for (const ref of refs) {
-        if (!ref.ref || seenCodes.has(ref.ref)) continue;
-        seenCodes.add(ref.ref);
+  const refIdx = colIdx['reference'];
+  const nameIdx = colIdx['name'];
+  const latIdx = colIdx['latitude'];
+  const lonIdx = colIdx['longitude'];
+  const statusIdx = colIdx['status'];
+  const programIdx = colIdx['program'];
 
-        if (!isValidCoordinate(ref.longitude, ref.latitude)) {
-          result.skipped++;
-          continue;
-        }
+  if (refIdx === undefined || latIdx === undefined || lonIdx === undefined) {
+    result.errors.push('WWFF CSV missing required columns');
+    writeFileSync(join(OUTPUT_DIR, 'wwff.geojson'), JSON.stringify(createFeatureCollection([])));
+    return result;
+  }
 
-        features.push(
-          createFeature(ref.longitude, ref.latitude, {
-            code: ref.ref,
-            program: 'wwff',
-            name: ref.name ?? '',
-            region: prefix,
-          })
-        );
-      }
+  // Parse data rows
+  for (let i = 1; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (!line) continue;
 
-      if (processed % 50 === 0) {
-        console.log(`  Progress: ${processed}/${prefixes.length} prefixes, ${formatCount(features.length)} refs`);
-      }
-    } catch (err) {
-      const msg = `Failed to fetch WWFF prefix ${prefix}: ${err instanceof Error ? err.message : err}`;
-      console.warn(`  WARNING: ${msg}`);
-      result.errors.push(msg);
+    const fields = parseCsvLine(line);
+    const ref = fields[refIdx]?.trim();
+    const name = fields[nameIdx]?.trim() ?? '';
+    const lat = parseFloat(fields[latIdx]);
+    const lon = parseFloat(fields[lonIdx]);
+    const status = fields[statusIdx]?.trim().toLowerCase();
+    const prefix = fields[programIdx]?.trim();
+
+    // Skip inactive references
+    if (status && status !== 'active') {
+      result.skipped++;
+      continue;
     }
+
+    if (!ref || isNaN(lat) || isNaN(lon)) {
+      result.skipped++;
+      continue;
+    }
+
+    if (!isValidCoordinate(lon, lat)) {
+      result.skipped++;
+      continue;
+    }
+
+    features.push(
+      createFeature(lon, lat, {
+        code: ref,
+        program: 'wwff',
+        name,
+        region: prefix ?? undefined,
+      })
+    );
   }
 
   const collection = createFeatureCollection(features);
