@@ -1,4 +1,5 @@
 import { MapPin } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import { useI18n } from '../../i18n';
 import { ParentSiteLogo } from '../ParentSiteLogo/ParentSiteLogo';
 import { LanguageSelector } from '../LanguageSelector/LanguageSelector';
@@ -20,7 +21,7 @@ export function Header() {
               <div className="w-px h-8 bg-gray-200 dark:bg-gray-700" />
             </div>
 
-            <div className="flex items-center gap-2 min-w-0">
+            <Link to="/" className="flex items-center gap-2 min-w-0 hover:opacity-80 transition-opacity">
               <MapPin className="w-6 h-6 flex-shrink-0 text-blue-600 dark:text-blue-400" />
               <div className="min-w-0">
                 <h1 className="text-base sm:text-lg font-bold text-gray-900 dark:text-gray-100 leading-tight truncate">
@@ -30,7 +31,7 @@ export function Header() {
                   {t.appSubtitle}
                 </p>
               </div>
-            </div>
+            </Link>
           </div>
 
           {/* Center: Navigation tabs (desktop only) */}
