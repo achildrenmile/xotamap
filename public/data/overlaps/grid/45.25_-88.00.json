@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":-88,"programs":["pota"],"count":1,"references":[{"code":"US-4301","program":"pota","name":"Lake Noquebay State Wildlife Area","coordinates":[-87.8418,45.2582]}]}
+{"lat":45.25,"lon":-88,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4301","program":"pota","name":"Lake Noquebay State Wildlife Area","coordinates":[-87.8418,45.2582]},{"code":"KFF-4301","program":"wwff","name":"Lake Noquebay","coordinates":[-87.85792,45.26293]}]}

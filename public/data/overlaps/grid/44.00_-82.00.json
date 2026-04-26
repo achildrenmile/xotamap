@@ -1,1 +1,1 @@
-{"lat":44,"lon":-82,"programs":["pota"],"count":1,"references":[{"code":"CA-4880","program":"pota","name":"Point Clark Lighthouse National Historic Site","coordinates":[-81.7571,44.0731]}]}
+{"lat":44,"lon":-82,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4880","program":"pota","name":"Point Clark Lighthouse National Historic Site","coordinates":[-81.7571,44.0731]},{"code":"VEFF-1392","program":"wwff","name":"Point Clark Lighthouse N.H.S.","coordinates":[-81.75729,44.0728]}]}

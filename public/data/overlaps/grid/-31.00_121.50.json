@@ -1,1 +1,1 @@
-{"lat":-31,"lon":121.5,"programs":["pota"],"count":1,"references":[{"code":"AU-3000","program":"pota","name":"Lakeside Timber Resources Area","coordinates":[121.595,-30.8377]}]}
+{"lat":-31,"lon":121.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3000","program":"pota","name":"Lakeside Timber Resources Area","coordinates":[121.595,-30.8377]},{"code":"VKFF-2982","program":"wwff","name":"Lakeside Timber Reserve 5(1)(g) Reserve","coordinates":[121.5949,-30.8377]}]}

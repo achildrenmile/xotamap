@@ -1,1 +1,1 @@
-{"lat":-29.75,"lon":149.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1886","program":"pota","name":"Kirramingly Nature Reserve","coordinates":[149.688,-29.7337]}]}
+{"lat":-29.75,"lon":149.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1886","program":"pota","name":"Kirramingly Nature Reserve","coordinates":[149.688,-29.7337]},{"code":"VKFF-1952","program":"wwff","name":"Kirramingly Nature Reserve","coordinates":[149.6881,-29.7337]}]}

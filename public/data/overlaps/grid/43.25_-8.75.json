@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":-8.75,"programs":["sota"],"count":1,"references":[{"code":"EA1/CR-030","program":"sota","name":"Neme","coordinates":[-8.73941,43.27054]}]}
+{"lat":43.25,"lon":-8.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"EA1/CR-030","program":"sota","name":"Neme","coordinates":[-8.73941,43.27054]},{"code":"EAFF-2766","program":"wwff","name":"Humedal Laguna de Baldaio","coordinates":[-8.68107,43.29481]}]}

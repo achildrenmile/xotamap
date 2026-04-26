@@ -1,1 +1,1 @@
-{"lat":36,"lon":-122,"programs":["pota"],"count":1,"references":[{"code":"US-1183","program":"pota","name":"Pfeiffer Big Sur State Park","coordinates":[-121.781,36.2479]}]}
+{"lat":36,"lon":-122,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-1183","program":"pota","name":"Pfeiffer Big Sur State Park","coordinates":[-121.781,36.2479]},{"code":"KFF-1183","program":"wwff","name":"Pfeiffer Big Sur","coordinates":[-121.78127,36.24793]},{"code":"KFF-5593","program":"wwff","name":"Ventana","coordinates":[-121.78392,36.24156]}]}

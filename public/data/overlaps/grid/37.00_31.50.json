@@ -1,1 +1,1 @@
-{"lat":37,"lon":31.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0030","program":"pota","name":"Altınbeşik Mağarası National Park","coordinates":[31.6303,37.0389]}]}
+{"lat":37,"lon":31.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0030","program":"pota","name":"Altınbeşik Mağarası National Park","coordinates":[31.6303,37.0389]},{"code":"TAFF-0002","program":"wwff","name":"Altinbesik Magarasi (Cave)","coordinates":[31.63086,37.03895]}]}

@@ -1,1 +1,1 @@
-{"lat":-12.5,"lon":142.25,"programs":["pota"],"count":1,"references":[{"code":"AU-2868","program":"pota","name":"Steve Irwin Wildlife Nature Recreation Area","coordinates":[142.428,-12.3796]}]}
+{"lat":-12.5,"lon":142.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2868","program":"pota","name":"Steve Irwin Wildlife Nature Recreation Area","coordinates":[142.428,-12.3796]},{"code":"VKFF-2881","program":"wwff","name":"Steve Irwin Wildlife Reserve","coordinates":[142.4277,-12.3796]}]}

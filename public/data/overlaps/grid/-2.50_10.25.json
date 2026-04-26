@@ -1,1 +1,1 @@
-{"lat":-2.5,"lon":10.25,"programs":["pota"],"count":1,"references":[{"code":"GA-0009","program":"pota","name":"Moukalaba-Doudou National Park","coordinates":[10.2518,-2.2608]}]}
+{"lat":-2.5,"lon":10.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"GA-0009","program":"pota","name":"Moukalaba-Doudou National Park","coordinates":[10.2518,-2.2608]},{"code":"TRFF-0010","program":"wwff","name":"Moukalaba-Doudou","coordinates":[10.42,-2.43]}]}

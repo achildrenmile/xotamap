@@ -1,1 +1,1 @@
-{"lat":-0.75,"lon":30.75,"programs":["pota"],"count":1,"references":[{"code":"UG-0006","program":"pota","name":"Lake Mburo National Park","coordinates":[30.9667,-0.6277]}]}
+{"lat":-0.75,"lon":30.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"UG-0006","program":"pota","name":"Lake Mburo National Park","coordinates":[30.9667,-0.6277]},{"code":"5XFF-0004","program":"wwff","name":"Lake Mburo","coordinates":[30.93,-0.55]}]}

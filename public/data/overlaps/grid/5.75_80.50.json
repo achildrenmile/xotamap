@@ -1,1 +1,1 @@
-{"lat":5.75,"lon":80.5,"programs":["pota"],"count":1,"references":[{"code":"LK-0028","program":"pota","name":"Kiralakela Natural Features Reserve","coordinates":[80.533,5.97]}]}
+{"lat":5.75,"lon":80.5,"programs":["arlhs","illw","pota"],"count":3,"references":[{"code":"SLI 001","program":"arlhs","name":"Dondra Head","coordinates":[80.594056,5.921241]},{"code":"LK0001","program":"illw","name":"Dondra Head","coordinates":[80.594056,5.921241]},{"code":"LK-0028","program":"pota","name":"Kiralakela Natural Features Reserve","coordinates":[80.533,5.97]}]}

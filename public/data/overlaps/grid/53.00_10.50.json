@@ -1,1 +1,1 @@
-{"lat":53,"lon":10.5,"programs":["gma"],"count":1,"references":[{"code":"DA/NI-257","program":"gma","name":"Lindenberg","coordinates":[10.54214001,53.05208969]}]}
+{"lat":53,"lon":10.5,"programs":["gma","wwff"],"count":2,"references":[{"code":"DA/NI-257","program":"gma","name":"Lindenberg","coordinates":[10.54214001,53.05208969]},{"code":"DLFF-0389","program":"wwff","name":"Der Lohn","coordinates":[10.56444,53.05806]}]}

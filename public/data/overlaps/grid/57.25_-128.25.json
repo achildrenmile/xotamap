@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":-128.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0737","program":"pota","name":"Spatsizi Plateau Wilderness Provincial Park","coordinates":[-128.166,57.3902]}]}
+{"lat":57.25,"lon":-128.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0737","program":"pota","name":"Spatsizi Plateau Wilderness Provincial Park","coordinates":[-128.166,57.3902]},{"code":"VEFF-0737","program":"wwff","name":"Spatsizi Plateau Wilderness Provincial Park","coordinates":[-128.16568,57.39023]}]}

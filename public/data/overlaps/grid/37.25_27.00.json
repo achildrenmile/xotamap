@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"TR-0185","program":"pota","name":"Tavşanburnu Nature Park","coordinates":[27.2196,37.4206]}]}
+{"lat":37.25,"lon":27,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"TUR 051","program":"arlhs","name":"Tekagac","coordinates":[27.21999931,37.34999847]},{"code":"TR-0185","program":"pota","name":"Tavşanburnu Nature Park","coordinates":[27.2196,37.4206]},{"code":"SVFF-0056","program":"wwff","name":"ARKOI, LEIPSOI, AGATHONISI KAI VRACHONISIDES","coordinates":[27.08507,37.28789]}]}

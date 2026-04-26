@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":7,"programs":["pota"],"count":1,"references":[{"code":"NL-0035","program":"pota","name":"Bargerveen Provincial Park","coordinates":[7.02216,52.6717]}]}
+{"lat":52.5,"lon":7,"programs":["pota","wwff"],"count":3,"references":[{"code":"NL-0035","program":"pota","name":"Bargerveen Provincial Park","coordinates":[7.02216,52.6717]},{"code":"DLFF-0076","program":"wwff","name":"Nature Park Bourtanger Moor-Bargerveen","coordinates":[7.07382,52.64556]},{"code":"PAFF-0041","program":"wwff","name":"Bargerveen","coordinates":[7.03737,52.68261]}]}

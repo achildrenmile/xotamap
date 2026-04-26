@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":26.25,"programs":["sota"],"count":1,"references":[{"code":"ES/ES-003","program":"sota","name":"Emumägi","coordinates":[26.3743,58.9375]}]}
+{"lat":58.75,"lon":26.25,"programs":["sota","wwff"],"count":3,"references":[{"code":"ES/ES-003","program":"sota","name":"Emumägi","coordinates":[26.3743,58.9375]},{"code":"ESFF-0209","program":"wwff","name":"Salla","coordinates":[26.3793,58.95298]},{"code":"ESFF-0211","program":"wwff","name":"Seljamäe","coordinates":[26.26636,58.92509]}]}

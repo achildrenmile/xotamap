@@ -1,1 +1,1 @@
-{"lat":-30.75,"lon":25.75,"programs":["sota"],"count":1,"references":[{"code":"ZS/EC-588","program":"sota","name":"ZS/EC-588","coordinates":[25.8203,-30.7383]}]}
+{"lat":-30.75,"lon":25.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/EC-588","program":"sota","name":"ZS/EC-588","coordinates":[25.8203,-30.7383]},{"code":"ZSFF-0304","program":"wwff","name":"Oviston Nature Reserve","coordinates":[25.75467,-30.73482]}]}

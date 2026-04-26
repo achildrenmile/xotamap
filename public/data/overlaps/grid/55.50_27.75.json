@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":27.75,"programs":["pota"],"count":1,"references":[{"code":"BY-0041","program":"pota","name":"Ельня Landscape Reserve","coordinates":[27.8553,55.5591]}]}
+{"lat":55.5,"lon":27.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0041","program":"pota","name":"Ельня Landscape Reserve","coordinates":[27.8553,55.5591]},{"code":"EWFF-0037","program":"wwff","name":"Yelnya","coordinates":[27.85309,55.55427]}]}

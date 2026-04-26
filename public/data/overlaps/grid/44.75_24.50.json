@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":24.5,"programs":["pota"],"count":1,"references":[{"code":"RO-0984","program":"pota","name":"Lacul Vâlcele National Park","coordinates":[24.7302,44.9908]}]}
+{"lat":44.75,"lon":24.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RO-0984","program":"pota","name":"Lacul Vâlcele National Park","coordinates":[24.7302,44.9908]},{"code":"YOFF-0362","program":"wwff","name":"Padurea Topana","coordinates":[24.52939,44.86422]},{"code":"YOFF-0545","program":"wwff","name":"Platforma Cotmeana","coordinates":[24.51942,44.91741]}]}

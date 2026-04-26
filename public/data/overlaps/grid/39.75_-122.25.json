@@ -1,1 +1,1 @@
-{"lat":39.75,"lon":-122.25,"programs":["pota"],"count":1,"references":[{"code":"US-3598","program":"pota","name":"Woodson Bridge State Recreation Area","coordinates":[-122.085,39.9152]}]}
+{"lat":39.75,"lon":-122.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3598","program":"pota","name":"Woodson Bridge State Recreation Area","coordinates":[-122.085,39.9152]},{"code":"KFF-3598","program":"wwff","name":"Woodson Bridge","coordinates":[-122.0852,39.908]}]}

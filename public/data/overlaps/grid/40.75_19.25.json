@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":19.25,"programs":["pota"],"count":1,"references":[{"code":"AL-0004","program":"pota","name":"Divjakë-Karavasta National Park","coordinates":[19.4944,40.9239]}]}
+{"lat":40.75,"lon":19.25,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"ALB 006","program":"arlhs","name":"Karavastase","coordinates":[19.43000031,40.88000107]},{"code":"AL-0004","program":"pota","name":"Divjakë-Karavasta National Park","coordinates":[19.4944,40.9239]},{"code":"ZAFF-0004","program":"wwff","name":"Divjakë -Karavasta","coordinates":[19.4973,40.92903]}]}

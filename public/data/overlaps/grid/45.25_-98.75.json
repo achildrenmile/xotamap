@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":-98.75,"programs":["pota"],"count":1,"references":[{"code":"US-8177","program":"pota","name":"Mina Lake State Recreation Area","coordinates":[-98.7408,45.4467]}]}
+{"lat":45.25,"lon":-98.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8177","program":"pota","name":"Mina Lake State Recreation Area","coordinates":[-98.7408,45.4467]},{"code":"KFF-4680","program":"wwff","name":"Mina Lake","coordinates":[-98.74085,45.44564]}]}

@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":25.5,"programs":["pota"],"count":1,"references":[{"code":"EE-0065","program":"pota","name":"Prandi Natura 2000","coordinates":[25.642,58.843]}]}
+{"lat":58.75,"lon":25.5,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"EE-0065","program":"pota","name":"Prandi Natura 2000","coordinates":[25.642,58.843]},{"code":"ES-00021","program":"wca","name":"EUSTACEÃâ¢S CASTLE","coordinates":[25.57239,58.88964]},{"code":"ESFF-0298","program":"wwff","name":"Prandi","coordinates":[25.63648,58.83972]}]}

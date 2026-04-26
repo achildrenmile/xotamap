@@ -1,1 +1,1 @@
-{"lat":11.75,"lon":99.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0265","program":"pota","name":"Khao Ta Monglai Park","coordinates":[99.8298,11.8334]}]}
+{"lat":11.75,"lon":99.75,"programs":["pota","wlota"],"count":2,"references":[{"code":"TH-0265","program":"pota","name":"Khao Ta Monglai Park","coordinates":[99.8298,11.8334]},{"code":"WLOTA-1910","program":"wlota","name":"Ko Raet","coordinates":[99.82800293,11.79300022]}]}

@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":26.5,"programs":["pota"],"count":1,"references":[{"code":"RO-0430","program":"pota","name":"Schitul Codreni Scufundat Historic Site","coordinates":[26.6498,44.3874]}]}
+{"lat":44.25,"lon":26.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RO-0430","program":"pota","name":"Schitul Codreni Scufundat Historic Site","coordinates":[26.6498,44.3874]},{"code":"YOFF-0535","program":"wwff","name":"Padurile din Silvostepa Mostistei","coordinates":[26.56631,44.32606]}]}

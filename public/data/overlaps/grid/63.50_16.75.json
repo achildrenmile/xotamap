@@ -1,1 +1,1 @@
-{"lat":63.5,"lon":16.75,"programs":["sota"],"count":1,"references":[{"code":"SM/VN-083","program":"sota","name":"Asplokhöjden","coordinates":[16.853725,63.58364]}]}
+{"lat":63.5,"lon":16.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/VN-083","program":"sota","name":"Asplokhöjden","coordinates":[16.853725,63.58364]},{"code":"SMFF-7393","program":"wwff","name":"Moön-Lillegård","coordinates":[16.90074,63.68806]},{"code":"SMFF-9260","program":"wwff","name":"Röåforsarnas naturreservat","coordinates":[16.77593,63.62236]}]}

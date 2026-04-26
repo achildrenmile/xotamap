@@ -1,1 +1,1 @@
-{"lat":66.75,"lon":27.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0138","program":"pota","name":"Raateaavan luonnonsuojelualue Nature Reserve","coordinates":[27.6625,66.9894]}]}
+{"lat":66.75,"lon":27.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0138","program":"pota","name":"Raateaavan luonnonsuojelualue Nature Reserve","coordinates":[27.6625,66.9894]},{"code":"OHFF-0399","program":"wwff","name":"Raateaavan luonnonsuojelualue","coordinates":[27.66255,66.98945]}]}

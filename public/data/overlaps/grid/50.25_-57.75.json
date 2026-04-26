@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":-57.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1273","program":"pota","name":"Table Point Ecological Reserve","coordinates":[-57.5359,50.3595]}]}
+{"lat":50.25,"lon":-57.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1273","program":"pota","name":"Table Point Ecological Reserve","coordinates":[-57.5359,50.3595]},{"code":"VEFF-1316","program":"wwff","name":"Table Point Ecological Reserve","coordinates":[-57.53592,50.35952]}]}

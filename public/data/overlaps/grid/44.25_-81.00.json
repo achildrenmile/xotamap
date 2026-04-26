@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":-81,"programs":["pota"],"count":1,"references":[{"code":"CA-6367","program":"pota","name":"Kinghurst Conservation Area","coordinates":[-80.9359,44.3088]}]}
+{"lat":44.25,"lon":-81,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-6367","program":"pota","name":"Kinghurst Conservation Area","coordinates":[-80.9359,44.3088]},{"code":"VEFF-4937","program":"wwff","name":"Kinghurst Conservation Area","coordinates":[-80.92641,44.31046]},{"code":"VEFF-4938","program":"wwff","name":"Kinghurst Forest Nature Reserve","coordinates":[-80.92358,44.32778]}]}

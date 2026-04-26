@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":-131,"programs":["iota"],"count":1,"references":[{"code":"NA-118","program":"iota","name":"BRITISH COLUMBIA PROVINCE","coordinates":[-130.91999817,54.5]}]}
+{"lat":54.5,"lon":-131,"programs":["iota","wlota"],"count":2,"references":[{"code":"NA-118","program":"iota","name":"BRITISH COLUMBIA PROVINCE","coordinates":[-130.91999817,54.5]},{"code":"WLOTA-1928","program":"wlota","name":"Lord Rock Light","coordinates":[-130.81799316,54.72200012]}]}

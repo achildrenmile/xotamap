@@ -1,1 +1,1 @@
-{"lat":-26.25,"lon":147,"programs":["pota"],"count":1,"references":[{"code":"AU-7455","program":"pota","name":"Orkadilla State Forest","coordinates":[147.18,-26.1009]}]}
+{"lat":-26.25,"lon":147,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-7455","program":"pota","name":"Orkadilla State Forest","coordinates":[147.18,-26.1009]},{"code":"VKFF-4003","program":"wwff","name":"Orkadilla Nature Refuge","coordinates":[147.1924,-26.1599]}]}

@@ -1,1 +1,1 @@
-{"lat":10.5,"lon":105.5,"programs":["pota"],"count":1,"references":[{"code":"VN-0005","program":"pota","name":"Tran Chim National Park","coordinates":[105.51,10.7]}]}
+{"lat":10.5,"lon":105.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"VN-0005","program":"pota","name":"Tran Chim National Park","coordinates":[105.51,10.7]},{"code":"3WFF-0023","program":"wwff","name":"Tram Chim National Park","coordinates":[105.50011,10.72989]}]}

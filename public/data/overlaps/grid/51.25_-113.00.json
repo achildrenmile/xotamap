@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-113,"programs":["pota"],"count":1,"references":[{"code":"CA-0657","program":"pota","name":"Midland Provincial Park","coordinates":[-112.767,51.4802]}]}
+{"lat":51.25,"lon":-113,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0657","program":"pota","name":"Midland Provincial Park","coordinates":[-112.767,51.4802]},{"code":"VEFF-0657","program":"wwff","name":"Midland Provincial Park","coordinates":[-112.76719,51.48021]}]}

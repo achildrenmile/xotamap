@@ -1,1 +1,1 @@
-{"lat":-20.75,"lon":116.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0063","program":"pota","name":"Murujuga National Park","coordinates":[116.819,-20.5652]}]}
+{"lat":-20.75,"lon":116.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0063","program":"pota","name":"Murujuga National Park","coordinates":[116.819,-20.5652]},{"code":"VKFF-1226","program":"wwff","name":"Murujuga National Park","coordinates":[116.8193,-20.5652]}]}

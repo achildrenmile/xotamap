@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-78.25,"programs":["pota"],"count":1,"references":[{"code":"US-3854","program":"pota","name":"Flower Hill State Nature Preserve","coordinates":[-78.2057,35.7273]}]}
+{"lat":35.5,"lon":-78.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3854","program":"pota","name":"Flower Hill State Nature Preserve","coordinates":[-78.2057,35.7273]},{"code":"KFF-3854","program":"wwff","name":"Flower Hill","coordinates":[-78.20566,35.72727]}]}

@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":20,"programs":["pota"],"count":1,"references":[{"code":"AX-0019","program":"pota","name":"Herröskatan Natura 2000","coordinates":[20.1791,59.9695]}]}
+{"lat":59.75,"lon":20,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"ALA 012","program":"arlhs","name":"LedskÃ¤r","coordinates":[20.17000008,59.97000122]},{"code":"AX-0019","program":"pota","name":"Herröskatan Natura 2000","coordinates":[20.1791,59.9695]},{"code":"OHFF-1596","program":"wwff","name":"Herröskatan","coordinates":[20.18242,59.97264]}]}

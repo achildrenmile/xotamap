@@ -1,1 +1,1 @@
-{"lat":49,"lon":-106,"programs":["sota"],"count":1,"references":[{"code":"VE5/SP-013","program":"sota","name":"VE5/SP-013","coordinates":[-105.7958,49.1469]}]}
+{"lat":49,"lon":-106,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE5/SP-013","program":"sota","name":"VE5/SP-013","coordinates":[-105.7958,49.1469]},{"code":"VEFF-5126","program":"wwff","name":"Rockin Beach Regional Park","coordinates":[-105.85728,49.19534]}]}

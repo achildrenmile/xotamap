@@ -1,1 +1,1 @@
-{"lat":-50.5,"lon":-69,"programs":["pota"],"count":1,"references":[{"code":"AR-0128","program":"pota","name":"Monte Leon National Park","coordinates":[-68.9726,-50.2507]}]}
+{"lat":-50.5,"lon":-69,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0128","program":"pota","name":"Monte Leon National Park","coordinates":[-68.9726,-50.2507]},{"code":"LUFF-0024","program":"wwff","name":"Monte Leon","coordinates":[-68.97259,-50.25072]}]}

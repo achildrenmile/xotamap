@@ -1,1 +1,1 @@
-{"lat":52,"lon":15.5,"programs":["wwbota"],"count":1,"references":[{"code":"B/SP-0142","program":"wwbota","name":"Bauwerk 708","coordinates":[15.624051,52.028979]}]}
+{"lat":52,"lon":15.5,"programs":["tota","wca","wwbota"],"count":3,"references":[{"code":"SPR-0420","program":"tota","name":"Ratusz Świebodzin","coordinates":[15.532875,52.249954]},{"code":"SP-00050","program":"wca","name":"Sulechow","coordinates":[15.627239,52.086758]},{"code":"B/SP-0142","program":"wwbota","name":"Bauwerk 708","coordinates":[15.624051,52.028979]}]}

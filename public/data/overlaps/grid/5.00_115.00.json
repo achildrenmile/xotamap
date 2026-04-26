@@ -1,1 +1,1 @@
-{"lat":5,"lon":115,"programs":["pota"],"count":1,"references":[{"code":"BN-0017","program":"pota","name":"Muara Beach Recreation Park","coordinates":[115.076,5.0384]}]}
+{"lat":5,"lon":115,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"EMA 003","program":"arlhs","name":"Pulau Kuraman (Sabah)","coordinates":[115.12999725,5.21999979]},{"code":"BN-0017","program":"pota","name":"Muara Beach Recreation Park","coordinates":[115.076,5.0384]},{"code":"WLOTA-2237","program":"wlota","name":"Pulau Kuraman","coordinates":[115.13300323,5.22300005]}]}

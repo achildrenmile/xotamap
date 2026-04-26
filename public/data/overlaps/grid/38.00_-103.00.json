@@ -1,1 +1,1 @@
-{"lat":38,"lon":-103,"programs":["pota"],"count":1,"references":[{"code":"US-1224","program":"pota","name":"John Martin Reservoir State Park","coordinates":[-102.957,38.0776]}]}
+{"lat":38,"lon":-103,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1224","program":"pota","name":"John Martin Reservoir State Park","coordinates":[-102.957,38.0776]},{"code":"KFF-1224","program":"wwff","name":"John Martin Reservoir","coordinates":[-102.95723,38.07758]}]}

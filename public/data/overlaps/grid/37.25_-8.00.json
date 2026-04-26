@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":-8,"programs":["sota"],"count":1,"references":[{"code":"CT/AL-002","program":"sota","name":"Pelados","coordinates":[-7.9617,37.3071]}]}
+{"lat":37.25,"lon":-8,"programs":["arlhs","sota","wwff"],"count":3,"references":[{"code":"POR 126","program":"arlhs","name":"Enfilacion 352.3 Deg - Posterior - A301 M","coordinates":[-7.86000013,37.29999924]},{"code":"CT/AL-002","program":"sota","name":"Pelados","coordinates":[-7.9617,37.3071]},{"code":"CTFF-0165","program":"wwff","name":"Ribeira do Vascao","coordinates":[-7.79983,37.45028]}]}

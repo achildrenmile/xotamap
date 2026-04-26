@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":10.75,"programs":["pota"],"count":1,"references":[{"code":"DK-0047","program":"pota","name":"Gjerrild Nordstrand Coastal Park","coordinates":[10.8107,56.5318]}]}
+{"lat":56.5,"lon":10.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"DEN 089","program":"arlhs","name":"Gjerrild","coordinates":[10.82999992,56.52999878]},{"code":"DK-0047","program":"pota","name":"Gjerrild Nordstrand Coastal Park","coordinates":[10.8107,56.5318]},{"code":"OZFF-0094","program":"wwff","name":"Gjerrild Nordstrand","coordinates":[10.8107,56.53183]}]}

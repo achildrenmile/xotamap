@@ -1,1 +1,1 @@
-{"lat":-21.75,"lon":-51.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0273","program":"pota","name":"Rio do Peixe State Park","coordinates":[-51.7361,-21.6012]}]}
+{"lat":-21.75,"lon":-51.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0273","program":"pota","name":"Rio do Peixe State Park","coordinates":[-51.7361,-21.6012]},{"code":"PYFF-0540","program":"wwff","name":"Parque Estadual RIO DO PEIXE - SP","coordinates":[-51.73819,-21.59751]}]}

@@ -1,1 +1,1 @@
-{"lat":55,"lon":22,"programs":["pota"],"count":1,"references":[{"code":"LT-0008","program":"pota","name":"Rambynas Regional Park","coordinates":[22.073,55.052]}]}
+{"lat":55,"lon":22,"programs":["pota","wwff"],"count":3,"references":[{"code":"LT-0008","program":"pota","name":"Rambynas Regional Park","coordinates":[22.073,55.052]},{"code":"LYFF-0025","program":"wwff","name":"Rambynas Regional Park","coordinates":[22.08333,55.05]},{"code":"LYFF-0188","program":"wwff","name":"Jûros Ichtiological Reserve","coordinates":[22.15603,55.16469]}]}

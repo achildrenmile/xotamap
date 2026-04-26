@@ -1,1 +1,1 @@
-{"lat":-38.25,"lon":142.25,"programs":["pota"],"count":1,"references":[{"code":"AU-5973","program":"pota","name":"Woolsthorpe Nature Conservation Reserve","coordinates":[142.381,-38.1957]}]}
+{"lat":-38.25,"lon":142.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-5973","program":"pota","name":"Woolsthorpe Nature Conservation Reserve","coordinates":[142.381,-38.1957]},{"code":"VKFF-6134","program":"wwff","name":"Woolsthorpe Nature Conservation Reserve","coordinates":[142.3811,-38.1957]}]}

@@ -1,1 +1,1 @@
-{"lat":34,"lon":-95,"programs":["sota"],"count":1,"references":[{"code":"W5O/WO-009","program":"sota","name":"East High Peak","coordinates":[-94.754,34.2346]}]}
+{"lat":34,"lon":-95,"programs":["sota","wwff"],"count":2,"references":[{"code":"W5O/WO-009","program":"sota","name":"East High Peak","coordinates":[-94.754,34.2346]},{"code":"KFF-4824","program":"wwff","name":"Ouachita McCurtain Unit","coordinates":[-94.76397,34.1949]}]}

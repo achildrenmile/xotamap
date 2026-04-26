@@ -1,1 +1,1 @@
-{"lat":65.5,"lon":16.75,"programs":["sota"],"count":1,"references":[{"code":"SM/VB-195","program":"sota","name":"Stouråjvvie","coordinates":[16.952381,65.522125]}]}
+{"lat":65.5,"lon":16.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/VB-195","program":"sota","name":"Stouråjvvie","coordinates":[16.952381,65.522125]},{"code":"SMFF-7841","program":"wwff","name":"Labbetmyrlandet","coordinates":[16.96022,65.6479]},{"code":"SMFF-9813","program":"wwff","name":"Abborrsjöliden","coordinates":[16.77748,65.61051]}]}

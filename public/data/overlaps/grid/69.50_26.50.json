@@ -1,1 +1,1 @@
-{"lat":69.5,"lon":26.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0017","program":"pota","name":"Kevon luonnonpuisto State Natural Reserve","coordinates":[26.6788,69.6024]}]}
+{"lat":69.5,"lon":26.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0017","program":"pota","name":"Kevon luonnonpuisto State Natural Reserve","coordinates":[26.6788,69.6024]},{"code":"OHFF-0053","program":"wwff","name":"Kevon luonnonpuisto","coordinates":[26.73283,69.59308]}]}

@@ -1,1 +1,1 @@
-{"lat":69,"lon":-140,"programs":["pota"],"count":1,"references":[{"code":"CA-0039","program":"pota","name":"Ivvavik National Park","coordinates":[-139.834,69.0942]}]}
+{"lat":69,"lon":-140,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0039","program":"pota","name":"Ivvavik National Park","coordinates":[-139.834,69.0942]},{"code":"VEFF-0039","program":"wwff","name":"Ivvavik National Park","coordinates":[-139.83405,69.09426]}]}

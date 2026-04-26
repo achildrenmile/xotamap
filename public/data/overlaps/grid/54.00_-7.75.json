@@ -1,1 +1,1 @@
-{"lat":54,"lon":-7.75,"programs":["sota"],"count":1,"references":[{"code":"EI/IN-051","program":"sota","name":"Slieve Rushen","coordinates":[-7.6414,54.152824]}]}
+{"lat":54,"lon":-7.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"EI/IN-051","program":"sota","name":"Slieve Rushen","coordinates":[-7.6414,54.152824]},{"code":"GIFF-0069","program":"wwff","name":"Upper Lough Erne","coordinates":[-7.50895,54.22998]},{"code":"GIFF-0104","program":"wwff","name":"Moninea Bog SAC/ASSI","coordinates":[-7.54269,54.14235]}]}

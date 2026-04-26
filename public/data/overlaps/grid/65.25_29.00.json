@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":29,"programs":["pota"],"count":1,"references":[{"code":"FI-1117","program":"pota","name":"Hinkusuon luonnonsuojelualue State Nature Preserve","coordinates":[29.198,65.3086]}]}
+{"lat":65.25,"lon":29,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-1117","program":"pota","name":"Hinkusuon luonnonsuojelualue State Nature Preserve","coordinates":[29.198,65.3086]},{"code":"OHFF-0430","program":"wwff","name":"Hinkusuo","coordinates":[29.19495,65.32757]},{"code":"OHFF-0445","program":"wwff","name":"Sammakkoaho","coordinates":[29.02336,65.48428]}]}

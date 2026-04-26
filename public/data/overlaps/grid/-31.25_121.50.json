@@ -1,1 +1,1 @@
-{"lat":-31.25,"lon":121.5,"programs":["pota"],"count":1,"references":[{"code":"AU-2996","program":"pota","name":"Kambalda Nature Park","coordinates":[121.578,-31.1584]}]}
+{"lat":-31.25,"lon":121.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2996","program":"pota","name":"Kambalda Nature Park","coordinates":[121.578,-31.1584]},{"code":"VKFF-2978","program":"wwff","name":"Kambalda Nature Reserve","coordinates":[121.5776,-31.1584]}]}

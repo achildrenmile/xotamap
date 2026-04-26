@@ -1,1 +1,1 @@
-{"lat":30.75,"lon":-90.75,"programs":["pota"],"count":1,"references":[{"code":"US-4060","program":"pota","name":"Hutchinson Creek Wildlife Management Area","coordinates":[-90.6292,30.8735]}]}
+{"lat":30.75,"lon":-90.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4060","program":"pota","name":"Hutchinson Creek Wildlife Management Area","coordinates":[-90.6292,30.8735]},{"code":"KFF-4060","program":"wwff","name":"Hutchinson Creek","coordinates":[-90.63327,30.87564]}]}

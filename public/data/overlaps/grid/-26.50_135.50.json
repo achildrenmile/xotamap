@@ -1,1 +1,1 @@
-{"lat":-26.5,"lon":135.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0626","program":"pota","name":"Witjira National Park","coordinates":[135.675,-26.3388]}]}
+{"lat":-26.5,"lon":135.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0626","program":"pota","name":"Witjira National Park","coordinates":[135.675,-26.3388]},{"code":"VKFF-0541","program":"wwff","name":"Witjira National Park","coordinates":[135.675,-26.339]}]}

@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-107.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2584","program":"pota","name":"Borden Bridge Recreation Site","coordinates":[-107.144,52.3767]}]}
+{"lat":52.25,"lon":-107.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2584","program":"pota","name":"Borden Bridge Recreation Site","coordinates":[-107.144,52.3767]},{"code":"VEFF-4189","program":"wwff","name":"Borden Bridge Recreation Site","coordinates":[-107.14201,52.37847]}]}

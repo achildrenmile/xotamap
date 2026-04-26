@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":-73.5,"programs":["sota"],"count":1,"references":[{"code":"VE2/MA-116","program":"sota","name":"VE2/MA-116","coordinates":[-73.35545,46.84779]}]}
+{"lat":46.75,"lon":-73.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE2/MA-116","program":"sota","name":"VE2/MA-116","coordinates":[-73.35545,46.84779]},{"code":"VEFF-1913","program":"wwff","name":"Reserve ecologique Irenee-Marie","coordinates":[-73.31422,46.90409]}]}

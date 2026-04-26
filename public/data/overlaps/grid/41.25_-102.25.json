@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":-102.25,"programs":["pota"],"count":1,"references":[{"code":"US-2609","program":"pota","name":"Ash Hollow State Park","coordinates":[-102.123,41.2929]}]}
+{"lat":41.25,"lon":-102.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2609","program":"pota","name":"Ash Hollow State Park","coordinates":[-102.123,41.2929]},{"code":"KFF-2609","program":"wwff","name":"Ash Hollow","coordinates":[-102.12325,41.29292]}]}

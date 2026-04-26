@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":22,"programs":["pota"],"count":1,"references":[{"code":"LT-0021","program":"pota","name":"Pagramantis Regional Park","coordinates":[22.204,55.383]}]}
+{"lat":55.25,"lon":22,"programs":["pota","wwff"],"count":3,"references":[{"code":"LT-0021","program":"pota","name":"Pagramantis Regional Park","coordinates":[22.204,55.383]},{"code":"LYFF-0021","program":"wwff","name":"Pagramancio Regional Park","coordinates":[22.2,55.36667]},{"code":"LYFF-0047","program":"wwff","name":"Jûros Botanical Reserve","coordinates":[22.0375,55.393]}]}

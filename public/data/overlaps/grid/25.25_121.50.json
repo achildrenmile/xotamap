@@ -1,1 +1,1 @@
-{"lat":25.25,"lon":121.5,"programs":["pota"],"count":1,"references":[{"code":"TW-0035","program":"pota","name":"North Coast & Guanyinshan Scenic Site","coordinates":[121.516,25.28]}]}
+{"lat":25.25,"lon":121.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"TW-0035","program":"pota","name":"North Coast & Guanyinshan Scenic Site","coordinates":[121.516,25.28]},{"code":"WLOTA-0022","program":"wlota","name":"T&#039;ai-Wan (Main Island Taiwan)","coordinates":[121.52799988,25.29999924]}]}

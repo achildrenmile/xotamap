@@ -1,1 +1,1 @@
-{"lat":40.5,"lon":30.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0151","program":"pota","name":"Kuzuluk Nature Park","coordinates":[30.65,40.6203]}]}
+{"lat":40.5,"lon":30.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0151","program":"pota","name":"Kuzuluk Nature Park","coordinates":[30.65,40.6203]},{"code":"TAFF-0101","program":"wwff","name":"Karagol Yaylasi Saricami Tabiat Aniti","coordinates":[30.58383,40.50005]}]}

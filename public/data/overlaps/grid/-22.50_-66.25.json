@@ -1,1 +1,1 @@
-{"lat":-22.5,"lon":-66.25,"programs":["pota"],"count":1,"references":[{"code":"AR-0079","program":"pota","name":"Laguna de los Pozuelos Biosphere Reserve","coordinates":[-66.0024,-22.3539]}]}
+{"lat":-22.5,"lon":-66.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0079","program":"pota","name":"Laguna de los Pozuelos Biosphere Reserve","coordinates":[-66.0024,-22.3539]},{"code":"LUFF-0061","program":"wwff","name":"Laguna de los Pozuelos","coordinates":[-66.00245,-22.35389]}]}

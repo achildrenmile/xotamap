@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":-81.25,"programs":["pota"],"count":1,"references":[{"code":"CA-5985","program":"pota","name":"McBeath Conservation Area","coordinates":[-81.2334,44.2718]}]}
+{"lat":44.25,"lon":-81.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-5985","program":"pota","name":"McBeath Conservation Area","coordinates":[-81.2334,44.2718]},{"code":"VEFF-3687","program":"wwff","name":"Tara Conservation Area","coordinates":[-81.14246,44.47799]}]}

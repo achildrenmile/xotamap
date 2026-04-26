@@ -1,1 +1,1 @@
-{"lat":-7,"lon":113.75,"programs":["sota"],"count":1,"references":[{"code":"YBJ/JI-184","program":"sota","name":"Gunung Papan","coordinates":[113.9403,-6.8945]}]}
+{"lat":-7,"lon":113.75,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"IDO 092","program":"arlhs","name":"Batu Putih (Java)","coordinates":[113.93000031,-6.86999989]},{"code":"YBJ/JI-184","program":"sota","name":"Gunung Papan","coordinates":[113.9403,-6.8945]},{"code":"WLOTA-0333","program":"wlota","name":"Pulau Madura","coordinates":[113.93800354,-6.86999989]}]}

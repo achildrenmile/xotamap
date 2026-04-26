@@ -1,1 +1,1 @@
-{"lat":-33,"lon":145.5,"programs":["pota"],"count":1,"references":[{"code":"AU-3197","program":"pota","name":"Mawonga Indigenous Protected Area","coordinates":[145.636,-32.826]}]}
+{"lat":-33,"lon":145.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3197","program":"pota","name":"Mawonga Indigenous Protected Area","coordinates":[145.636,-32.826]},{"code":"VKFF-3224","program":"wwff","name":"Mawonga Indigenous Protected Area","coordinates":[145.636,-32.826]}]}

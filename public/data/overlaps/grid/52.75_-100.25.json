@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":-100.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0544","program":"pota","name":"Grand Island Park Reserve","coordinates":[-100.022,52.8393]}]}
+{"lat":52.75,"lon":-100.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0544","program":"pota","name":"Grand Island Park Reserve","coordinates":[-100.022,52.8393]},{"code":"VEFF-0544","program":"wwff","name":"Grand Island Provincial Park","coordinates":[-100.02159,52.83928]}]}

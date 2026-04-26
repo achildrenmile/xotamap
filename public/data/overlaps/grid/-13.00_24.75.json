@@ -1,1 +1,1 @@
-{"lat":-13,"lon":24.75,"programs":["pota"],"count":1,"references":[{"code":"ZM-0003","program":"pota","name":"West Lunga National Park","coordinates":[24.75,-12.871]}]}
+{"lat":-13,"lon":24.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"ZM-0003","program":"pota","name":"West Lunga National Park","coordinates":[24.75,-12.871]},{"code":"9JFF-0005","program":"wwff","name":"Lavushi Manda","coordinates":[24.77,-12.77]},{"code":"9JFF-0019","program":"wwff","name":"West Lunga","coordinates":[24.78,-12.82]}]}

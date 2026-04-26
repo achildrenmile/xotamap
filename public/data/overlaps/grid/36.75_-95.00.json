@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":-95,"programs":["pota"],"count":1,"references":[{"code":"US-2808","program":"pota","name":"Twin Bridges State Park","coordinates":[-94.7562,36.8024]}]}
+{"lat":36.75,"lon":-95,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2808","program":"pota","name":"Twin Bridges State Park","coordinates":[-94.7562,36.8024]},{"code":"KFF-2808","program":"wwff","name":"Twin Bridges Area at Grand Lake State Park","coordinates":[-94.7562,36.80235]}]}

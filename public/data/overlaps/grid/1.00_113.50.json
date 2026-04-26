@@ -1,1 +1,1 @@
-{"lat":1,"lon":113.5,"programs":["pota"],"count":1,"references":[{"code":"ID-0013","program":"pota","name":"Betung Kerihun National Park","coordinates":[113.553,1.09282]}]}
+{"lat":1,"lon":113.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"ID-0013","program":"pota","name":"Betung Kerihun National Park","coordinates":[113.553,1.09282]},{"code":"YBFF-0013","program":"wwff","name":"Gunung Bentuang","coordinates":[113.63,1.18]}]}

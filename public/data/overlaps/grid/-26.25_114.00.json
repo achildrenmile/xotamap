@@ -1,1 +1,1 @@
-{"lat":-26.25,"lon":114,"programs":["pota"],"count":1,"references":[{"code":"AU-7552","program":"pota","name":"Hamlin Pool Marine Nature Reserve","coordinates":[114.071,-26.2072]}]}
+{"lat":-26.25,"lon":114,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-7552","program":"pota","name":"Hamlin Pool Marine Nature Reserve","coordinates":[114.071,-26.2072]},{"code":"VKFF-4084","program":"wwff","name":"Hamelin Pool Marine Nature Reserve","coordinates":[114.0707,-26.2072]}]}

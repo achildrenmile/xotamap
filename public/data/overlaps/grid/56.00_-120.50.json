@@ -1,1 +1,1 @@
-{"lat":56,"lon":-120.5,"programs":["pota"],"count":1,"references":[{"code":"CA-3206","program":"pota","name":"Beatton River Provincial Park","coordinates":[-120.381,56.1008]}]}
+{"lat":56,"lon":-120.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3206","program":"pota","name":"Beatton River Provincial Park","coordinates":[-120.381,56.1008]},{"code":"VEFF-2057","program":"wwff","name":"Beatton River Provincial Park","coordinates":[-120.38194,56.10017]}]}

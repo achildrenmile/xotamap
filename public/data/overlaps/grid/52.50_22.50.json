@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":22.5,"programs":["pota"],"count":1,"references":[{"code":"PL-0174","program":"pota","name":"Koryciny Nature Reserve","coordinates":[22.7416,52.6698]}]}
+{"lat":52.5,"lon":22.5,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"PL-0174","program":"pota","name":"Koryciny Nature Reserve","coordinates":[22.7416,52.6698]},{"code":"SP-00877","program":"wca","name":"Ciechanowiec","coordinates":[22.504686,52.68195]},{"code":"SPFF-0648","program":"wwff","name":"Nature Reserve Koryciny","coordinates":[22.74161,52.66984]}]}

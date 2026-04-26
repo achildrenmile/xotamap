@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":-110.75,"programs":["pota"],"count":1,"references":[{"code":"CA-3155","program":"pota","name":"Wainwright Dunes Ecological Reserve","coordinates":[-110.627,52.566]}]}
+{"lat":52.5,"lon":-110.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3155","program":"pota","name":"Wainwright Dunes Ecological Reserve","coordinates":[-110.627,52.566]},{"code":"VEFF-4299","program":"wwff","name":"Wainwright Dunes Ecological Reserve","coordinates":[-110.64044,52.59494]}]}

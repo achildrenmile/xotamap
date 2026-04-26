@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":27.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0391","program":"pota","name":"Hujas Natura 2000","coordinates":[27.3443,61.7697]}]}
+{"lat":61.75,"lon":27.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0391","program":"pota","name":"Hujas Natura 2000","coordinates":[27.3443,61.7697]},{"code":"OHFF-0285","program":"wwff","name":"Hujas","coordinates":[27.32829,61.75727]},{"code":"OHFF-1950","program":"wwff","name":"Pohoslehdon luonnonsuojelualue","coordinates":[27.25362,61.92971]}]}

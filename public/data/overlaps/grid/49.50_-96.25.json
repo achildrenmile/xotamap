@@ -1,1 +1,1 @@
-{"lat":49.5,"lon":-96.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2393","program":"pota","name":"Cedar Bog Ecological Reserve","coordinates":[-96.168,49.621]}]}
+{"lat":49.5,"lon":-96.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2393","program":"pota","name":"Cedar Bog Ecological Reserve","coordinates":[-96.168,49.621]},{"code":"VEFF-4131","program":"wwff","name":"Cedar Bog Ecological Reserve","coordinates":[-96.16582,49.61901]}]}

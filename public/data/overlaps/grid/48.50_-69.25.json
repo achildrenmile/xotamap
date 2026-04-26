@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":-69.25,"programs":["pota"],"count":1,"references":[{"code":"CA-5000","program":"pota","name":"Centre d'interpretation des marais sales Regional Park","coordinates":[-69.1994,48.5846]}]}
+{"lat":48.5,"lon":-69.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-5000","program":"pota","name":"Centre d'interpretation des marais sales Regional Park","coordinates":[-69.1994,48.5846]},{"code":"VEFF-2514","program":"wwff","name":"Réserve naturelle de la Baie-de-Mille-Vaches","coordinates":[-69.19965,48.5842]}]}

@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":69,"programs":["pota"],"count":1,"references":[{"code":"KZ-0016","program":"pota","name":"Korgalzhyn Nature Reserve","coordinates":[69.1889,50.433]}]}
+{"lat":50.25,"lon":69,"programs":["pota","wwff"],"count":2,"references":[{"code":"KZ-0016","program":"pota","name":"Korgalzhyn Nature Reserve","coordinates":[69.1889,50.433]},{"code":"UNFF-0017","program":"wwff","name":"Korgalzhyn State Nature Reserve","coordinates":[69.18889,50.43306]}]}

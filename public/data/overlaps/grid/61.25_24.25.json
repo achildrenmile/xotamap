@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":24.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0870","program":"pota","name":"Keiniänranta Natura 2000","coordinates":[24.2529,61.3421]}]}
+{"lat":61.25,"lon":24.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0870","program":"pota","name":"Keiniänranta Natura 2000","coordinates":[24.2529,61.3421]},{"code":"OHFF-1833","program":"wwff","name":"Sirenin metsä","coordinates":[24.49513,61.3339]},{"code":"OHFF-1974","program":"wwff","name":"Kukkolanjärvi","coordinates":[24.41632,61.34195]}]}

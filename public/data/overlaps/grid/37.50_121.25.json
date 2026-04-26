@@ -1,1 +1,1 @@
-{"lat":37.5,"lon":121.25,"programs":["iota"],"count":1,"references":[{"code":"AS-146","program":"iota","name":"SHANDONG PROVINCE NORTH EAST group","coordinates":[121.375,37.72500038]}]}
+{"lat":37.5,"lon":121.25,"programs":["arlhs","iota"],"count":2,"references":[{"code":"PRC 071","program":"arlhs","name":"Yantai Shan/Chefoo","coordinates":[121.40000153,37.54999924]},{"code":"AS-146","program":"iota","name":"SHANDONG PROVINCE NORTH EAST group","coordinates":[121.375,37.72500038]}]}

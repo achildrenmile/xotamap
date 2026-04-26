@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":-8.75,"programs":["sota"],"count":1,"references":[{"code":"CT/BT-005","program":"sota","name":"Santo Isidoro","coordinates":[-8.6918,37.762]}]}
+{"lat":37.75,"lon":-8.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"POR 042","program":"arlhs","name":"Lagos/Ponta da Piedade","coordinates":[-8.67000008,37.79999924]},{"code":"CT/BT-005","program":"sota","name":"Santo Isidoro","coordinates":[-8.6918,37.762]}]}

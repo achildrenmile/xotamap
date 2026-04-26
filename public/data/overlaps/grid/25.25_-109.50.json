@@ -1,1 +1,1 @@
-{"lat":25.25,"lon":-109.5,"programs":["pota"],"count":1,"references":[{"code":"MX-0091","program":"pota","name":"Farallon Habitat Protection Area","coordinates":[-109.377,25.4373]}]}
+{"lat":25.25,"lon":-109.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"MX-0091","program":"pota","name":"Farallon Habitat Protection Area","coordinates":[-109.377,25.4373]},{"code":"WLOTA-0364","program":"wlota","name":"Farallon de San Ignacio","coordinates":[-109.40200043,25.43700027]}]}

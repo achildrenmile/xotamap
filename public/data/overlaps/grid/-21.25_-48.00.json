@@ -1,1 +1,1 @@
-{"lat":-21.25,"lon":-48,"programs":["pota"],"count":1,"references":[{"code":"BR-0803","program":"pota","name":"Morro de Sao Bento Protected Landscape Area","coordinates":[-47.7989,-21.1733]}]}
+{"lat":-21.25,"lon":-48,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0803","program":"pota","name":"Morro de Sao Bento Protected Landscape Area","coordinates":[-47.7989,-21.1733]},{"code":"PYFF-0555","program":"wwff","name":"Area Prot. Amb. MORRO DE SÃO BENTO - SP","coordinates":[-47.79986,-21.17307]}]}

@@ -1,1 +1,1 @@
-{"lat":43,"lon":-96.75,"programs":["pota"],"count":1,"references":[{"code":"US-2922","program":"pota","name":"Newton Hills State Park","coordinates":[-96.5727,43.2171]}]}
+{"lat":43,"lon":-96.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2922","program":"pota","name":"Newton Hills State Park","coordinates":[-96.5727,43.2171]},{"code":"KFF-2922","program":"wwff","name":"Newton Hills","coordinates":[-96.57272,43.21711]}]}

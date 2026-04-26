@@ -1,1 +1,1 @@
-{"lat":64,"lon":15,"programs":["sota"],"count":1,"references":[{"code":"SM/JL-279","program":"sota","name":"Sönner-Svanaberghögen","coordinates":[15.080641,64.13587]}]}
+{"lat":64,"lon":15,"programs":["sota","wwff"],"count":2,"references":[{"code":"SM/JL-279","program":"sota","name":"Sönner-Svanaberghögen","coordinates":[15.080641,64.13587]},{"code":"SMFF-9458","program":"wwff","name":"Björnhammarberget","coordinates":[15.13594,64.21846]}]}

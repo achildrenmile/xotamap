@@ -1,1 +1,1 @@
-{"lat":-11.5,"lon":-77.5,"programs":["pota"],"count":1,"references":[{"code":"PE-0026","program":"pota","name":"Lachay National Reserve","coordinates":[-77.3646,-11.3738]}]}
+{"lat":-11.5,"lon":-77.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"PE-0026","program":"pota","name":"Lachay National Reserve","coordinates":[-77.3646,-11.3738]},{"code":"OAFF-0010","program":"wwff","name":"Lachay National Reserve","coordinates":[-77.36387,-11.37716]}]}

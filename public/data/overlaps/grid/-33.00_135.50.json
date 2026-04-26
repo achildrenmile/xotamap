@@ -1,1 +1,1 @@
-{"lat":-33,"lon":135.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0927","program":"pota","name":"Corrobinnie Hill Conservation Park","coordinates":[135.739,-32.9848]}]}
+{"lat":-33,"lon":135.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0927","program":"pota","name":"Corrobinnie Hill Conservation Park","coordinates":[135.739,-32.9848]},{"code":"VKFF-1022","program":"wwff","name":"Corrobinnie Hill Conservation Park","coordinates":[135.73869,-32.9848]}]}

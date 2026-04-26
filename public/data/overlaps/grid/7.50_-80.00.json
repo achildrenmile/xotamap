@@ -1,1 +1,1 @@
-{"lat":7.5,"lon":-80,"programs":["pota"],"count":1,"references":[{"code":"PA-0027","program":"pota","name":"Isla Iguana Wilderness Protection Area","coordinates":[-79.9992,7.63116]}]}
+{"lat":7.5,"lon":-80,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"PAN 005","program":"arlhs","name":"Iguana Island","coordinates":[-80,7.63000011]},{"code":"PA-0027","program":"pota","name":"Isla Iguana Wilderness Protection Area","coordinates":[-79.9992,7.63116]},{"code":"WLOTA-0323","program":"wlota","name":"Isla Iguana","coordinates":[-79.9980011,7.62699986]}]}

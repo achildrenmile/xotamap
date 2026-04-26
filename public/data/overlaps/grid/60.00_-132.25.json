@@ -1,1 +1,1 @@
-{"lat":60,"lon":-132.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4615","program":"pota","name":"Morley River Recreation Park","coordinates":[-132.135,60.007]}]}
+{"lat":60,"lon":-132.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4615","program":"pota","name":"Morley River Recreation Park","coordinates":[-132.135,60.007]},{"code":"VEFF-2317","program":"wwff","name":"Morley River Recreation Site","coordinates":[-132.13649,60.00736]}]}

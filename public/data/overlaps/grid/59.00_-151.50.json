@@ -1,1 +1,1 @@
-{"lat":59,"lon":-151.5,"programs":["sota"],"count":1,"references":[{"code":"KLA/KS-636","program":"sota","name":"Chugach Benchmark","coordinates":[-151.469,59.119]}]}
+{"lat":59,"lon":-151.5,"programs":["sota","wlota"],"count":2,"references":[{"code":"KLA/KS-636","program":"sota","name":"Chugach Benchmark","coordinates":[-151.469,59.119]},{"code":"WLOTA-2858","program":"wlota","name":"East Chugach Island","coordinates":[-151.44000244,59.10300064]}]}

@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":-90.5,"programs":["pota"],"count":1,"references":[{"code":"US-4330","program":"pota","name":"Spring Creek State Wildlife Area","coordinates":[-90.4711,45.5939]}]}
+{"lat":45.5,"lon":-90.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4330","program":"pota","name":"Spring Creek State Wildlife Area","coordinates":[-90.4711,45.5939]},{"code":"KFF-4330","program":"wwff","name":"Spring Creek","coordinates":[-90.43392,45.59272]}]}

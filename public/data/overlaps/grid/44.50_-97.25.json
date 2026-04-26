@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-97.25,"programs":["pota"],"count":1,"references":[{"code":"US-8171","program":"pota","name":"Lake Poinsett State Recreation Area","coordinates":[-97.0839,44.5342]}]}
+{"lat":44.5,"lon":-97.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8171","program":"pota","name":"Lake Poinsett State Recreation Area","coordinates":[-97.0839,44.5342]},{"code":"KFF-4674","program":"wwff","name":"Lake Poinsett","coordinates":[-97.07931,44.53605]}]}

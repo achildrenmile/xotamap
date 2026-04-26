@@ -1,1 +1,1 @@
-{"lat":3.5,"lon":8.75,"programs":["pota"],"count":1,"references":[{"code":"GQ-0002","program":"pota","name":"Pico Basile National Park","coordinates":[8.759,3.587]}]}
+{"lat":3.5,"lon":8.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"GQ-0002","program":"pota","name":"Pico Basile National Park","coordinates":[8.759,3.587]},{"code":"3CFF-0001","program":"wwff","name":"Pico de Basilé","coordinates":[8.76853,3.6255]}]}

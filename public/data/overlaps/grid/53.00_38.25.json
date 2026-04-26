@@ -1,1 +1,1 @@
-{"lat":53,"lon":38.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0062","program":"pota","name":"Krasivomechye National Park","coordinates":[38.4451,53.2333]}]}
+{"lat":53,"lon":38.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0062","program":"pota","name":"Krasivomechye National Park","coordinates":[38.4451,53.2333]},{"code":"RFF-0685","program":"wwff","name":"Urochische Soldatskoe, pamyatnik prirody","coordinates":[38.455,53.22]}]}

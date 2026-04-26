@@ -1,1 +1,1 @@
-{"lat":53,"lon":-105.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2836","program":"pota","name":"Saskatchewan River Forks Recreation Site","coordinates":[-105.089,53.2336]}]}
+{"lat":53,"lon":-105.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2836","program":"pota","name":"Saskatchewan River Forks Recreation Site","coordinates":[-105.089,53.2336]},{"code":"VEFF-4238","program":"wwff","name":"Saskatchewan River Forks Recreation Site","coordinates":[-105.08645,53.23316]}]}

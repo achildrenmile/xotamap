@@ -1,1 +1,1 @@
-{"lat":72.75,"lon":-81,"programs":["pota"],"count":1,"references":[{"code":"CA-0091","program":"pota","name":"Sirmilik National Park","coordinates":[-80.9377,72.9279]}]}
+{"lat":72.75,"lon":-81,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0091","program":"pota","name":"Sirmilik National Park","coordinates":[-80.9377,72.9279]},{"code":"VEFF-0091","program":"wwff","name":"Sirmilik National Park","coordinates":[-80.95518,72.92699]}]}

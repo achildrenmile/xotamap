@@ -1,1 +1,1 @@
-{"lat":33.5,"lon":-82.75,"programs":["pota"],"count":1,"references":[{"code":"US-7907","program":"pota","name":"Clarks Hill Wildlife Management Area","coordinates":[-82.5315,33.6277]}]}
+{"lat":33.5,"lon":-82.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-7907","program":"pota","name":"Clarks Hill Wildlife Management Area","coordinates":[-82.5315,33.6277]},{"code":"KFF-6058","program":"wwff","name":"Clarks Hill","coordinates":[-82.5314,33.62751]}]}

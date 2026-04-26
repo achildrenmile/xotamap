@@ -1,1 +1,1 @@
-{"lat":39,"lon":-111.5,"programs":["sota"],"count":1,"references":[{"code":"W7U/SP-001","program":"sota","name":"Heliotrope Mountain","coordinates":[-111.4538,39.115]}]}
+{"lat":39,"lon":-111.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"W7U/SP-001","program":"sota","name":"Heliotrope Mountain","coordinates":[-111.4538,39.115]},{"code":"KFF-4397","program":"wwff","name":"Manti (UT)","coordinates":[-111.38214,39.18756]}]}

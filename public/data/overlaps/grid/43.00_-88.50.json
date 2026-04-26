@@ -1,1 +1,1 @@
-{"lat":43,"lon":-88.5,"programs":["sota"],"count":1,"references":[{"code":"W9/WI-031","program":"sota","name":"Holy Hill","coordinates":[-88.3276,43.2443]}]}
+{"lat":43,"lon":-88.5,"programs":["sota","wwff"],"count":3,"references":[{"code":"W9/WI-031","program":"sota","name":"Holy Hill","coordinates":[-88.3276,43.2443]},{"code":"KFF-4241","program":"wwff","name":"Lapham Peak Unit of Kettle Morain","coordinates":[-88.39943,43.03863]},{"code":"KFF-4351","program":"wwff","name":"Loew Lake Unit of Kettle Morain","coordinates":[-88.31137,43.21853]}]}

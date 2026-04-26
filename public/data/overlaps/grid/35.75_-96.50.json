@@ -1,1 +1,1 @@
-{"lat":35.75,"lon":-96.5,"programs":["pota"],"count":1,"references":[{"code":"US-8124","program":"pota","name":"Heyburn Wildlife Management Area","coordinates":[-96.3179,35.9594]}]}
+{"lat":35.75,"lon":-96.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8124","program":"pota","name":"Heyburn Wildlife Management Area","coordinates":[-96.3179,35.9594]},{"code":"KFF-5568","program":"wwff","name":"Heyburn","coordinates":[-96.32544,35.93271]}]}

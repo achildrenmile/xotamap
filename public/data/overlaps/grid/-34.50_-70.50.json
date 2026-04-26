@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":-70.5,"programs":["pota"],"count":1,"references":[{"code":"CL-0029","program":"pota","name":"Rio de los Cipreses National Reserve","coordinates":[-70.45,-34.45]}]}
+{"lat":-34.5,"lon":-70.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CL-0029","program":"pota","name":"Rio de los Cipreses National Reserve","coordinates":[-70.45,-34.45]},{"code":"CEFF-0057","program":"wwff","name":"Ro de Los Cipreses","coordinates":[-70.43369,-34.46655]}]}

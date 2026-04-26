@@ -1,1 +1,1 @@
-{"lat":-23.25,"lon":29,"programs":["sota"],"count":1,"references":[{"code":"ZS/LP-446","program":"sota","name":"Blouberg","coordinates":[29.1178,-23.0086]}]}
+{"lat":-23.25,"lon":29,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/LP-446","program":"sota","name":"Blouberg","coordinates":[29.1178,-23.0086]},{"code":"ZSFF-0072","program":"wwff","name":"Blouberg Nature Reserve","coordinates":[29.07902,-23.01535]}]}

@@ -1,1 +1,1 @@
-{"lat":15.25,"lon":99,"programs":["pota"],"count":1,"references":[{"code":"TH-0282","program":"pota","name":"Huai Kha Khaeng Wildlife Area","coordinates":[99.2325,15.4181]}]}
+{"lat":15.25,"lon":99,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0282","program":"pota","name":"Huai Kha Khaeng Wildlife Area","coordinates":[99.2325,15.4181]},{"code":"HSFF-0105","program":"wwff","name":"Huai Kha Khaeng","coordinates":[99.24158,15.40613]}]}

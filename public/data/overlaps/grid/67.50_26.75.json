@@ -1,1 +1,1 @@
-{"lat":67.5,"lon":26.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0048","program":"pota","name":"Viiankiaapa Protected Area","coordinates":[26.7821,67.5762]}]}
+{"lat":67.5,"lon":26.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0048","program":"pota","name":"Viiankiaapa Protected Area","coordinates":[26.7821,67.5762]},{"code":"OHFF-0383","program":"wwff","name":"Viiankiaapa","coordinates":[26.78211,67.57622]}]}

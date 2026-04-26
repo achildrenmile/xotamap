@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":10.25,"programs":["pota"],"count":1,"references":[{"code":"DE-0301","program":"pota","name":"Lutter Nature Reserve","coordinates":[10.334,52.7189]}]}
+{"lat":52.5,"lon":10.25,"programs":["pota","wca"],"count":2,"references":[{"code":"DE-0301","program":"pota","name":"Lutter Nature Reserve","coordinates":[10.334,52.7189]},{"code":"DL-04249","program":"wca","name":"Schloss Eldingen","coordinates":[10.3445,52.6894]}]}

@@ -1,1 +1,1 @@
-{"lat":17.25,"lon":99,"programs":["pota"],"count":1,"references":[{"code":"TH-0068","program":"pota","name":"Mae Wa National Park","coordinates":[99.2356,17.4119]}]}
+{"lat":17.25,"lon":99,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0068","program":"pota","name":"Mae Wa National Park","coordinates":[99.2356,17.4119]},{"code":"HSFF-0050","program":"wwff","name":"Mae Wa National Park","coordinates":[99.22482,17.4482]}]}

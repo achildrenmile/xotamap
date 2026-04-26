@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":141.25,"programs":["sota"],"count":1,"references":[{"code":"JA8/IS-023","program":"sota","name":"Yasosukeyama","coordinates":[141.4454,43.4573]}]}
+{"lat":43.25,"lon":141.25,"programs":["arlhs","sota"],"count":3,"references":[{"code":"JPN 181","program":"arlhs","name":"Isikari (Hokkaido)","coordinates":[141.36999512,43.25]},{"code":"JPN 847","program":"arlhs","name":"Atsuta Ko West Breakwater Head (Hokkaido)","coordinates":[141.42999268,43.40000153]},{"code":"JA8/IS-023","program":"sota","name":"Yasosukeyama","coordinates":[141.4454,43.4573]}]}

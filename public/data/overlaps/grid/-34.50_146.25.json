@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":146.25,"programs":["pota"],"count":1,"references":[{"code":"AU-3232","program":"pota","name":"Koonadan Historic Site Historical Reserve","coordinates":[146.361,-34.497]}]}
+{"lat":-34.5,"lon":146.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3232","program":"pota","name":"Koonadan Historic Site Historical Reserve","coordinates":[146.361,-34.497]},{"code":"VKFF-3259","program":"wwff","name":"Koonadan Historic Site","coordinates":[146.36099,-34.497]}]}

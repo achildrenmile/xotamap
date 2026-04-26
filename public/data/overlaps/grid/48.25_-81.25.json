@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":-81.25,"programs":["pota"],"count":1,"references":[{"code":"CA-6020","program":"pota","name":"White Waterfront Conservation Area","coordinates":[-81.204,48.4794]}]}
+{"lat":48.25,"lon":-81.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6020","program":"pota","name":"White Waterfront Conservation Area","coordinates":[-81.204,48.4794]},{"code":"VEFF-3716","program":"wwff","name":"White Waterfront Conservation Area","coordinates":[-81.20563,48.47873]}]}

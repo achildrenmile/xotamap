@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":-5.5,"programs":["pota"],"count":1,"references":[{"code":"ES-2265","program":"pota","name":"Llanuras del Guareña Natura 2000","coordinates":[-5.4485,41.292]}]}
+{"lat":41.25,"lon":-5.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-2265","program":"pota","name":"Llanuras del Guareña Natura 2000","coordinates":[-5.4485,41.292]},{"code":"EAFF-0378","program":"wwff","name":"ZEPA Llanuras del Guareña","coordinates":[-5.48124,41.27398]}]}

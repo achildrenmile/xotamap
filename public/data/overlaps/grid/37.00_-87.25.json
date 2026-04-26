@@ -1,1 +1,1 @@
-{"lat":37,"lon":-87.25,"programs":["pota"],"count":1,"references":[{"code":"US-1263","program":"pota","name":"Lake Malone State Park","coordinates":[-87.0554,37.0711]}]}
+{"lat":37,"lon":-87.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1263","program":"pota","name":"Lake Malone State Park","coordinates":[-87.0554,37.0711]},{"code":"KFF-1263","program":"wwff","name":"Lake Malone","coordinates":[-87.05545,37.07105]}]}

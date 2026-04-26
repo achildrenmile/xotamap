@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":24.5,"programs":["pota"],"count":1,"references":[{"code":"LT-0038","program":"pota","name":"Aukštadvaris Regional Park","coordinates":[24.524,54.579]}]}
+{"lat":54.5,"lon":24.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"LT-0038","program":"pota","name":"Aukštadvaris Regional Park","coordinates":[24.524,54.579]},{"code":"LYFF-0008","program":"wwff","name":"Aukstadvaris Regional Park","coordinates":[24.58333,54.55]}]}

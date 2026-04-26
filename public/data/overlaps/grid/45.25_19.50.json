@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":19.5,"programs":["pota"],"count":1,"references":[{"code":"RS-0081","program":"pota","name":"Park Čelarevskog dvorca Natural Monument","coordinates":[19.5184,45.2722]}]}
+{"lat":45.25,"lon":19.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RS-0081","program":"pota","name":"Park Čelarevskog dvorca Natural Monument","coordinates":[19.5184,45.2722]},{"code":"YUFF-0182","program":"wwff","name":"Park u okviru dvorca Dundjerski","coordinates":[19.52021,45.27265]}]}

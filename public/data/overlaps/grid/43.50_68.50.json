@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":68.5,"programs":["pota"],"count":1,"references":[{"code":"KZ-0014","program":"pota","name":"Karatau Nature Reserve","coordinates":[68.7365,43.7168]}]}
+{"lat":43.5,"lon":68.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"KZ-0014","program":"pota","name":"Karatau Nature Reserve","coordinates":[68.7365,43.7168]},{"code":"UNFF-0015","program":"wwff","name":"Karatau Nature Reserve","coordinates":[68.73333,43.71667]}]}

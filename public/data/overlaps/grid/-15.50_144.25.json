@@ -1,1 +1,1 @@
-{"lat":-15.5,"lon":144.25,"programs":["pota"],"count":1,"references":[{"code":"AU-3880","program":"pota","name":"Rinyirru (Lakefield) Resources Area","coordinates":[144.414,-15.2555]}]}
+{"lat":-15.5,"lon":144.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3880","program":"pota","name":"Rinyirru (Lakefield) Resources Area","coordinates":[144.414,-15.2555]},{"code":"VKFF-3556","program":"wwff","name":"Rinyirru (Lakefield) Resources Reserve","coordinates":[144.4138,-15.2555]}]}

@@ -1,1 +1,1 @@
-{"lat":-39.25,"lon":-67.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0113","program":"pota","name":"Paso Cordova Provincial Park","coordinates":[-67.6264,-39.1232]}]}
+{"lat":-39.25,"lon":-67.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0113","program":"pota","name":"Paso Cordova Provincial Park","coordinates":[-67.6264,-39.1232]},{"code":"LUFF-0157","program":"wwff","name":"Reserva Paso Córdova","coordinates":[-67.62643,-39.1232]}]}

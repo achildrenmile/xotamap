@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-108,"programs":["pota"],"count":1,"references":[{"code":"CA-0587","program":"pota","name":"Chitek Lake Recreation Site","coordinates":[-107.782,53.7665]}]}
+{"lat":53.75,"lon":-108,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0587","program":"pota","name":"Chitek Lake Recreation Site","coordinates":[-107.782,53.7665]},{"code":"VEFF-0587","program":"wwff","name":"Chitek Lake Recreation Site","coordinates":[-107.78223,53.76647]}]}

@@ -1,1 +1,1 @@
-{"lat":-33,"lon":146.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1638","program":"pota","name":"Woggoon Nature Reserve","coordinates":[146.932,-32.8106]}]}
+{"lat":-33,"lon":146.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1638","program":"pota","name":"Woggoon Nature Reserve","coordinates":[146.932,-32.8106]},{"code":"VKFF-2023","program":"wwff","name":"Woggoon Nature Reserve","coordinates":[146.93221,-32.8106]}]}

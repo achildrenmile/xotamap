@@ -1,1 +1,1 @@
-{"lat":47,"lon":-95.5,"programs":["pota"],"count":1,"references":[{"code":"US-4832","program":"pota","name":"Two Inlets State Forest","coordinates":[-95.2619,47.0234]}]}
+{"lat":47,"lon":-95.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4832","program":"pota","name":"Two Inlets State Forest","coordinates":[-95.2619,47.0234]},{"code":"KFF-5522","program":"wwff","name":"White Earth","coordinates":[-95.48922,47.20091]}]}

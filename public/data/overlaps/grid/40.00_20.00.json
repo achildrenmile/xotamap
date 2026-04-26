@@ -1,1 +1,1 @@
-{"lat":40,"lon":20,"programs":["wwbota"],"count":1,"references":[{"code":"B/ZA-0016","program":"wwbota","name":"Bunkers Gjirokaster  Municipality","coordinates":[20.1158,40.0664]}]}
+{"lat":40,"lon":20,"programs":["wca","wwbota"],"count":2,"references":[{"code":"ZA-00005","program":"wca","name":"GJIROKASTRA CASTLE","coordinates":[20.14054,40.07366]},{"code":"B/ZA-0016","program":"wwbota","name":"Bunkers Gjirokaster  Municipality","coordinates":[20.1158,40.0664]}]}

@@ -1,1 +1,1 @@
-{"lat":45,"lon":-94.5,"programs":["pota"],"count":1,"references":[{"code":"US-6465","program":"pota","name":"Greenleaf State Recreation Area","coordinates":[-94.4751,45.0092]}]}
+{"lat":45,"lon":-94.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6465","program":"pota","name":"Greenleaf State Recreation Area","coordinates":[-94.4751,45.0092]},{"code":"KFF-5367","program":"wwff","name":"Greenleaf","coordinates":[-94.47834,45.00852]}]}

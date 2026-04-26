@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":10,"programs":["pota"],"count":1,"references":[{"code":"DE-0258","program":"pota","name":"Schwansener See Nature Reserve","coordinates":[10.0231,54.6095]}]}
+{"lat":54.5,"lon":10,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"DE-0258","program":"pota","name":"Schwansener See Nature Reserve","coordinates":[10.0231,54.6095]},{"code":"DL-03947","program":"wca","name":"Schloss Schöhagen","coordinates":[10.022222,54.631667]},{"code":"DLFF-0413","program":"wwff","name":"Schwansener See","coordinates":[10.02117,54.60986]}]}

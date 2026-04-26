@@ -1,1 +1,1 @@
-{"lat":42,"lon":-5,"programs":["pota"],"count":1,"references":[{"code":"ES-1985","program":"pota","name":"La Nava-Campos Norte Natura 2000","coordinates":[-4.9337,42.1497]}]}
+{"lat":42,"lon":-5,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-1985","program":"pota","name":"La Nava-Campos Norte Natura 2000","coordinates":[-4.9337,42.1497]},{"code":"EAFF-0374","program":"wwff","name":"ZEPA La Nava-Campos Norte","coordinates":[-4.91987,42.17579]}]}

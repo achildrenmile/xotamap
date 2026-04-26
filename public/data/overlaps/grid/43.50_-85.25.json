@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":-85.25,"programs":["pota"],"count":1,"references":[{"code":"US-6733","program":"pota","name":"Martiny Lake State Game Land","coordinates":[-85.2211,43.7108]}]}
+{"lat":43.5,"lon":-85.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6733","program":"pota","name":"Martiny Lake State Game Land","coordinates":[-85.2211,43.7108]},{"code":"KFF-5066","program":"wwff","name":"Martiny Lake","coordinates":[-85.22145,43.71251]}]}

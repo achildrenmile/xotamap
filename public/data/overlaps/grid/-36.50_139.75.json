@@ -1,1 +1,1 @@
-{"lat":-36.5,"lon":139.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0661","program":"pota","name":"Tilley Swamp Conservation Park","coordinates":[139.838,-36.3854]}]}
+{"lat":-36.5,"lon":139.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0661","program":"pota","name":"Tilley Swamp Conservation Park","coordinates":[139.838,-36.3854]},{"code":"VKFF-0938","program":"wwff","name":"Tilley Swamp Conservation Park","coordinates":[139.8382,-36.3854]}]}

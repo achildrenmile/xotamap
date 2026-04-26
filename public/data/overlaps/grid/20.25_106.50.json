@@ -1,1 +1,1 @@
-{"lat":20.25,"lon":106.5,"programs":["pota"],"count":1,"references":[{"code":"VN-0029","program":"pota","name":"Xuan Thuy National Park","coordinates":[106.56,20.25]}]}
+{"lat":20.25,"lon":106.5,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"VIE 009","program":"arlhs","name":"Ba Lat","coordinates":[106.59999847,20.25]},{"code":"VN-0029","program":"pota","name":"Xuan Thuy National Park","coordinates":[106.56,20.25]},{"code":"WLOTA-0585","program":"wlota","name":"Cua Ba Lat","coordinates":[106.63300323,20.34199905]}]}

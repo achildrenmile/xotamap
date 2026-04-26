@@ -1,1 +1,1 @@
-{"lat":12,"lon":-71.5,"programs":["pota"],"count":1,"references":[{"code":"CO-0157","program":"pota","name":"Macuira National Nature Reserve","coordinates":[-71.3308,12.1402]}]}
+{"lat":12,"lon":-71.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CO-0157","program":"pota","name":"Macuira National Nature Reserve","coordinates":[-71.3308,12.1402]},{"code":"HKFF-0018","program":"wwff","name":"Macuira","coordinates":[-71.35,12.15]}]}

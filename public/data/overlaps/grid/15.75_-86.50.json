@@ -1,1 +1,1 @@
-{"lat":15.75,"lon":-86.5,"programs":["pota"],"count":1,"references":[{"code":"HN-0050","program":"pota","name":"Cayos Cochinos Marine Reserve","coordinates":[-86.5,15.9561]}]}
+{"lat":15.75,"lon":-86.5,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"HON 007","program":"arlhs","name":"Cochino Grande","coordinates":[-86.48000336,15.97999954]},{"code":"HN-0050","program":"pota","name":"Cayos Cochinos Marine Reserve","coordinates":[-86.5,15.9561]},{"code":"WLOTA-2076","program":"wlota","name":"Cochino Grande","coordinates":[-86.47499847,15.97500038]}]}

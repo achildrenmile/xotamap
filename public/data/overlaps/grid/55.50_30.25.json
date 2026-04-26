@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":30.25,"programs":["pota"],"count":1,"references":[{"code":"BY-0030","program":"pota","name":"Карыценскі Мох Wetland Reserve","coordinates":[30.25,55.532]}]}
+{"lat":55.5,"lon":30.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0030","program":"pota","name":"Карыценскі Мох Wetland Reserve","coordinates":[30.25,55.532]},{"code":"EWFF-0010","program":"wwff","name":"Korytenskiy Mokh","coordinates":[30.25772,55.53504]}]}

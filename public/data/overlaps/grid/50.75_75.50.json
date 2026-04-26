@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":75.5,"programs":["pota"],"count":1,"references":[{"code":"KZ-0002","program":"pota","name":"Bayanaul National Park","coordinates":[75.6819,50.7981]}]}
+{"lat":50.75,"lon":75.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"KZ-0002","program":"pota","name":"Bayanaul National Park","coordinates":[75.6819,50.7981]},{"code":"UNFF-0002","program":"wwff","name":"Bayanaul National Park","coordinates":[75.61222,50.8218]},{"code":"UNFF-0049","program":"wwff","name":"State natural reserve Kyzyltau (Zoological)","coordinates":[75.67,50.84]}]}

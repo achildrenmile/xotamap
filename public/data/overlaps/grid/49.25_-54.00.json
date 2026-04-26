@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":-54,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0724","program":"wwbota","name":"FRP GE33","coordinates":[-53.9595403,49.45189303]}]}
+{"lat":49.25,"lon":-54,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 841","program":"arlhs","name":"North Penguin Island","coordinates":[-53.81999969,49.45000076]},{"code":"B/CA-0724","program":"wwbota","name":"FRP GE33","coordinates":[-53.9595403,49.45189303]}]}

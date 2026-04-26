@@ -1,1 +1,1 @@
-{"lat":35.25,"lon":-103.5,"programs":["pota"],"count":1,"references":[{"code":"US-2718","program":"pota","name":"Ute Lake State Park","coordinates":[-103.451,35.3601]}]}
+{"lat":35.25,"lon":-103.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2718","program":"pota","name":"Ute Lake State Park","coordinates":[-103.451,35.3601]},{"code":"KFF-2718","program":"wwff","name":"Ute Lake","coordinates":[-103.45151,35.36009]}]}

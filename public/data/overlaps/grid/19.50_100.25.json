@@ -1,1 +1,1 @@
-{"lat":19.5,"lon":100.25,"programs":["pota"],"count":1,"references":[{"code":"TH-0117","program":"pota","name":"Phu Sang National Park","coordinates":[100.376,19.661]}]}
+{"lat":19.5,"lon":100.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0117","program":"pota","name":"Phu Sang National Park","coordinates":[100.376,19.661]},{"code":"HSFF-0081","program":"wwff","name":"Phu Sang National Park","coordinates":[100.37081,19.67045]}]}

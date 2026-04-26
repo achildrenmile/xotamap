@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-110,"programs":["pota"],"count":1,"references":[{"code":"CA-1123","program":"pota","name":"Macklin Lake Regional Park","coordinates":[-109.94,52.3217]}]}
+{"lat":52.25,"lon":-110,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1123","program":"pota","name":"Macklin Lake Regional Park","coordinates":[-109.94,52.3217]},{"code":"VEFF-1123","program":"wwff","name":"Macklin Lake Regional Park","coordinates":[-109.94011,52.32167]},{"code":"VEFF-5097","program":"wwff","name":"Macklin Game Preserve","coordinates":[-109.95159,52.32301]}]}

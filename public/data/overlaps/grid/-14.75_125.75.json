@@ -1,1 +1,1 @@
-{"lat":-14.75,"lon":125.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0090","program":"pota","name":"Lawley River National Park","coordinates":[125.906,-14.6914]}]}
+{"lat":-14.75,"lon":125.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0090","program":"pota","name":"Lawley River National Park","coordinates":[125.906,-14.6914]},{"code":"VKFF-0649","program":"wwff","name":"Lawley River National Park","coordinates":[125.9061,-14.6914]}]}

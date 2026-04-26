@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":9.75,"programs":["pota"],"count":1,"references":[{"code":"DE-0382","program":"pota","name":"Böhmepark Recreation Park","coordinates":[9.84222,52.9891]}]}
+{"lat":52.75,"lon":9.75,"programs":["pota","tota","wca"],"count":3,"references":[{"code":"DE-0382","program":"pota","name":"Böhmepark Recreation Park","coordinates":[9.84222,52.9891]},{"code":"DLR-1827","program":"tota","name":"Heinrich-Eggers-Turm","coordinates":[9.94293,52.86604]},{"code":"DL-03039","program":"wca","name":"Schloss Bredebeck","coordinates":[9.8902,52.7873]}]}

@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":141.75,"programs":["sota"],"count":1,"references":[{"code":"JA8/RM-018","program":"sota","name":"Kunineinunoyama","coordinates":[141.9907,44.7853]}]}
+{"lat":44.75,"lon":141.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"JPN 987","program":"arlhs","name":"Teshio Kawa (Hokkaido)","coordinates":[141.75,44.88000107]},{"code":"JA8/RM-018","program":"sota","name":"Kunineinunoyama","coordinates":[141.9907,44.7853]}]}

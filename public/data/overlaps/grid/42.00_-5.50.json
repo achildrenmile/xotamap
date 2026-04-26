@@ -1,1 +1,1 @@
-{"lat":42,"lon":-5.5,"programs":["pota"],"count":1,"references":[{"code":"ES-2264","program":"pota","name":"Penillanuras-Campos Norte Natura 2000","coordinates":[-5.3742,42.0496]}]}
+{"lat":42,"lon":-5.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-2264","program":"pota","name":"Penillanuras-Campos Norte Natura 2000","coordinates":[-5.3742,42.0496]},{"code":"EAFF-1063","program":"wwff","name":"ZEPA Penillanuras-Campos Norte","coordinates":[-5.36739,42.05414]}]}

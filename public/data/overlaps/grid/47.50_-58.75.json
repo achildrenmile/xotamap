@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":-58.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0680","program":"wwbota","name":"FRP BC11","coordinates":[-58.6945519,47.60185603]}]}
+{"lat":47.5,"lon":-58.75,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 668","program":"arlhs","name":"Rose Blanche","coordinates":[-58.70000076,47.59999847]},{"code":"B/CA-0680","program":"wwbota","name":"FRP BC11","coordinates":[-58.6945519,47.60185603]}]}

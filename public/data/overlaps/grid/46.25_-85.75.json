@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":-85.75,"programs":["pota"],"count":1,"references":[{"code":"US-6663","program":"pota","name":"Dollarville Flooding Wildlife Management Area","coordinates":[-85.5817,46.3506]}]}
+{"lat":46.25,"lon":-85.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6663","program":"pota","name":"Dollarville Flooding Wildlife Management Area","coordinates":[-85.5817,46.3506]},{"code":"KFF-5382","program":"wwff","name":"Dollarville Flooding","coordinates":[-85.58175,46.3509]}]}

@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":-107.75,"programs":["pota"],"count":1,"references":[{"code":"US-0398","program":"pota","name":"Bowdoin National Wildlife Refuge","coordinates":[-107.579,48.3953]}]}
+{"lat":48.25,"lon":-107.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0398","program":"pota","name":"Bowdoin National Wildlife Refuge","coordinates":[-107.579,48.3953]},{"code":"KFF-0398","program":"wwff","name":"Bowdoin","coordinates":[-107.57914,48.39529]}]}

@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":23.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0352","program":"pota","name":"Kuivasjärvi Natura 2000","coordinates":[23.5124,62.5743]}]}
+{"lat":62.5,"lon":23.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0352","program":"pota","name":"Kuivasjärvi Natura 2000","coordinates":[23.5124,62.5743]},{"code":"OHFF-0320","program":"wwff","name":"Kuivasjärvi","coordinates":[23.51945,62.57552]}]}

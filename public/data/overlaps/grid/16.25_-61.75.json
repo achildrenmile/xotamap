@@ -1,1 +1,1 @@
-{"lat":16.25,"lon":-61.75,"programs":["pota"],"count":1,"references":[{"code":"GP-0001","program":"pota","name":"GUADELOUPE AIRE D'ADHESION  FR3400007 National Park","coordinates":[-61.7213,16.2844]}]}
+{"lat":16.25,"lon":-61.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"GP-0001","program":"pota","name":"GUADELOUPE AIRE D'ADHESION  FR3400007 National Park","coordinates":[-61.7213,16.2844]},{"code":"FFF-0155","program":"wwff","name":"RAMSAR - Grand Cul-de-Sac Marin de la Guadeloupe","coordinates":[-61.58333,16.31667]}]}

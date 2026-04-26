@@ -1,1 +1,1 @@
-{"lat":-19.5,"lon":22.75,"programs":["pota"],"count":1,"references":[{"code":"BW-0006","program":"pota","name":"Moremi Game Reserve","coordinates":[22.9282,-19.3095]}]}
+{"lat":-19.5,"lon":22.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BW-0006","program":"pota","name":"Moremi Game Reserve","coordinates":[22.9282,-19.3095]},{"code":"A2FF-0012","program":"wwff","name":"Okavango Delta","coordinates":[22.78397,-19.45526]}]}

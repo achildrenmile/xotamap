@@ -1,1 +1,1 @@
-{"lat":-15.5,"lon":27.25,"programs":["pota"],"count":1,"references":[{"code":"ZM-0006","program":"pota","name":"Blue lagoon National Park","coordinates":[27.4,-15.483]}]}
+{"lat":-15.5,"lon":27.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"ZM-0006","program":"pota","name":"Blue lagoon National Park","coordinates":[27.4,-15.483]},{"code":"9JFF-0001","program":"wwff","name":"Blue Lagoon","coordinates":[27.43,-15.47]}]}

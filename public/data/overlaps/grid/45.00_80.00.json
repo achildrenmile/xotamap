@@ -1,1 +1,1 @@
-{"lat":45,"lon":80,"programs":["pota"],"count":1,"references":[{"code":"KZ-0022","program":"pota","name":"Zhongar-Alatau National Park","coordinates":[80.0404,45.2123]}]}
+{"lat":45,"lon":80,"programs":["pota","wwff"],"count":2,"references":[{"code":"KZ-0022","program":"pota","name":"Zhongar-Alatau National Park","coordinates":[80.0404,45.2123]},{"code":"UNFF-0024","program":"wwff","name":"Zhongar-Alatau state national natural Park","coordinates":[80.04039,45.21229]}]}

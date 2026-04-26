@@ -1,1 +1,1 @@
-{"lat":40.5,"lon":21.25,"programs":["sota"],"count":1,"references":[{"code":"SV/MC-068","program":"sota","name":"Agnanti","coordinates":[21.315277,40.720554]}]}
+{"lat":40.5,"lon":21.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"SV/MC-068","program":"sota","name":"Agnanti","coordinates":[21.315277,40.720554]},{"code":"SVFF-0029","program":"wwff","name":"Kastoria's Lake","coordinates":[21.27977,40.54422]}]}

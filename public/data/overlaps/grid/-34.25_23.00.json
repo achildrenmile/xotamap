@@ -1,1 +1,1 @@
-{"lat":-34.25,"lon":23,"programs":["pota"],"count":1,"references":[{"code":"ZA-0101","program":"pota","name":"Knysna National Conservation Area","coordinates":[23.0442,-34.0592]}]}
+{"lat":-34.25,"lon":23,"programs":["pota","wwff"],"count":2,"references":[{"code":"ZA-0101","program":"pota","name":"Knysna National Conservation Area","coordinates":[23.0442,-34.0592]},{"code":"ZSFF-0008","program":"wwff","name":"Knysna National Lake Area","coordinates":[23.04167,-34.05]}]}

@@ -1,1 +1,1 @@
-{"lat":-15.5,"lon":-42.5,"programs":["sota"],"count":1,"references":[{"code":"PY4/NM-074","program":"sota","name":"PY4/NM-074","coordinates":[-42.41931,-15.38414]}]}
+{"lat":-15.5,"lon":-42.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"PY4/NM-074","program":"sota","name":"PY4/NM-074","coordinates":[-42.41931,-15.38414]},{"code":"PYFF-0496","program":"wwff","name":"Res. Desenv. Sustentável NASCENTES GERAIZEIRAS - MG","coordinates":[-42.41409,-15.35771]}]}

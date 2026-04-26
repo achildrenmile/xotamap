@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":-98.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1056","program":"pota","name":"Lundar Beach Provincial Park","coordinates":[-98.2729,50.7235]}]}
+{"lat":50.5,"lon":-98.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1056","program":"pota","name":"Lundar Beach Provincial Park","coordinates":[-98.2729,50.7235]},{"code":"VEFF-1056","program":"wwff","name":"Lundar Beach Provincial Park","coordinates":[-98.27292,50.72348]}]}

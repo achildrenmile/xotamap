@@ -1,1 +1,1 @@
-{"lat":4.5,"lon":-52.25,"programs":["pota"],"count":1,"references":[{"code":"GF-0026","program":"pota","name":"MARAIS DE KAW ROURA  FR3600139 National Nature Reserve","coordinates":[-52.1112,4.60838]}]}
+{"lat":4.5,"lon":-52.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"GF-0026","program":"pota","name":"MARAIS DE KAW ROURA  FR3600139 National Nature Reserve","coordinates":[-52.1112,4.60838]},{"code":"FFF-0157","program":"wwff","name":"RAMSAR - Marais de Kaw","coordinates":[-52.08333,4.65]}]}

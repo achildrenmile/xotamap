@@ -1,1 +1,1 @@
-{"lat":-12.5,"lon":142.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1520","program":"pota","name":"Batavia National Park Aboriginal","coordinates":[142.695,-12.333]}]}
+{"lat":-12.5,"lon":142.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1520","program":"pota","name":"Batavia National Park Aboriginal","coordinates":[142.695,-12.333]},{"code":"VKFF-1188","program":"wwff","name":"Batavia National Park (CYPAL)","coordinates":[142.7101,-12.404]}]}

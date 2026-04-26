@@ -1,1 +1,1 @@
-{"lat":-29.25,"lon":149.75,"programs":["pota"],"count":1,"references":[{"code":"AU-2456","program":"pota","name":"Careunga Nature Park","coordinates":[149.849,-29.0252]}]}
+{"lat":-29.25,"lon":149.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2456","program":"pota","name":"Careunga Nature Park","coordinates":[149.849,-29.0252]},{"code":"VKFF-2564","program":"wwff","name":"Careunga Nature Reserve","coordinates":[149.8486,-29.0252]}]}

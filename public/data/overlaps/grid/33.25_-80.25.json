@@ -1,1 +1,1 @@
-{"lat":33.25,"lon":-80.25,"programs":["pota"],"count":1,"references":[{"code":"US-9199","program":"pota","name":"Hatchery Wildlife Management Area","coordinates":[-80.1032,33.2684]}]}
+{"lat":33.25,"lon":-80.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-9199","program":"pota","name":"Hatchery Wildlife Management Area","coordinates":[-80.1032,33.2684]},{"code":"KFF-5600","program":"wwff","name":"Hatchery","coordinates":[-80.084,33.256]},{"code":"KFF-5606","program":"wwff","name":"Moultrie Hunt Unit","coordinates":[-80.107,33.392]}]}

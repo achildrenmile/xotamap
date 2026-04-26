@@ -1,1 +1,1 @@
-{"lat":40.5,"lon":-82,"programs":["pota"],"count":1,"references":[{"code":"US-8270","program":"pota","name":"Killbuck Marsh State Wildlife Area","coordinates":[-81.9775,40.6992]}]}
+{"lat":40.5,"lon":-82,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8270","program":"pota","name":"Killbuck Marsh State Wildlife Area","coordinates":[-81.9775,40.6992]},{"code":"KFF-6471","program":"wwff","name":"Killbuck Marsh","coordinates":[-81.9775,40.6992]}]}

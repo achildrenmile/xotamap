@@ -1,1 +1,1 @@
-{"lat":8,"lon":124.75,"programs":["pota"],"count":1,"references":[{"code":"PH-0048","program":"pota","name":"Mount Kitanglad Range National Park","coordinates":[124.818,8.11841]}]}
+{"lat":8,"lon":124.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"PH-0048","program":"pota","name":"Mount Kitanglad Range National Park","coordinates":[124.818,8.11841]},{"code":"DUFF-0004","program":"wwff","name":"Mount Kitanglad","coordinates":[124.9125,8.14278]}]}

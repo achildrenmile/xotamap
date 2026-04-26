@@ -1,1 +1,1 @@
-{"lat":49,"lon":-64.75,"programs":["sota"],"count":1,"references":[{"code":"VE2/GA-180","program":"sota","name":"Montagne Blanche","coordinates":[-64.6832,49.0365]}]}
+{"lat":49,"lon":-64.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"CAN 392","program":"arlhs","name":"Fame Point/Pointe Ã  la RenommÃ©e (Gulf of St. Lawrence)","coordinates":[-64.59999847,49.11000061]},{"code":"VE2/GA-180","program":"sota","name":"Montagne Blanche","coordinates":[-64.6832,49.0365]}]}

@@ -1,1 +1,1 @@
-{"lat":22.75,"lon":-98,"programs":["sota"],"count":1,"references":[{"code":"XE2/TM-326","program":"sota","name":"XE2/TM-326","coordinates":[-97.9777,22.95187]}]}
+{"lat":22.75,"lon":-98,"programs":["arlhs","sota"],"count":2,"references":[{"code":"MEX 058","program":"arlhs","name":"Punta Jerez","coordinates":[-97.76999664,22.89999962]},{"code":"XE2/TM-326","program":"sota","name":"XE2/TM-326","coordinates":[-97.9777,22.95187]}]}

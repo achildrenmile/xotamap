@@ -1,1 +1,1 @@
-{"lat":-27,"lon":32.25,"programs":["pota"],"count":1,"references":[{"code":"ZA-0070","program":"pota","name":"Ndumo Game Reserve","coordinates":[32.2523,-26.8791]}]}
+{"lat":-27,"lon":32.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"ZA-0070","program":"pota","name":"Ndumo Game Reserve","coordinates":[32.2523,-26.8791]},{"code":"ZSFF-0287","program":"wwff","name":"Ndumo Game Reserve","coordinates":[32.26059,-26.86679]},{"code":"ZSFF-0379","program":"wwff","name":"Tembe Elephant Park","coordinates":[32.46141,-26.95064]}]}

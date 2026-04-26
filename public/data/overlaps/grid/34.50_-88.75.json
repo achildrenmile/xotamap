@@ -1,1 +1,1 @@
-{"lat":34.5,"lon":-88.75,"programs":["pota"],"count":1,"references":[{"code":"US-0715","program":"pota","name":"Brices Cross Roads National Battlefield","coordinates":[-88.7295,34.506]}]}
+{"lat":34.5,"lon":-88.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0715","program":"pota","name":"Brices Cross Roads National Battlefield","coordinates":[-88.7295,34.506]},{"code":"KFF-0715","program":"wwff","name":"Brices Cross Roads","coordinates":[-88.72946,34.50598]}]}

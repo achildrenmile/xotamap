@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":35.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0029","program":"pota","name":"Orlovskoye Polesye National Park","coordinates":[35.2635,53.2744]}]}
+{"lat":53.25,"lon":35.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0029","program":"pota","name":"Orlovskoye Polesye National Park","coordinates":[35.2635,53.2744]},{"code":"RFF-0133","program":"wwff","name":"Orlovskoe Poles'e","coordinates":[35.44739,53.32923]}]}

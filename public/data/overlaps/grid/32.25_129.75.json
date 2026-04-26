@@ -1,1 +1,1 @@
-{"lat":32.25,"lon":129.75,"programs":["sota"],"count":1,"references":[{"code":"JA6/KM-115","program":"sota","name":"Araodake","coordinates":[129.9837,32.3552]}]}
+{"lat":32.25,"lon":129.75,"programs":["arlhs","sota"],"count":3,"references":[{"code":"JPN 450","program":"arlhs","name":"Oe Ko (Kumamoto)","coordinates":[129.97999573,32.31999969]},{"code":"JPN 2107","program":"arlhs","name":"Oye Ko (Kumamoto)","coordinates":[129.97999573,32.31999969]},{"code":"JA6/KM-115","program":"sota","name":"Araodake","coordinates":[129.9837,32.3552]}]}

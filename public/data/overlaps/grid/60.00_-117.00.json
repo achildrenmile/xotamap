@@ -1,1 +1,1 @@
-{"lat":60,"lon":-117,"programs":["pota"],"count":1,"references":[{"code":"CA-4316","program":"pota","name":"60th Parallel Territorial Park","coordinates":[-116.977,60.0011]}]}
+{"lat":60,"lon":-117,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4316","program":"pota","name":"60th Parallel Territorial Park","coordinates":[-116.977,60.0011]},{"code":"VEFF-1253","program":"wwff","name":"60th Parallel Territorial Park","coordinates":[-116.97742,60.00105]}]}

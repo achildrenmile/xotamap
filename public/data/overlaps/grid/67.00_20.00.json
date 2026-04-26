@@ -1,1 +1,1 @@
-{"lat":67,"lon":20,"programs":["pota"],"count":1,"references":[{"code":"SE-0687","program":"pota","name":"Stubba Natura 2000","coordinates":[20.0159,67.1115]}]}
+{"lat":67,"lon":20,"programs":["pota","wwff"],"count":2,"references":[{"code":"SE-0687","program":"pota","name":"Stubba Natura 2000","coordinates":[20.0159,67.1115]},{"code":"SMFF-0013","program":"wwff","name":"Muddus","coordinates":[20.06056,67.04166]}]}

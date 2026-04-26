@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":-53.25,"programs":["sota"],"count":1,"references":[{"code":"VO1/AV-004","program":"sota","name":"Peter Easton Lookout","coordinates":[-53.1977,47.8351]}]}
+{"lat":47.75,"lon":-53.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"VO1/AV-004","program":"sota","name":"Peter Easton Lookout","coordinates":[-53.1977,47.8351]},{"code":"VEFF-1312","program":"wwff","name":"Northern Bay Sands Provincial Park","coordinates":[-53.07886,47.93581]}]}

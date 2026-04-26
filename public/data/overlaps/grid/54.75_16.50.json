@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":16.5,"programs":["pota"],"count":1,"references":[{"code":"PL-2380","program":"pota","name":"Ławica Słupska Natura 2000","coordinates":[16.722,54.9153]}]}
+{"lat":54.75,"lon":16.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-2380","program":"pota","name":"Ławica Słupska Natura 2000","coordinates":[16.722,54.9153]},{"code":"SPFF-2527","program":"wwff","name":"Natura 2000 Lawica Slupska","coordinates":[16.72194,54.91528]}]}

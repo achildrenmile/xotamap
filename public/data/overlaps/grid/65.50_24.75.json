@@ -1,1 +1,1 @@
-{"lat":65.5,"lon":24.75,"programs":["pota"],"count":1,"references":[{"code":"FI-1581","program":"pota","name":"Musta-aapa Natura 2000","coordinates":[24.7843,65.7215]}]}
+{"lat":65.5,"lon":24.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"FIN 053","program":"arlhs","name":"HÃ¤rkÃ¤letto","coordinates":[24.85000038,65.5]},{"code":"FI-1581","program":"pota","name":"Musta-aapa Natura 2000","coordinates":[24.7843,65.7215]},{"code":"OHFF-1509","program":"wwff","name":"Seurakunnan luonnonsuojelualue","coordinates":[24.9252,65.6467]}]}

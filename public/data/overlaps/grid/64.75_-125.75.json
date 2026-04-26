@@ -1,1 +1,1 @@
-{"lat":64.75,"lon":-125.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0385","program":"wwbota","name":"District of Mackenzie FRP KE1","coordinates":[-125.577904,64.90125993]}]}
+{"lat":64.75,"lon":-125.75,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0385","program":"wwbota","name":"District of Mackenzie FRP KE1","coordinates":[-125.577904,64.90125993]},{"code":"VEFF-4533","program":"wwff","name":"Bear Rock","coordinates":[-125.68726,64.90821]}]}

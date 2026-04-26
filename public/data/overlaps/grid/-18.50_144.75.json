@@ -1,1 +1,1 @@
-{"lat":-18.5,"lon":144.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1275","program":"pota","name":"Kinrara National Park","coordinates":[144.951,-18.4574]}]}
+{"lat":-18.5,"lon":144.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1275","program":"pota","name":"Kinrara National Park","coordinates":[144.951,-18.4574]},{"code":"VKFF-0686","program":"wwff","name":"Kinrara National Park","coordinates":[144.95129,-18.4574]}]}

@@ -1,1 +1,1 @@
-{"lat":34.75,"lon":-101.75,"programs":["pota"],"count":1,"references":[{"code":"US-3046","program":"pota","name":"Palo Duro Canyon State Park","coordinates":[-101.648,34.9373]}]}
+{"lat":34.75,"lon":-101.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3046","program":"pota","name":"Palo Duro Canyon State Park","coordinates":[-101.648,34.9373]},{"code":"KFF-3046","program":"wwff","name":"Palo Duro Canyon","coordinates":[-101.64761,34.93726]}]}

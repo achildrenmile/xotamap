@@ -1,1 +1,1 @@
-{"lat":39,"lon":115,"programs":["pota"],"count":1,"references":[{"code":"CN-0796","program":"pota","name":"河北易州国家森林公园 National Forest","coordinates":[115.169,39.1345]}]}
+{"lat":39,"lon":115,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-0796","program":"pota","name":"河北易州国家森林公园 National Forest","coordinates":[115.169,39.1345]},{"code":"BYFF-0077","program":"wwff","name":"Langyashan","coordinates":[115.18002,39.13234]}]}

@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":23,"programs":["pota"],"count":1,"references":[{"code":"PL-0082","program":"pota","name":"Horodyszcze Natura 2000","coordinates":[23.2051,51.758]}]}
+{"lat":51.75,"lon":23,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-0082","program":"pota","name":"Horodyszcze Natura 2000","coordinates":[23.2051,51.758]},{"code":"SPFF-1819","program":"wwff","name":"Natura 2000 Horodyszcze","coordinates":[23.20515,51.75795]}]}

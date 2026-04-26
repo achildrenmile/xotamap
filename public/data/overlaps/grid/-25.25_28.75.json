@@ -1,1 +1,1 @@
-{"lat":-25.25,"lon":28.75,"programs":["gma"],"count":1,"references":[{"code":"ZT/MP-007","program":"gma","name":"Masilikatsekop","coordinates":[28.95499992,-25.00329971]}]}
+{"lat":-25.25,"lon":28.75,"programs":["gma","wwff"],"count":3,"references":[{"code":"ZT/MP-007","program":"gma","name":"Masilikatsekop","coordinates":[28.95499992,-25.00329971]},{"code":"ZSFF-0259","program":"wwff","name":"Mdala Game Reserve","coordinates":[28.76012,-25.24138]},{"code":"ZSFF-0265","program":"wwff","name":"Mkhombo Nature Reserve","coordinates":[28.82452,-25.11366]}]}

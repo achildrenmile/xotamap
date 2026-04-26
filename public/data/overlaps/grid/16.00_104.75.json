@@ -1,1 +1,1 @@
-{"lat":16,"lon":104.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0116","program":"pota","name":"Phu Sa Dok Bua National Park","coordinates":[104.781,16.2334]}]}
+{"lat":16,"lon":104.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0116","program":"pota","name":"Phu Sa Dok Bua National Park","coordinates":[104.781,16.2334]},{"code":"HSFF-0078","program":"wwff","name":"Phu Sa Dok Bua National Park","coordinates":[104.77348,16.14769]}]}

@@ -1,1 +1,1 @@
-{"lat":39,"lon":-7.25,"programs":["pota"],"count":1,"references":[{"code":"ES-1094","program":"pota","name":"Rio Gevora Alto Natura 2000","coordinates":[-7.1317,39.2497]}]}
+{"lat":39,"lon":-7.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"ES-1094","program":"pota","name":"Rio Gevora Alto Natura 2000","coordinates":[-7.1317,39.2497]},{"code":"CTFF-0091","program":"wwff","name":"Area Protegida de Campo Maior (ZPE)","coordinates":[-7.01686,39.10002]},{"code":"CTFF-0168","program":"wwff","name":"Area Protegida da Caia (SIC)","coordinates":[-7.06823,39.01514]}]}

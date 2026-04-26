@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":22.75,"programs":["pota"],"count":1,"references":[{"code":"EE-0149","program":"pota","name":"Koigi linnuala Natura 2000","coordinates":[22.9746,58.4921]}]}
+{"lat":58.25,"lon":22.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"EST 054","program":"arlhs","name":"SÃ¤Ã¤retuka","coordinates":[22.81999969,58.25999832]},{"code":"EE-0149","program":"pota","name":"Koigi linnuala Natura 2000","coordinates":[22.9746,58.4921]},{"code":"ESFF-0317","program":"wwff","name":"Nässuma hoiuala","coordinates":[22.77429,58.2741]}]}

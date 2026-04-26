@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":-113,"programs":["pota"],"count":1,"references":[{"code":"CA-0655","program":"pota","name":"Long Lake Provincial Park","coordinates":[-112.773,54.4419]}]}
+{"lat":54.25,"lon":-113,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-0655","program":"pota","name":"Long Lake Provincial Park","coordinates":[-112.773,54.4419]},{"code":"VEFF-0655","program":"wwff","name":"Long Lake Provincial Park","coordinates":[-112.77328,54.4419]},{"code":"VEFF-2046","program":"wwff","name":"White Earth Valley Natural Area","coordinates":[-112.76181,54.39893]}]}

@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":-101,"programs":["sota"],"count":1,"references":[{"code":"VE4/MP-006","program":"sota","name":"MacArthur Lake Hill","coordinates":[-100.9675,50.9382]}]}
+{"lat":50.75,"lon":-101,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE4/MP-006","program":"sota","name":"MacArthur Lake Hill","coordinates":[-100.9675,50.9382]},{"code":"VEFF-4972","program":"wwff","name":"Elk Glen Property","coordinates":[-100.82408,50.85287]}]}

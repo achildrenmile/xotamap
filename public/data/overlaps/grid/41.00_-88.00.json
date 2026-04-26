@@ -1,1 +1,1 @@
-{"lat":41,"lon":-88,"programs":["pota"],"count":1,"references":[{"code":"US-1004","program":"pota","name":"Kankakee River State Park","coordinates":[-87.979,41.203]}]}
+{"lat":41,"lon":-88,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1004","program":"pota","name":"Kankakee River State Park","coordinates":[-87.979,41.203]},{"code":"KFF-1004","program":"wwff","name":"Kankakee River","coordinates":[-87.97289,41.20152]}]}

@@ -1,1 +1,1 @@
-{"lat":33.25,"lon":-119.25,"programs":["sota"],"count":1,"references":[{"code":"W6/SC-379","program":"sota","name":"Signal Peak","coordinates":[-119.0412,33.472]}]}
+{"lat":33.25,"lon":-119.25,"programs":["sota","wlota"],"count":2,"references":[{"code":"W6/SC-379","program":"sota","name":"Signal Peak","coordinates":[-119.0412,33.472]},{"code":"WLOTA-0258","program":"wlota","name":"Santa Barbara Island","coordinates":[-119.25,33.48500061]}]}

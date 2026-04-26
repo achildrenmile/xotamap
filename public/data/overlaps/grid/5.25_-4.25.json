@@ -1,1 +1,1 @@
-{"lat":5.25,"lon":-4.25,"programs":["pota"],"count":1,"references":[{"code":"CI-0008","program":"pota","name":"Banco National Park","coordinates":[-4.0464,5.3602]}]}
+{"lat":5.25,"lon":-4.25,"programs":["arlhs","pota"],"count":3,"references":[{"code":"ICO 007","program":"arlhs","name":"Abidjan Entrance Range Front","coordinates":[-4.19999981,5.25]},{"code":"ICO 008","program":"arlhs","name":"Abidjan Entrance Range Rear","coordinates":[-4.19999981,5.25]},{"code":"CI-0008","program":"pota","name":"Banco National Park","coordinates":[-4.0464,5.3602]}]}

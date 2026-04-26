@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":140.5,"programs":["sota"],"count":1,"references":[{"code":"JA8/SB-053","program":"sota","name":"Omoriyama","coordinates":[140.6185,43.2835]}]}
+{"lat":43.25,"lon":140.5,"programs":["arlhs","sota"],"count":3,"references":[{"code":"JPN 853","program":"arlhs","name":"Funama Ko Outer Breakwater (Hokkaido)","coordinates":[140.61999512,43.29999924]},{"code":"JPN 854","program":"arlhs","name":"Furubira Ko East Breakwater (Hokkaido)","coordinates":[140.6499939,43.27000046]},{"code":"JA8/SB-053","program":"sota","name":"Omoriyama","coordinates":[140.6185,43.2835]}]}

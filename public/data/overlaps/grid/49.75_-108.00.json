@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":-108,"programs":["pota"],"count":1,"references":[{"code":"CA-1116","program":"pota","name":"Lac Pelletier Regional Park","coordinates":[-107.927,49.9842]}]}
+{"lat":49.75,"lon":-108,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1116","program":"pota","name":"Lac Pelletier Regional Park","coordinates":[-107.927,49.9842]},{"code":"VEFF-1116","program":"wwff","name":"Lac Pelletier Regional Park","coordinates":[-107.92692,49.98425]}]}

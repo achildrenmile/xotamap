@@ -1,1 +1,1 @@
-{"lat":-17.25,"lon":-39.25,"programs":["iota"],"count":1,"references":[{"code":"SA-062","program":"iota","name":"BAHIA STATE SOUTH group","coordinates":[-39.23999977,-17.16499996]}]}
+{"lat":-17.25,"lon":-39.25,"programs":["iota","wwff"],"count":2,"references":[{"code":"SA-062","program":"iota","name":"BAHIA STATE SOUTH group","coordinates":[-39.23999977,-17.16499996]},{"code":"PYFF-0307","program":"wwff","name":"Parque Nacional do DESCOBRIMENTO - BA","coordinates":[-39.1738,-17.06057]}]}

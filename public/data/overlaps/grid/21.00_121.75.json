@@ -1,1 +1,1 @@
-{"lat":21,"lon":121.75,"programs":["sota"],"count":1,"references":[{"code":"DU2/BA-006","program":"sota","name":"Misanga Island","coordinates":[121.9336,21.0664]}]}
+{"lat":21,"lon":121.75,"programs":["sota","wlota"],"count":2,"references":[{"code":"DU2/BA-006","program":"sota","name":"Misanga Island","coordinates":[121.9336,21.0664]},{"code":"WLOTA-0115","program":"wlota","name":"Amianan Island","coordinates":[121.94799805,21.11800003]}]}

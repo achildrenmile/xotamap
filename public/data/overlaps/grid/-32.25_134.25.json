@@ -1,1 +1,1 @@
-{"lat":-32.25,"lon":134.25,"programs":["pota"],"count":1,"references":[{"code":"AU-0713","program":"pota","name":"Pureba Conservation Park","coordinates":[134.434,-32.0494]}]}
+{"lat":-32.25,"lon":134.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0713","program":"pota","name":"Pureba Conservation Park","coordinates":[134.434,-32.0494]},{"code":"VKFF-1085","program":"wwff","name":"Pureba Conservation Park","coordinates":[134.4369,-32.0522]}]}

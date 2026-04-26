@@ -1,1 +1,1 @@
-{"lat":-33.25,"lon":146,"programs":["pota"],"count":1,"references":[{"code":"AU-2491","program":"pota","name":"Round Hill Nature Park","coordinates":[146.176,-33.0066]}]}
+{"lat":-33.25,"lon":146,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2491","program":"pota","name":"Round Hill Nature Park","coordinates":[146.176,-33.0066]},{"code":"VKFF-2711","program":"wwff","name":"Round Hill Nature Reserve","coordinates":[146.1758,-33.0066]}]}

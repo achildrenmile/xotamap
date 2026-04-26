@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":-66.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4398","program":"pota","name":"Gaspereau Protected Area","coordinates":[-66.0916,46.2733]}]}
+{"lat":46.25,"lon":-66.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4398","program":"pota","name":"Gaspereau Protected Area","coordinates":[-66.0916,46.2733]},{"code":"VEFF-4578","program":"wwff","name":"Gaspereau Natural Area","coordinates":[-66.07674,46.26954]}]}

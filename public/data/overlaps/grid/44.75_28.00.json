@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"RO-1057","program":"pota","name":"Brațul Măcin Natura 2000","coordinates":[28.0741,44.804]}]}
+{"lat":44.75,"lon":28,"programs":["pota","wwff"],"count":3,"references":[{"code":"RO-1057","program":"pota","name":"Brațul Măcin Natura 2000","coordinates":[28.0741,44.804]},{"code":"YOFF-0129","program":"wwff","name":"Dunarea Veche - Bratul Macin","coordinates":[28.14423,44.98471]},{"code":"YOFF-0209","program":"wwff","name":"Bratul Macin","coordinates":[28.14423,44.96783]}]}

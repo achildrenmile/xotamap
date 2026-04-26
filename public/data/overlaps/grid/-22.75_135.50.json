@@ -1,1 +1,1 @@
-{"lat":-22.75,"lon":135.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1583","program":"pota","name":"Dulcie Range National Park","coordinates":[135.567,-22.5641]}]}
+{"lat":-22.75,"lon":135.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1583","program":"pota","name":"Dulcie Range National Park","coordinates":[135.567,-22.5641]},{"code":"VKFF-0150","program":"wwff","name":"Dulcie Range National Park","coordinates":[135.5708,-22.5638]}]}

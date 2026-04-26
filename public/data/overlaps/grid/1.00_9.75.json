@@ -1,1 +1,1 @@
-{"lat":1,"lon":9.75,"programs":["pota"],"count":1,"references":[{"code":"GQ-0014","program":"pota","name":"Estuaire du Muni Natural Features Reserve","coordinates":[9.8,1.06]}]}
+{"lat":1,"lon":9.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"GQ-0014","program":"pota","name":"Estuaire du Muni Natural Features Reserve","coordinates":[9.8,1.06]},{"code":"3CFF-0011","program":"wwff","name":"Estuario del Muni","coordinates":[9.76759,1.15408]}]}

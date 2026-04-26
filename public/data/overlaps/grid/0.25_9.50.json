@@ -1,1 +1,1 @@
-{"lat":0.25,"lon":9.5,"programs":["pota"],"count":1,"references":[{"code":"GA-0001","program":"pota","name":"Akanda National Park","coordinates":[9.6,0.41]}]}
+{"lat":0.25,"lon":9.5,"programs":["arlhs","pota"],"count":2,"references":[{"code":"GAB 004","program":"arlhs","name":"Pointe Owendo","coordinates":[9.52000046,0.28]},{"code":"GA-0001","program":"pota","name":"Akanda National Park","coordinates":[9.6,0.41]}]}

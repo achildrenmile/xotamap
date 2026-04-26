@@ -1,1 +1,1 @@
-{"lat":-10.75,"lon":-64.5,"programs":["pota"],"count":1,"references":[{"code":"BR-0116","program":"pota","name":"Guajará-Mirim State Park","coordinates":[-64.4549,-10.5379]}]}
+{"lat":-10.75,"lon":-64.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0116","program":"pota","name":"Guajará-Mirim State Park","coordinates":[-64.4549,-10.5379]},{"code":"PYFF-0596","program":"wwff","name":"Parque Estadual de GUAJARÁ-MIRIM - RO","coordinates":[-64.45611,-10.51514]}]}

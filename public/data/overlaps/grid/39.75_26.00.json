@@ -1,1 +1,1 @@
-{"lat":39.75,"lon":26,"programs":["pota"],"count":1,"references":[{"code":"TR-0039","program":"pota","name":"Troya Tarihi National Park","coordinates":[26.2415,39.9571]}]}
+{"lat":39.75,"lon":26,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0039","program":"pota","name":"Troya Tarihi National Park","coordinates":[26.2415,39.9571]},{"code":"TAFF-0006","program":"wwff","name":"Troya Milli Parki (Ancient Troya)","coordinates":[26.24498,39.94852]}]}

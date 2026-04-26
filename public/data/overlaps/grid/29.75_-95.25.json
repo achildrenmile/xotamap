@@ -1,1 +1,1 @@
-{"lat":29.75,"lon":-95.25,"programs":["pota"],"count":1,"references":[{"code":"US-3056","program":"pota","name":"Sheldon Lake State Park","coordinates":[-95.1684,29.8767]}]}
+{"lat":29.75,"lon":-95.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-3056","program":"pota","name":"Sheldon Lake State Park","coordinates":[-95.1684,29.8767]},{"code":"KFF-3056","program":"wwff","name":"Sheldon Lake","coordinates":[-95.16836,29.87668]},{"code":"KFF-3495","program":"wwff","name":"Battleship Texas","coordinates":[-95.0897,29.7563]}]}

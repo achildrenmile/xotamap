@@ -1,1 +1,1 @@
-{"lat":-23,"lon":35.5,"programs":["pota"],"count":1,"references":[{"code":"MZ-0012","program":"pota","name":"Pomene National Reserve","coordinates":[35.5556,-22.9652]}]}
+{"lat":-23,"lon":35.5,"programs":["arlhs","pota"],"count":2,"references":[{"code":"MOZ 019","program":"arlhs","name":"Punta da Barra Falsa","coordinates":[35.59999847,-22.79999924]},{"code":"MZ-0012","program":"pota","name":"Pomene National Reserve","coordinates":[35.5556,-22.9652]}]}

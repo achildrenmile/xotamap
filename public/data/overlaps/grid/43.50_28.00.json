@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"BG-0159","program":"pota","name":"Kardam Natura 2000","coordinates":[28.1047,43.7467]}]}
+{"lat":43.5,"lon":28,"programs":["pota","wwff"],"count":3,"references":[{"code":"BG-0159","program":"pota","name":"Kardam Natura 2000","coordinates":[28.1047,43.7467]},{"code":"LZFF-0244","program":"wwff","name":"Kardam","coordinates":[28.10472,43.74667]},{"code":"LZFF-0246","program":"wwff","name":"Arboretuma","coordinates":[28.02167,43.65492]}]}

@@ -1,1 +1,1 @@
-{"lat":19.75,"lon":-156.25,"programs":["pota"],"count":1,"references":[{"code":"US-2214","program":"pota","name":"Kekaha Kai State Park","coordinates":[-156.022,19.77]}]}
+{"lat":19.75,"lon":-156.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2214","program":"pota","name":"Kekaha Kai State Park","coordinates":[-156.022,19.77]},{"code":"KFF-2214","program":"wwff","name":"Kekaha Kai","coordinates":[-156.01959,19.78514]}]}

@@ -1,1 +1,1 @@
-{"lat":59.25,"lon":23.25,"programs":["pota"],"count":1,"references":[{"code":"EE-0020","program":"pota","name":"Osmussaare Landscape Reserve","coordinates":[23.394,59.294]}]}
+{"lat":59.25,"lon":23.25,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"EST 009","program":"arlhs","name":"Osmussaare","coordinates":[23.36000061,59.29999924]},{"code":"EE-0020","program":"pota","name":"Osmussaare Landscape Reserve","coordinates":[23.394,59.294]},{"code":"WLOTA-2225","program":"wlota","name":"Osmussaar Island","coordinates":[23.36000061,59.3030014]}]}

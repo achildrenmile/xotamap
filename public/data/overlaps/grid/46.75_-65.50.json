@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":-65.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4400","program":"pota","name":"Goodfellow Brook Protected Area","coordinates":[-65.3487,46.9168]}]}
+{"lat":46.75,"lon":-65.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4400","program":"pota","name":"Goodfellow Brook Protected Area","coordinates":[-65.3487,46.9168]},{"code":"VEFF-4580","program":"wwff","name":"Goodfellow Brook Natural Area","coordinates":[-65.37358,46.8988]}]}

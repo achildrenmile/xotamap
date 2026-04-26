@@ -1,1 +1,1 @@
-{"lat":-16.75,"lon":142.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1071","program":"pota","name":"Staaten River National Park","coordinates":[142.798,-16.6571]}]}
+{"lat":-16.75,"lon":142.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1071","program":"pota","name":"Staaten River National Park","coordinates":[142.798,-16.6571]},{"code":"VKFF-0465","program":"wwff","name":"Staaten River National Park","coordinates":[142.7984,-16.6568]}]}

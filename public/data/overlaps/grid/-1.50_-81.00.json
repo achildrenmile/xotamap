@@ -1,1 +1,1 @@
-{"lat":-1.5,"lon":-81,"programs":["pota"],"count":1,"references":[{"code":"EC-0006","program":"pota","name":"Machalilla National Park","coordinates":[-80.7739,-1.49362]}]}
+{"lat":-1.5,"lon":-81,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"ECU 007","program":"arlhs","name":"Cabo San Lorenzo","coordinates":[-80.90000153,-1.5]},{"code":"EC-0006","program":"pota","name":"Machalilla National Park","coordinates":[-80.7739,-1.49362]},{"code":"HCFF-0006","program":"wwff","name":"Machalilla","coordinates":[-80.77147,-1.48895]}]}

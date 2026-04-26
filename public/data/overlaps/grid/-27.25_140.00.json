@@ -1,1 +1,1 @@
-{"lat":-27.25,"lon":140,"programs":["pota"],"count":1,"references":[{"code":"AU-0930","program":"pota","name":"Malkumba-Coongie Lakes National Park","coordinates":[140.159,-27.2482]}]}
+{"lat":-27.25,"lon":140,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0930","program":"pota","name":"Malkumba-Coongie Lakes National Park","coordinates":[140.159,-27.2482]},{"code":"VKFF-0631","program":"wwff","name":"Malkumba-Coongie Lakes National Park","coordinates":[140.1682,-27.2458]}]}

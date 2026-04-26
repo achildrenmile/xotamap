@@ -1,1 +1,1 @@
-{"lat":49,"lon":-112.5,"programs":["pota"],"count":1,"references":[{"code":"CA-3151","program":"pota","name":"Twin River Heritage Rangeland Natural Area","coordinates":[-112.399,49.0889]}]}
+{"lat":49,"lon":-112.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3151","program":"pota","name":"Twin River Heritage Rangeland Natural Area","coordinates":[-112.399,49.0889]},{"code":"VEFF-2043","program":"wwff","name":"Twin River Heritage Rangeland","coordinates":[-112.32208,49.17479]}]}

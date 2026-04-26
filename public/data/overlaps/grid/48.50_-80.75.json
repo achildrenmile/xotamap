@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":-80.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0384","program":"pota","name":"Shallow River Provincial Park","coordinates":[-80.5332,48.6408]}]}
+{"lat":48.5,"lon":-80.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0384","program":"pota","name":"Shallow River Provincial Park","coordinates":[-80.5332,48.6408]},{"code":"VEFF-0384","program":"wwff","name":"Shallow River Provincial Park","coordinates":[-80.53336,48.64097]}]}

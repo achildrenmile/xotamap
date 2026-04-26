@@ -1,1 +1,1 @@
-{"lat":-30.5,"lon":152,"programs":["sota"],"count":1,"references":[{"code":"VK2/NT-001","program":"sota","name":"Round Mountain","coordinates":[152.2398,-30.438]}]}
+{"lat":-30.5,"lon":152,"programs":["sota","wwff"],"count":2,"references":[{"code":"VK2/NT-001","program":"sota","name":"Round Mountain","coordinates":[152.2398,-30.438]},{"code":"VKFF-0091","program":"wwff","name":"Cathedral Rock National Park","coordinates":[152.2334,-30.439]}]}

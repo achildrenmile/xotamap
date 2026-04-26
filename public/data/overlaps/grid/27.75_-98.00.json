@@ -1,1 +1,1 @@
-{"lat":27.75,"lon":-98,"programs":["pota"],"count":1,"references":[{"code":"US-3506","program":"pota","name":"Lipantitlan State Historic Site","coordinates":[-97.8175,27.9647]}]}
+{"lat":27.75,"lon":-98,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3506","program":"pota","name":"Lipantitlan State Historic Site","coordinates":[-97.8175,27.9647]},{"code":"KFF-3506","program":"wwff","name":"Lipantitlan","coordinates":[-97.8175,27.96469]}]}

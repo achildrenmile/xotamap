@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":-113.75,"programs":["pota"],"count":1,"references":[{"code":"CA-3097","program":"pota","name":"Otter-Orloff Lakes Wildland Provincial Park","coordinates":[-113.565,55.3955]}]}
+{"lat":55.25,"lon":-113.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3097","program":"pota","name":"Otter-Orloff Lakes Wildland Provincial Park","coordinates":[-113.565,55.3955]},{"code":"VEFF-2032","program":"wwff","name":"Otter-Orloff Lakes Wildland Provincial Park","coordinates":[-113.54745,55.3666]}]}

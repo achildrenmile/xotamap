@@ -1,1 +1,1 @@
-{"lat":38.5,"lon":29.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0390","program":"pota","name":"İtecik Tulip Nature Reserve","coordinates":[29.2631,38.6268]}]}
+{"lat":38.5,"lon":29.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0390","program":"pota","name":"İtecik Tulip Nature Reserve","coordinates":[29.2631,38.6268]},{"code":"TAFF-0162","program":"wwff","name":"Itecik Lalesi Koruma Alani","coordinates":[29.26278,38.6261]}]}

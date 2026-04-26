@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":23.75,"programs":["pota"],"count":1,"references":[{"code":"PL-0013","program":"pota","name":"Wzgórza Sokólskie Protected Landscape Area","coordinates":[23.7535,53.3145]}]}
+{"lat":53.25,"lon":23.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-0013","program":"pota","name":"Wzgórza Sokólskie Protected Landscape Area","coordinates":[23.7535,53.3145]},{"code":"SPFF-1322","program":"wwff","name":"Protected Landscape Area Wzgorza Sokolskie","coordinates":[23.75351,53.31451]}]}

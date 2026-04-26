@@ -1,1 +1,1 @@
-{"lat":67.25,"lon":22.75,"programs":["pota"],"count":1,"references":[{"code":"SE-0195","program":"pota","name":"Tervavuoma Nature Reserve","coordinates":[22.9193,67.4829]}]}
+{"lat":67.25,"lon":22.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"SE-0195","program":"pota","name":"Tervavuoma Nature Reserve","coordinates":[22.9193,67.4829]},{"code":"SMFF-2909","program":"wwff","name":"Tervavuoma","coordinates":[22.98912,67.44192]}]}

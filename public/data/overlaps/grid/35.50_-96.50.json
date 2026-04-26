@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-96.5,"programs":["pota"],"count":1,"references":[{"code":"US-6349","program":"pota","name":"Deep Fork Wildlife Management Area","coordinates":[-96.3872,35.6682]}]}
+{"lat":35.5,"lon":-96.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6349","program":"pota","name":"Deep Fork Wildlife Management Area","coordinates":[-96.3872,35.6682]},{"code":"KFF-4805","program":"wwff","name":"Deep Fork","coordinates":[-96.3856,35.63556]}]}

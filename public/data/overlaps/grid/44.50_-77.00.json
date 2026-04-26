@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-77,"programs":["pota"],"count":1,"references":[{"code":"CA-1045","program":"pota","name":"Puzzle Lake Provincial Park","coordinates":[-76.9718,44.6047]}]}
+{"lat":44.5,"lon":-77,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1045","program":"pota","name":"Puzzle Lake Provincial Park","coordinates":[-76.9718,44.6047]},{"code":"VEFF-1045","program":"wwff","name":"Puzzle Lake Provincial Park","coordinates":[-76.96465,44.58549]},{"code":"VEFF-3486","program":"wwff","name":"Depot Lakes","coordinates":[-76.77075,44.54212]}]}

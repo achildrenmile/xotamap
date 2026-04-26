@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":-65.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1236","program":"pota","name":"Goose Lake Nature Reserve","coordinates":[-65.2531,47.7101]}]}
+{"lat":47.5,"lon":-65.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1236","program":"pota","name":"Goose Lake Nature Reserve","coordinates":[-65.2531,47.7101]},{"code":"VEFF-1273","program":"wwff","name":"Goose Lake","coordinates":[-65.25313,47.71007]},{"code":"VEFF-4539","program":"wwff","name":"Allardville Natural Area","coordinates":[-65.45896,47.52066]}]}

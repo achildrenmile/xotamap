@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":20.25,"programs":["pota"],"count":1,"references":[{"code":"SE-0031","program":"pota","name":"Aptasvare fjällurskog Nature Reserve","coordinates":[20.4143,67.8339]}]}
+{"lat":67.75,"lon":20.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"SE-0031","program":"pota","name":"Aptasvare fjällurskog Nature Reserve","coordinates":[20.4143,67.8339]},{"code":"SMFF-7765","program":"wwff","name":"Alesjaure-Påkketan","coordinates":[20.46417,67.98028]}]}

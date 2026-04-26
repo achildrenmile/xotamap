@@ -1,1 +1,1 @@
-{"lat":-13,"lon":131,"programs":["pota"],"count":1,"references":[{"code":"AU-3097","program":"pota","name":"Manton Dam Other Conservation Area","coordinates":[131.096,-12.876]}]}
+{"lat":-13,"lon":131,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3097","program":"pota","name":"Manton Dam Other Conservation Area","coordinates":[131.096,-12.876]},{"code":"VKFF-2863","program":"wwff","name":"Manton Dam Recreation Area","coordinates":[131.0961,-12.876]}]}

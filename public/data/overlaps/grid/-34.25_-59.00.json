@@ -1,1 +1,1 @@
-{"lat":-34.25,"lon":-59,"programs":["pota"],"count":1,"references":[{"code":"AR-0030","program":"pota","name":"Ciervo de los Pantanos National Park","coordinates":[-58.911,-34.2257]}]}
+{"lat":-34.25,"lon":-59,"programs":["pota","wwff"],"count":3,"references":[{"code":"AR-0030","program":"pota","name":"Ciervo de los Pantanos National Park","coordinates":[-58.911,-34.2257]},{"code":"LUFF-0027","program":"wwff","name":"Otamendi","coordinates":[-58.88519,-34.22809]},{"code":"LUFF-0151","program":"wwff","name":"Ciervo de Los Pantanos","coordinates":[-58.87724,-34.23451]}]}

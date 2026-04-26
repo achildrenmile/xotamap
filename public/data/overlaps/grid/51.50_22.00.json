@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":22,"programs":["pota"],"count":1,"references":[{"code":"PL-0317","program":"pota","name":"Dolny Wieprz Natura 2000","coordinates":[22.1674,51.5777]}]}
+{"lat":51.5,"lon":22,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-0317","program":"pota","name":"Dolny Wieprz Natura 2000","coordinates":[22.1674,51.5777]},{"code":"SPFF-0514","program":"wwff","name":"Natura 2000 area - Dolny Wieprz","coordinates":[22.16737,51.57766]}]}

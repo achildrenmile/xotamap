@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":-110.5,"programs":["pota"],"count":1,"references":[{"code":"CA-3070","program":"pota","name":"Marguerite River Wildland Provincial Park","coordinates":[-110.266,57.637]}]}
+{"lat":57.5,"lon":-110.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3070","program":"pota","name":"Marguerite River Wildland Provincial Park","coordinates":[-110.266,57.637]},{"code":"VEFF-2024","program":"wwff","name":"Marguerite River Wildland Provincial Park","coordinates":[-110.29542,57.74632]}]}

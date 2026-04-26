@@ -1,1 +1,1 @@
-{"lat":-22.75,"lon":-57.5,"programs":["pota"],"count":1,"references":[{"code":"PY-0009","program":"pota","name":"Serranía de San Luís National Park","coordinates":[-57.4052,-22.6048]}]}
+{"lat":-22.75,"lon":-57.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"PY-0009","program":"pota","name":"Serranía de San Luís National Park","coordinates":[-57.4052,-22.6048]},{"code":"ZPFF-0006","program":"wwff","name":"Serran?a San Luis","coordinates":[-57.37,-22.58]}]}

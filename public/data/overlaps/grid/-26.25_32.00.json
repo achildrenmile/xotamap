@@ -1,1 +1,1 @@
-{"lat":-26.25,"lon":32,"programs":["pota"],"count":1,"references":[{"code":"SZ-0005","program":"pota","name":"Mlawula National Nature Reserve","coordinates":[32.0211,-26.246]}]}
+{"lat":-26.25,"lon":32,"programs":["pota","wwff"],"count":3,"references":[{"code":"SZ-0005","program":"pota","name":"Mlawula National Nature Reserve","coordinates":[32.0211,-26.246]},{"code":"3DAFF-0002","program":"wwff","name":"Mlavula","coordinates":[32.0042,-26.242]},{"code":"3DAFF-0007","program":"wwff","name":"Mantenga Nature Reserve","coordinates":[32.06108,-26.20718]}]}

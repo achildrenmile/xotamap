@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":-92.5,"programs":["pota"],"count":1,"references":[{"code":"US-4814","program":"pota","name":"Nemadji State Forest","coordinates":[-92.4404,46.4054]}]}
+{"lat":46.25,"lon":-92.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4814","program":"pota","name":"Nemadji State Forest","coordinates":[-92.4404,46.4054]},{"code":"KFF-5500","program":"wwff","name":"Nemadji","coordinates":[-92.43974,46.40413]}]}

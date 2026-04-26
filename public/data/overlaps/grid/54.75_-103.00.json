@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":-103,"programs":["pota"],"count":1,"references":[{"code":"CA-0607","program":"pota","name":"Jan Lake Recreation Site","coordinates":[-102.816,54.882]}]}
+{"lat":54.75,"lon":-103,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0607","program":"pota","name":"Jan Lake Recreation Site","coordinates":[-102.816,54.882]},{"code":"VEFF-0607","program":"wwff","name":"Jan Lake Recreation Site","coordinates":[-102.81585,54.88204]}]}

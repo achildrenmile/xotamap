@@ -1,1 +1,1 @@
-{"lat":54,"lon":-111.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1179","program":"pota","name":"Garner Lake Provincial Park","coordinates":[-111.732,54.1802]}]}
+{"lat":54,"lon":-111.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1179","program":"pota","name":"Garner Lake Provincial Park","coordinates":[-111.732,54.1802]},{"code":"VEFF-1179","program":"wwff","name":"Garner Lake Provincial Park","coordinates":[-111.73194,54.18021]},{"code":"VEFF-2044","program":"wwff","name":"Upper Mann Lake Natural Area","coordinates":[-111.51462,54.13687]}]}

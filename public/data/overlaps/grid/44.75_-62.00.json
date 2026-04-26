@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":-62,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0862","program":"wwbota","name":"FRP HJPQ1","coordinates":[-61.9660845,44.98778083]}]}
+{"lat":44.75,"lon":-62,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 277","program":"arlhs","name":"Liscomb Island","coordinates":[-61.97000122,44.97999954]},{"code":"B/CA-0862","program":"wwbota","name":"FRP HJPQ1","coordinates":[-61.9660845,44.98778083]}]}

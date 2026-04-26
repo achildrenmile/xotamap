@@ -1,1 +1,1 @@
-{"lat":14.5,"lon":-17.25,"programs":["pota"],"count":1,"references":[{"code":"SN-0013","program":"pota","name":"Popenguine National Reserve","coordinates":[-17.092,14.5422]}]}
+{"lat":14.5,"lon":-17.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"SN-0013","program":"pota","name":"Popenguine National Reserve","coordinates":[-17.092,14.5422]},{"code":"6WFF-0007","program":"wwff","name":"Réserve Naturelle d'Intérêt Communautaire de la Somone","coordinates":[-17.06863,14.50084]}]}

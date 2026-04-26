@@ -1,1 +1,1 @@
-{"lat":-28.5,"lon":32.25,"programs":["pota"],"count":1,"references":[{"code":"ZA-0063","program":"pota","name":"Cape Vidal Nature Reserve","coordinates":[32.4141,-28.3713]}]}
+{"lat":-28.5,"lon":32.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"ZA-0063","program":"pota","name":"Cape Vidal Nature Reserve","coordinates":[32.4141,-28.3713]},{"code":"ZSFF-0248","program":"wwff","name":"Mapelane Nature Reserve,","coordinates":[32.42269,-28.40622]},{"code":"ZSFF-0260","program":"wwff","name":"Mfabeni Nature Reserve","coordinates":[32.48534,-28.2783]}]}

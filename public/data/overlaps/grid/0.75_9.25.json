@@ -1,1 +1,1 @@
-{"lat":0.75,"lon":9.25,"programs":["pota"],"count":1,"references":[{"code":"GQ-0004","program":"pota","name":"Corisco y Elobeyes Marine Protected Area","coordinates":[9.419,0.974]}]}
+{"lat":0.75,"lon":9.25,"programs":["pota","wlota","wwff"],"count":3,"references":[{"code":"GQ-0004","program":"pota","name":"Corisco y Elobeyes Marine Protected Area","coordinates":[9.419,0.974]},{"code":"WLOTA-2473","program":"wlota","name":"Isla de Corisco","coordinates":[9.31999969,0.93300003]},{"code":"3CFF-0005","program":"wwff","name":"Corisco y Elobeyes","coordinates":[9.32511,0.91318]}]}

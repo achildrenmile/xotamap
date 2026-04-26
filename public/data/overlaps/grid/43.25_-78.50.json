@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":-78.5,"programs":["pota"],"count":1,"references":[{"code":"US-2063","program":"pota","name":"Golden Hill State Park","coordinates":[-78.4882,43.3725]}]}
+{"lat":43.25,"lon":-78.5,"programs":["illw","pota","wwff"],"count":3,"references":[{"code":"US0038","program":"illw","name":"Thirty Mile Point, NY","coordinates":[-78.47000122,43.36999893]},{"code":"US-2063","program":"pota","name":"Golden Hill State Park","coordinates":[-78.4882,43.3725]},{"code":"KFF-2063","program":"wwff","name":"Golden Hill","coordinates":[-78.4882,43.3725]}]}

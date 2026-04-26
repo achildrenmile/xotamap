@@ -1,1 +1,1 @@
-{"lat":32.25,"lon":-95.5,"programs":["pota"],"count":1,"references":[{"code":"US-3059","program":"pota","name":"Tyler State Park","coordinates":[-95.2834,32.4822]}]}
+{"lat":32.25,"lon":-95.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3059","program":"pota","name":"Tyler State Park","coordinates":[-95.2834,32.4822]},{"code":"KFF-3059","program":"wwff","name":"Tyler","coordinates":[-95.28337,32.48224]}]}

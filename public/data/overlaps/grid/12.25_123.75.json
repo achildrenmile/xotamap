@@ -1,1 +1,1 @@
-{"lat":12.25,"lon":123.75,"programs":["sota"],"count":1,"references":[{"code":"DU4/MA-034","program":"sota","name":"DU4/MA-034","coordinates":[123.7624,12.3958]}]}
+{"lat":12.25,"lon":123.75,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"PHI 005","program":"arlhs","name":"Argos Point (Matabao Island)","coordinates":[123.81999969,12.31999969]},{"code":"DU4/MA-034","program":"sota","name":"DU4/MA-034","coordinates":[123.7624,12.3958]},{"code":"WLOTA-4007","program":"wlota","name":"Matabao Island","coordinates":[123.80799866,12.31000042]}]}

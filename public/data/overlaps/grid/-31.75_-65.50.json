@@ -1,1 +1,1 @@
-{"lat":-31.75,"lon":-65.5,"programs":["sota"],"count":1,"references":[{"code":"LUH/SO-004","program":"sota","name":"LUH/SO-004","coordinates":[-65.3358,-31.5356]}]}
+{"lat":-31.75,"lon":-65.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"LUH/SO-004","program":"sota","name":"LUH/SO-004","coordinates":[-65.3358,-31.5356]},{"code":"LUFF-0205","program":"wwff","name":"Área Protegida Sierras de Pocho y Ojo de Agua","coordinates":[-65.32866,-31.58889]}]}

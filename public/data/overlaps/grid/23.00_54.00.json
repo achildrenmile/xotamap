@@ -1,1 +1,1 @@
-{"lat":23,"lon":54,"programs":["pota"],"count":1,"references":[{"code":"AE-0044","program":"pota","name":"Al Delfaowiyyah Protected Area","coordinates":[54.196,23.12]}]}
+{"lat":23,"lon":54,"programs":["pota","wwff"],"count":2,"references":[{"code":"AE-0044","program":"pota","name":"Al Delfaowiyyah Protected Area","coordinates":[54.196,23.12]},{"code":"A6FF-0022","program":"wwff","name":"Dilfawya","coordinates":[54.199,23.109]}]}

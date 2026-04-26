@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-125.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0720","program":"pota","name":"Entiako Provincial Park","coordinates":[-125.692,53.2705]}]}
+{"lat":53.25,"lon":-125.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0720","program":"pota","name":"Entiako Provincial Park","coordinates":[-125.692,53.2705]},{"code":"VEFF-0720","program":"wwff","name":"Entiako Provincial Park","coordinates":[-125.69152,53.2705]}]}

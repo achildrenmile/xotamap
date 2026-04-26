@@ -1,1 +1,1 @@
-{"lat":39.25,"lon":-87.5,"programs":["pota"],"count":1,"references":[{"code":"US-4231","program":"pota","name":"Wabashiki State Fish and Wildlife Area","coordinates":[-87.4428,39.467]}]}
+{"lat":39.25,"lon":-87.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4231","program":"pota","name":"Wabashiki State Fish and Wildlife Area","coordinates":[-87.4428,39.467]},{"code":"KFF-4231","program":"wwff","name":"Wabashiki","coordinates":[-87.45812,39.42867]}]}

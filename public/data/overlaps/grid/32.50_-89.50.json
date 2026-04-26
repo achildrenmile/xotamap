@@ -1,1 +1,1 @@
-{"lat":32.5,"lon":-89.5,"programs":["pota"],"count":1,"references":[{"code":"US-2536","program":"pota","name":"Golden Memorial State Park","coordinates":[-89.4063,32.5728]}]}
+{"lat":32.5,"lon":-89.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2536","program":"pota","name":"Golden Memorial State Park","coordinates":[-89.4063,32.5728]},{"code":"KFF-2536","program":"wwff","name":"Golden Memorial","coordinates":[-89.40631,32.57276]}]}

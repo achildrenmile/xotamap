@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":25.75,"programs":["pota"],"count":1,"references":[{"code":"BY-0007","program":"pota","name":"Выганашчанскае Landscape Reserve","coordinates":[25.7799,52.7]}]}
+{"lat":52.5,"lon":25.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0007","program":"pota","name":"Выганашчанскае Landscape Reserve","coordinates":[25.7799,52.7]},{"code":"EWFF-0036","program":"wwff","name":"Vygonoshchanskoe","coordinates":[25.76706,52.70427]}]}

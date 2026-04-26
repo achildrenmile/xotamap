@@ -1,1 +1,1 @@
-{"lat":-20.75,"lon":28.5,"programs":["pota"],"count":1,"references":[{"code":"ZW-0007","program":"pota","name":"Matobo National Park","coordinates":[28.512,-20.5515]}]}
+{"lat":-20.75,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"ZW-0007","program":"pota","name":"Matobo National Park","coordinates":[28.512,-20.5515]},{"code":"Z2FF-0007","program":"wwff","name":"Matobo (Matopos)","coordinates":[28.58,-20.52]}]}

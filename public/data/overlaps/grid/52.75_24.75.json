@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":24.75,"programs":["pota"],"count":1,"references":[{"code":"BY-0017","program":"pota","name":"Ружанская пушча Biological Reserve","coordinates":[24.942,52.9055]}]}
+{"lat":52.75,"lon":24.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0017","program":"pota","name":"Ружанская пушча Biological Reserve","coordinates":[24.942,52.9055]},{"code":"EWFF-0025","program":"wwff","name":"Ruzhanskaya pushcha","coordinates":[24.94308,52.90932]}]}

@@ -1,1 +1,1 @@
-{"lat":2.25,"lon":103.75,"programs":["sota"],"count":1,"references":[{"code":"9M2/JO-031","program":"sota","name":"Bukit Pulau Besar","coordinates":[103.9864,2.4337]}]}
+{"lat":2.25,"lon":103.75,"programs":["sota","wlota","wwff"],"count":3,"references":[{"code":"9M2/JO-031","program":"sota","name":"Bukit Pulau Besar","coordinates":[103.9864,2.4337]},{"code":"WLOTA-3277","program":"wlota","name":"Pulau Stindan","coordinates":[103.85700226,2.47300005]},{"code":"9MFF-0009","program":"wwff","name":"Islands off Mersing Johor","coordinates":[103.84349,2.48186]}]}

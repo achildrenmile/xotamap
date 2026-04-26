@@ -1,1 +1,1 @@
-{"lat":37,"lon":25.75,"programs":["sota"],"count":1,"references":[{"code":"SV/AG-032","program":"sota","name":"Vardia","coordinates":[25.8225,37.109444]}]}
+{"lat":37,"lon":25.75,"programs":["sota","wlota"],"count":3,"references":[{"code":"SV/AG-032","program":"sota","name":"Vardia","coordinates":[25.8225,37.109444]},{"code":"WLOTA-0503","program":"wlota","name":"Nisides Bouvais","coordinates":[25.9279995,37.23799896]},{"code":"WLOTA-4106","program":"wlota","name":"Nisos Donousa","coordinates":[25.82999992,37.13700104]}]}

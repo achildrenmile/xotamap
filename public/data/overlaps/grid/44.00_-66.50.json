@@ -1,1 +1,1 @@
-{"lat":44,"lon":-66.5,"programs":["pota"],"count":1,"references":[{"code":"CA-6177","program":"pota","name":"Brier Island Lighthouse National Heritage Site","coordinates":[-66.3927,44.249]}]}
+{"lat":44,"lon":-66.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"CA-6177","program":"pota","name":"Brier Island Lighthouse National Heritage Site","coordinates":[-66.3927,44.249]},{"code":"WLOTA-0363","program":"wlota","name":"Brier Island","coordinates":[-66.39199829,44.2480011]}]}

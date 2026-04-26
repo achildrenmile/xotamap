@@ -1,1 +1,1 @@
-{"lat":-35.75,"lon":140,"programs":["pota"],"count":1,"references":[{"code":"AU-0946","program":"pota","name":"Carcuma Conservation Park","coordinates":[140.082,-35.6197]}]}
+{"lat":-35.75,"lon":140,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0946","program":"pota","name":"Carcuma Conservation Park","coordinates":[140.082,-35.6197]},{"code":"VKFF-1017","program":"wwff","name":"Carcuma Conservation Park","coordinates":[140.0818,-35.6197]}]}

@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":144.25,"programs":["pota"],"count":1,"references":[{"code":"AU-1905","program":"pota","name":"Kalyarr National Park","coordinates":[144.323,-34.3031]}]}
+{"lat":-34.5,"lon":144.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1905","program":"pota","name":"Kalyarr National Park","coordinates":[144.323,-34.3031]},{"code":"VKFF-1858","program":"wwff","name":"Kalyarr National Park","coordinates":[144.32339,-34.3031]}]}

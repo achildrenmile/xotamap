@@ -1,1 +1,1 @@
-{"lat":47.25,"lon":-82,"programs":["pota"],"count":1,"references":[{"code":"CA-0154","program":"pota","name":"Biscotasi Lake Provincial Park","coordinates":[-81.9975,47.3525]}]}
+{"lat":47.25,"lon":-82,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0154","program":"pota","name":"Biscotasi Lake Provincial Park","coordinates":[-81.9975,47.3525]},{"code":"VEFF-0154","program":"wwff","name":"Biscotasi Lake Provincial Park","coordinates":[-81.99753,47.35246]}]}

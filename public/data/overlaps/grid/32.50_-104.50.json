@@ -1,1 +1,1 @@
-{"lat":32.5,"lon":-104.5,"programs":["pota"],"count":1,"references":[{"code":"US-2688","program":"pota","name":"Brantley Lake State Park","coordinates":[-104.378,32.5628]}]}
+{"lat":32.5,"lon":-104.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2688","program":"pota","name":"Brantley Lake State Park","coordinates":[-104.378,32.5628]},{"code":"KFF-2688","program":"wwff","name":"Brantley Lake","coordinates":[-104.37814,32.56282]}]}

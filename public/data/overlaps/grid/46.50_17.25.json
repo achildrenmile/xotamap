@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":17.25,"programs":["sota"],"count":1,"references":[{"code":"HA/DD-018","program":"sota","name":"Kastély-domb","coordinates":[17.34972,46.63361]}]}
+{"lat":46.5,"lon":17.25,"programs":["sota","wca"],"count":3,"references":[{"code":"HA/DD-018","program":"sota","name":"Kastély-domb","coordinates":[17.34972,46.63361]},{"code":"HA-00086","program":"wca","name":"Csillagvar","coordinates":[17.30888889,46.67611111]},{"code":"HA-00103","program":"wca","name":"Szocseny Vara","coordinates":[17.32138889,46.53666667]}]}

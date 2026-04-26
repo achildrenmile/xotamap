@@ -1,1 +1,1 @@
-{"lat":-4.25,"lon":-40.75,"programs":["sota"],"count":1,"references":[{"code":"PT7/NO-092","program":"sota","name":"PT7/NO-092","coordinates":[-40.6817,-4.0579]}]}
+{"lat":-4.25,"lon":-40.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"PT7/NO-092","program":"sota","name":"PT7/NO-092","coordinates":[-40.6817,-4.0579]},{"code":"PYFF-0749","program":"wwff","name":"Área Relev Int Ecológico PONTAL DA SERRA DA IBIAPABA - CE","coordinates":[-40.66552,-4.06515]}]}

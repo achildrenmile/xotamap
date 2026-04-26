@@ -1,1 +1,1 @@
-{"lat":39.75,"lon":-7.25,"programs":["sota"],"count":1,"references":[{"code":"CT/BB-027","program":"sota","name":"Murracha","coordinates":[-7.0257,39.9634]}]}
+{"lat":39.75,"lon":-7.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"CT/BB-027","program":"sota","name":"Murracha","coordinates":[-7.0257,39.9634]},{"code":"CTFF-0255","program":"wwff","name":"Mata Nacional do Ribeiro do Freixo, Idanha-a-Nova","coordinates":[-7.18205,39.91502]}]}

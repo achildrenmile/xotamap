@@ -1,1 +1,1 @@
-{"lat":12,"lon":99.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0054","program":"pota","name":"Kui Buri National Park","coordinates":[99.624,12.0522]}]}
+{"lat":12,"lon":99.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0054","program":"pota","name":"Kui Buri National Park","coordinates":[99.624,12.0522]},{"code":"HSFF-0043","program":"wwff","name":"Kui Buri National Park","coordinates":[99.60667,12.02561]}]}

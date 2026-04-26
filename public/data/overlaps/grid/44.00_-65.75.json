@@ -1,1 +1,1 @@
-{"lat":44,"lon":-65.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0944","program":"wwbota","name":"Radio: Middle Ohio-East Kemptville","coordinates":[-65.5867385,44.00543515]}]}
+{"lat":44,"lon":-65.75,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0944","program":"wwbota","name":"Radio: Middle Ohio-East Kemptville","coordinates":[-65.5867385,44.00543515]},{"code":"VEFF-3925","program":"wwff","name":"Tobeatic Wilderness Area","coordinates":[-65.56314,44.24749]}]}

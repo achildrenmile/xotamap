@@ -1,1 +1,1 @@
-{"lat":-32,"lon":132.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0942","program":"pota","name":"Chadinga Conservation Park","coordinates":[132.877,-31.9971]}]}
+{"lat":-32,"lon":132.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0942","program":"pota","name":"Chadinga Conservation Park","coordinates":[132.877,-31.9971]},{"code":"VKFF-1019","program":"wwff","name":"Chadinga Conservation Park","coordinates":[132.85561,-31.9767]}]}

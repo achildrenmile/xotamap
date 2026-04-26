@@ -1,1 +1,1 @@
-{"lat":43,"lon":-84.75,"programs":["pota"],"count":1,"references":[{"code":"US-6730","program":"pota","name":"Maple River State Game Land","coordinates":[-84.5361,43.1596]}]}
+{"lat":43,"lon":-84.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6730","program":"pota","name":"Maple River State Game Land","coordinates":[-84.5361,43.1596]},{"code":"KFF-5065","program":"wwff","name":"Maple River","coordinates":[-84.66364,43.12316]}]}

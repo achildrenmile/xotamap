@@ -1,1 +1,1 @@
-{"lat":-33.5,"lon":135.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0990","program":"pota","name":"Barwell Conservation Park","coordinates":[135.561,-33.4804]}]}
+{"lat":-33.5,"lon":135.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0990","program":"pota","name":"Barwell Conservation Park","coordinates":[135.561,-33.4804]},{"code":"VKFF-1000","program":"wwff","name":"Barwell Conservation Park","coordinates":[135.56129,-33.4804]}]}

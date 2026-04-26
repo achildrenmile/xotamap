@@ -1,1 +1,1 @@
-{"lat":60,"lon":-133.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0841","program":"pota","name":"Agay Mene Territorial Park","coordinates":[-133.679,60.1928]}]}
+{"lat":60,"lon":-133.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0841","program":"pota","name":"Agay Mene Territorial Park","coordinates":[-133.679,60.1928]},{"code":"VEFF-0841","program":"wwff","name":"Agay Mene","coordinates":[-133.6786,60.1928]}]}

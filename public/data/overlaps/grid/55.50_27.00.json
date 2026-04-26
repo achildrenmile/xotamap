@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"BY-0002","program":"pota","name":"Браслаўскiя азёры National Park","coordinates":[27.0539,55.5961]}]}
+{"lat":55.5,"lon":27,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0002","program":"pota","name":"Браслаўскiя азёры National Park","coordinates":[27.0539,55.5961]},{"code":"EWFF-0006","program":"wwff","name":"Braslavskiye ozera","coordinates":[27.04834,55.61792]}]}

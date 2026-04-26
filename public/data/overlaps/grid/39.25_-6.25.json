@@ -1,1 +1,1 @@
-{"lat":39.25,"lon":-6.25,"programs":["pota"],"count":1,"references":[{"code":"ES-1522","program":"pota","name":"Charca de la Camilla Wetland Reserve","coordinates":[-6.2365,39.3837]}]}
+{"lat":39.25,"lon":-6.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-1522","program":"pota","name":"Charca de la Camilla Wetland Reserve","coordinates":[-6.2365,39.3837]},{"code":"EAFF-0701","program":"wwff","name":"Zona de Interés Regional Llanos de Cáceres y Sierra de Fuentes","coordinates":[-6.19552,39.44552]}]}

@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":10.25,"programs":["pota"],"count":1,"references":[{"code":"DE-0504","program":"pota","name":"Okeraue (Müden bis Braunschweig) Nature Recreation Area","coordinates":[10.3893,52.4191]}]}
+{"lat":52.25,"lon":10.25,"programs":["pota","tota"],"count":2,"references":[{"code":"DE-0504","program":"pota","name":"Okeraue (Müden bis Braunschweig) Nature Recreation Area","coordinates":[10.3893,52.4191]},{"code":"DLR-1819","program":"tota","name":"Bismarckturm Oberg","coordinates":[10.25788,52.26402]}]}

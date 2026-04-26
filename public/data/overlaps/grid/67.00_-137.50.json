@@ -1,1 +1,1 @@
-{"lat":67,"lon":-137.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4637","program":"pota","name":"Ch'ihilii Chik (Whitefish Wetland) Habitat Protection Area","coordinates":[-137.399,67.1483]}]}
+{"lat":67,"lon":-137.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4637","program":"pota","name":"Ch'ihilii Chik (Whitefish Wetland) Habitat Protection Area","coordinates":[-137.399,67.1483]},{"code":"VEFF-2816","program":"wwff","name":"Whitefish Wetland (Ch'ihilii Chik)","coordinates":[-137.39864,67.14828]}]}

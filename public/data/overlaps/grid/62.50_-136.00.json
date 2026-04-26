@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":-136,"programs":["pota"],"count":1,"references":[{"code":"CA-4629","program":"pota","name":"Ta'Tla Mun Special Management Area Habitat Protection Area","coordinates":[-135.971,62.605]}]}
+{"lat":62.5,"lon":-136,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4629","program":"pota","name":"Ta'Tla Mun Special Management Area Habitat Protection Area","coordinates":[-135.971,62.605]},{"code":"VEFF-2814","program":"wwff","name":"Ta'tla Mun","coordinates":[-135.97128,62.60496]}]}

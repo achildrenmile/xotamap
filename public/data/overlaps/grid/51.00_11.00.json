@@ -1,1 +1,1 @@
-{"lat":51,"lon":11,"programs":["pota"],"count":1,"references":[{"code":"DE-0808","program":"pota","name":"Erfurter Seen Recreation Park","coordinates":[11.051,51.0336]}]}
+{"lat":51,"lon":11,"programs":["pota","wca"],"count":2,"references":[{"code":"DE-0808","program":"pota","name":"Erfurter Seen Recreation Park","coordinates":[11.051,51.0336]},{"code":"DL-01305","program":"wca","name":"Runneburg","coordinates":[11.06315481,51.20035424]}]}

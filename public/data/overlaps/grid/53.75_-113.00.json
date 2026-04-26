@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-113,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0036","program":"wwbota","name":"FRP HJ1","coordinates":[-112.7795395,53.76019793]}]}
+{"lat":53.75,"lon":-113,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0036","program":"wwbota","name":"FRP HJ1","coordinates":[-112.7795395,53.76019793]},{"code":"VEFF-5170","program":"wwff","name":"Packer Conservation Site","coordinates":[-112.9186,53.85241]}]}

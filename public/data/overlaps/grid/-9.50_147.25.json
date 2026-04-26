@@ -1,1 +1,1 @@
-{"lat":-9.5,"lon":147.25,"programs":["pota"],"count":1,"references":[{"code":"PG-0002","program":"pota","name":"Varirata National Park","coordinates":[147.35,-9.43]}]}
+{"lat":-9.5,"lon":147.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"PG-0002","program":"pota","name":"Varirata National Park","coordinates":[147.35,-9.43]},{"code":"PG-0010","program":"pota","name":"Varirata National Park","coordinates":[147.36,-9.463]},{"code":"P2FF-0003","program":"wwff","name":"Varirata","coordinates":[147.37,-9.47]}]}

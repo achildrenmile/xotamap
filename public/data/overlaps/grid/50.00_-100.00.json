@@ -1,1 +1,1 @@
-{"lat":50,"lon":-100,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0533","program":"wwbota","name":"FRP FF3","coordinates":[-99.838649,50.2470383]}]}
+{"lat":50,"lon":-100,"programs":["wwbota","wwff"],"count":3,"references":[{"code":"B/CA-0533","program":"wwbota","name":"FRP FF3","coordinates":[-99.838649,50.2470383]},{"code":"VEFF-4974","program":"wwff","name":"Farley - MHHC","coordinates":[-99.84941,50.05996]},{"code":"VEFF-4979","program":"wwff","name":"Graham - MHHC","coordinates":[-99.78071,50.19991]}]}

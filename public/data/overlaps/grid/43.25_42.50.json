@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":42.5,"programs":["pota"],"count":1,"references":[{"code":"RU-0033","program":"pota","name":"Prielbrusye National Park","coordinates":[42.6404,43.2522]}]}
+{"lat":43.25,"lon":42.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0033","program":"pota","name":"Prielbrusye National Park","coordinates":[42.6404,43.2522]},{"code":"RFF-0138","program":"wwff","name":"Prielbrussky","coordinates":[42.61597,43.32817]}]}

@@ -1,1 +1,1 @@
-{"lat":53.5,"lon":-113,"programs":["pota"],"count":1,"references":[{"code":"CA-0020","program":"pota","name":"Elk Island National Park","coordinates":[-112.869,53.6206]}]}
+{"lat":53.5,"lon":-113,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0020","program":"pota","name":"Elk Island National Park","coordinates":[-112.869,53.6206]},{"code":"VEFF-0020","program":"wwff","name":"Elk Island National Park","coordinates":[-112.86901,53.62071]}]}

@@ -1,1 +1,1 @@
-{"lat":3.75,"lon":-81.75,"programs":["iota"],"count":1,"references":[{"code":"SA-007","program":"iota","name":"MALPELO ISLAND","coordinates":[-81.584999085,3.99000013]}]}
+{"lat":3.75,"lon":-81.75,"programs":["iota","wlota"],"count":2,"references":[{"code":"SA-007","program":"iota","name":"MALPELO ISLAND","coordinates":[-81.584999085,3.99000013]},{"code":"WLOTA-0633","program":"wlota","name":"Isla Malpelo","coordinates":[-81.59300232,3.9849999]}]}

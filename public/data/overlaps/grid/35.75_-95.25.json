@@ -1,1 +1,1 @@
-{"lat":35.75,"lon":-95.25,"programs":["pota"],"count":1,"references":[{"code":"US-6344","program":"pota","name":"Cherokee Wildlife Management Area","coordinates":[-95.077,35.7706]}]}
+{"lat":35.75,"lon":-95.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-6344","program":"pota","name":"Cherokee Wildlife Management Area","coordinates":[-95.077,35.7706]},{"code":"KFF-4800","program":"wwff","name":"Cherokee","coordinates":[-95.07704,35.77056]},{"code":"KFF-4807","program":"wwff","name":"Fort Gibson","coordinates":[-95.19975,35.89185]}]}

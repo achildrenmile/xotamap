@@ -1,1 +1,1 @@
-{"lat":55,"lon":-120.75,"programs":["pota"],"count":1,"references":[{"code":"CA-3203","program":"pota","name":"Bearhole Lake Provincial Park","coordinates":[-120.55,55.0472]}]}
+{"lat":55,"lon":-120.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3203","program":"pota","name":"Bearhole Lake Provincial Park","coordinates":[-120.55,55.0472]},{"code":"VEFF-2056","program":"wwff","name":"Bearhole Lake Provincial Park","coordinates":[-120.5196,55.0445]}]}

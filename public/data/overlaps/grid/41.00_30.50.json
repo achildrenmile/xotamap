@@ -1,1 +1,1 @@
-{"lat":41,"lon":30.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0440","program":"pota","name":"Acarlar Longozu Protected Area","coordinates":[30.5201,41.1189]}]}
+{"lat":41,"lon":30.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"TR-0440","program":"pota","name":"Acarlar Longozu Protected Area","coordinates":[30.5201,41.1189]},{"code":"TAFF-0057","program":"wwff","name":"Acarlar Golu Longozu","coordinates":[30.54406,41.11871]},{"code":"TAFF-0205","program":"wwff","name":"Buyuk Akgol","coordinates":[30.56406,41.03585]}]}

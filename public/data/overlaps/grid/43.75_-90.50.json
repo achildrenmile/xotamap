@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":-90.5,"programs":["pota"],"count":1,"references":[{"code":"US-1463","program":"pota","name":"Mill Bluff State Park","coordinates":[-90.3189,43.9564]}]}
+{"lat":43.75,"lon":-90.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1463","program":"pota","name":"Mill Bluff State Park","coordinates":[-90.3189,43.9564]},{"code":"KFF-1463","program":"wwff","name":"Mill Bluff","coordinates":[-90.31888,43.95638]}]}

@@ -1,1 +1,1 @@
-{"lat":-9.5,"lon":159.75,"programs":["pota"],"count":1,"references":[{"code":"SB-0020","program":"pota","name":"Honiara Marine Conservation Area","coordinates":[159.819,-9.389]}]}
+{"lat":-9.5,"lon":159.75,"programs":["pota","wlota"],"count":2,"references":[{"code":"SB-0020","program":"pota","name":"Honiara Marine Conservation Area","coordinates":[159.819,-9.389]},{"code":"WLOTA-0086","program":"wlota","name":"Guadalcanal Island","coordinates":[159.95799255,-9.42500019]}]}

@@ -1,1 +1,1 @@
-{"lat":8.5,"lon":-80.75,"programs":["pota"],"count":1,"references":[{"code":"PA-0015","program":"pota","name":"Omar Torrijos National Park","coordinates":[-80.6447,8.68566]}]}
+{"lat":8.5,"lon":-80.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"PA-0015","program":"pota","name":"Omar Torrijos National Park","coordinates":[-80.6447,8.68566]},{"code":"HPFF-0006","program":"wwff","name":"Generalde Divisi?n Omar Torrijos Herrera","coordinates":[-80.67,8.7]}]}

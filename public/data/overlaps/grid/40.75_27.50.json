@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":27.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0314","program":"pota","name":"Atatürk Forest Recreation Site","coordinates":[27.5874,40.9897]}]}
+{"lat":40.75,"lon":27.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0314","program":"pota","name":"Atatürk Forest Recreation Site","coordinates":[27.5874,40.9897]},{"code":"TAFF-0197","program":"wwff","name":"Ataturk Orman Parki","coordinates":[27.58762,40.98983]}]}

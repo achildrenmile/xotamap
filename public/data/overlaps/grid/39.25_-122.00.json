@@ -1,1 +1,1 @@
-{"lat":39.25,"lon":-122,"programs":["pota"],"count":1,"references":[{"code":"US-10417","program":"pota","name":"Gray Lodge State Fish and Wildlife Area","coordinates":[-121.838,39.3234]}]}
+{"lat":39.25,"lon":-122,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-10417","program":"pota","name":"Gray Lodge State Fish and Wildlife Area","coordinates":[-121.838,39.3234]},{"code":"KFF-0203","program":"wwff","name":"North Central Valley Wildlife Management Area","coordinates":[-121.9,39.4]}]}

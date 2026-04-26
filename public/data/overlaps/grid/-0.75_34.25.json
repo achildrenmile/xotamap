@@ -1,1 +1,1 @@
-{"lat":-0.75,"lon":34.25,"programs":["pota"],"count":1,"references":[{"code":"KE-0021","program":"pota","name":"Ruma National Park","coordinates":[34.2786,-0.651038]}]}
+{"lat":-0.75,"lon":34.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"KE-0021","program":"pota","name":"Ruma National Park","coordinates":[34.2786,-0.651038]},{"code":"5ZFF-0013","program":"wwff","name":"Ruma","coordinates":[34.3,-0.65]}]}

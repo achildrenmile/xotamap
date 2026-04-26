@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":-106.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2573","program":"pota","name":"Besnard Lake Recreation Site","coordinates":[-106.069,55.4094]}]}
+{"lat":55.25,"lon":-106.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2573","program":"pota","name":"Besnard Lake Recreation Site","coordinates":[-106.069,55.4094]},{"code":"VEFF-2624","program":"wwff","name":"Besnard Lake","coordinates":[-106.06319,55.40799]}]}

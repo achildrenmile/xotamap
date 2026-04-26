@@ -1,1 +1,1 @@
-{"lat":47.25,"lon":35,"programs":["pota"],"count":1,"references":[{"code":"UA-0016","program":"pota","name":"Welykyj Luh National Park","coordinates":[35.0726,47.4281]}]}
+{"lat":47.25,"lon":35,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0016","program":"pota","name":"Welykyj Luh National Park","coordinates":[35.0726,47.4281]},{"code":"URFF-0031","program":"wwff","name":"Velykyi Luh National Park","coordinates":[35.2068,47.44315]}]}

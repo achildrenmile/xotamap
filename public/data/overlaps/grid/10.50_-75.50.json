@@ -1,1 +1,1 @@
-{"lat":10.5,"lon":-75.5,"programs":["iota"],"count":1,"references":[{"code":"SA-040","program":"iota","name":"BOLIVAR / ATLANTICO DIVISION group","coordinates":[-75.33000183,10.625]}]}
+{"lat":10.5,"lon":-75.5,"programs":["arlhs","iota"],"count":2,"references":[{"code":"COL 036","program":"arlhs","name":"Punta Canoas","coordinates":[-75.5,10.56999969]},{"code":"SA-040","program":"iota","name":"BOLIVAR / ATLANTICO DIVISION group","coordinates":[-75.33000183,10.625]}]}

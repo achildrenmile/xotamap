@@ -1,1 +1,1 @@
-{"lat":50,"lon":-60.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1424","program":"wwbota","name":"FRP QF4","coordinates":[-60.0647121,50.18014433]}]}
+{"lat":50,"lon":-60.25,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-1424","program":"wwbota","name":"FRP QF4","coordinates":[-60.0647121,50.18014433]},{"code":"VEFF-2361","program":"wwff","name":"Baie Des Loups","coordinates":[-60.24826,50.19705]}]}

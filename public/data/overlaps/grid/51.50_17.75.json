@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":17.75,"programs":["pota"],"count":1,"references":[{"code":"PL-1535","program":"pota","name":"Wydymacz Nature Reserve","coordinates":[17.8485,51.5212]}]}
+{"lat":51.5,"lon":17.75,"programs":["pota","tota","wwff"],"count":3,"references":[{"code":"PL-1535","program":"pota","name":"Wydymacz Nature Reserve","coordinates":[17.8485,51.5212]},{"code":"SPR-1531","program":"tota","name":"Trzcieliny","coordinates":[17.790788,51.574099]},{"code":"SPFF-1192","program":"wwff","name":"Nature Reserve Wydymacz","coordinates":[17.84852,51.52121]}]}

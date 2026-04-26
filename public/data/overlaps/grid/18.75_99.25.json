@@ -1,1 +1,1 @@
-{"lat":18.75,"lon":99.25,"programs":["pota"],"count":1,"references":[{"code":"TH-0005","program":"pota","name":"Chae Son National Park","coordinates":[99.4708,18.8369]}]}
+{"lat":18.75,"lon":99.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0005","program":"pota","name":"Chae Son National Park","coordinates":[99.4708,18.8369]},{"code":"HSFF-0005","program":"wwff","name":"Chae Son National Park","coordinates":[99.47041,18.83568]}]}

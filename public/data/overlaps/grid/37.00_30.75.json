@@ -1,1 +1,1 @@
-{"lat":37,"lon":30.75,"programs":["pota"],"count":1,"references":[{"code":"TR-0024","program":"pota","name":"Kurşunlu Şelalesi Nature Park","coordinates":[30.8208,37.0026]}]}
+{"lat":37,"lon":30.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0024","program":"pota","name":"Kurşunlu Şelalesi Nature Park","coordinates":[30.8208,37.0026]},{"code":"TAFF-0058","program":"wwff","name":"Kursunlu Selalesi Tabiat Parki","coordinates":[30.82177,37.00295]}]}

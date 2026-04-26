@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":-124.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0733","program":"pota","name":"Northern Rocky Mountains Provincial Park","coordinates":[-124.203,57.9651]}]}
+{"lat":57.75,"lon":-124.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0733","program":"pota","name":"Northern Rocky Mountains Provincial Park","coordinates":[-124.203,57.9651]},{"code":"VEFF-0733","program":"wwff","name":"Northern Rocky Mountains Provincial Park","coordinates":[-124.20276,57.96506]}]}

@@ -1,1 +1,1 @@
-{"lat":38.25,"lon":29.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0203","program":"pota","name":"Ulubey Kanyonu Nature Park","coordinates":[29.3079,38.416]}]}
+{"lat":38.25,"lon":29.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0203","program":"pota","name":"Ulubey Kanyonu Nature Park","coordinates":[29.3079,38.416]},{"code":"TAFF-0161","program":"wwff","name":"Ulubey Kanyonu Tabiat Parki","coordinates":[29.30368,38.41844]}]}

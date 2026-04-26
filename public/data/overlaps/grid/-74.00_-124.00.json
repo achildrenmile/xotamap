@@ -1,1 +1,1 @@
-{"lat":-74,"lon":-124,"programs":["pota"],"count":1,"references":[{"code":"AQ-0008","program":"pota","name":"Dome Charlie Antarctic Station","coordinates":[-124,-74]}]}
+{"lat":-74,"lon":-124,"programs":["pota","wwff"],"count":2,"references":[{"code":"AQ-0008","program":"pota","name":"Dome Charlie Antarctic Station","coordinates":[-124,-74]},{"code":"KFF-0080","program":"wwff","name":"Dome Charlie","coordinates":[-124,-74]}]}

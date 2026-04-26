@@ -1,1 +1,1 @@
-{"lat":40.5,"lon":43.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0397","program":"pota","name":"Kuyucuk Lake Ramsar Site","coordinates":[43.4539,40.7402]}]}
+{"lat":40.5,"lon":43.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0397","program":"pota","name":"Kuyucuk Lake Ramsar Site","coordinates":[43.4539,40.7402]},{"code":"TAFF-0095","program":"wwff","name":"Kuyucuk Golu","coordinates":[43.45962,40.7471]}]}

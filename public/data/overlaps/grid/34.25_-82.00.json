@@ -1,1 +1,1 @@
-{"lat":34.25,"lon":-82,"programs":["pota"],"count":1,"references":[{"code":"US-9219","program":"pota","name":"Belfast Wildlife Management Area","coordinates":[-81.8475,34.3206]}]}
+{"lat":34.25,"lon":-82,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-9219","program":"pota","name":"Belfast Wildlife Management Area","coordinates":[-81.8475,34.3206]},{"code":"KFF-5595","program":"wwff","name":"Belfast","coordinates":[-81.859,34.321]}]}

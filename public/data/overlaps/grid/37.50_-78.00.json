@@ -1,1 +1,1 @@
-{"lat":37.5,"lon":-78,"programs":["pota"],"count":1,"references":[{"code":"US-1313","program":"pota","name":"Powhatan State Park","coordinates":[-77.9259,37.6782]}]}
+{"lat":37.5,"lon":-78,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-1313","program":"pota","name":"Powhatan State Park","coordinates":[-77.9259,37.6782]},{"code":"KFF-1313","program":"wwff","name":"Powhatan","coordinates":[-77.92591,37.6782]},{"code":"KFF-3996","program":"wwff","name":"Powhatan","coordinates":[-77.997,37.5442]}]}

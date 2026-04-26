@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":-69,"programs":["sota"],"count":1,"references":[{"code":"VE2/BL-027","program":"sota","name":"VE2/BL-027","coordinates":[-68.76635,47.87663]}]}
+{"lat":47.75,"lon":-69,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE2/BL-027","program":"sota","name":"VE2/BL-027","coordinates":[-68.76635,47.87663]},{"code":"VEFF-0505","program":"wwff","name":"Lac-Témiscouata National Park","coordinates":[-68.80463,47.75191]}]}

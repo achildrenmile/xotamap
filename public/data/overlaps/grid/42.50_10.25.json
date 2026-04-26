@@ -1,1 +1,1 @@
-{"lat":42.5,"lon":10.25,"programs":["sota"],"count":1,"references":[{"code":"I/TO-194","program":"sota","name":"Monte Calamita","coordinates":[10.3965,42.7308]}]}
+{"lat":42.5,"lon":10.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"I/TO-194","program":"sota","name":"Monte Calamita","coordinates":[10.3965,42.7308]},{"code":"IFF-1333","program":"wwff","name":"Natura 2000 - Elba Orientale","coordinates":[10.3983,42.7237]}]}

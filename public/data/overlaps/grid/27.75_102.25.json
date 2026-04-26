@@ -1,1 +1,1 @@
-{"lat":27.75,"lon":102.25,"programs":["pota"],"count":1,"references":[{"code":"CN-1322","program":"pota","name":"四川邛海国家湿地公园 Wetland Reserve","coordinates":[102.302,27.8201]}]}
+{"lat":27.75,"lon":102.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1322","program":"pota","name":"四川邛海国家湿地公园 Wetland Reserve","coordinates":[102.302,27.8201]},{"code":"BYFF-0109","program":"wwff","name":"Qionghai-Luojishan","coordinates":[102.25912,27.8559]}]}

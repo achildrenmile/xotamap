@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":28.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0286","program":"pota","name":"Kuokkalampi Natura 2000","coordinates":[28.997,61.2522]}]}
+{"lat":61.25,"lon":28.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0286","program":"pota","name":"Kuokkalampi Natura 2000","coordinates":[28.997,61.2522]},{"code":"OHFF-0568","program":"wwff","name":"Rautionhovi","coordinates":[28.93695,61.32149]}]}

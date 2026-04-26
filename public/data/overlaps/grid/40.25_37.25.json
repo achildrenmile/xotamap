@@ -1,1 +1,1 @@
-{"lat":40.25,"lon":37.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0195","program":"pota","name":"Zinav Gölü Nature Park","coordinates":[37.2748,40.4456]}]}
+{"lat":40.25,"lon":37.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0195","program":"pota","name":"Zinav Gölü Nature Park","coordinates":[37.2748,40.4456]},{"code":"TAFF-0167","program":"wwff","name":"Zinay Golu Tabiat Parki","coordinates":[37.27484,40.44545]}]}

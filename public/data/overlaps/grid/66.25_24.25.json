@@ -1,1 +1,1 @@
-{"lat":66.25,"lon":24.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0095","program":"pota","name":"Ahvenlampi-Lehdonjärvi Natura 2000","coordinates":[24.2987,66.3601]}]}
+{"lat":66.25,"lon":24.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0095","program":"pota","name":"Ahvenlampi-Lehdonjärvi Natura 2000","coordinates":[24.2987,66.3601]},{"code":"OHFF-0902","program":"wwff","name":"Ahvenjärvi-Lehdonjärvi","coordinates":[24.26048,66.3622]}]}

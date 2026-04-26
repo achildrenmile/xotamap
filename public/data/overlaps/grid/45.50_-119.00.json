@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":-119,"programs":["pota"],"count":1,"references":[{"code":"US-0503","program":"pota","name":"McKay Creek National Wildlife Refuge","coordinates":[-118.798,45.5968]}]}
+{"lat":45.5,"lon":-119,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0503","program":"pota","name":"McKay Creek National Wildlife Refuge","coordinates":[-118.798,45.5968]},{"code":"KFF-0503","program":"wwff","name":"McKay Creek","coordinates":[-118.78677,45.57772]}]}

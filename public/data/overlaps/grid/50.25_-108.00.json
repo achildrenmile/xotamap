@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":-108,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1671","program":"wwbota","name":"FRP NF3","coordinates":[-107.801842,50.295277]}]}
+{"lat":50.25,"lon":-108,"programs":["wwbota","wwff"],"count":3,"references":[{"code":"B/CA-1671","program":"wwbota","name":"FRP NF3","coordinates":[-107.801842,50.295277]},{"code":"VEFF-2631","program":"wwff","name":"Gray Archaeological Site","coordinates":[-107.87604,50.34392]},{"code":"VEFF-4193","program":"wwff","name":"Chinook Parkway","coordinates":[-107.78892,50.27837]}]}

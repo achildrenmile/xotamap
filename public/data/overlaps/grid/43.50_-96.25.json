@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":-96.25,"programs":["pota"],"count":1,"references":[{"code":"US-2471","program":"pota","name":"Blue Mounds State Park","coordinates":[-96.1849,43.7075]}]}
+{"lat":43.5,"lon":-96.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2471","program":"pota","name":"Blue Mounds State Park","coordinates":[-96.1849,43.7075]},{"code":"KFF-2471","program":"wwff","name":"Blue Mounds","coordinates":[-96.18491,43.70752]}]}

@@ -1,1 +1,1 @@
-{"lat":6,"lon":120.25,"programs":["iota"],"count":1,"references":[{"code":"OC-188","program":"iota","name":"PANGUTARAN GROUP","coordinates":[120.33000183,6.02999997]}]}
+{"lat":6,"lon":120.25,"programs":["arlhs","iota","wlota"],"count":3,"references":[{"code":"PHI 039","program":"arlhs","name":"North Ubian Island","coordinates":[120.44999695,6.17000008]},{"code":"OC-188","program":"iota","name":"PANGUTARAN GROUP","coordinates":[120.33000183,6.02999997]},{"code":"WLOTA-2765","program":"wlota","name":"North Ubian Island","coordinates":[120.45800018,6.17299986]}]}

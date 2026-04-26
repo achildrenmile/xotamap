@@ -1,1 +1,1 @@
-{"lat":-33.75,"lon":-80,"programs":["iota"],"count":1,"references":[{"code":"SA-005","program":"iota","name":"JUAN FERNANDEZ ARCHIPELAGO","coordinates":[-79.834999085,-33.66999817]}]}
+{"lat":-33.75,"lon":-80,"programs":["iota","wwff"],"count":2,"references":[{"code":"SA-005","program":"iota","name":"JUAN FERNANDEZ ARCHIPELAGO","coordinates":[-79.834999085,-33.66999817]},{"code":"CEFF-0003","program":"wwff","name":"Archipi?lago de Juan Fern?ndez","coordinates":[-79.78,-33.67]}]}

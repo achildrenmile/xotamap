@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":37.75,"programs":["pota"],"count":1,"references":[{"code":"UA-0025","program":"pota","name":"Dvorichanskyi National Park","coordinates":[37.7945,49.9545]}]}
+{"lat":49.75,"lon":37.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0025","program":"pota","name":"Dvorichanskyi National Park","coordinates":[37.7945,49.9545]},{"code":"URFF-0088","program":"wwff","name":"Dvorichanskyi National Park","coordinates":[37.83245,49.96723]}]}

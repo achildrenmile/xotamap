@@ -1,1 +1,1 @@
-{"lat":15,"lon":98.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0031","program":"pota","name":"Khao Laem National Park","coordinates":[98.5979,15.0246]}]}
+{"lat":15,"lon":98.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0031","program":"pota","name":"Khao Laem National Park","coordinates":[98.5979,15.0246]},{"code":"HSFF-0025","program":"wwff","name":"Khao Laem National Park","coordinates":[98.59751,15.02477]}]}

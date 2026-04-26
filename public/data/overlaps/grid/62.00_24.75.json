@@ -1,1 +1,1 @@
-{"lat":62,"lon":24.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0348","program":"pota","name":"Huhkojärvi Natura 2000","coordinates":[24.8376,62.1233]}]}
+{"lat":62,"lon":24.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0348","program":"pota","name":"Huhkojärvi Natura 2000","coordinates":[24.8376,62.1233]},{"code":"OHFF-0122","program":"wwff","name":"Matolammin alue","coordinates":[24.84638,62.04607]}]}

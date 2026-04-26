@@ -1,1 +1,1 @@
-{"lat":1.5,"lon":109.75,"programs":["pota"],"count":1,"references":[{"code":"MY-0030","program":"pota","name":"Gunung Gading National Park","coordinates":[109.847,1.6907]}]}
+{"lat":1.5,"lon":109.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"MY-0030","program":"pota","name":"Gunung Gading National Park","coordinates":[109.847,1.6907]},{"code":"9MFF-0006","program":"wwff","name":"Gunung Gading","coordinates":[109.8,1.7]}]}

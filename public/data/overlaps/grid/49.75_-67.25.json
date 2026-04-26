@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":-67.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1525","program":"wwbota","name":"FRP Ile du Grand Caoui","coordinates":[-67.0070553,49.82699603]}]}
+{"lat":49.75,"lon":-67.25,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 240","program":"arlhs","name":"Cowee Island/ÃŽle du Grand Caouis","coordinates":[-67.09999847,49.83000183]},{"code":"B/CA-1525","program":"wwbota","name":"FRP Ile du Grand Caoui","coordinates":[-67.0070553,49.82699603]}]}

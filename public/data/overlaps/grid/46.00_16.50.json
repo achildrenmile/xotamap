@@ -1,1 +1,1 @@
-{"lat":46,"lon":16.5,"programs":["pota"],"count":1,"references":[{"code":"HR-0079","program":"pota","name":"Ris Natura 2000","coordinates":[16.6608,46.1746]}]}
+{"lat":46,"lon":16.5,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"HR-0079","program":"pota","name":"Ris Natura 2000","coordinates":[16.6608,46.1746]},{"code":"9A-00057","program":"wca","name":"INKEY CASTLE","coordinates":[16.71017278,46.19353183]},{"code":"9AFF-0050","program":"wwff","name":"Duga?ko brdo","coordinates":[16.70454,46.1633]}]}

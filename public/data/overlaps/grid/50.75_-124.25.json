@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":-124.25,"programs":["pota"],"count":1,"references":[{"code":"CA-1213","program":"pota","name":"Bishop River Provincial Park","coordinates":[-124.034,50.9066]}]}
+{"lat":50.75,"lon":-124.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1213","program":"pota","name":"Bishop River Provincial Park","coordinates":[-124.034,50.9066]},{"code":"VEFF-1213","program":"wwff","name":"Bishop River Provincial Park","coordinates":[-124.03437,50.9066]}]}

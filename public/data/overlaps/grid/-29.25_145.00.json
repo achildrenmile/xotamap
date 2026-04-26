@@ -1,1 +1,1 @@
-{"lat":-29.25,"lon":145,"programs":["pota"],"count":1,"references":[{"code":"AU-2302","program":"pota","name":"Naree Station Conservation Reserve","coordinates":[145.074,-29.2088]}]}
+{"lat":-29.25,"lon":145,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2302","program":"pota","name":"Naree Station Conservation Reserve","coordinates":[145.074,-29.2088]},{"code":"VKFF-3037","program":"wwff","name":"Naree Station Conservation Reserve","coordinates":[145.07359,-29.2088]}]}

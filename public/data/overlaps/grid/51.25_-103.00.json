@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-103,"programs":["pota"],"count":1,"references":[{"code":"CA-1161","program":"pota","name":"Whitesand Regional Park","coordinates":[-102.895,51.4922]}]}
+{"lat":51.25,"lon":-103,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1161","program":"pota","name":"Whitesand Regional Park","coordinates":[-102.895,51.4922]},{"code":"VEFF-1161","program":"wwff","name":"Whitesand Regional Park","coordinates":[-102.89456,51.49222]}]}

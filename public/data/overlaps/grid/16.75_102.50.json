@@ -1,1 +1,1 @@
-{"lat":16.75,"lon":102.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0106","program":"pota","name":"Phu Kao Phu Phan Kham National Park","coordinates":[102.505,16.9324]}]}
+{"lat":16.75,"lon":102.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0106","program":"pota","name":"Phu Kao Phu Phan Kham National Park","coordinates":[102.505,16.9324]},{"code":"HSFF-0073","program":"wwff","name":"Phu Kao - Phu Phan Kham National Park","coordinates":[102.6109,16.81188]}]}

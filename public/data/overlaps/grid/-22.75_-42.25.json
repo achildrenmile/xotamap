@@ -1,1 +1,1 @@
-{"lat":-22.75,"lon":-42.25,"programs":["sota"],"count":1,"references":[{"code":"PY1/SJ-012","program":"sota","name":"São João","coordinates":[-42.0362,-22.5363]}]}
+{"lat":-22.75,"lon":-42.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"PY1/SJ-012","program":"sota","name":"São João","coordinates":[-42.0362,-22.5363]},{"code":"PYFF-0233","program":"wwff","name":"Reserva Extrativista Marinha do ARRAIAL DO CABO - RJ","coordinates":[-42.03071,-22.57359]}]}

@@ -1,1 +1,1 @@
-{"lat":-35,"lon":139.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0813","program":"pota","name":"Lowan Conservation Park","coordinates":[139.686,-34.9778]}]}
+{"lat":-35,"lon":139.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0813","program":"pota","name":"Lowan Conservation Park","coordinates":[139.686,-34.9778]},{"code":"VKFF-1052","program":"wwff","name":"Lowan Conservation Park","coordinates":[139.68629,-34.9778]}]}

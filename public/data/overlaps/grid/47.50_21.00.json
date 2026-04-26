@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":21,"programs":["pota"],"count":1,"references":[{"code":"HU-0007","program":"pota","name":"Hortobágyi National Park","coordinates":[21.0915,47.5238]}]}
+{"lat":47.5,"lon":21,"programs":["pota","wwff"],"count":2,"references":[{"code":"HU-0007","program":"pota","name":"Hortobágyi National Park","coordinates":[21.0915,47.5238]},{"code":"HAFF-0006","program":"wwff","name":"Hortobagyi NP","coordinates":[21.09156,47.52272]}]}

@@ -1,1 +1,1 @@
-{"lat":-14.25,"lon":-76,"programs":["pota"],"count":1,"references":[{"code":"PE-0017","program":"pota","name":"Laguna de Huacachina Conservation Area","coordinates":[-75.7636,-14.0879]}]}
+{"lat":-14.25,"lon":-76,"programs":["pota","wwff"],"count":2,"references":[{"code":"PE-0017","program":"pota","name":"Laguna de Huacachina Conservation Area","coordinates":[-75.7636,-14.0879]},{"code":"OAFF-0028","program":"wwff","name":"Laguna de Huacachina Regional Conservation Area","coordinates":[-75.76511,-14.08803]}]}

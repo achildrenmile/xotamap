@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":78.5,"programs":["gma"],"count":1,"references":[{"code":"UNM-SH006","program":"gma","name":"Singin' dune (ÐŸÐ¾ÑŽÑ‰Ð¸Ð¹ Ð±Ð°Ñ€Ñ…Ð°Ð½)","coordinates":[78.57,43.861389]}]}
+{"lat":43.75,"lon":78.5,"programs":["gma","wwff"],"count":2,"references":[{"code":"UNM-SH006","program":"gma","name":"Singin' dune (ÐŸÐ¾ÑŽÑ‰Ð¸Ð¹ Ð±Ð°Ñ€Ñ…Ð°Ð½)","coordinates":[78.57,43.861389]},{"code":"UNFF-0040","program":"wwff","name":"Singing barkhan National nature monument","coordinates":[78.56198,43.87589]}]}

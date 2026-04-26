@@ -1,1 +1,1 @@
-{"lat":60.75,"lon":-139.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0044","program":"pota","name":"Kluane National Park","coordinates":[-139.5,60.75]}]}
+{"lat":60.75,"lon":-139.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0044","program":"pota","name":"Kluane National Park","coordinates":[-139.5,60.75]},{"code":"VEFF-0044","program":"wwff","name":"Kluane National Park and Reserve","coordinates":[-139.5,60.75014]}]}

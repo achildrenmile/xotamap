@@ -1,1 +1,1 @@
-{"lat":-29.25,"lon":28.25,"programs":["pota"],"count":1,"references":[{"code":"LS-0001","program":"pota","name":"Bokong Nature Reserve","coordinates":[28.4256,-29.0693]}]}
+{"lat":-29.25,"lon":28.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"LS-0001","program":"pota","name":"Bokong Nature Reserve","coordinates":[28.4256,-29.0693]},{"code":"7PFF-0003","program":"wwff","name":"Bokong","coordinates":[28.425,-29.069]}]}

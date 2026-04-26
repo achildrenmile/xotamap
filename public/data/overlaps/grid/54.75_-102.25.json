@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":-102.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2877","program":"pota","name":"Tyrrell Lake Recreation Site","coordinates":[-102.145,54.8803]}]}
+{"lat":54.75,"lon":-102.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2877","program":"pota","name":"Tyrrell Lake Recreation Site","coordinates":[-102.145,54.8803]},{"code":"VEFF-4246","program":"wwff","name":"Tyrrell Lake Recreation Site","coordinates":[-102.14722,54.88073]}]}

@@ -1,1 +1,1 @@
-{"lat":-13.25,"lon":-61.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0115","program":"pota","name":"Corumbiara State Park","coordinates":[-61.6071,-13.2089]}]}
+{"lat":-13.25,"lon":-61.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0115","program":"pota","name":"Corumbiara State Park","coordinates":[-61.6071,-13.2089]},{"code":"PYFF-0597","program":"wwff","name":"Parque Estadual de CORUMBIARA - RO","coordinates":[-61.65978,-13.1928]}]}

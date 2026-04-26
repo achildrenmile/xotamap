@@ -1,1 +1,1 @@
-{"lat":66.5,"lon":26.75,"programs":["pota"],"count":1,"references":[{"code":"FI-1353","program":"pota","name":"Hyypiön luonnonsuojelualue State Nature Preserve","coordinates":[26.9845,66.7143]}]}
+{"lat":66.5,"lon":26.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1353","program":"pota","name":"Hyypiön luonnonsuojelualue State Nature Preserve","coordinates":[26.9845,66.7143]},{"code":"OHFF-0384","program":"wwff","name":"Hyypiön luonnonsuojelualue","coordinates":[26.97919,66.71069]}]}

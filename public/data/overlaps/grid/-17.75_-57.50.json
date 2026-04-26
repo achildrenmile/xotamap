@@ -1,1 +1,1 @@
-{"lat":-17.75,"lon":-57.5,"programs":["pota"],"count":1,"references":[{"code":"BR-0051","program":"pota","name":"Pantanal Matogrossense National Conservation Area","coordinates":[-57.4767,-17.6903]}]}
+{"lat":-17.75,"lon":-57.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0051","program":"pota","name":"Pantanal Matogrossense National Conservation Area","coordinates":[-57.4767,-17.6903]},{"code":"PYFF-0029","program":"wwff","name":"Parque Nacional do PANTANAL MATOGROSSENSE - MT","coordinates":[-57.4553,-17.675]}]}

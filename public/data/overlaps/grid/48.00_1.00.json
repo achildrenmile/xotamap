@@ -1,1 +1,1 @@
-{"lat":48,"lon":1,"programs":["pota"],"count":1,"references":[{"code":"FR-10730","program":"pota","name":"ETANGS DE SAINT-CYR-LE-GRAVELAIS Biological Reserve","coordinates":[1.01513,48.0456]}]}
+{"lat":48,"lon":1,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-10730","program":"pota","name":"ETANGS DE SAINT-CYR-LE-GRAVELAIS Biological Reserve","coordinates":[1.01513,48.0456]},{"code":"FFF-3312","program":"wwff","name":"VALLÉE DE L'EURE DE MAINTENON À ANET ET VALLONS AFFLUENTS","coordinates":[1,48]}]}

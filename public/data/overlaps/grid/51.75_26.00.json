@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":26,"programs":["pota"],"count":1,"references":[{"code":"BY-0011","program":"pota","name":"Прастыр Landscape Reserve","coordinates":[26.0966,51.9505]}]}
+{"lat":51.75,"lon":26,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0011","program":"pota","name":"Прастыр Landscape Reserve","coordinates":[26.0966,51.9505]},{"code":"EWFF-0024","program":"wwff","name":"Prostyr","coordinates":[26.09253,51.9468]}]}

@@ -1,1 +1,1 @@
-{"lat":49.5,"lon":-0.25,"programs":["pota"],"count":1,"references":[{"code":"FR-9181","program":"pota","name":"Bancs tres denses d'Ophiothrix fragilis de la baie de Seine Biological Reserve","coordinates":[-0.05941,49.6954]}]}
+{"lat":49.5,"lon":-0.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-9181","program":"pota","name":"Bancs tres denses d'Ophiothrix fragilis de la baie de Seine Biological Reserve","coordinates":[-0.05941,49.6954]},{"code":"FFF-1767","program":"wwff","name":"Le littoral du Havre à  Antifer","coordinates":[-0.11,49.58]}]}

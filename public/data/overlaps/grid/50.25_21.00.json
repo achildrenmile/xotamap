@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":21,"programs":["pota"],"count":1,"references":[{"code":"PL-0583","program":"pota","name":"Tarczyn Nature and Landscape Complex","coordinates":[21.1816,50.485]}]}
+{"lat":50.25,"lon":21,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-0583","program":"pota","name":"Tarczyn Nature and Landscape Complex","coordinates":[21.1816,50.485]},{"code":"SPFF-1142","program":"wwff","name":"Nature and Landscape complex Tarczyn","coordinates":[21.18162,50.48497]}]}

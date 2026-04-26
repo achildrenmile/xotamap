@@ -1,1 +1,1 @@
-{"lat":-9,"lon":159.25,"programs":["iota"],"count":1,"references":[{"code":"OC-047","program":"iota","name":"SOLOMON ISLANDS","coordinates":[159.415000915,-8.83500004]}]}
+{"lat":-9,"lon":159.25,"programs":["arlhs","iota"],"count":2,"references":[{"code":"SOL 005","program":"arlhs","name":"Russell Islands (Guadalcanal)","coordinates":[159.25,-8.97999954]},{"code":"OC-047","program":"iota","name":"SOLOMON ISLANDS","coordinates":[159.415000915,-8.83500004]}]}

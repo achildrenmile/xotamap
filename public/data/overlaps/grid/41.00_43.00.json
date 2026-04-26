@@ -1,1 +1,1 @@
-{"lat":41,"lon":43,"programs":["pota"],"count":1,"references":[{"code":"TR-0332","program":"pota","name":"Çıldır Lake Protected Area","coordinates":[43.2423,41.0506]}]}
+{"lat":41,"lon":43,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0332","program":"pota","name":"Çıldır Lake Protected Area","coordinates":[43.2423,41.0506]},{"code":"TAFF-0187","program":"wwff","name":"Cildir Golu Koruma Alani","coordinates":[43.21156,41.05799]}]}

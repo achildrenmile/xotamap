@@ -1,1 +1,1 @@
-{"lat":58,"lon":-156.5,"programs":["sota"],"count":1,"references":[{"code":"KLA/LS-542","program":"sota","name":"Whale Mountain","coordinates":[-156.3409,58.0443]}]}
+{"lat":58,"lon":-156.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"KLA/LS-542","program":"sota","name":"Whale Mountain","coordinates":[-156.3409,58.0443]},{"code":"KFF-0145","program":"wwff","name":"Becharof National Wildlife Refuge","coordinates":[-156.43269,58.08552]}]}

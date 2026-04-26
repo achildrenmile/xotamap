@@ -1,1 +1,1 @@
-{"lat":-30,"lon":-65,"programs":["pota"],"count":1,"references":[{"code":"AR-0059","program":"pota","name":"Salinas Grandes Provincial Park Reserve","coordinates":[-64.7829,-29.9561]}]}
+{"lat":-30,"lon":-65,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0059","program":"pota","name":"Salinas Grandes Provincial Park Reserve","coordinates":[-64.7829,-29.9561]},{"code":"LUFF-0105","program":"wwff","name":"Salinas GRANDES","coordinates":[-64.78293,-29.95605]}]}

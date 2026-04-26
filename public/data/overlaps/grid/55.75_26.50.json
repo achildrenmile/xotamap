@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":26.5,"programs":["pota"],"count":1,"references":[{"code":"LV-0009","program":"pota","name":"Daugavas Loki Nature Park","coordinates":[26.727,55.918]}]}
+{"lat":55.75,"lon":26.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"LV-0009","program":"pota","name":"Daugavas Loki Nature Park","coordinates":[26.727,55.918]},{"code":"YLFF-0030","program":"wwff","name":"Daugavas Loki","coordinates":[26.74284,55.89216]},{"code":"YLFF-0294","program":"wwff","name":"T?r?s s?nas purvs","coordinates":[26.64392,55.99281]}]}

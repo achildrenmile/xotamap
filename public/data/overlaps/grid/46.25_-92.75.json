@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":-92.75,"programs":["pota"],"count":1,"references":[{"code":"US-2512","program":"pota","name":"Moose Lake State Park","coordinates":[-92.7361,46.4359]}]}
+{"lat":46.25,"lon":-92.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2512","program":"pota","name":"Moose Lake State Park","coordinates":[-92.7361,46.4359]},{"code":"KFF-2512","program":"wwff","name":"Moose Lake","coordinates":[-92.73609,46.43586]}]}

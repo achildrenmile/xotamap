@@ -1,1 +1,1 @@
-{"lat":63.25,"lon":30.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0480","program":"pota","name":"Ruunaa Natura 2000","coordinates":[30.6125,63.3982]}]}
+{"lat":63.25,"lon":30.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0480","program":"pota","name":"Ruunaa Natura 2000","coordinates":[30.6125,63.3982]},{"code":"OHFF-0074","program":"wwff","name":"Ruunaan luonnonsuojelualue","coordinates":[30.60943,63.41597]},{"code":"OHFF-1738","program":"wwff","name":"Jäkäläkangas","coordinates":[30.7333,63.2747]}]}

@@ -1,1 +1,1 @@
-{"lat":-33.25,"lon":148.75,"programs":["pota"],"count":1,"references":[{"code":"AU-2570","program":"pota","name":"Borenore Karst Conservation Reserve","coordinates":[148.929,-33.2441]}]}
+{"lat":-33.25,"lon":148.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2570","program":"pota","name":"Borenore Karst Conservation Reserve","coordinates":[148.929,-33.2441]},{"code":"VKFF-2504","program":"wwff","name":"Borenore Karst Conservation Reserve","coordinates":[148.92931,-33.2441]}]}

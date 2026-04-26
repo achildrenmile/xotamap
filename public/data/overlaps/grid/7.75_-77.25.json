@@ -1,1 +1,1 @@
-{"lat":7.75,"lon":-77.25,"programs":["pota"],"count":1,"references":[{"code":"CO-0155","program":"pota","name":"Los Katíos National Nature Reserve","coordinates":[-77.2097,7.81242]}]}
+{"lat":7.75,"lon":-77.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CO-0155","program":"pota","name":"Los Katíos National Nature Reserve","coordinates":[-77.2097,7.81242]},{"code":"HKFF-0016","program":"wwff","name":"Los Katios","coordinates":[-77.17,7.83]}]}

@@ -1,1 +1,1 @@
-{"lat":32.75,"lon":-98.75,"programs":["pota"],"count":1,"references":[{"code":"US-3049","program":"pota","name":"Possum Kingdom State Park","coordinates":[-98.5666,32.8696]}]}
+{"lat":32.75,"lon":-98.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3049","program":"pota","name":"Possum Kingdom State Park","coordinates":[-98.5666,32.8696]},{"code":"KFF-3049","program":"wwff","name":"Possum Kingdom","coordinates":[-98.5666,32.86957]}]}

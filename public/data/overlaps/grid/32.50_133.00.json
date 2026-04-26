@@ -1,1 +1,1 @@
-{"lat":32.5,"lon":133,"programs":["sota"],"count":1,"references":[{"code":"JA5/KC-180","program":"sota","name":"Hakuouzan","coordinates":[133.0023,32.7449]}]}
+{"lat":32.5,"lon":133,"programs":["arlhs","sota"],"count":3,"references":[{"code":"JPN 029","program":"arlhs","name":"Asizuri Misaki (Kochi)","coordinates":[133.19999695,32.72000122]},{"code":"JPN 2485","program":"arlhs","name":"Ashizuri Zaki (Kochi)","coordinates":[133.19999695,32.72000122]},{"code":"JA5/KC-180","program":"sota","name":"Hakuouzan","coordinates":[133.0023,32.7449]}]}

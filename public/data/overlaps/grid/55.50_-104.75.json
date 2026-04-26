@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":-104.75,"programs":["pota"],"count":1,"references":[{"code":"CA-2630","program":"pota","name":"Dickens Lake Recreation Site","coordinates":[-104.666,55.7472]}]}
+{"lat":55.5,"lon":-104.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-2630","program":"pota","name":"Dickens Lake Recreation Site","coordinates":[-104.666,55.7472]},{"code":"VEFF-2627","program":"wwff","name":"Dickens Lake","coordinates":[-104.66562,55.74722]},{"code":"VEFF-4203","program":"wwff","name":"Devil Lake Recreation Site","coordinates":[-104.7309,55.65642]}]}

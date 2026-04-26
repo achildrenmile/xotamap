@@ -1,1 +1,1 @@
-{"lat":40,"lon":-81,"programs":["pota"],"count":1,"references":[{"code":"US-8104","program":"pota","name":"Willow Grove State Forest","coordinates":[-80.8511,40.0542]}]}
+{"lat":40,"lon":-81,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8104","program":"pota","name":"Willow Grove State Forest","coordinates":[-80.8511,40.0542]},{"code":"KFF-5635","program":"wwff","name":"Willow Grove","coordinates":[-80.85164,40.05045]}]}

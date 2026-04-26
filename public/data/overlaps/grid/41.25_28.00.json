@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"TR-0234","program":"pota","name":"Danamandıra Nature Park","coordinates":[28.2211,41.3033]}]}
+{"lat":41.25,"lon":28,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0234","program":"pota","name":"Danamandıra Nature Park","coordinates":[28.2211,41.3033]},{"code":"TAFF-0114","program":"wwff","name":"Danamandira Tabiat Parki","coordinates":[28.22053,41.30093]}]}

@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":24.5,"programs":["pota"],"count":1,"references":[{"code":"BY-0067","program":"pota","name":"Котра Landscape Reserve","coordinates":[24.5491,53.9437]}]}
+{"lat":53.75,"lon":24.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"BY-0067","program":"pota","name":"Котра Landscape Reserve","coordinates":[24.5491,53.9437]},{"code":"EWFF-0011","program":"wwff","name":"Kotra","coordinates":[24.51736,53.95952]},{"code":"LYFF-0039","program":"wwff","name":"Cepkeliai strict nature reserve","coordinates":[24.50706,53.99385]}]}

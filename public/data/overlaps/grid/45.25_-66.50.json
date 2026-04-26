@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":-66.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1243","program":"pota","name":"Loch Alva Nature Reserve","coordinates":[-66.3276,45.2698]}]}
+{"lat":45.25,"lon":-66.5,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"CAN 906","program":"arlhs","name":"Courtenay Bay Breakwater","coordinates":[-66.5,45.25]},{"code":"CA-1243","program":"pota","name":"Loch Alva Nature Reserve","coordinates":[-66.3276,45.2698]},{"code":"VEFF-1280","program":"wwff","name":"Loch Alva","coordinates":[-66.3276,45.26982]}]}

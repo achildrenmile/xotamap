@@ -1,1 +1,1 @@
-{"lat":63.75,"lon":-21.5,"programs":["sota"],"count":1,"references":[{"code":"TF/SV-024","program":"sota","name":"Skálafell","coordinates":[-21.3244,63.992]}]}
+{"lat":63.75,"lon":-21.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"ICE 106","program":"arlhs","name":"Hafnarvik","coordinates":[-21.37000084,63.84999847]},{"code":"TF/SV-024","program":"sota","name":"Skálafell","coordinates":[-21.3244,63.992]}]}

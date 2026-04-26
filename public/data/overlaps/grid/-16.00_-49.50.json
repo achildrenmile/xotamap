@@ -1,1 +1,1 @@
-{"lat":-16,"lon":-49.5,"programs":["sota"],"count":1,"references":[{"code":"PP2/CG-005","program":"sota","name":"Serra Jaraguá","coordinates":[-49.3219,-15.8059]}]}
+{"lat":-16,"lon":-49.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"PP2/CG-005","program":"sota","name":"Serra Jaraguá","coordinates":[-49.3219,-15.8059]},{"code":"PYFF-0682","program":"wwff","name":"Parque Estadual SERRA DE JARAGUÁ - GO","coordinates":[-49.33905,-15.79182]}]}

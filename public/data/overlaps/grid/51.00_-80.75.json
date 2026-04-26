@@ -1,1 +1,1 @@
-{"lat":51,"lon":-80.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0413","program":"pota","name":"Tidewater Provincial Park","coordinates":[-80.65,51.22]}]}
+{"lat":51,"lon":-80.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0413","program":"pota","name":"Tidewater Provincial Park","coordinates":[-80.65,51.22]},{"code":"VEFF-0413","program":"wwff","name":"Tidewater Provincial Park","coordinates":[-80.65,51.22]}]}

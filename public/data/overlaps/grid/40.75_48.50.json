@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":48.5,"programs":["pota"],"count":1,"references":[{"code":"AZ-0018","program":"pota","name":"Safari Shamakhi National Park","coordinates":[48.5707,40.8169]}]}
+{"lat":40.75,"lon":48.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AZ-0018","program":"pota","name":"Safari Shamakhi National Park","coordinates":[48.5707,40.8169]},{"code":"4JFF-0012","program":"wwff","name":"Pirgulu State Reserve","coordinates":[48.57,40.78]}]}

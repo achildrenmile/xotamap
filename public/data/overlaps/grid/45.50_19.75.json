@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":19.75,"programs":["pota"],"count":1,"references":[{"code":"RS-0012","program":"pota","name":"Beljanska Bara Nature Park","coordinates":[19.91,45.5519]}]}
+{"lat":45.5,"lon":19.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RS-0012","program":"pota","name":"Beljanska Bara Nature Park","coordinates":[19.91,45.5519]},{"code":"YUFF-0122","program":"wwff","name":"Park Prirode Beljanska Bara","coordinates":[19.86965,45.55914]}]}

@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":83.5,"programs":["gma"],"count":1,"references":[{"code":"UNM-054","program":"gma","name":"Ivanovo protein (Ð³. Ð˜Ð²Ð°Ð½Ð¾Ð²ÑÐºÐ¸Ð¹ Ð±ÐµÐ»Ð¾","coordinates":[83.588933,50.275211]}]}
+{"lat":50.25,"lon":83.5,"programs":["gma","wwff"],"count":2,"references":[{"code":"UNM-054","program":"gma","name":"Ivanovo protein (Ð³. Ð˜Ð²Ð°Ð½Ð¾Ð²ÑÐºÐ¸Ð¹ Ð±ÐµÐ»Ð¾","coordinates":[83.588933,50.275211]},{"code":"UNFF-0047","program":"wwff","name":"Altay Botanical garden","coordinates":[83.51,50.333]}]}

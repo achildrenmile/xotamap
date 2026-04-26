@@ -1,1 +1,1 @@
-{"lat":24,"lon":53,"programs":["pota"],"count":1,"references":[{"code":"AE-0035","program":"pota","name":"Al Houbara Protected Area","coordinates":[53,24]}]}
+{"lat":24,"lon":53,"programs":["pota","wwff"],"count":2,"references":[{"code":"AE-0035","program":"pota","name":"Al Houbara Protected Area","coordinates":[53,24]},{"code":"A6FF-0031","program":"wwff","name":"Al Houbara","coordinates":[53.083,24]}]}

@@ -1,1 +1,1 @@
-{"lat":56,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"BY-0044","program":"pota","name":"Асвейскі Landscape Reserve","coordinates":[28.1658,56.0817]}]}
+{"lat":56,"lon":28,"programs":["pota","wwff"],"count":3,"references":[{"code":"BY-0044","program":"pota","name":"Асвейскі Landscape Reserve","coordinates":[28.1658,56.0817]},{"code":"EWFF-0021","program":"wwff","name":"Osveyskiy","coordinates":[28.11951,56.08353]},{"code":"YLFF-0096","program":"wwff","name":"Greb?ukalns","coordinates":[28.12786,56.18966]}]}

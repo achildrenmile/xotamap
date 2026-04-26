@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":35.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0232","program":"pota","name":"Şahinkaya Kanyonu Nature Park","coordinates":[35.4292,41.2784]}]}
+{"lat":41.25,"lon":35.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0232","program":"pota","name":"Şahinkaya Kanyonu Nature Park","coordinates":[35.4292,41.2784]},{"code":"TAFF-0108","program":"wwff","name":"Sahinkaya Kanyonu Tabiat Parki","coordinates":[35.43055,41.27989]}]}

@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":33.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0065","program":"pota","name":"Karaahmetli Nature Park","coordinates":[33.4521,39.6593]}]}
+{"lat":39.5,"lon":33.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0065","program":"pota","name":"Karaahmetli Nature Park","coordinates":[33.4521,39.6593]},{"code":"TAFF-0158","program":"wwff","name":"Karaahmetli Tabiat Parki","coordinates":[33.45271,39.65961]}]}

@@ -1,1 +1,1 @@
-{"lat":-4,"lon":-38.25,"programs":["pota"],"count":1,"references":[{"code":"BR-0090","program":"pota","name":"Reserva Extrativista do Batoque Reserve","coordinates":[-38.2419,-3.99323]}]}
+{"lat":-4,"lon":-38.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0090","program":"pota","name":"Reserva Extrativista do Batoque Reserve","coordinates":[-38.2419,-3.99323]},{"code":"PYFF-0067","program":"wwff","name":"Reserva Extrativista do BATOQUE - CE","coordinates":[-38.24186,-3.99739]}]}

@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":24,"programs":["pota"],"count":1,"references":[{"code":"LT-0024","program":"pota","name":"Kauno marios Regional Park","coordinates":[24.117,54.905]}]}
+{"lat":54.75,"lon":24,"programs":["pota","wwff"],"count":3,"references":[{"code":"LT-0024","program":"pota","name":"Kauno marios Regional Park","coordinates":[24.117,54.905]},{"code":"LYFF-0013","program":"wwff","name":"Kaunas Reservoir Regional Park","coordinates":[24.13333,54.85]},{"code":"LYFF-0124","program":"wwff","name":"Lapiø Geomorphological Reserve","coordinates":[24.04839,54.99948]}]}

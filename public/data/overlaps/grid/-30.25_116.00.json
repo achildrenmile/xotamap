@@ -1,1 +1,1 @@
-{"lat":-30.25,"lon":116,"programs":["pota"],"count":1,"references":[{"code":"AU-2991","program":"pota","name":"Gunyidi Nature Park","coordinates":[116.037,-30.1847]}]}
+{"lat":-30.25,"lon":116,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2991","program":"pota","name":"Gunyidi Nature Park","coordinates":[116.037,-30.1847]},{"code":"VKFF-2973","program":"wwff","name":"Gunyidi Nature Reserve","coordinates":[116.0368,-30.1847]}]}

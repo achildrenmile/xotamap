@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":18,"programs":["gma"],"count":1,"references":[{"code":"HG/DD-211","program":"gma","name":"Kecske-hÃ¡t (TarrÃ³s)","coordinates":[18.1613,46.2703]}]}
+{"lat":46.25,"lon":18,"programs":["gma","wca"],"count":2,"references":[{"code":"HG/DD-211","program":"gma","name":"Kecske-hÃ¡t (TarrÃ³s)","coordinates":[18.1613,46.2703]},{"code":"HA-00088","program":"wca","name":"Dombo Pal Vara","coordinates":[18.12527778,46.3625]}]}

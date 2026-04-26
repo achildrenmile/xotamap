@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-90.25,"programs":["pota"],"count":1,"references":[{"code":"US-4309","program":"pota","name":"McMillan Marsh State Wildlife Area","coordinates":[-90.1852,44.7034]}]}
+{"lat":44.5,"lon":-90.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4309","program":"pota","name":"McMillan Marsh State Wildlife Area","coordinates":[-90.1852,44.7034]},{"code":"KFF-4309","program":"wwff","name":"McMillan Marsh","coordinates":[-90.19165,44.7333]}]}

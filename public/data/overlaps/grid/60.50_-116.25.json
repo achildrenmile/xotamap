@@ -1,1 +1,1 @@
-{"lat":60.5,"lon":-116.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4335","program":"pota","name":"Louise Falls Campground & Day Use Area Territorial Park","coordinates":[-116.243,60.505]}]}
+{"lat":60.5,"lon":-116.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4335","program":"pota","name":"Louise Falls Campground & Day Use Area Territorial Park","coordinates":[-116.243,60.505]},{"code":"VEFF-1255","program":"wwff","name":"Louise Falls Day Use Area","coordinates":[-116.24341,60.50562]}]}

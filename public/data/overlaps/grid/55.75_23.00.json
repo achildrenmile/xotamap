@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":23,"programs":["pota"],"count":1,"references":[{"code":"LT-0010","program":"pota","name":"Kurtuvenai Regional Park","coordinates":[23.008,55.815]}]}
+{"lat":55.75,"lon":23,"programs":["pota","wwff"],"count":3,"references":[{"code":"LT-0010","program":"pota","name":"Kurtuvenai Regional Park","coordinates":[23.008,55.815]},{"code":"LYFF-0015","program":"wwff","name":"Kurtuvenu Regional Park","coordinates":[23.01667,55.8]},{"code":"LYFF-0067","program":"wwff","name":"Ðvendrës Botanical Reserve","coordinates":[23.13566,55.91418]}]}

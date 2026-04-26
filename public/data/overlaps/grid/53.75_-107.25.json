@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-107.25,"programs":["pota"],"count":1,"references":[{"code":"CA-1097","program":"pota","name":"Big River Regional Park","coordinates":[-107.025,53.8379]}]}
+{"lat":53.75,"lon":-107.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1097","program":"pota","name":"Big River Regional Park","coordinates":[-107.025,53.8379]},{"code":"VEFF-1097","program":"wwff","name":"Big River Regional Park","coordinates":[-107.02542,53.83787]}]}

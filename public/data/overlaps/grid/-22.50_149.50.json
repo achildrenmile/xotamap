@@ -1,1 +1,1 @@
-{"lat":-22.5,"lon":149.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1150","program":"pota","name":"Newport Conservation Park","coordinates":[149.57,-22.3769]}]}
+{"lat":-22.5,"lon":149.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1150","program":"pota","name":"Newport Conservation Park","coordinates":[149.57,-22.3769]},{"code":"VKFF-1622","program":"wwff","name":"Newport Conservation Park","coordinates":[149.5667,-22.3772]}]}

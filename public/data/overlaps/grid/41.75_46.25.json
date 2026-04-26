@@ -1,1 +1,1 @@
-{"lat":41.75,"lon":46.25,"programs":["pota"],"count":1,"references":[{"code":"GE-0017","program":"pota","name":"Lagodekhi Nature Reserve","coordinates":[46.2834,41.8418]}]}
+{"lat":41.75,"lon":46.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"GE-0017","program":"pota","name":"Lagodekhi Nature Reserve","coordinates":[46.2834,41.8418]},{"code":"4JFF-0015","program":"wwff","name":"Zagatala State Nature Reserve","coordinates":[46.48795,41.76983]},{"code":"4LFF-0003","program":"wwff","name":"Lagodekhi Strict Nature Reserve","coordinates":[46.31082,41.8615]}]}

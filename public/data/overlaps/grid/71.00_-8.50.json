@@ -1,1 +1,1 @@
-{"lat":71,"lon":-8.5,"programs":["iota"],"count":1,"references":[{"code":"EU-022","program":"iota","name":"JAN MAYEN ISLAND","coordinates":[-8.5,71]}]}
+{"lat":71,"lon":-8.5,"programs":["iota","wwff"],"count":2,"references":[{"code":"EU-022","program":"iota","name":"JAN MAYEN ISLAND","coordinates":[-8.5,71]},{"code":"LAFF-0047","program":"wwff","name":"Jan Mayen island","coordinates":[-8.33879,71.00306]}]}

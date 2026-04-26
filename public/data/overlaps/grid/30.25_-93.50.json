@@ -1,1 +1,1 @@
-{"lat":30.25,"lon":-93.5,"programs":["pota"],"count":1,"references":[{"code":"US-2375","program":"pota","name":"Sam Houston Jones State Park","coordinates":[-93.2588,30.2975]}]}
+{"lat":30.25,"lon":-93.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2375","program":"pota","name":"Sam Houston Jones State Park","coordinates":[-93.2588,30.2975]},{"code":"KFF-2375","program":"wwff","name":"Sam Houston Jones","coordinates":[-93.26376,30.30035]}]}

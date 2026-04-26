@@ -1,1 +1,1 @@
-{"lat":32.25,"lon":-101,"programs":["pota"],"count":1,"references":[{"code":"US-3026","program":"pota","name":"Lake Colorado City State Park","coordinates":[-100.933,32.3264]}]}
+{"lat":32.25,"lon":-101,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3026","program":"pota","name":"Lake Colorado City State Park","coordinates":[-100.933,32.3264]},{"code":"KFF-3026","program":"wwff","name":"Lake Colorado City","coordinates":[-100.93285,32.32638]}]}

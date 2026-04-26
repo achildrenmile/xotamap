@@ -1,1 +1,1 @@
-{"lat":44,"lon":2.5,"programs":["pota"],"count":1,"references":[{"code":"FR-3987","program":"pota","name":"Vallee du Tarn de Brousse jusqu'aux gorges Natura 2000","coordinates":[2.7425,44.0464]}]}
+{"lat":44,"lon":2.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-3987","program":"pota","name":"Vallee du Tarn de Brousse jusqu'aux gorges Natura 2000","coordinates":[2.7425,44.0464]},{"code":"FFF-1078","program":"wwff","name":"Lac de Pareloup - Mas Atche","coordinates":[2.7429,44.19258]}]}

@@ -1,1 +1,1 @@
-{"lat":54,"lon":-104.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0616","program":"pota","name":"Narrow Hills Provincial Park","coordinates":[-104.645,54.0764]}]}
+{"lat":54,"lon":-104.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0616","program":"pota","name":"Narrow Hills Provincial Park","coordinates":[-104.645,54.0764]},{"code":"VEFF-0616","program":"wwff","name":"Narrow Hills Provincial Park","coordinates":[-104.64477,54.07641]}]}

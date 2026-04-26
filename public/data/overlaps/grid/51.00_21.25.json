@@ -1,1 +1,1 @@
-{"lat":51,"lon":21.25,"programs":["pota"],"count":1,"references":[{"code":"PL-2244","program":"pota","name":"Piotrowe Pole Nature Reserve","coordinates":[21.2828,51.09]}]}
+{"lat":51,"lon":21.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"PL-2244","program":"pota","name":"Piotrowe Pole Nature Reserve","coordinates":[21.2828,51.09]},{"code":"SPFF-2343","program":"wwff","name":"Nature Reserve Piotrowe Pole","coordinates":[21.28299,51.0898]},{"code":"SPFF-2932","program":"wwff","name":"Nature Reserve Zapadnie Doly","coordinates":[21.2872,51.0568]}]}

@@ -1,1 +1,1 @@
-{"lat":16.25,"lon":-16.25,"programs":["pota"],"count":1,"references":[{"code":"SN-0006","program":"pota","name":"oiseaux du Djoudj National Park","coordinates":[-16.2,16.4]}]}
+{"lat":16.25,"lon":-16.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"SN-0006","program":"pota","name":"oiseaux du Djoudj National Park","coordinates":[-16.2,16.4]},{"code":"6WFF-0003","program":"wwff","name":"Djoudj National Bird Sanctuary","coordinates":[-16.23,16.4]}]}

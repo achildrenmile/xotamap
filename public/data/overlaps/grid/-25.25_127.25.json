@@ -1,1 +1,1 @@
-{"lat":-25.25,"lon":127.25,"programs":["pota"],"count":1,"references":[{"code":"AU-9074","program":"pota","name":"Ngaanyatjarra Indigenous Protected Area","coordinates":[127.427,-25.1247]}]}
+{"lat":-25.25,"lon":127.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-9074","program":"pota","name":"Ngaanyatjarra Indigenous Protected Area","coordinates":[127.427,-25.1247]},{"code":"VKFF-6413","program":"wwff","name":"Ngaanyatjarra Indigenous Protected Area","coordinates":[127.427,-25.1247]}]}

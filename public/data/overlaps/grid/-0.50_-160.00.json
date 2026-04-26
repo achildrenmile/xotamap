@@ -1,1 +1,1 @@
-{"lat":-0.5,"lon":-160,"programs":["pota"],"count":1,"references":[{"code":"UM-0005","program":"pota","name":"Jarvis Island National Wildlife Refuge","coordinates":[-159.998,-0.373708]}]}
+{"lat":-0.5,"lon":-160,"programs":["pota","wwff"],"count":2,"references":[{"code":"UM-0005","program":"pota","name":"Jarvis Island National Wildlife Refuge","coordinates":[-159.998,-0.373708]},{"code":"KFF-0115","program":"wwff","name":"Jarvis Island National Wildlife Refuge","coordinates":[-159.99767,-0.37371]}]}

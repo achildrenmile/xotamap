@@ -1,1 +1,1 @@
-{"lat":-21.75,"lon":33.5,"programs":["pota"],"count":1,"references":[{"code":"MZ-0010","program":"pota","name":"Zinave National Park","coordinates":[33.5481,-21.6788]}]}
+{"lat":-21.75,"lon":33.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"MZ-0010","program":"pota","name":"Zinave National Park","coordinates":[33.5481,-21.6788]},{"code":"C9FF-0006","program":"wwff","name":"Zinave","coordinates":[33.55,-21.58]}]}

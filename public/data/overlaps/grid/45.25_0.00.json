@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":0,"programs":["pota"],"count":1,"references":[{"code":"FR-4279","program":"pota","name":"Vallee de la Tude Natura 2000","coordinates":[0.11556,45.375]}]}
+{"lat":45.25,"lon":0,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-4279","program":"pota","name":"Vallee de la Tude Natura 2000","coordinates":[0.11556,45.375]},{"code":"FFF-2466","program":"wwff","name":"Natura 2000 - Vallée de la Dronne de Brantôme à sa confluence avec l Isle","coordinates":[0.21611,45.28083]}]}

@@ -1,1 +1,1 @@
-{"lat":32.75,"lon":-118.5,"programs":["sota"],"count":1,"references":[{"code":"W6/SC-293","program":"sota","name":"Mount Thirst","coordinates":[-118.4508,32.8836]}]}
+{"lat":32.75,"lon":-118.5,"programs":["sota","wlota"],"count":2,"references":[{"code":"W6/SC-293","program":"sota","name":"Mount Thirst","coordinates":[-118.4508,32.8836]},{"code":"WLOTA-2332","program":"wlota","name":"San Clemente Island","coordinates":[-118.42199707,32.80199814]}]}

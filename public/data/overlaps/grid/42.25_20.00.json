@@ -1,1 +1,1 @@
-{"lat":42.25,"lon":20,"programs":["wwbota"],"count":1,"references":[{"code":"B/ZA-0058","program":"wwbota","name":"Bunkers Tropoje Municipality","coordinates":[20.2089,42.4069]}]}
+{"lat":42.25,"lon":20,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/ZA-0058","program":"wwbota","name":"Bunkers Tropoje Municipality","coordinates":[20.2089,42.4069]},{"code":"ZAFF-0026","program":"wwff","name":"Lumi I Gashit","coordinates":[20.05687,42.48714]}]}

@@ -1,1 +1,1 @@
-{"lat":-32.75,"lon":142.25,"programs":["pota"],"count":1,"references":[{"code":"AU-1888","program":"pota","name":"Kinchega National Park","coordinates":[142.313,-32.5218]}]}
+{"lat":-32.75,"lon":142.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1888","program":"pota","name":"Kinchega National Park","coordinates":[142.313,-32.5218]},{"code":"VKFF-0263","program":"wwff","name":"Kinchega National Park","coordinates":[142.2972,-32.5442]}]}

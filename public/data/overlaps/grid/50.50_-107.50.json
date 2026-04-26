@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":-107.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1144","program":"pota","name":"Prairie Lake Regional Park","coordinates":[-107.388,50.7091]}]}
+{"lat":50.5,"lon":-107.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1144","program":"pota","name":"Prairie Lake Regional Park","coordinates":[-107.388,50.7091]},{"code":"VEFF-1144","program":"wwff","name":"Prairie Lake Regional Park","coordinates":[-107.38765,50.70911]}]}

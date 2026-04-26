@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"EE-0017","program":"pota","name":"Peipsiveere Natura 2000","coordinates":[27.106,58.383]}]}
+{"lat":58.25,"lon":27,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"EE-0017","program":"pota","name":"Peipsiveere Natura 2000","coordinates":[27.106,58.383]},{"code":"ES-00035","program":"wca","name":"EUSTACEÃâ¢S CASTLE","coordinates":[27.10568,58.38234]},{"code":"ESFF-0191","program":"wwff","name":"Pähklisaare","coordinates":[27.00251,58.43429]}]}

@@ -1,1 +1,1 @@
-{"lat":41.5,"lon":-70,"programs":["pota"],"count":1,"references":[{"code":"US-0324","program":"pota","name":"Monomoy National Wildlife Refuge","coordinates":[-69.9593,41.6572]}]}
+{"lat":41.5,"lon":-70,"programs":["arlhs","pota"],"count":3,"references":[{"code":"USA 158","program":"arlhs","name":"Chatham","coordinates":[-69.94999695,41.66999817]},{"code":"USA 806","program":"arlhs","name":"Harding&#039;s Beach/Stage Harbor","coordinates":[-69.98000336,41.66999817]},{"code":"US-0324","program":"pota","name":"Monomoy National Wildlife Refuge","coordinates":[-69.9593,41.6572]}]}

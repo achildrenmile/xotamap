@@ -1,1 +1,1 @@
-{"lat":51,"lon":17.75,"programs":["pota"],"count":1,"references":[{"code":"PL-2453","program":"pota","name":"Studnica Nature Reserve","coordinates":[17.9173,51.1461]}]}
+{"lat":51,"lon":17.75,"programs":["pota","wca"],"count":2,"references":[{"code":"PL-2453","program":"pota","name":"Studnica Nature Reserve","coordinates":[17.9173,51.1461]},{"code":"SP-01089","program":"wca","name":"Staroscin","coordinates":[17.823835,51.000404]}]}

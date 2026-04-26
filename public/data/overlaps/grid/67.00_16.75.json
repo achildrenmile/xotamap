@@ -1,1 +1,1 @@
-{"lat":67,"lon":16.75,"programs":["sota"],"count":1,"references":[{"code":"SM/NB-034","program":"sota","name":"Tsähkkok","coordinates":[16.7969,67.0847]}]}
+{"lat":67,"lon":16.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"SM/NB-034","program":"sota","name":"Tsähkkok","coordinates":[16.7969,67.0847]},{"code":"SMFF-2891","program":"wwff","name":"Kallovaratjeh","coordinates":[16.77694,67.11806]}]}

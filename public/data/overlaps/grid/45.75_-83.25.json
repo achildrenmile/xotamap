@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":-83.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1095","program":"wwbota","name":"FRP GA2","coordinates":[-83.11403,45.927072]}]}
+{"lat":45.75,"lon":-83.25,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-1095","program":"wwbota","name":"FRP GA2","coordinates":[-83.11403,45.927072]},{"code":"VEFF-4950","program":"wwff","name":"Quarry Bay Nature Reserve","coordinates":[-83.11991,45.87635]}]}

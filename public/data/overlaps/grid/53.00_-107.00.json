@@ -1,1 +1,1 @@
-{"lat":53,"lon":-107,"programs":["pota"],"count":1,"references":[{"code":"CA-1107","program":"pota","name":"Emerald Lake Regional Park","coordinates":[-106.958,53.1785]}]}
+{"lat":53,"lon":-107,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1107","program":"pota","name":"Emerald Lake Regional Park","coordinates":[-106.958,53.1785]},{"code":"VEFF-1107","program":"wwff","name":"Emerald Lake Regional Park","coordinates":[-106.95798,53.17847]}]}

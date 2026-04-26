@@ -1,1 +1,1 @@
-{"lat":42,"lon":139.25,"programs":["sota"],"count":1,"references":[{"code":"JA8/HY-021","program":"sota","name":"Kamuiyama","coordinates":[139.4426,42.1603]}]}
+{"lat":42,"lon":139.25,"programs":["arlhs","sota"],"count":3,"references":[{"code":"JPN 892","program":"arlhs","name":"Kamuiwaki West Breakwater (Hokkaido)","coordinates":[139.41999817,42.16999817]},{"code":"JPN 921","program":"arlhs","name":"Murotsu Sima (Hokkaido)","coordinates":[139.44999695,42.20000076]},{"code":"JA8/HY-021","program":"sota","name":"Kamuiyama","coordinates":[139.4426,42.1603]}]}

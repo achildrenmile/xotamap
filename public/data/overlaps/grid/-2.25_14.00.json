@@ -1,1 +1,1 @@
-{"lat":-2.25,"lon":14,"programs":["pota"],"count":1,"references":[{"code":"GA-0011","program":"pota","name":"Plateaux Bateke National Park","coordinates":[14.0035,-2.0513]}]}
+{"lat":-2.25,"lon":14,"programs":["pota","wwff"],"count":2,"references":[{"code":"GA-0011","program":"pota","name":"Plateaux Bateke National Park","coordinates":[14.0035,-2.0513]},{"code":"TRFF-0002","program":"wwff","name":"Bat?k? Plateau","coordinates":[14.02,-2.188]}]}

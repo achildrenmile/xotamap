@@ -1,1 +1,1 @@
-{"lat":44,"lon":-90,"programs":["pota"],"count":1,"references":[{"code":"US-1474","program":"pota","name":"Roche-A-Cri State Park","coordinates":[-89.8132,44.0011]}]}
+{"lat":44,"lon":-90,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1474","program":"pota","name":"Roche-A-Cri State Park","coordinates":[-89.8132,44.0011]},{"code":"KFF-1474","program":"wwff","name":"Roche-A-Cri","coordinates":[-89.81233,44.00094]}]}

@@ -1,1 +1,1 @@
-{"lat":32.25,"lon":-84.75,"programs":["pota"],"count":1,"references":[{"code":"US-9797","program":"pota","name":"Chattahoochee Fall Line Hilliard Tract Wildlife Management Area","coordinates":[-84.5838,32.4098]}]}
+{"lat":32.25,"lon":-84.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-9797","program":"pota","name":"Chattahoochee Fall Line Hilliard Tract Wildlife Management Area","coordinates":[-84.5838,32.4098]},{"code":"KFF-6056","program":"wwff","name":"Chattahoochee Fall Line","coordinates":[-84.52851,32.47791]}]}

@@ -1,1 +1,1 @@
-{"lat":-4.25,"lon":-80.75,"programs":["pota"],"count":1,"references":[{"code":"PE-0044","program":"pota","name":"Cerros de Amotape National Park","coordinates":[-80.5866,-4.13118]}]}
+{"lat":-4.25,"lon":-80.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"PE-0044","program":"pota","name":"Cerros de Amotape National Park","coordinates":[-80.5866,-4.13118]},{"code":"OAFF-0002","program":"wwff","name":"Cerros de Amotape National Park","coordinates":[-80.61171,-4.13651]}]}

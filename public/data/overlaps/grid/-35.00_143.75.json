@@ -1,1 +1,1 @@
-{"lat":-35,"lon":143.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1615","program":"pota","name":"Yanga State Conservation Area","coordinates":[143.852,-34.783]}]}
+{"lat":-35,"lon":143.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1615","program":"pota","name":"Yanga State Conservation Area","coordinates":[143.852,-34.783]},{"code":"VKFF-1773","program":"wwff","name":"Yanga State Conservation Area","coordinates":[143.851,-34.783]}]}

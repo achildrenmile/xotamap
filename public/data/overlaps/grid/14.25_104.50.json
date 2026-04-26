@@ -1,1 +1,1 @@
-{"lat":14.25,"lon":104.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0039","program":"pota","name":"Khao Phra Wihan National Park","coordinates":[104.686,14.4323]}]}
+{"lat":14.25,"lon":104.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0039","program":"pota","name":"Khao Phra Wihan National Park","coordinates":[104.686,14.4323]},{"code":"HSFF-0032","program":"wwff","name":"Khao Phra Wihan National Park","coordinates":[104.72179,14.43294]}]}

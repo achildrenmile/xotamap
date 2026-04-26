@@ -1,1 +1,1 @@
-{"lat":14.5,"lon":99.25,"programs":["pota"],"count":1,"references":[{"code":"TH-0007","program":"pota","name":"Chaloem Rattanakosin National Park","coordinates":[99.2861,14.6618]}]}
+{"lat":14.5,"lon":99.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0007","program":"pota","name":"Chaloem Rattanakosin National Park","coordinates":[99.2861,14.6618]},{"code":"HSFF-0006","program":"wwff","name":"Chaloem Rattanakosin National Park","coordinates":[99.30468,14.65845]}]}

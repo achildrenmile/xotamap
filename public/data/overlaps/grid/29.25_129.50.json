@@ -1,1 +1,1 @@
-{"lat":29.25,"lon":129.5,"programs":["sota"],"count":1,"references":[{"code":"JA6/KG-050","program":"sota","name":"Mitake","coordinates":[129.5947,29.465]}]}
+{"lat":29.25,"lon":129.5,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"JPN 2557","program":"arlhs","name":"Akuseki Sima (Ryukyu Islands) (Kagoshima)","coordinates":[129.61999512,29.45000076]},{"code":"JA6/KG-050","program":"sota","name":"Mitake","coordinates":[129.5947,29.465]},{"code":"WLOTA-0629","program":"wlota","name":"Akuseki Shima","coordinates":[129.61700439,29.4470005]}]}

@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":-83,"programs":["pota"],"count":1,"references":[{"code":"US-6802","program":"pota","name":"Verona State Game Land","coordinates":[-82.8814,43.7836]}]}
+{"lat":43.75,"lon":-83,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-6802","program":"pota","name":"Verona State Game Land","coordinates":[-82.8814,43.7836]},{"code":"KFF-5076","program":"wwff","name":"Tuscola","coordinates":[-82.88184,43.78054]},{"code":"KFF-5077","program":"wwff","name":"Verona","coordinates":[-82.88173,43.78473]}]}

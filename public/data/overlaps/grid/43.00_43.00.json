@@ -1,1 +1,1 @@
-{"lat":43,"lon":43,"programs":["gma"],"count":1,"references":[{"code":"4L/SZ-001","program":"gma","name":"Schchara","coordinates":[43.1128,43.0003]}]}
+{"lat":43,"lon":43,"programs":["gma","wwff"],"count":2,"references":[{"code":"4L/SZ-001","program":"gma","name":"Schchara","coordinates":[43.1128,43.0003]},{"code":"RFF-0040","program":"wwff","name":"Kabardino-Balkarskiy","coordinates":[43.17902,43.06788]}]}

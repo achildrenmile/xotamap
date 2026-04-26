@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-132,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0169","program":"wwbota","name":"FRP DJ3","coordinates":[-131.8172174,53.25306953]}]}
+{"lat":53.25,"lon":-132,"programs":["wlota","wwbota"],"count":2,"references":[{"code":"WLOTA-0513","program":"wlota","name":"Graham Island","coordinates":[-131.91700745,53.42300034]},{"code":"B/CA-0169","program":"wwbota","name":"FRP DJ3","coordinates":[-131.8172174,53.25306953]}]}

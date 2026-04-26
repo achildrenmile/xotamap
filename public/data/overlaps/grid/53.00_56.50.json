@@ -1,1 +1,1 @@
-{"lat":53,"lon":56.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-142","program":"sota","name":"R9U/SO-142","coordinates":[56.698,53.0905]}]}
+{"lat":53,"lon":56.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"R9U/SO-142","program":"sota","name":"R9U/SO-142","coordinates":[56.698,53.0905]},{"code":"RFF-0120","program":"wwff","name":"Bashkiriya","coordinates":[56.72516,53.03213]}]}

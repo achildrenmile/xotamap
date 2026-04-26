@@ -1,1 +1,1 @@
-{"lat":38.25,"lon":139,"programs":["sota"],"count":1,"references":[{"code":"JA/NI-190","program":"sota","name":"Koshibayama","coordinates":[139.2386,38.4538]}]}
+{"lat":38.25,"lon":139,"programs":["sota","wlota"],"count":2,"references":[{"code":"JA/NI-190","program":"sota","name":"Koshibayama","coordinates":[139.2386,38.4538]},{"code":"WLOTA-0477","program":"wlota","name":"Awa Shima","coordinates":[139.24200439,38.45000076]}]}

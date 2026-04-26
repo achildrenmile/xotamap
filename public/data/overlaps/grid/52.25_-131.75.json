@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-131.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0032","program":"pota","name":"Gwaii Haanas and Haida National Park","coordinates":[-131.558,52.4683]}]}
+{"lat":52.25,"lon":-131.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0032","program":"pota","name":"Gwaii Haanas and Haida National Park","coordinates":[-131.558,52.4683]},{"code":"VEFF-0032","program":"wwff","name":"Gwaii Haanas and Haida National Park Reserve","coordinates":[-131.55829,52.46852]}]}

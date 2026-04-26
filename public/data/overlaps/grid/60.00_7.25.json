@@ -1,1 +1,1 @@
-{"lat":60,"lon":7.25,"programs":["sota"],"count":1,"references":[{"code":"LA/HL-092","program":"sota","name":"Lakadalsberga","coordinates":[7.44,60.1457]}]}
+{"lat":60,"lon":7.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"LA/HL-092","program":"sota","name":"Lakadalsberga","coordinates":[7.44,60.1457]},{"code":"LAFF-0012","program":"wwff","name":"Hardangervidda","coordinates":[7.44303,60.15448]}]}

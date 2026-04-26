@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":40.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0024","program":"pota","name":"Meshchyora National Park","coordinates":[40.2932,55.5553]}]}
+{"lat":55.5,"lon":40.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0024","program":"pota","name":"Meshchyora National Park","coordinates":[40.2932,55.5553]},{"code":"RFF-0130","program":"wwff","name":"Meschera","coordinates":[40.26489,55.57136]}]}

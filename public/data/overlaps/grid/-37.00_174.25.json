@@ -1,1 +1,1 @@
-{"lat":-37,"lon":174.25,"programs":["pota"],"count":1,"references":[{"code":"NZ-0011","program":"pota","name":"Muriwai Regional Park","coordinates":[174.428,-36.8311]}]}
+{"lat":-37,"lon":174.25,"programs":["illw","pota"],"count":2,"references":[{"code":"NZ0006","program":"illw","name":"Piha","coordinates":[174.47000122,-36.97000122]},{"code":"NZ-0011","program":"pota","name":"Muriwai Regional Park","coordinates":[174.428,-36.8311]}]}

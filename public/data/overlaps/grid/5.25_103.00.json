@@ -1,1 +1,1 @@
-{"lat":5.25,"lon":103,"programs":["sota"],"count":1,"references":[{"code":"9M2/TR-032","program":"sota","name":"Bukit Tok Uban","coordinates":[103.0206,5.4225]}]}
+{"lat":5.25,"lon":103,"programs":["arlhs","illw","sota"],"count":3,"references":[{"code":"WMA 023","program":"arlhs","name":"Bukit Puteri/Terengganu (South China Sea)","coordinates":[103.12999725,5.32999992]},{"code":"MY0010","program":"illw","name":"Bukit Puteri / Terengganu","coordinates":[103.12999725,5.32999992]},{"code":"9M2/TR-032","program":"sota","name":"Bukit Tok Uban","coordinates":[103.0206,5.4225]}]}

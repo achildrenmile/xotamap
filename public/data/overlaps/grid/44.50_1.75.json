@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":1.75,"programs":["pota"],"count":1,"references":[{"code":"FR-4029","program":"pota","name":"Basse vallee du Cele Natura 2000","coordinates":[1.77028,44.5519]}]}
+{"lat":44.5,"lon":1.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"FR-4029","program":"pota","name":"Basse vallee du Cele Natura 2000","coordinates":[1.77028,44.5519]},{"code":"FFF-2325","program":"wwff","name":"Cours moyen du Lot","coordinates":[1.79476,44.51479]},{"code":"FFF-2329","program":"wwff","name":"Moyenne vallée du Lot","coordinates":[1.79473,44.51646]}]}

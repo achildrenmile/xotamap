@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":88.5,"programs":["pota"],"count":1,"references":[{"code":"RU-0043","program":"pota","name":"Shorsky National Park","coordinates":[88.5275,52.6661]}]}
+{"lat":52.5,"lon":88.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0043","program":"pota","name":"Shorsky National Park","coordinates":[88.5275,52.6661]},{"code":"RFF-0150","program":"wwff","name":"Shorskiy","coordinates":[88.5409,52.65625]}]}

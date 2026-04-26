@@ -1,1 +1,1 @@
-{"lat":53,"lon":-124,"programs":["pota"],"count":1,"references":[{"code":"CA-3704","program":"pota","name":"Kluskoil Lake Provincial Park","coordinates":[-123.871,53.2013]}]}
+{"lat":53,"lon":-124,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3704","program":"pota","name":"Kluskoil Lake Provincial Park","coordinates":[-123.871,53.2013]},{"code":"VEFF-2119","program":"wwff","name":"Kluskoil Lake Provincial Park","coordinates":[-123.87085,53.20131]}]}

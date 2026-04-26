@@ -1,1 +1,1 @@
-{"lat":33,"lon":103.75,"programs":["pota"],"count":1,"references":[{"code":"CN-1092","program":"pota","name":"四川九寨沟国家森林公园 National Forest","coordinates":[103.897,33.1564]}]}
+{"lat":33,"lon":103.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1092","program":"pota","name":"四川九寨沟国家森林公园 National Forest","coordinates":[103.897,33.1564]},{"code":"BYFF-0190","program":"wwff","name":"Jiuzhaigou Valley","coordinates":[103.9,33.2]}]}

@@ -1,1 +1,1 @@
-{"lat":67.25,"lon":-139.75,"programs":["pota"],"count":1,"references":[{"code":"CA-4623","program":"pota","name":"Old Crow Flats Special Management Area Habitat Protection Area","coordinates":[-139.705,67.395]}]}
+{"lat":67.25,"lon":-139.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4623","program":"pota","name":"Old Crow Flats Special Management Area Habitat Protection Area","coordinates":[-139.705,67.395]},{"code":"VEFF-1423","program":"wwff","name":"Old Crow Flats","coordinates":[-139.70589,67.39537]}]}

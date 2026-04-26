@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":24,"programs":["pota"],"count":1,"references":[{"code":"LT-0016","program":"pota","name":"Krekenava Regional Park","coordinates":[24.106,55.552]}]}
+{"lat":55.5,"lon":24,"programs":["pota","wwff"],"count":3,"references":[{"code":"LT-0016","program":"pota","name":"Krekenava Regional Park","coordinates":[24.106,55.552]},{"code":"LYFF-0014","program":"wwff","name":"Krekenava Regional Park","coordinates":[24.06667,55.5]},{"code":"LYFF-0071","program":"wwff","name":"Virþonø Botanical Reserve","coordinates":[24.04066,55.59077]}]}

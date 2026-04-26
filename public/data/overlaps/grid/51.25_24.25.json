@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":24.25,"programs":["pota"],"count":1,"references":[{"code":"UA-0070","program":"pota","name":"Starovyzhivsky State Wildlife Habitat Management Area","coordinates":[24.4727,51.4832]}]}
+{"lat":51.25,"lon":24.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0070","program":"pota","name":"Starovyzhivsky State Wildlife Habitat Management Area","coordinates":[24.4727,51.4832]},{"code":"URFF-0275","program":"wwff","name":"Starovyzhivsky Zoological reserve of local significance","coordinates":[24.47583,51.48389]}]}

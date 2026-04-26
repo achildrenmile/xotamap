@@ -1,1 +1,1 @@
-{"lat":-0.75,"lon":73,"programs":["pota"],"count":1,"references":[{"code":"MV-0009","program":"pota","name":"MaaKilhi et Fehele Kilhi - Addu Atoll Biosphere Reserve","coordinates":[73.158,-0.64]}]}
+{"lat":-0.75,"lon":73,"programs":["pota","wlota"],"count":2,"references":[{"code":"MV-0009","program":"pota","name":"MaaKilhi et Fehele Kilhi - Addu Atoll Biosphere Reserve","coordinates":[73.158,-0.64]},{"code":"WLOTA-0191","program":"wlota","name":"Addoo Atoll - Bushy Island","coordinates":[73.14800262,-0.61199999]}]}

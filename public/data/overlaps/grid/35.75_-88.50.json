@@ -1,1 +1,1 @@
-{"lat":35.75,"lon":-88.5,"programs":["pota"],"count":1,"references":[{"code":"US-2961","program":"pota","name":"Natchez Trace State Park","coordinates":[-88.2646,35.7967]}]}
+{"lat":35.75,"lon":-88.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-2961","program":"pota","name":"Natchez Trace State Park","coordinates":[-88.2646,35.7967]},{"code":"KFF-2961","program":"wwff","name":"Natchez Trace","coordinates":[-88.26462,35.79668]},{"code":"KFF-3957","program":"wwff","name":"Natchez Trace","coordinates":[-88.25446,35.93757]}]}

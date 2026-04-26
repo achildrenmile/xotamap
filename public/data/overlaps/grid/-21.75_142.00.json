@@ -1,1 +1,1 @@
-{"lat":-21.75,"lon":142,"programs":["pota"],"count":1,"references":[{"code":"AU-1434","program":"pota","name":"Combo 1 Conservation Park","coordinates":[142.067,-21.607]}]}
+{"lat":-21.75,"lon":142,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1434","program":"pota","name":"Combo 1 Conservation Park","coordinates":[142.067,-21.607]},{"code":"VKFF-1512","program":"wwff","name":"Combo Conservation Park","coordinates":[142.06709,-21.607]}]}

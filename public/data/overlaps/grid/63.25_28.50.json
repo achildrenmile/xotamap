@@ -1,1 +1,1 @@
-{"lat":63.25,"lon":28.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0622","program":"pota","name":"Raesärkkä Natura 2000","coordinates":[28.7406,63.4913]}]}
+{"lat":63.25,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0622","program":"pota","name":"Raesärkkä Natura 2000","coordinates":[28.7406,63.4913]},{"code":"OHFF-0866","program":"wwff","name":"Hirvivaara","coordinates":[28.7207,63.31763]}]}

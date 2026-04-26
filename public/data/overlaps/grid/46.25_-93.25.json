@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":-93.25,"programs":["pota"],"count":1,"references":[{"code":"US-4830","program":"pota","name":"Solana State Forest","coordinates":[-93.1693,46.3327]}]}
+{"lat":46.25,"lon":-93.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-4830","program":"pota","name":"Solana State Forest","coordinates":[-93.1693,46.3327]},{"code":"KFF-5516","program":"wwff","name":"Solana","coordinates":[-93.14532,46.33905]},{"code":"KFF-6960","program":"wwff","name":"Lamprey Pass","coordinates":[-93.0318,46.2618]}]}

@@ -1,1 +1,1 @@
-{"lat":-28.75,"lon":-49,"programs":["sota"],"count":1,"references":[{"code":"PP5/SC-080","program":"sota","name":"PP5/SC-080","coordinates":[-48.9829,-28.5191]}]}
+{"lat":-28.75,"lon":-49,"programs":["arlhs","sota"],"count":2,"references":[{"code":"BRA 032","program":"arlhs","name":"Cabo Santa Marta (CS)","coordinates":[-48.81999969,-28.60000038]},{"code":"PP5/SC-080","program":"sota","name":"PP5/SC-080","coordinates":[-48.9829,-28.5191]}]}

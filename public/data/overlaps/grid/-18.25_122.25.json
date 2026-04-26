@@ -1,1 +1,1 @@
-{"lat":-18.25,"lon":122.25,"programs":["pota"],"count":1,"references":[{"code":"AU-0004","program":"pota","name":"Yawuru Birragun Conservation Park","coordinates":[122.369,-18.0584]}]}
+{"lat":-18.25,"lon":122.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0004","program":"pota","name":"Yawuru Birragun Conservation Park","coordinates":[122.369,-18.0584]},{"code":"VKFF-1457","program":"wwff","name":"Yawuru Indigenous Protected Area","coordinates":[122.3691,-18.0584]}]}

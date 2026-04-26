@@ -1,1 +1,1 @@
-{"lat":-29.75,"lon":-54,"programs":["pota"],"count":1,"references":[{"code":"BR-0846","program":"pota","name":"Ibicuí Mirim Biological Reserve","coordinates":[-53.806,-29.5521]}]}
+{"lat":-29.75,"lon":-54,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0846","program":"pota","name":"Ibicuí Mirim Biological Reserve","coordinates":[-53.806,-29.5521]},{"code":"PYFF-0367","program":"wwff","name":"PARQUE Natural Municipal DOS MORROS - RS","coordinates":[-53.80752,-29.65744]}]}

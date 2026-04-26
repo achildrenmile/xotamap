@@ -1,1 +1,1 @@
-{"lat":64,"lon":-76.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0836","program":"pota","name":"Mallikjuaq Island Territorial Park","coordinates":[-76.6147,64.2342]}]}
+{"lat":64,"lon":-76.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0836","program":"pota","name":"Mallikjuaq Island Territorial Park","coordinates":[-76.6147,64.2342]},{"code":"VEFF-0836","program":"wwff","name":"Mallikjuaq Territorial Park","coordinates":[-76.61466,64.23424]}]}

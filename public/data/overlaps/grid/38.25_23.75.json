@@ -1,1 +1,1 @@
-{"lat":38.25,"lon":23.75,"programs":["sota"],"count":1,"references":[{"code":"SV/EV-010","program":"sota","name":"Psili Koryfi","coordinates":[23.864166,38.47861]}]}
+{"lat":38.25,"lon":23.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"SV/EV-010","program":"sota","name":"Psili Koryfi","coordinates":[23.864166,38.47861]},{"code":"SVFF-0311","program":"wwff","name":"Dimotiko Dasos Mavrosouvalas (Markopoulou-Oropou-Kalamou)","coordinates":[23.82198,38.25352]}]}

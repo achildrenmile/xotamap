@@ -1,1 +1,1 @@
-{"lat":59.5,"lon":-101.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0535","program":"pota","name":"Colvin Lake Provincial Park","coordinates":[-101.561,59.6839]}]}
+{"lat":59.5,"lon":-101.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0535","program":"pota","name":"Colvin Lake Provincial Park","coordinates":[-101.561,59.6839]},{"code":"VEFF-0535","program":"wwff","name":"Colvin Lake Provincial Park","coordinates":[-101.56111,59.68389]}]}

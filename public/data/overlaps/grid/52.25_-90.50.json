@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-90.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0343","program":"pota","name":"Pipestone River Provincial Park","coordinates":[-90.3259,52.2607]}]}
+{"lat":52.25,"lon":-90.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0343","program":"pota","name":"Pipestone River Provincial Park","coordinates":[-90.3259,52.2607]},{"code":"VEFF-0343","program":"wwff","name":"Pipestone River Provincial Park","coordinates":[-90.33903,52.31834]}]}

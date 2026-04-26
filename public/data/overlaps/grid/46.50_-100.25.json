@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":-100.25,"programs":["pota"],"count":1,"references":[{"code":"US-0434","program":"pota","name":"Long Lake National Wildlife Refuge","coordinates":[-100.228,46.6699]}]}
+{"lat":46.5,"lon":-100.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0434","program":"pota","name":"Long Lake National Wildlife Refuge","coordinates":[-100.228,46.6699]},{"code":"KFF-0434","program":"wwff","name":"Long Lake","coordinates":[-100.23867,46.67216]}]}

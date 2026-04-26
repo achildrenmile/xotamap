@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":22.5,"programs":["sota"],"count":1,"references":[{"code":"YO/WC-219","program":"sota","name":"Măgura Săliște","coordinates":[22.5234,45.8764]}]}
+{"lat":45.75,"lon":22.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"YO/WC-219","program":"sota","name":"Măgura Săliște","coordinates":[22.5234,45.8764]},{"code":"YOFF-0560","program":"wwff","name":"Raul Mures intre Branisca si Ilia","coordinates":[22.73861,45.93456]}]}

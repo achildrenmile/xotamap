@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":-97,"programs":["pota"],"count":1,"references":[{"code":"US-6355","program":"pota","name":"Kaw Wildlife Management Area","coordinates":[-96.7754,36.8109]}]}
+{"lat":36.75,"lon":-97,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6355","program":"pota","name":"Kaw Wildlife Management Area","coordinates":[-96.7754,36.8109]},{"code":"KFF-4812","program":"wwff","name":"Kaw","coordinates":[-96.77536,36.81087]}]}

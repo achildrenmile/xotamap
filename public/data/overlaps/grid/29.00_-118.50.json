@@ -1,1 +1,1 @@
-{"lat":29,"lon":-118.5,"programs":["sota"],"count":1,"references":[{"code":"XE2/GI-001","program":"sota","name":"Isla Guadalupe","coordinates":[-118.310905,29.094727]}]}
+{"lat":29,"lon":-118.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"MEX 156","program":"arlhs","name":"Isla Guadalupe North Side (Baja California)","coordinates":[-118.26999664,29.14999962]},{"code":"XE2/GI-001","program":"sota","name":"Isla Guadalupe","coordinates":[-118.310905,29.094727]}]}

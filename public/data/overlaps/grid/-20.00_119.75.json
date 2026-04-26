@@ -1,1 +1,1 @@
-{"lat":-20,"lon":119.75,"programs":["pota"],"count":1,"references":[{"code":"AU-3548","program":"pota","name":"Jarrkunpungu Nature Reserve","coordinates":[119.894,-19.9548]}]}
+{"lat":-20,"lon":119.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3548","program":"pota","name":"Jarrkunpungu Nature Reserve","coordinates":[119.894,-19.9548]},{"code":"VKFF-1411","program":"wwff","name":"Solitary Islands Marine Park","coordinates":[119.915,-19.9233]}]}

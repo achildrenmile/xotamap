@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":10.25,"programs":["pota"],"count":1,"references":[{"code":"DK-0044","program":"pota","name":"Sødringholm Coastal Park","coordinates":[10.3543,56.6391]}]}
+{"lat":56.5,"lon":10.25,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"DEN 088","program":"arlhs","name":"UdbyhÃ¸j","coordinates":[10.31999969,56.59999847]},{"code":"DK-0044","program":"pota","name":"Sødringholm Coastal Park","coordinates":[10.3543,56.6391]},{"code":"OZFF-0095","program":"wwff","name":"Soedringholm","coordinates":[10.35434,56.63912]}]}

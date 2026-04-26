@@ -1,1 +1,1 @@
-{"lat":41,"lon":24,"programs":["pota"],"count":1,"references":[{"code":"GR-0044","program":"pota","name":"Alistrati - Petroto Wildlife Refuge","coordinates":[24.004,41.0321]}]}
+{"lat":41,"lon":24,"programs":["pota","wwff"],"count":3,"references":[{"code":"GR-0044","program":"pota","name":"Alistrati - Petroto Wildlife Refuge","coordinates":[24.004,41.0321]},{"code":"SVFF-0171","program":"wwff","name":"Oros Falakro","coordinates":[24.11748,41.24342]},{"code":"SVFF-0172","program":"wwff","name":"Alistrati-Petroto","coordinates":[24.0044,41.02853]}]}

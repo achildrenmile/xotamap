@@ -1,1 +1,1 @@
-{"lat":29.75,"lon":-84.5,"programs":["pota"],"count":1,"references":[{"code":"US-1835","program":"pota","name":"Bald Point State Park","coordinates":[-84.3374,29.9378]}]}
+{"lat":29.75,"lon":-84.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-1835","program":"pota","name":"Bald Point State Park","coordinates":[-84.3374,29.9378]},{"code":"KFF-1835","program":"wwff","name":"Bald Point","coordinates":[-84.33742,29.93782]},{"code":"KFF-1907","program":"wwff","name":"Ochlockonee River","coordinates":[-84.48847,29.99879]}]}

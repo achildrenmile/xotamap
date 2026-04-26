@@ -1,1 +1,1 @@
-{"lat":-1.75,"lon":120,"programs":["pota"],"count":1,"references":[{"code":"ID-0031","program":"pota","name":"Lore Lindu National Park","coordinates":[120.185,-1.51905]}]}
+{"lat":-1.75,"lon":120,"programs":["pota","wwff"],"count":2,"references":[{"code":"ID-0031","program":"pota","name":"Lore Lindu National Park","coordinates":[120.185,-1.51905]},{"code":"YBFF-0031","program":"wwff","name":"LoreLindu","coordinates":[120.17,-1.52]}]}

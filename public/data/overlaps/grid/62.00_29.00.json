@@ -1,1 +1,1 @@
-{"lat":62,"lon":29,"programs":["sota"],"count":1,"references":[{"code":"OH/JS-060","program":"sota","name":"Nilkokallio","coordinates":[29.1298,62.1278]}]}
+{"lat":62,"lon":29,"programs":["sota","wwff"],"count":3,"references":[{"code":"OH/JS-060","program":"sota","name":"Nilkokallio","coordinates":[29.1298,62.1278]},{"code":"OHFF-0139","program":"wwff","name":"Rastikenkkujen suojelualue","coordinates":[29.04789,62.18412]},{"code":"OHFF-0512","program":"wwff","name":"Polvikoski","coordinates":[29.08896,62.03995]}]}

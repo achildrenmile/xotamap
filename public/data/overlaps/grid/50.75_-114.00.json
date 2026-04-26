@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":-114,"programs":["pota"],"count":1,"references":[{"code":"CA-5518","program":"pota","name":"Highwood River Natural Area","coordinates":[-113.762,50.8201]}]}
+{"lat":50.75,"lon":-114,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-5518","program":"pota","name":"Highwood River Natural Area","coordinates":[-113.762,50.8201]},{"code":"VEFF-4468","program":"wwff","name":"Highwood River Natural Area","coordinates":[-113.76451,50.8195]}]}

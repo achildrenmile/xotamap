@@ -1,1 +1,1 @@
-{"lat":8,"lon":20,"programs":["pota"],"count":1,"references":[{"code":"CF-0002","program":"pota","name":"Bamingui-Bangoran National Park","coordinates":[20.14,8.11]}]}
+{"lat":8,"lon":20,"programs":["pota","wwff"],"count":2,"references":[{"code":"CF-0002","program":"pota","name":"Bamingui-Bangoran National Park","coordinates":[20.14,8.11]},{"code":"TLFF-0002","program":"wwff","name":"Bamingui-Bangoran","coordinates":[20.23333,8.18333]}]}

@@ -1,1 +1,1 @@
-{"lat":-17.25,"lon":-66.5,"programs":["pota"],"count":1,"references":[{"code":"BO-0002","program":"pota","name":"Tunari National Park","coordinates":[-66.3337,-17.2477]}]}
+{"lat":-17.25,"lon":-66.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"BO-0002","program":"pota","name":"Tunari National Park","coordinates":[-66.3337,-17.2477]},{"code":"CPFF-0013","program":"wwff","name":"Tunari","coordinates":[-66.33334,-17.25]}]}

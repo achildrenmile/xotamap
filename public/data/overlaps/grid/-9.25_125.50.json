@@ -1,1 +1,1 @@
-{"lat":-9.25,"lon":125.5,"programs":["pota"],"count":1,"references":[{"code":"TL-0027","program":"pota","name":"Lagoa BikanTidi Protected Area","coordinates":[125.548,-9.21041]}]}
+{"lat":-9.25,"lon":125.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TL-0027","program":"pota","name":"Lagoa BikanTidi Protected Area","coordinates":[125.548,-9.21041]},{"code":"4WFF-0027","program":"wwff","name":"Lagoa BikanTidi Protected Area","coordinates":[125.548,-9.21041]}]}

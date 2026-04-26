@@ -1,1 +1,1 @@
-{"lat":59,"lon":-109.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0577","program":"pota","name":"Athabasca Sand Dunes Provincial Park","coordinates":[-109.07,59.0575]}]}
+{"lat":59,"lon":-109.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0577","program":"pota","name":"Athabasca Sand Dunes Provincial Park","coordinates":[-109.07,59.0575]},{"code":"VEFF-0577","program":"wwff","name":"Athabasca Sand Dunes Provincial Park","coordinates":[-109.06951,59.05751]}]}

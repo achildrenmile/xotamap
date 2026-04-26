@@ -1,1 +1,1 @@
-{"lat":-35.5,"lon":146,"programs":["pota"],"count":1,"references":[{"code":"AU-1868","program":"pota","name":"Lake Urana Nature Reserve","coordinates":[146.153,-35.275]}]}
+{"lat":-35.5,"lon":146,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1868","program":"pota","name":"Lake Urana Nature Reserve","coordinates":[146.153,-35.275]},{"code":"VKFF-1956","program":"wwff","name":"Lake Urana Nature Reserve","coordinates":[146.1535,-35.275]}]}

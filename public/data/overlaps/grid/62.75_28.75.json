@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":28.75,"programs":["sota"],"count":1,"references":[{"code":"OH/JS-021","program":"sota","name":"Rauvanvaara","coordinates":[28.9124,62.8466]}]}
+{"lat":62.75,"lon":28.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"OH/JS-021","program":"sota","name":"Rauvanvaara","coordinates":[28.9124,62.8466]},{"code":"OHFF-0864","program":"wwff","name":"Turulanvaara","coordinates":[28.796,62.91072]},{"code":"OHFF-1985","program":"wwff","name":"Ommusmäki","coordinates":[28.95304,62.85292]}]}

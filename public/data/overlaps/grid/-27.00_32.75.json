@@ -1,1 +1,1 @@
-{"lat":-27,"lon":32.75,"programs":["pota"],"count":1,"references":[{"code":"ZA-0064","program":"pota","name":"Kosi Bay Nature Reserve","coordinates":[32.8259,-26.9601]}]}
+{"lat":-27,"lon":32.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"MOZ 014","program":"arlhs","name":"Ponta do Ouro","coordinates":[32.88000107,-26.85000038]},{"code":"ZA-0064","program":"pota","name":"Kosi Bay Nature Reserve","coordinates":[32.8259,-26.9601]},{"code":"ZSFF-0199","program":"wwff","name":"Kosi Bay Nature Reserve","coordinates":[32.84796,-26.93204]}]}

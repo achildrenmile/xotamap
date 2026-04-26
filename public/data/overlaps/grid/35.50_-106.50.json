@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-106.5,"programs":["sota"],"count":1,"references":[{"code":"W5N/SE-032","program":"sota","name":"Bearhead Peak","coordinates":[-106.4828,35.7246]}]}
+{"lat":35.5,"lon":-106.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"W5N/SE-032","program":"sota","name":"Bearhead Peak","coordinates":[-106.4828,35.7246]},{"code":"KFF-5140","program":"wwff","name":"Kasha-Katuwe Tent Rocks","coordinates":[-106.35696,35.61456]}]}

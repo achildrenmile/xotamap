@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-100.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0547","program":"pota","name":"Kettle Stones Provincial Park","coordinates":[-100.599,52.3608]}]}
+{"lat":52.25,"lon":-100.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0547","program":"pota","name":"Kettle Stones Provincial Park","coordinates":[-100.599,52.3608]},{"code":"VEFF-0547","program":"wwff","name":"Kettle Stones Provincial Park","coordinates":[-100.59943,52.36084]}]}

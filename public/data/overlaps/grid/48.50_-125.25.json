@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":-125.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0289","program":"wwbota","name":"FRP KD2","coordinates":[-125.0971414,48.72222163]}]}
+{"lat":48.5,"lon":-125.25,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 362","program":"arlhs","name":"Pachena Point","coordinates":[-125.09999847,48.72999954]},{"code":"B/CA-0289","program":"wwbota","name":"FRP KD2","coordinates":[-125.0971414,48.72222163]}]}

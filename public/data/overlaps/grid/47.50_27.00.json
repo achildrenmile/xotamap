@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"RO-0578","program":"pota","name":"Pădurea Ciornohal Protected Area","coordinates":[27.2481,47.6416]}]}
+{"lat":47.5,"lon":27,"programs":["pota","wwff"],"count":3,"references":[{"code":"RO-0578","program":"pota","name":"Pădurea Ciornohal Protected Area","coordinates":[27.2481,47.6416]},{"code":"YOFF-0326","program":"wwff","name":"Padurea Ciornohal","coordinates":[27.23694,47.62944]},{"code":"YOFF-0655","program":"wwff","name":"Stanca Ripiceni","coordinates":[27.13694,47.5744]}]}

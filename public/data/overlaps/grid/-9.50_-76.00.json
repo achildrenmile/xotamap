@@ -1,1 +1,1 @@
-{"lat":-9.5,"lon":-76,"programs":["pota"],"count":1,"references":[{"code":"PE-0015","program":"pota","name":"Tingo Maria National Park","coordinates":[-75.998,-9.37239]}]}
+{"lat":-9.5,"lon":-76,"programs":["pota","wwff"],"count":2,"references":[{"code":"PE-0015","program":"pota","name":"Tingo Maria National Park","coordinates":[-75.998,-9.37239]},{"code":"OAFF-0007","program":"wwff","name":"Tingo Maria National Park","coordinates":[-75.99493,-9.37875]}]}

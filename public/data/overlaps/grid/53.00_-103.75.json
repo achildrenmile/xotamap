@@ -1,1 +1,1 @@
-{"lat":53,"lon":-103.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1142","program":"pota","name":"Pasquia Regional Park","coordinates":[-103.582,53.1886]}]}
+{"lat":53,"lon":-103.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1142","program":"pota","name":"Pasquia Regional Park","coordinates":[-103.582,53.1886]},{"code":"VEFF-1142","program":"wwff","name":"Pasquia Regional Park","coordinates":[-103.58233,53.18862]}]}

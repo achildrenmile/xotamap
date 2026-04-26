@@ -1,1 +1,1 @@
-{"lat":-15.25,"lon":128.5,"programs":["pota"],"count":1,"references":[{"code":"AU-6709","program":"pota","name":"Mijing Reserve","coordinates":[128.597,-15.0959]}]}
+{"lat":-15.25,"lon":128.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-6709","program":"pota","name":"Mijing Reserve","coordinates":[128.597,-15.0959]},{"code":"VKFF-3953","program":"wwff","name":"Mijing Reserve","coordinates":[128.59689,-15.0959]}]}

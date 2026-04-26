@@ -1,1 +1,1 @@
-{"lat":-34.75,"lon":140,"programs":["pota"],"count":1,"references":[{"code":"AU-0806","program":"pota","name":"Mantung Conservation Park","coordinates":[140.125,-34.5913]}]}
+{"lat":-34.75,"lon":140,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0806","program":"pota","name":"Mantung Conservation Park","coordinates":[140.125,-34.5913]},{"code":"VKFF-1055","program":"wwff","name":"Mantung Conservation Park","coordinates":[140.0769,-34.5901]}]}

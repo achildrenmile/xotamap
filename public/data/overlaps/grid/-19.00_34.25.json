@@ -1,1 +1,1 @@
-{"lat":-19,"lon":34.25,"programs":["pota"],"count":1,"references":[{"code":"MZ-0005","program":"pota","name":"Gorongosa National Park","coordinates":[34.49,-18.7974]}]}
+{"lat":-19,"lon":34.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"MZ-0005","program":"pota","name":"Gorongosa National Park","coordinates":[34.49,-18.7974]},{"code":"C9FF-0003","program":"wwff","name":"Gorongosa","coordinates":[34.48,-18.83]}]}

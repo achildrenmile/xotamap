@@ -1,1 +1,1 @@
-{"lat":-34,"lon":121,"programs":["pota"],"count":1,"references":[{"code":"AU-0035","program":"pota","name":"Stokes National Park","coordinates":[121.198,-33.8206]}]}
+{"lat":-34,"lon":121,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0035","program":"pota","name":"Stokes National Park","coordinates":[121.198,-33.8206]},{"code":"VKFF-0468","program":"wwff","name":"Stokes National Park","coordinates":[121.1984,-33.8206]}]}

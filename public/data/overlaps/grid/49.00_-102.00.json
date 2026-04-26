@@ -1,1 +1,1 @@
-{"lat":49,"lon":-102,"programs":["pota"],"count":1,"references":[{"code":"CA-2667","program":"pota","name":"Glen Ewen Burial Mound Recreation Site","coordinates":[-101.98,49.0125]}]}
+{"lat":49,"lon":-102,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2667","program":"pota","name":"Glen Ewen Burial Mound Recreation Site","coordinates":[-101.98,49.0125]},{"code":"VEFF-4212","program":"wwff","name":"Glen Ewen Burial Mound","coordinates":[-101.98064,49.01229]}]}

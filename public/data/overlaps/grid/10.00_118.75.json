@@ -1,1 +1,1 @@
-{"lat":10,"lon":118.75,"programs":["pota"],"count":1,"references":[{"code":"PH-0009","program":"pota","name":"Puerto Princesa Subterranean River National Park","coordinates":[118.927,10.1936]}]}
+{"lat":10,"lon":118.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"PH-0009","program":"pota","name":"Puerto Princesa Subterranean River National Park","coordinates":[118.927,10.1936]},{"code":"DUFF-0006","program":"wwff","name":"Puerto Princesa Subterranean River","coordinates":[118.91666,10.16667]}]}

@@ -1,1 +1,1 @@
-{"lat":45,"lon":18.75,"programs":["pota"],"count":1,"references":[{"code":"HR-0024","program":"pota","name":"Spačvanski bazen Natura 2000","coordinates":[18.9262,45.0598]}]}
+{"lat":45,"lon":18.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"HR-0024","program":"pota","name":"Spačvanski bazen Natura 2000","coordinates":[18.9262,45.0598]},{"code":"9AFF-0069","program":"wwff","name":"Lo?e","coordinates":[18.82431,45.09088]}]}

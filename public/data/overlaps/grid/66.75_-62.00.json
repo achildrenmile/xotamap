@@ -1,1 +1,1 @@
-{"lat":66.75,"lon":-62,"programs":["pota"],"count":1,"references":[{"code":"CA-0123","program":"pota","name":"Akpait National Wildlife Area","coordinates":[-61.7647,66.9336]}]}
+{"lat":66.75,"lon":-62,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0123","program":"pota","name":"Akpait National Wildlife Area","coordinates":[-61.7647,66.9336]},{"code":"VEFF-0123","program":"wwff","name":"Akpait National Wildlife Area","coordinates":[-61.76821,66.93196]}]}

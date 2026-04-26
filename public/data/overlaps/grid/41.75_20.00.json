@@ -1,1 +1,1 @@
-{"lat":41.75,"lon":20,"programs":["pota"],"count":1,"references":[{"code":"AL-0008","program":"pota","name":"Lurë – Mali i Dejës National Park","coordinates":[20.2333,41.8]}]}
+{"lat":41.75,"lon":20,"programs":["pota","wwff"],"count":2,"references":[{"code":"AL-0008","program":"pota","name":"Lurë – Mali i Dejës National Park","coordinates":[20.2333,41.8]},{"code":"ZAFF-0006","program":"wwff","name":"Lurë–Mali I Dejës","coordinates":[20.19451,41.78787]}]}

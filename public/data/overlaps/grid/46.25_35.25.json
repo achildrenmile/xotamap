@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":35.25,"programs":["pota"],"count":1,"references":[{"code":"UA-0044","program":"pota","name":"Pryazovskyi National Park","coordinates":[35.4203,46.4496]}]}
+{"lat":46.25,"lon":35.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0044","program":"pota","name":"Pryazovskyi National Park","coordinates":[35.4203,46.4496]},{"code":"URFF-0192","program":"wwff","name":"Molochnyy lyman Hydrological reserve","coordinates":[35.38134,46.41493]}]}

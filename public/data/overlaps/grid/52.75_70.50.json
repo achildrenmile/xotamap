@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":70.5,"programs":["gma"],"count":1,"references":[{"code":"UNM-SH013","program":"gma","name":"Berkaty (Ð³.Ð‘ÐµÑ€ÐºÑƒÑ‚Ñ‹)","coordinates":[70.52305556,52.89361111]}]}
+{"lat":52.75,"lon":70.5,"programs":["gma","wwff"],"count":2,"references":[{"code":"UNM-SH013","program":"gma","name":"Berkaty (Ð³.Ð‘ÐµÑ€ÐºÑƒÑ‚Ñ‹)","coordinates":[70.52305556,52.89361111]},{"code":"UNFF-0061","program":"wwff","name":"East State Nature Reserve (zoological)","coordinates":[70.69057,52.85699]}]}

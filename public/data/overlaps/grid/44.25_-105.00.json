@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":-105,"programs":["pota"],"count":1,"references":[{"code":"US-3300","program":"pota","name":"Keyhole State Park","coordinates":[-104.765,44.3609]}]}
+{"lat":44.25,"lon":-105,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3300","program":"pota","name":"Keyhole State Park","coordinates":[-104.765,44.3609]},{"code":"KFF-3300","program":"wwff","name":"Keyhole","coordinates":[-104.76528,44.36089]}]}

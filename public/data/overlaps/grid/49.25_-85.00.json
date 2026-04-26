@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":-85,"programs":["pota"],"count":1,"references":[{"code":"CA-0313","program":"pota","name":"Nagagami Lake Provincial Park","coordinates":[-84.9637,49.4356]}]}
+{"lat":49.25,"lon":-85,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0313","program":"pota","name":"Nagagami Lake Provincial Park","coordinates":[-84.9637,49.4356]},{"code":"VEFF-0313","program":"wwff","name":"Nagagami Lake Provincial Park","coordinates":[-84.97991,49.42947]}]}

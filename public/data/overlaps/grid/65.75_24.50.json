@@ -1,1 +1,1 @@
-{"lat":65.75,"lon":24.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0114","program":"pota","name":"Kallinkangas Natura 2000","coordinates":[24.516,65.8103]}]}
+{"lat":65.75,"lon":24.5,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"FIN 080","program":"arlhs","name":"Keskiniemi/Hailuoto","coordinates":[24.67000008,65.80000305]},{"code":"FI-0114","program":"pota","name":"Kallinkangas Natura 2000","coordinates":[24.516,65.8103]},{"code":"OHFF-1094","program":"wwff","name":"Kallinkangas","coordinates":[24.516,65.8103]}]}

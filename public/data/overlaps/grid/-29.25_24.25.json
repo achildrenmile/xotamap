@@ -1,1 +1,1 @@
-{"lat":-29.25,"lon":24.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/NC-344","program":"sota","name":"Kolkop","coordinates":[24.4491,-29.2399]}]}
+{"lat":-29.25,"lon":24.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/NC-344","program":"sota","name":"Kolkop","coordinates":[24.4491,-29.2399]},{"code":"ZSFF-0028","program":"wwff","name":"Mokala Park","coordinates":[24.35,-29.16667]}]}

@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-6.75,"programs":["sota"],"count":1,"references":[{"code":"EI/IE-068","program":"sota","name":"Forth Mountain","coordinates":[-6.563649,52.316154]}]}
+{"lat":52.25,"lon":-6.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"EI/IE-068","program":"sota","name":"Forth Mountain","coordinates":[-6.563649,52.316154]},{"code":"EIFF-0144","program":"wwff","name":"Slaney River Valley SAC","coordinates":[-6.56214,52.463]}]}

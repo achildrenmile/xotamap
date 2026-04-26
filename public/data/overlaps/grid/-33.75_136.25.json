@@ -1,1 +1,1 @@
-{"lat":-33.75,"lon":136.25,"programs":["pota"],"count":1,"references":[{"code":"AU-0702","program":"pota","name":"Rudall Conservation Park","coordinates":[136.316,-33.6451]}]}
+{"lat":-33.75,"lon":136.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0702","program":"pota","name":"Rudall Conservation Park","coordinates":[136.316,-33.6451]},{"code":"VKFF-1091","program":"wwff","name":"Rudall Conservation Park","coordinates":[136.31281,-33.6447]}]}

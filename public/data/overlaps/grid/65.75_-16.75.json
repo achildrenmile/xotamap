@@ -1,1 +1,1 @@
-{"lat":65.75,"lon":-16.75,"programs":["sota"],"count":1,"references":[{"code":"TF/NL-173","program":"sota","name":"Eilífur","coordinates":[-16.6199,65.802]}]}
+{"lat":65.75,"lon":-16.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"TF/NL-173","program":"sota","name":"Eilífur","coordinates":[-16.6199,65.802]},{"code":"TFFF-0001","program":"wwff","name":"J?kuls?rglj?fur","coordinates":[-16.52,65.88]}]}

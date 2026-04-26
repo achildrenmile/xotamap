@@ -1,1 +1,1 @@
-{"lat":66,"lon":-120.75,"programs":["pota"],"count":1,"references":[{"code":"CA-5480","program":"pota","name":"Tsa Tue Biosphere Reserve UNESCO Biosphere Reserve","coordinates":[-120.588,66.035]}]}
+{"lat":66,"lon":-120.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-5480","program":"pota","name":"Tsa Tue Biosphere Reserve UNESCO Biosphere Reserve","coordinates":[-120.588,66.035]},{"code":"VEFF-2240","program":"wwff","name":"Tsá Tué Biosphere Reserve","coordinates":[-120.58806,66.035]}]}

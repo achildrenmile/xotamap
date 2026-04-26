@@ -1,1 +1,1 @@
-{"lat":2.75,"lon":-78.25,"programs":["pota"],"count":1,"references":[{"code":"CO-0150","program":"pota","name":"Gorgona National Nature Reserve","coordinates":[-78.2057,2.97204]}]}
+{"lat":2.75,"lon":-78.25,"programs":["pota","wlota","wwff"],"count":3,"references":[{"code":"CO-0150","program":"pota","name":"Gorgona National Nature Reserve","coordinates":[-78.2057,2.97204]},{"code":"WLOTA-2095","program":"wlota","name":"Isla Gorgonilla","coordinates":[-78.21299744,2.94199991]},{"code":"HKFF-0012","program":"wwff","name":"Gorgona Island","coordinates":[-78.17,2.98]}]}

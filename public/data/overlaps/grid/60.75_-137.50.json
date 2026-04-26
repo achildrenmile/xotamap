@@ -1,1 +1,1 @@
-{"lat":60.75,"lon":-137.5,"programs":["pota"],"count":1,"references":[{"code":"CA-6272","program":"pota","name":"Pine Lake Campground Recreation Site","coordinates":[-137.489,60.799]}]}
+{"lat":60.75,"lon":-137.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6272","program":"pota","name":"Pine Lake Campground Recreation Site","coordinates":[-137.489,60.799]},{"code":"VEFF-4743","program":"wwff","name":"Pine Lake Campground","coordinates":[-137.48888,60.79867]}]}

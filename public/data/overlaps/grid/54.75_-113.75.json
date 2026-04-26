@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":-113.75,"programs":["pota"],"count":1,"references":[{"code":"CA-2976","program":"pota","name":"Chain Lakes Provincial Recreation Area","coordinates":[-113.505,54.9623]}]}
+{"lat":54.75,"lon":-113.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2976","program":"pota","name":"Chain Lakes Provincial Recreation Area","coordinates":[-113.505,54.9623]},{"code":"VEFF-4767","program":"wwff","name":"Chain Lakes Provincial Recreation Area","coordinates":[-113.50521,54.96233]}]}

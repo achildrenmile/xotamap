@@ -1,1 +1,1 @@
-{"lat":-24.5,"lon":133.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1553","program":"pota","name":"Rainbow Valley Conservation Reserve","coordinates":[133.663,-24.3452]}]}
+{"lat":-24.5,"lon":133.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1553","program":"pota","name":"Rainbow Valley Conservation Reserve","coordinates":[133.663,-24.3452]},{"code":"VKFF-1247","program":"wwff","name":"Rainbow Valley Conservation Reserve","coordinates":[133.6635,-24.3452]}]}

@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":-86.75,"programs":["pota"],"count":1,"references":[{"code":"US-1538","program":"pota","name":"Silver Lake State Park","coordinates":[-86.5145,43.6732]}]}
+{"lat":43.5,"lon":-86.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"USA 443","program":"arlhs","name":"Little Point Sable (Lake Michigan)","coordinates":[-86.54000092,43.65000153]},{"code":"US-1538","program":"pota","name":"Silver Lake State Park","coordinates":[-86.5145,43.6732]},{"code":"KFF-1538","program":"wwff","name":"Silver Lake","coordinates":[-86.51448,43.67321]}]}

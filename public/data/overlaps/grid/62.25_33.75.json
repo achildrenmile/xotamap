@@ -1,1 +1,1 @@
-{"lat":62.25,"lon":33.75,"programs":["pota"],"count":1,"references":[{"code":"RU-0059","program":"pota","name":"Kivach National Park","coordinates":[33.921,62.2852]}]}
+{"lat":62.25,"lon":33.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-0059","program":"pota","name":"Kivach National Park","coordinates":[33.921,62.2852]},{"code":"RFF-0047","program":"wwff","name":"Kivach","coordinates":[33.91479,62.29807]},{"code":"RFF-0462","program":"wwff","name":"Sundozersky Section","coordinates":[33.793,62.3666]}]}

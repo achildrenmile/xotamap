@@ -1,1 +1,1 @@
-{"lat":13.25,"lon":-16.25,"programs":["pota"],"count":1,"references":[{"code":"GM-0007","program":"pota","name":"Zone humide de Jokadu et extension National Reserve","coordinates":[-16.22,13.439]}]}
+{"lat":13.25,"lon":-16.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"GM-0007","program":"pota","name":"Zone humide de Jokadu et extension National Reserve","coordinates":[-16.22,13.439]},{"code":"C5FF-0006","program":"wwff","name":"Jokadu","coordinates":[-16.2155,13.42409]}]}

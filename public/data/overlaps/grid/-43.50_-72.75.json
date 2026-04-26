@@ -1,1 +1,1 @@
-{"lat":-43.5,"lon":-72.75,"programs":["pota"],"count":1,"references":[{"code":"CL-0063","program":"pota","name":"Corcovado National Park","coordinates":[-72.7167,-43.4167]}]}
+{"lat":-43.5,"lon":-72.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CL-0063","program":"pota","name":"Corcovado National Park","coordinates":[-72.7167,-43.4167]},{"code":"CEFF-0009","program":"wwff","name":"Corcovado","coordinates":[-72.71667,-43.41667]}]}

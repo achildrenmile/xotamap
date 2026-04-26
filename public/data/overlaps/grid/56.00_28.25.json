@@ -1,1 +1,1 @@
-{"lat":56,"lon":28.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0040","program":"pota","name":"Sebezhsky National Park","coordinates":[28.4458,56.1743]}]}
+{"lat":56,"lon":28.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0040","program":"pota","name":"Sebezhsky National Park","coordinates":[28.4458,56.1743]},{"code":"RFF-0141","program":"wwff","name":"Sebezhskiy","coordinates":[28.44635,56.18607]}]}

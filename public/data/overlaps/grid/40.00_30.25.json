@@ -1,1 +1,1 @@
-{"lat":40,"lon":30.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0200","program":"pota","name":"Harmankaya Kanyonu Nature Park","coordinates":[30.446,40.1512]}]}
+{"lat":40,"lon":30.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0200","program":"pota","name":"Harmankaya Kanyonu Nature Park","coordinates":[30.446,40.1512]},{"code":"TAFF-0048","program":"wwff","name":"Harmankaya Kanyonu Tabiat Parki","coordinates":[30.44521,40.15088]}]}

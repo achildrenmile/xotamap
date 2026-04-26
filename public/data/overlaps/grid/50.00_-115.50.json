@@ -1,1 +1,1 @@
-{"lat":50,"lon":-115.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4293","program":"pota","name":"Whiteswan Lake Provincial Park","coordinates":[-115.488,50.1371]}]}
+{"lat":50,"lon":-115.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4293","program":"pota","name":"Whiteswan Lake Provincial Park","coordinates":[-115.488,50.1371]},{"code":"VEFF-1758","program":"wwff","name":"Whiteswan Lake Provincial Park","coordinates":[-115.48608,50.14454]}]}

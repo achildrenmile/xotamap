@@ -1,1 +1,1 @@
-{"lat":66.75,"lon":28.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0137","program":"pota","name":"Termusaavan Luonnonsuojelualue Nature Reserve","coordinates":[28.6288,66.8858]}]}
+{"lat":66.75,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0137","program":"pota","name":"Termusaavan Luonnonsuojelualue Nature Reserve","coordinates":[28.6288,66.8858]},{"code":"OHFF-0405","program":"wwff","name":"Termuaavan luonnonsuojelualue","coordinates":[28.62884,66.88577]}]}

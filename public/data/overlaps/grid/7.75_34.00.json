@@ -1,1 +1,1 @@
-{"lat":7.75,"lon":34,"programs":["pota"],"count":1,"references":[{"code":"ET-0009","program":"pota","name":"Gambela National Park","coordinates":[34.02,7.993]}]}
+{"lat":7.75,"lon":34,"programs":["pota","wwff"],"count":2,"references":[{"code":"ET-0009","program":"pota","name":"Gambela National Park","coordinates":[34.02,7.993]},{"code":"ETFF-0004","program":"wwff","name":"Gambella","coordinates":[34.1,7.97]}]}

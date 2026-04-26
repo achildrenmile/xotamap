@@ -1,1 +1,1 @@
-{"lat":64.75,"lon":27.25,"programs":["pota"],"count":1,"references":[{"code":"FI-1667","program":"pota","name":"Saarijärven vanhat metsät Natura 2000","coordinates":[27.476,64.8037]}]}
+{"lat":64.75,"lon":27.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1667","program":"pota","name":"Saarijärven vanhat metsät Natura 2000","coordinates":[27.476,64.8037]},{"code":"OHFF-0186","program":"wwff","name":"Ison Tilansuon-Housusuon soidensuojelualue","coordinates":[27.41089,64.95122]}]}

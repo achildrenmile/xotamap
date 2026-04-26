@@ -1,1 +1,1 @@
-{"lat":27.25,"lon":-112,"programs":["sota"],"count":1,"references":[{"code":"XE2/BS-752","program":"sota","name":"XE2/BS-752","coordinates":[-111.881546,27.43867]}]}
+{"lat":27.25,"lon":-112,"programs":["arlhs","sota"],"count":2,"references":[{"code":"MEX 169","program":"arlhs","name":"Santa Ines Island South (Baja California)","coordinates":[-111.93000031,27.29999924]},{"code":"XE2/BS-752","program":"sota","name":"XE2/BS-752","coordinates":[-111.881546,27.43867]}]}

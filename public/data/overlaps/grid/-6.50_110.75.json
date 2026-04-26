@@ -1,1 +1,1 @@
-{"lat":-6.5,"lon":110.75,"programs":["sota"],"count":1,"references":[{"code":"YBJ/JT-087","program":"sota","name":"Gunung Genuk","coordinates":[110.9195,-6.4481]}]}
+{"lat":-6.5,"lon":110.75,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"IDO 224","program":"arlhs","name":"Pulau Mondoliko (Java)","coordinates":[110.93000031,-6.38000011]},{"code":"YBJ/JT-087","program":"sota","name":"Gunung Genuk","coordinates":[110.9195,-6.4481]},{"code":"WLOTA-0089","program":"wlota","name":"Pulau Mandalika","coordinates":[110.92500305,-6.3829999]}]}

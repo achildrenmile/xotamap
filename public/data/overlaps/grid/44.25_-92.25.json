@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":-92.25,"programs":["pota"],"count":1,"references":[{"code":"US-9867","program":"pota","name":"Tiffany State Wildlife Area","coordinates":[-92.0707,44.4357]}]}
+{"lat":44.25,"lon":-92.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-9867","program":"pota","name":"Tiffany State Wildlife Area","coordinates":[-92.0707,44.4357]},{"code":"KFF-5508","program":"wwff","name":"Richard J. Dorer Memorial Hardwood","coordinates":[-92.12628,44.31857]}]}

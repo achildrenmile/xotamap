@@ -1,1 +1,1 @@
-{"lat":19,"lon":99.25,"programs":["pota"],"count":1,"references":[{"code":"TH-0049","program":"pota","name":"Khun Chae National Park","coordinates":[99.3956,19.1523]}]}
+{"lat":19,"lon":99.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0049","program":"pota","name":"Khun Chae National Park","coordinates":[99.3956,19.1523]},{"code":"HSFF-0041","program":"wwff","name":"Khun Chae National Park","coordinates":[99.39919,19.07517]}]}

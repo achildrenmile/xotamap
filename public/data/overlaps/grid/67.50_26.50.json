@@ -1,1 +1,1 @@
-{"lat":67.5,"lon":26.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0040","program":"pota","name":"Ilmakkiaavan soiden suojelualue Protected Area","coordinates":[26.7172,67.6908]}]}
+{"lat":67.5,"lon":26.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0040","program":"pota","name":"Ilmakkiaavan soiden suojelualue Protected Area","coordinates":[26.7172,67.6908]},{"code":"OHFF-0163","program":"wwff","name":"Ilmakkiaavan soidensuojelualue","coordinates":[26.71723,67.69082]}]}

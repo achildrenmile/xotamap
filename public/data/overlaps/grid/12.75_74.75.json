@@ -1,1 +1,1 @@
-{"lat":12.75,"lon":74.75,"programs":["pota"],"count":1,"references":[{"code":"IN-0105","program":"pota","name":"PILIKULA BIOLOGICAL PARL Nature Park","coordinates":[74.8995,12.9272]}]}
+{"lat":12.75,"lon":74.75,"programs":["arlhs","pota"],"count":3,"references":[{"code":"IND 100","program":"arlhs","name":"Mangalore Harbour","coordinates":[74.83999634,12.85000038]},{"code":"IND 171","program":"arlhs","name":"Mangalore","coordinates":[74.83999634,12.86999989]},{"code":"IN-0105","program":"pota","name":"PILIKULA BIOLOGICAL PARL Nature Park","coordinates":[74.8995,12.9272]}]}

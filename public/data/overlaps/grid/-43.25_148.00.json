@@ -1,1 +1,1 @@
-{"lat":-43.25,"lon":148,"programs":["sota"],"count":1,"references":[{"code":"VK7/SC-055","program":"sota","name":"Tasman Island","coordinates":[148.0026,-43.2391]}]}
+{"lat":-43.25,"lon":148,"programs":["arlhs","sota"],"count":2,"references":[{"code":"AUS 160","program":"arlhs","name":"Tasman Island","coordinates":[148,-43.25]},{"code":"VK7/SC-055","program":"sota","name":"Tasman Island","coordinates":[148.0026,-43.2391]}]}

@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":-95.75,"programs":["pota"],"count":1,"references":[{"code":"US-2486","program":"pota","name":"Glacial Lakes State Park","coordinates":[-95.5313,45.5413]}]}
+{"lat":45.5,"lon":-95.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2486","program":"pota","name":"Glacial Lakes State Park","coordinates":[-95.5313,45.5413]},{"code":"KFF-2486","program":"wwff","name":"Glacial Lakes","coordinates":[-95.53127,45.54128]}]}

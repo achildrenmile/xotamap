@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":73.25,"programs":["pota"],"count":1,"references":[{"code":"KZ-0013","program":"pota","name":"Buiratau National Park","coordinates":[73.3185,51.3823]}]}
+{"lat":51.25,"lon":73.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"KZ-0013","program":"pota","name":"Buiratau National Park","coordinates":[73.3185,51.3823]},{"code":"UNFF-0014","program":"wwff","name":"Buyratau State National Nature Park","coordinates":[73.33334,51.33333]}]}

@@ -1,1 +1,1 @@
-{"lat":9.25,"lon":97.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0080","program":"pota","name":"Mu Ko Surin Marine National Park","coordinates":[97.8597,9.43405]}]}
+{"lat":9.25,"lon":97.75,"programs":["pota","wlota","wwff"],"count":3,"references":[{"code":"TH-0080","program":"pota","name":"Mu Ko Surin Marine National Park","coordinates":[97.8597,9.43405]},{"code":"WLOTA-0457","program":"wlota","name":"Ko Chi","coordinates":[97.90799713,9.47799969]},{"code":"HSFF-0057","program":"wwff","name":"Mu Ko Surin National Park","coordinates":[97.86197,9.41822]}]}

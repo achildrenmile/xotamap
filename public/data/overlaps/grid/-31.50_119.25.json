@@ -1,1 +1,1 @@
-{"lat":-31.5,"lon":119.25,"programs":["pota"],"count":1,"references":[{"code":"AU-3039","program":"pota","name":"Wockallarry Nature Park","coordinates":[119.277,-31.4605]}]}
+{"lat":-31.5,"lon":119.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3039","program":"pota","name":"Wockallarry Nature Park","coordinates":[119.277,-31.4605]},{"code":"VKFF-3021","program":"wwff","name":"Wockallarry Nature Reserve","coordinates":[119.2774,-31.4605]}]}

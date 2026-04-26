@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":33,"programs":["pota"],"count":1,"references":[{"code":"UA-0043","program":"pota","name":"Oleshky Sands National Park","coordinates":[33.0505,46.5841]}]}
+{"lat":46.5,"lon":33,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0043","program":"pota","name":"Oleshky Sands National Park","coordinates":[33.0505,46.5841]},{"code":"URFF-0077","program":"wwff","name":"Oleshkivski Pisky National Park","coordinates":[33.06747,46.60086]}]}

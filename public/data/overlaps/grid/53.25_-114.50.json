@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-114.5,"programs":["pota"],"count":1,"references":[{"code":"CA-3023","program":"pota","name":"Genesee Natural Area","coordinates":[-114.412,53.3378]}]}
+{"lat":53.25,"lon":-114.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-3023","program":"pota","name":"Genesee Natural Area","coordinates":[-114.412,53.3378]},{"code":"VEFF-4258","program":"wwff","name":"Genesee Natural Area","coordinates":[-114.40173,53.34323]},{"code":"VEFF-5185","program":"wwff","name":"Privately Protected Area (NCC 20031)","coordinates":[-114.47703,53.28675]}]}

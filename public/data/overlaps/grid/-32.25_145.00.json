@@ -1,1 +1,1 @@
-{"lat":-32.25,"lon":145,"programs":["pota"],"count":1,"references":[{"code":"AU-2505","program":"pota","name":"Paddington Nature Park","coordinates":[145.191,-32.0419]}]}
+{"lat":-32.25,"lon":145,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2505","program":"pota","name":"Paddington Nature Park","coordinates":[145.191,-32.0419]},{"code":"VKFF-2696","program":"wwff","name":"Paddington Nature Reserve","coordinates":[145.1906,-32.0419]}]}

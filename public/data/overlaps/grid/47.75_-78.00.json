@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":-78,"programs":["pota"],"count":1,"references":[{"code":"CA-1969","program":"pota","name":"Réserve de biodiversité des Caribous-de-Val-d’Or Nature Reserve","coordinates":[-77.7783,47.8734]}]}
+{"lat":47.75,"lon":-78,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1969","program":"pota","name":"Réserve de biodiversité des Caribous-de-Val-d’Or Nature Reserve","coordinates":[-77.7783,47.8734]},{"code":"VEFF-1902","program":"wwff","name":"Reserve ecologique des Caribous-de-Jourdan","coordinates":[-77.89142,47.79301]}]}

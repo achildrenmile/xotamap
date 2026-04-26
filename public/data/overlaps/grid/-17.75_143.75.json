@@ -1,1 +1,1 @@
-{"lat":-17.75,"lon":143.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1477","program":"pota","name":"Bulleringa National Park","coordinates":[143.86,-17.5995]}]}
+{"lat":-17.75,"lon":143.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1477","program":"pota","name":"Bulleringa National Park","coordinates":[143.86,-17.5995]},{"code":"VKFF-0064","program":"wwff","name":"Bulleringa National Park","coordinates":[143.897,-17.6205]}]}

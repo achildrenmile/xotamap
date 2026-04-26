@@ -1,1 +1,1 @@
-{"lat":-28.75,"lon":-71.25,"programs":["pota"],"count":1,"references":[{"code":"CL-0387","program":"pota","name":"Chimeneas de Labrar Historic Site","coordinates":[-71.2424,-28.7273]}]}
+{"lat":-28.75,"lon":-71.25,"programs":["pota","wlota"],"count":2,"references":[{"code":"CL-0387","program":"pota","name":"Chimeneas de Labrar Historic Site","coordinates":[-71.2424,-28.7273]},{"code":"WLOTA-0550","program":"wlota","name":"Isla Carrizal","coordinates":[-71.16300201,-28.75]}]}

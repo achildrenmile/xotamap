@@ -1,1 +1,1 @@
-{"lat":41,"lon":30.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0325","program":"pota","name":"Uzunkum Nature Park","coordinates":[30.2833,41.2016]}]}
+{"lat":41,"lon":30.25,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"TUR 058","program":"arlhs","name":"Kefkenada (Kefken Island)","coordinates":[30.27000046,41.22000122]},{"code":"TR-0325","program":"pota","name":"Uzunkum Nature Park","coordinates":[30.2833,41.2016]},{"code":"WLOTA-0691","program":"wlota","name":"Kefken Adasi","coordinates":[30.25799942,41.21699905]}]}

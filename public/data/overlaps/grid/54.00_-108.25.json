@@ -1,1 +1,1 @@
-{"lat":54,"lon":-108.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2834","program":"pota","name":"Saint Cyr Hills Trails Recreation Site","coordinates":[-108.171,54.1969]}]}
+{"lat":54,"lon":-108.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2834","program":"pota","name":"Saint Cyr Hills Trails Recreation Site","coordinates":[-108.171,54.1969]},{"code":"VEFF-5127","program":"wwff","name":"Saint Cyr Hills Trails Recreation Site","coordinates":[-108.17118,54.19688]}]}

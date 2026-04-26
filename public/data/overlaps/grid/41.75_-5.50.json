@@ -1,1 +1,1 @@
-{"lat":41.75,"lon":-5.5,"programs":["pota"],"count":1,"references":[{"code":"ES-2263","program":"pota","name":"Penillanuras-Campos Sur Natura 2000","coordinates":[-5.4522,41.9577]}]}
+{"lat":41.75,"lon":-5.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-2263","program":"pota","name":"Penillanuras-Campos Sur Natura 2000","coordinates":[-5.4522,41.9577]},{"code":"EAFF-1064","program":"wwff","name":"ZEPA Penillanuras-Campos Sur","coordinates":[-5.43052,41.98022]}]}

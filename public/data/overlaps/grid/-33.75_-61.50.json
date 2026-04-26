@@ -1,1 +1,1 @@
-{"lat":-33.75,"lon":-61.5,"programs":["pota"],"count":1,"references":[{"code":"AR-0139","program":"pota","name":"Laguna Melincue Conservation Area","coordinates":[-61.4758,-33.6995]}]}
+{"lat":-33.75,"lon":-61.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0139","program":"pota","name":"Laguna Melincue Conservation Area","coordinates":[-61.4758,-33.6995]},{"code":"LUFF-0131","program":"wwff","name":"Laguna MELINCUÉ","coordinates":[-61.47577,-33.69949]}]}

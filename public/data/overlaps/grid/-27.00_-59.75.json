@@ -1,1 +1,1 @@
-{"lat":-27,"lon":-59.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0038","program":"pota","name":"Chaco National Park","coordinates":[-59.6546,-26.8299]}]}
+{"lat":-27,"lon":-59.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0038","program":"pota","name":"Chaco National Park","coordinates":[-59.6546,-26.8299]},{"code":"LUFF-0004","program":"wwff","name":"Chaco","coordinates":[-59.65461,-26.82987]}]}

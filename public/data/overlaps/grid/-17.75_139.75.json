@@ -1,1 +1,1 @@
-{"lat":-17.75,"lon":139.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1361","program":"pota","name":"Finucane Island National Park","coordinates":[139.777,-17.6252]}]}
+{"lat":-17.75,"lon":139.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1361","program":"pota","name":"Finucane Island National Park","coordinates":[139.777,-17.6252]},{"code":"VKFF-0723","program":"wwff","name":"Finucane Island National Park","coordinates":[139.7872,-17.629]}]}

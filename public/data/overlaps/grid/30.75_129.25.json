@@ -1,1 +1,1 @@
-{"lat":30.75,"lon":129.25,"programs":["sota"],"count":1,"references":[{"code":"JA6/KG-194","program":"sota","name":"Shimonoshima","coordinates":[129.4328,30.8468]}]}
+{"lat":30.75,"lon":129.25,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"JPN 312","program":"arlhs","name":"Kusagaki Shima (Ryukyu Islands) (Kagoshima)","coordinates":[129.47000122,30.85000038]},{"code":"JA6/KG-194","program":"sota","name":"Shimonoshima","coordinates":[129.4328,30.8468]},{"code":"WLOTA-0252","program":"wlota","name":"Kamino Shima","coordinates":[129.46499634,30.8579998]}]}

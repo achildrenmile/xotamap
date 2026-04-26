@@ -1,1 +1,1 @@
-{"lat":-30.5,"lon":30.5,"programs":["pota"],"count":1,"references":[{"code":"ZA-0151","program":"pota","name":"Vernon Crookes Nature Reserve","coordinates":[30.6107,-30.2663]}]}
+{"lat":-30.5,"lon":30.5,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"SAF 016","program":"arlhs","name":"Ifafa Beach","coordinates":[30.64999962,-30.46999931]},{"code":"ZA-0151","program":"pota","name":"Vernon Crookes Nature Reserve","coordinates":[30.6107,-30.2663]},{"code":"ZSFF-0411","program":"wwff","name":"Vernon Crookes Nature Reserve","coordinates":[30.59449,-30.27364]}]}

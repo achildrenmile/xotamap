@@ -1,1 +1,1 @@
-{"lat":23,"lon":-82,"programs":["pota"],"count":1,"references":[{"code":"CU-0363","program":"pota","name":"Jardines de Hershey Flora and Fauna Reserve","coordinates":[-81.9299,23.1349]}]}
+{"lat":23,"lon":-82,"programs":["arlhs","pota"],"count":2,"references":[{"code":"CUB 018","program":"arlhs","name":"Canasi","coordinates":[-81.80000305,23.18000031]},{"code":"CU-0363","program":"pota","name":"Jardines de Hershey Flora and Fauna Reserve","coordinates":[-81.9299,23.1349]}]}

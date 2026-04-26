@@ -1,1 +1,1 @@
-{"lat":18.5,"lon":100,"programs":["pota"],"count":1,"references":[{"code":"TH-0071","program":"pota","name":"Mae Yom National Park","coordinates":[100.178,18.7126]}]}
+{"lat":18.5,"lon":100,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0071","program":"pota","name":"Mae Yom National Park","coordinates":[100.178,18.7126]},{"code":"HSFF-0052","program":"wwff","name":"Mae Yom National Park","coordinates":[100.16355,18.62588]}]}

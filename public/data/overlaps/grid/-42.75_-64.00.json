@@ -1,1 +1,1 @@
-{"lat":-42.75,"lon":-64,"programs":["pota"],"count":1,"references":[{"code":"AR-0046","program":"pota","name":"Peninsula Valdes Nature Reserve","coordinates":[-63.9058,-42.5121]}]}
+{"lat":-42.75,"lon":-64,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0046","program":"pota","name":"Peninsula Valdes Nature Reserve","coordinates":[-63.9058,-42.5121]},{"code":"LUFF-0070","program":"wwff","name":"Peninsula Vald","coordinates":[-63.90585,-42.51211]}]}

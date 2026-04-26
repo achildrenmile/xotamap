@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":27.25,"programs":["pota"],"count":1,"references":[{"code":"RO-1283","program":"pota","name":"Balta Tătaru Natura 2000","coordinates":[27.4139,44.8287]}]}
+{"lat":44.75,"lon":27.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RO-1283","program":"pota","name":"Balta Tătaru Natura 2000","coordinates":[27.4139,44.8287]},{"code":"YOFF-0105","program":"wwff","name":"Balta Tataru","coordinates":[27.41295,44.82592]},{"code":"YOFF-0440","program":"wwff","name":"Valea Calmatuiului","coordinates":[27.25571,44.95848]}]}

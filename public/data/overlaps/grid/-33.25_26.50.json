@@ -1,1 +1,1 @@
-{"lat":-33.25,"lon":26.5,"programs":["sota"],"count":1,"references":[{"code":"ZS/EL-270","program":"sota","name":"Graskop","coordinates":[26.7067,-33.1181]}]}
+{"lat":-33.25,"lon":26.5,"programs":["sota","wwff"],"count":3,"references":[{"code":"ZS/EL-270","program":"sota","name":"Graskop","coordinates":[26.7067,-33.1181]},{"code":"ZSFF-0207","program":"wwff","name":"Kwandwe Private Game Reserve","coordinates":[26.52994,-33.14905]},{"code":"ZSFF-0214","program":"wwff","name":"Lanka Safaris Game Farm","coordinates":[26.69399,-33.02314]}]}

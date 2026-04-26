@@ -1,1 +1,1 @@
-{"lat":9.25,"lon":-83,"programs":["pota"],"count":1,"references":[{"code":"PA-0008","program":"pota","name":"La Amistad National Park","coordinates":[-82.8064,9.29618]}]}
+{"lat":9.25,"lon":-83,"programs":["pota","wwff"],"count":2,"references":[{"code":"PA-0008","program":"pota","name":"La Amistad National Park","coordinates":[-82.8064,9.29618]},{"code":"TIFF-0012","program":"wwff","name":"La Amistad (Talamanca)","coordinates":[-82.9388,9.40708]}]}

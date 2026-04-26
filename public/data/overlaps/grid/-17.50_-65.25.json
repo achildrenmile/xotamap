@@ -1,1 +1,1 @@
-{"lat":-17.5,"lon":-65.25,"programs":["pota"],"count":1,"references":[{"code":"BO-0013","program":"pota","name":"Carrasco National Park","coordinates":[-65.0009,-17.417]}]}
+{"lat":-17.5,"lon":-65.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BO-0013","program":"pota","name":"Carrasco National Park","coordinates":[-65.0009,-17.417]},{"code":"CPFF-0003","program":"wwff","name":"CarrascoIchilo","coordinates":[-65.00097,-17.41731]}]}

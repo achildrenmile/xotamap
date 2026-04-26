@@ -1,1 +1,1 @@
-{"lat":-33.75,"lon":146.5,"programs":["pota"],"count":1,"references":[{"code":"AU-2397","program":"pota","name":"Gubbata Nature Park","coordinates":[146.542,-33.6324]}]}
+{"lat":-33.75,"lon":146.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2397","program":"pota","name":"Gubbata Nature Park","coordinates":[146.542,-33.6324]},{"code":"VKFF-2616","program":"wwff","name":"Gubbata Nature Reserve","coordinates":[146.5421,-33.6324]}]}

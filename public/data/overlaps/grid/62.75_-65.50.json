@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":-65.5,"programs":["pota"],"count":1,"references":[{"code":"CA-5285","program":"pota","name":"Kodlunarn Island National Historic Site","coordinates":[-65.4296,62.8177]}]}
+{"lat":62.75,"lon":-65.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-5285","program":"pota","name":"Kodlunarn Island National Historic Site","coordinates":[-65.4296,62.8177]},{"code":"VEFF-2804","program":"wwff","name":"Kodlunarn Island N.H.S.","coordinates":[-65.42961,62.81768]}]}

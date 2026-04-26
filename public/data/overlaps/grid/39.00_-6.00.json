@@ -1,1 +1,1 @@
-{"lat":39,"lon":-6,"programs":["sota"],"count":1,"references":[{"code":"EA4/BA-079","program":"sota","name":"Sierra del Villar","coordinates":[-5.8284,39.0719]}]}
+{"lat":39,"lon":-6,"programs":["sota","wwff"],"count":2,"references":[{"code":"EA4/BA-079","program":"sota","name":"Sierra del Villar","coordinates":[-5.8284,39.0719]},{"code":"EAFF-0712","program":"wwff","name":"ZEPA Llanos de Zorita y Embalse de Sierra Brava","coordinates":[-5.77002,39.19505]}]}

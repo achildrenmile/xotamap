@@ -1,1 +1,1 @@
-{"lat":44,"lon":22.25,"programs":["pota"],"count":1,"references":[{"code":"RS-0161","program":"pota","name":"Bukovo Nature Reserve","coordinates":[22.4943,44.2182]}]}
+{"lat":44,"lon":22.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RS-0161","program":"pota","name":"Bukovo Nature Reserve","coordinates":[22.4943,44.2182]},{"code":"YUFF-0062","program":"wwff","name":"Bukovo","coordinates":[22.49151,44.21631]}]}

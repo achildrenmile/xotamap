@@ -1,1 +1,1 @@
-{"lat":65.5,"lon":24.5,"programs":["iota"],"count":1,"references":[{"code":"EU-126","program":"iota","name":"LAPPI PROVINCE group","coordinates":[24.60499954,65.70000076]}]}
+{"lat":65.5,"lon":24.5,"programs":["arlhs","iota"],"count":3,"references":[{"code":"FIN 018","program":"arlhs","name":"Keminkraaseli","coordinates":[24.56999969,65.62000275]},{"code":"FIN 091","program":"arlhs","name":"Ykskivi","coordinates":[24.70000076,65.59999847]},{"code":"EU-126","program":"iota","name":"LAPPI PROVINCE group","coordinates":[24.60499954,65.70000076]}]}

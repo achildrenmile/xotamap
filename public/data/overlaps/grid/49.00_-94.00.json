@@ -1,1 +1,1 @@
-{"lat":49,"lon":-94,"programs":["pota"],"count":1,"references":[{"code":"CA-0169","program":"pota","name":"Caliper Lake Provincial Park","coordinates":[-93.9041,49.069]}]}
+{"lat":49,"lon":-94,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0169","program":"pota","name":"Caliper Lake Provincial Park","coordinates":[-93.9041,49.069]},{"code":"VEFF-0169","program":"wwff","name":"Caliper Lake Provincial Park","coordinates":[-93.90411,49.06897]}]}

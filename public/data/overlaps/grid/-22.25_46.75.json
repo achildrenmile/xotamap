@@ -1,1 +1,1 @@
-{"lat":-22.25,"lon":46.75,"programs":["pota"],"count":1,"references":[{"code":"MG-0004","program":"pota","name":"Andringitra National Park","coordinates":[46.89,-22.2]}]}
+{"lat":-22.25,"lon":46.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"MG-0004","program":"pota","name":"Andringitra National Park","coordinates":[46.89,-22.2]},{"code":"5RFF-0003","program":"wwff","name":"Andringitra","coordinates":[46.885,-22.195]}]}

@@ -1,1 +1,1 @@
-{"lat":-34,"lon":119.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0132","program":"pota","name":"Fitzgerald River National Park","coordinates":[119.517,-33.967]}]}
+{"lat":-34,"lon":119.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0132","program":"pota","name":"Fitzgerald River National Park","coordinates":[119.517,-33.967]},{"code":"VKFF-0171","program":"wwff","name":"Fitzgerald River National Park","coordinates":[119.5263,-33.9874]}]}

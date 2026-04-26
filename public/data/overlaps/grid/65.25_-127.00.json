@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":-127,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0383","program":"wwbota","name":"District of Mackenzie FRP JF3","coordinates":[-126.7987848,65.28139513]}]}
+{"lat":65.25,"lon":-127,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0383","program":"wwbota","name":"District of Mackenzie FRP JF3","coordinates":[-126.7987848,65.28139513]},{"code":"VEFF-2233","program":"wwff","name":"McKinnon Territorial Park","coordinates":[-126.75567,65.2683]}]}

@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":-98,"programs":["pota"],"count":1,"references":[{"code":"CA-2507","program":"pota","name":"Sharpewood Wildlife Management Area","coordinates":[-97.886,50.86]}]}
+{"lat":50.75,"lon":-98,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2507","program":"pota","name":"Sharpewood Wildlife Management Area","coordinates":[-97.886,50.86]},{"code":"VEFF-5044","program":"wwff","name":"Sharpewood Wildlife Management Area","coordinates":[-97.8441,50.84583]}]}

@@ -1,1 +1,1 @@
-{"lat":33.75,"lon":-120.25,"programs":["sota"],"count":1,"references":[{"code":"W6/SC-336","program":"sota","name":"Santa Rosa Island","coordinates":[-120.1177,33.9453]}]}
+{"lat":33.75,"lon":-120.25,"programs":["sota","wlota","wwff"],"count":3,"references":[{"code":"W6/SC-336","program":"sota","name":"Santa Rosa Island","coordinates":[-120.1177,33.9453]},{"code":"WLOTA-4474","program":"wlota","name":"Santa Rosa Island","coordinates":[-120.11799622,33.89199829]},{"code":"KFF-3458","program":"wwff","name":"Lake Valley","coordinates":[-120.007,33.887]}]}

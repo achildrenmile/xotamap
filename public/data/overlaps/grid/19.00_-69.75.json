@@ -1,1 +1,1 @@
-{"lat":19,"lon":-69.75,"programs":["pota"],"count":1,"references":[{"code":"DO-0029","program":"pota","name":"Manglares del Bajo Yuna National Park","coordinates":[-69.7129,19.1765]}]}
+{"lat":19,"lon":-69.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"DO-0029","program":"pota","name":"Manglares del Bajo Yuna National Park","coordinates":[-69.7129,19.1765]},{"code":"HIFF-0012","program":"wwff","name":"Los Haitises","coordinates":[-69.6,19.07]}]}

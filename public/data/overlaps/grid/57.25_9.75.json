@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":9.75,"programs":["pota"],"count":1,"references":[{"code":"DK-0005","program":"pota","name":"Rudbjerg Knude Coastal Park","coordinates":[9.78425,57.4512]}]}
+{"lat":57.25,"lon":9.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"DEN 036","program":"arlhs","name":"Rubjerg Knude","coordinates":[9.77999973,57.45000076]},{"code":"DK-0005","program":"pota","name":"Rudbjerg Knude Coastal Park","coordinates":[9.78425,57.4512]},{"code":"OZFF-0074","program":"wwff","name":"Rudbjerg Knude","coordinates":[9.78425,57.45116]}]}

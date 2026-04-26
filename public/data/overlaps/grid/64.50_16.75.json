@@ -1,1 +1,1 @@
-{"lat":64.5,"lon":16.75,"programs":["sota"],"count":1,"references":[{"code":"SM/VB-239","program":"sota","name":"Valsjöberget","coordinates":[16.960611,64.51071]}]}
+{"lat":64.5,"lon":16.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"SM/VB-239","program":"sota","name":"Valsjöberget","coordinates":[16.960611,64.51071]},{"code":"SMFF-6547","program":"wwff","name":"Stormyran, Vilhelmina","coordinates":[16.805,64.56667]}]}

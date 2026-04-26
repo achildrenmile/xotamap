@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":18.75,"programs":["pota"],"count":1,"references":[{"code":"HU-0123","program":"pota","name":"Cseresznyési Erdei Iskola Park","coordinates":[18.8207,46.648]}]}
+{"lat":46.5,"lon":18.75,"programs":["pota","wca"],"count":2,"references":[{"code":"HU-0123","program":"pota","name":"Cseresznyési Erdei Iskola Park","coordinates":[18.8207,46.648]},{"code":"HA-00091","program":"wca","name":"Bottyan Sanc","coordinates":[18.88166667,46.65583333]}]}

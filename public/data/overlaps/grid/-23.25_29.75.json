@@ -1,1 +1,1 @@
-{"lat":-23.25,"lon":29.75,"programs":["sota"],"count":1,"references":[{"code":"ZS/LP-148","program":"sota","name":"Soutpansberg","coordinates":[29.7619,-23.0029]}]}
+{"lat":-23.25,"lon":29.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"ZS/LP-148","program":"sota","name":"Soutpansberg","coordinates":[29.7619,-23.0029]},{"code":"ZSFF-0069","program":"wwff","name":"Ben Lavin Nature Reserve","coordinates":[29.94401,-23.12457]},{"code":"ZSFF-0149","program":"wwff","name":"Hanglip Reserve","coordinates":[29.90572,-23.00566]}]}

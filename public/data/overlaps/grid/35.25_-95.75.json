@@ -1,1 +1,1 @@
-{"lat":35.25,"lon":-95.75,"programs":["pota"],"count":1,"references":[{"code":"US-2789","program":"pota","name":"Lake Eufaula State Park","coordinates":[-95.6051,35.4002]}]}
+{"lat":35.25,"lon":-95.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-2789","program":"pota","name":"Lake Eufaula State Park","coordinates":[-95.6051,35.4002]},{"code":"KFF-2789","program":"wwff","name":"Lake Eufaula","coordinates":[-95.609,35.39753]},{"code":"KFF-4806","program":"wwff","name":"Eufaula","coordinates":[-95.66138,35.43731]}]}

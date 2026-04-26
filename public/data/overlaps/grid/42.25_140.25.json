@@ -1,1 +1,1 @@
-{"lat":42.25,"lon":140.25,"programs":["sota"],"count":1,"references":[{"code":"JA8/OM-065","program":"sota","name":"Nakanosawa","coordinates":[140.2863,42.4836]}]}
+{"lat":42.25,"lon":140.25,"programs":["arlhs","sota"],"count":2,"references":[{"code":"JPN 1014","program":"arlhs","name":"Yakumo Ko (Hokkaido)","coordinates":[140.30000305,42.25]},{"code":"JA8/OM-065","program":"sota","name":"Nakanosawa","coordinates":[140.2863,42.4836]}]}

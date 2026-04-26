@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":24,"programs":["pota"],"count":1,"references":[{"code":"BY-0063","program":"pota","name":"Азёры Landscape Reserve","coordinates":[24.2424,53.7893]}]}
+{"lat":53.75,"lon":24,"programs":["pota","wwff"],"count":3,"references":[{"code":"BY-0063","program":"pota","name":"Азёры Landscape Reserve","coordinates":[24.2424,53.7893]},{"code":"EWFF-0022","program":"wwff","name":"Ozery","coordinates":[24.18091,53.78503]},{"code":"LYFF-0244","program":"wwff","name":"Cimakavo Ornitological Reserve","coordinates":[24.15344,53.99948]}]}

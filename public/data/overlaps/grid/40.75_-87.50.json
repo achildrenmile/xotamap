@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":-87.5,"programs":["pota"],"count":1,"references":[{"code":"US-4233","program":"pota","name":"Willow Slough State Fish and Wildlife Area","coordinates":[-87.4993,40.9993]}]}
+{"lat":40.75,"lon":-87.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4233","program":"pota","name":"Willow Slough State Fish and Wildlife Area","coordinates":[-87.4993,40.9993]},{"code":"KFF-4233","program":"wwff","name":"Willow Slough","coordinates":[-87.49932,40.99927]}]}

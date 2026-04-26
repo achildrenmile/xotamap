@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":-97.75,"programs":["pota"],"count":1,"references":[{"code":"US-2918","program":"pota","name":"Fort Sisseton State Park","coordinates":[-97.5319,45.6588]}]}
+{"lat":45.5,"lon":-97.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2918","program":"pota","name":"Fort Sisseton State Park","coordinates":[-97.5319,45.6588]},{"code":"KFF-2918","program":"wwff","name":"Fort Sisseton","coordinates":[-97.53186,45.65879]}]}

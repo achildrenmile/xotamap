@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":-88.5,"programs":["pota"],"count":1,"references":[{"code":"US-1283","program":"pota","name":"Kentucky Dam Village State Park","coordinates":[-88.2888,36.9982]}]}
+{"lat":36.75,"lon":-88.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-1283","program":"pota","name":"Kentucky Dam Village State Park","coordinates":[-88.2888,36.9982]},{"code":"KFF-0295","program":"wwff","name":"Clarks River","coordinates":[-88.34536,36.87994]},{"code":"KFF-1283","program":"wwff","name":"Kentucky Dam Village","coordinates":[-88.28876,36.99825]}]}

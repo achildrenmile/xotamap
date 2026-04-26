@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":-113.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0679","program":"pota","name":"Tawatinaw Natural Area","coordinates":[-113.328,54.2877]}]}
+{"lat":54.25,"lon":-113.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-0679","program":"pota","name":"Tawatinaw Natural Area","coordinates":[-113.328,54.2877]},{"code":"VEFF-0679","program":"wwff","name":"Tawatinaw Natural Area","coordinates":[-113.32847,54.28767]},{"code":"VEFF-5182","program":"wwff","name":"Privately Protected Area (NCC 20024)","coordinates":[-113.34266,54.41683]}]}

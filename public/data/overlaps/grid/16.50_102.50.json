@@ -1,1 +1,1 @@
-{"lat":16.5,"lon":102.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0083","program":"pota","name":"Nam Phong National Park","coordinates":[102.57,16.6244]}]}
+{"lat":16.5,"lon":102.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0083","program":"pota","name":"Nam Phong National Park","coordinates":[102.57,16.6244]},{"code":"HSFF-0060","program":"wwff","name":"Nam Phong National Park","coordinates":[102.57006,16.62446]}]}

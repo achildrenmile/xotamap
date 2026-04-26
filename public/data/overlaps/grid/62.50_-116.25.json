@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":-116.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4338","program":"pota","name":"North Arm Territorial Park","coordinates":[-116.079,62.7197]}]}
+{"lat":62.5,"lon":-116.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4338","program":"pota","name":"North Arm Territorial Park","coordinates":[-116.079,62.7197]},{"code":"VEFF-2236","program":"wwff","name":"North Arm Territorial Park","coordinates":[-116.07951,62.71927]}]}

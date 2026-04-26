@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-107.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1109","program":"pota","name":"Glenburn Regional Park","coordinates":[-107.7,52.4971]}]}
+{"lat":52.25,"lon":-107.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1109","program":"pota","name":"Glenburn Regional Park","coordinates":[-107.7,52.4971]},{"code":"VEFF-1109","program":"wwff","name":"Glenburn Regional Park","coordinates":[-107.69966,52.49712]}]}

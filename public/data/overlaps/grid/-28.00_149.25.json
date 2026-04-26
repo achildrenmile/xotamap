@@ -1,1 +1,1 @@
-{"lat":-28,"lon":149.25,"programs":["pota"],"count":1,"references":[{"code":"AU-1539","program":"pota","name":"Alton National Park","coordinates":[149.332,-27.9969]}]}
+{"lat":-28,"lon":149.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1539","program":"pota","name":"Alton National Park","coordinates":[149.332,-27.9969]},{"code":"VKFF-0003","program":"wwff","name":"Alton National Park","coordinates":[149.32761,-27.9955]}]}

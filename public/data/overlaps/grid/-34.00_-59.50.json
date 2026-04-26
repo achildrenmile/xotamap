@@ -1,1 +1,1 @@
-{"lat":-34,"lon":-59.5,"programs":["pota"],"count":1,"references":[{"code":"AR-0022","program":"pota","name":"Barranca Norte Nature Reserve","coordinates":[-59.4098,-33.831]}]}
+{"lat":-34,"lon":-59.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0022","program":"pota","name":"Barranca Norte Nature Reserve","coordinates":[-59.4098,-33.831]},{"code":"LUFF-0096","program":"wwff","name":"BARRANCA NORTE","coordinates":[-59.40982,-33.83095]}]}

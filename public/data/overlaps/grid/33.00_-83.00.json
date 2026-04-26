@@ -1,1 +1,1 @@
-{"lat":33,"lon":-83,"programs":["pota"],"count":1,"references":[{"code":"US-2183","program":"pota","name":"Hamburg State Park","coordinates":[-82.7785,33.2065]}]}
+{"lat":33,"lon":-83,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2183","program":"pota","name":"Hamburg State Park","coordinates":[-82.7785,33.2065]},{"code":"KFF-2183","program":"wwff","name":"Hamburg","coordinates":[-82.77809,33.20681]}]}

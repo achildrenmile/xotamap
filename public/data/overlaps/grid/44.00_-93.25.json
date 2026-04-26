@@ -1,1 +1,1 @@
-{"lat":44,"lon":-93.25,"programs":["pota"],"count":1,"references":[{"code":"US-2516","program":"pota","name":"Rice Lake State Park","coordinates":[-93.0587,44.0937]}]}
+{"lat":44,"lon":-93.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2516","program":"pota","name":"Rice Lake State Park","coordinates":[-93.0587,44.0937]},{"code":"KFF-2516","program":"wwff","name":"Rice Lake","coordinates":[-93.0587,44.09366]}]}

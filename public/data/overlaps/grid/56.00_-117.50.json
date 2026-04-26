@@ -1,1 +1,1 @@
-{"lat":56,"lon":-117.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0651","program":"pota","name":"Greene Valley Provincial Park","coordinates":[-117.259,56.1482]}]}
+{"lat":56,"lon":-117.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-0651","program":"pota","name":"Greene Valley Provincial Park","coordinates":[-117.259,56.1482]},{"code":"VEFF-0651","program":"wwff","name":"Greene Valley Provincial Park","coordinates":[-117.25948,56.14823]},{"code":"VEFF-3112","program":"wwff","name":"Fort Fork N.H.S.","coordinates":[-117.475,56.1375]}]}

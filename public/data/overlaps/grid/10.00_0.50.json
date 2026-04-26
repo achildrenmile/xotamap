@@ -1,1 +1,1 @@
-{"lat":10,"lon":0.5,"programs":["pota"],"count":1,"references":[{"code":"TG-0003","program":"pota","name":"Keran National Park","coordinates":[0.6,10.0748]}]}
+{"lat":10,"lon":0.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TG-0003","program":"pota","name":"Keran National Park","coordinates":[0.6,10.0748]},{"code":"5VFF-0003","program":"wwff","name":"Oti-Keran/Oti-Mandouri","coordinates":[0.68,10.15]}]}

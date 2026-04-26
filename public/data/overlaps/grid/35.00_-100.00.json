@@ -1,1 +1,1 @@
-{"lat":35,"lon":-100,"programs":["pota"],"count":1,"references":[{"code":"US-6374","program":"pota","name":"Sandy Sanders Wildlife Management Area","coordinates":[-99.7739,35.0369]}]}
+{"lat":35,"lon":-100,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6374","program":"pota","name":"Sandy Sanders Wildlife Management Area","coordinates":[-99.7739,35.0369]},{"code":"KFF-4831","program":"wwff","name":"Sandy Sanders","coordinates":[-99.83559,35.07277]}]}

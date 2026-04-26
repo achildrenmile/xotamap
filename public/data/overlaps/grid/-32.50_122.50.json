@@ -1,1 +1,1 @@
-{"lat":-32.5,"lon":122.5,"programs":["pota"],"count":1,"references":[{"code":"AU-2913","program":"pota","name":"Dundas Nature Park","coordinates":[122.615,-32.4923]}]}
+{"lat":-32.5,"lon":122.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2913","program":"pota","name":"Dundas Nature Park","coordinates":[122.615,-32.4923]},{"code":"VKFF-2810","program":"wwff","name":"Dundas Nature Reserve","coordinates":[122.6149,-32.4923]}]}

@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":-107,"programs":["pota"],"count":1,"references":[{"code":"CA-1126","program":"pota","name":"Martins Lake Regional Park","coordinates":[-106.996,52.9955]}]}
+{"lat":52.75,"lon":-107,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1126","program":"pota","name":"Martins Lake Regional Park","coordinates":[-106.996,52.9955]},{"code":"VEFF-1126","program":"wwff","name":"Martins Lake Regional Park","coordinates":[-106.99624,52.99546]}]}

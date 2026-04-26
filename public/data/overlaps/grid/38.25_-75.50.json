@@ -1,1 +1,1 @@
-{"lat":38.25,"lon":-75.5,"programs":["pota"],"count":1,"references":[{"code":"US-7743","program":"pota","name":"Johnson Wildlife Management Area","coordinates":[-75.4989,38.3043]}]}
+{"lat":38.25,"lon":-75.5,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"USA 283","program":"arlhs","name":"Fenwick Island","coordinates":[-75.5,38.45000076]},{"code":"US-7743","program":"pota","name":"Johnson Wildlife Management Area","coordinates":[-75.4989,38.3043]},{"code":"KFF-6592","program":"wwff","name":"Johnson","coordinates":[-75.4989,38.3043]}]}

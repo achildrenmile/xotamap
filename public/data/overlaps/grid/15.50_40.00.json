@@ -1,1 +1,1 @@
-{"lat":15.5,"lon":40,"programs":["pota"],"count":1,"references":[{"code":"ER-0001","program":"pota","name":"Dalhak Marine National Park","coordinates":[40.098,15.705]}]}
+{"lat":15.5,"lon":40,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"ERI 004","program":"arlhs","name":"Shumma Island","coordinates":[40,15.52999973]},{"code":"ER-0001","program":"pota","name":"Dalhak Marine National Park","coordinates":[40.098,15.705]},{"code":"E3FF-0001","program":"wwff","name":"Dahlak Marine","coordinates":[40.104,15.648]}]}

@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-101.5,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0661","program":"wwbota","name":"FRP DG43","coordinates":[-101.417399,51.307858]}]}
+{"lat":51.25,"lon":-101.5,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0661","program":"wwbota","name":"FRP DG43","coordinates":[-101.417399,51.307858]},{"code":"VEFF-5049","program":"wwff","name":"SW-20-029-28 W","coordinates":[-101.37174,51.49674]}]}

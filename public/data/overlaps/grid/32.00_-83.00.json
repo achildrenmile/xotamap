@@ -1,1 +1,1 @@
-{"lat":32,"lon":-83,"programs":["pota"],"count":1,"references":[{"code":"US-2189","program":"pota","name":"Little Ocmulgee State Park","coordinates":[-82.8848,32.0916]}]}
+{"lat":32,"lon":-83,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2189","program":"pota","name":"Little Ocmulgee State Park","coordinates":[-82.8848,32.0916]},{"code":"KFF-2189","program":"wwff","name":"Little Ocmulgee","coordinates":[-82.89434,32.09223]}]}

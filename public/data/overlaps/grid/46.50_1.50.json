@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":1.5,"programs":["pota"],"count":1,"references":[{"code":"FR-3702","program":"pota","name":"VALLEE DE LA CREUSE ET AFFLUENTS  FR2400536 Natura 2000","coordinates":[1.57915,46.5311]}]}
+{"lat":46.5,"lon":1.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-3702","program":"pota","name":"VALLEE DE LA CREUSE ET AFFLUENTS  FR2400536 Natura 2000","coordinates":[1.57915,46.5311]},{"code":"FFF-1162","program":"wwff","name":"For?t domaniale de Ch?teauroux","coordinates":[1.72494,46.73911]}]}

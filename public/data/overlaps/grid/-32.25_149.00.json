@@ -1,1 +1,1 @@
-{"lat":-32.25,"lon":149,"programs":["pota"],"count":1,"references":[{"code":"AU-2036","program":"pota","name":"Cobbora State Conservation Area","coordinates":[149.168,-32.0398]}]}
+{"lat":-32.25,"lon":149,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2036","program":"pota","name":"Cobbora State Conservation Area","coordinates":[149.168,-32.0398]},{"code":"VKFF-1302","program":"wwff","name":"Cobbora State Conservation Area","coordinates":[149.1683,-32.0398]}]}

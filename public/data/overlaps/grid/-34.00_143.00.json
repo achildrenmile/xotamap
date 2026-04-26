@@ -1,1 +1,1 @@
-{"lat":-34,"lon":143,"programs":["pota"],"count":1,"references":[{"code":"AU-1800","program":"pota","name":"Mungo State Conservation Area","coordinates":[143.169,-33.8357]}]}
+{"lat":-34,"lon":143,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1800","program":"pota","name":"Mungo State Conservation Area","coordinates":[143.169,-33.8357]},{"code":"VKFF-1360","program":"wwff","name":"Mungo State Conservation Area","coordinates":[143.1691,-33.8357]}]}

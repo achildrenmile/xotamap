@@ -1,1 +1,1 @@
-{"lat":-53.5,"lon":-71.5,"programs":["pota"],"count":1,"references":[{"code":"CL-0095","program":"pota","name":"Laguna Parrillar National Reserve","coordinates":[-71.35,-53.35]}]}
+{"lat":-53.5,"lon":-71.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CL-0095","program":"pota","name":"Laguna Parrillar National Reserve","coordinates":[-71.35,-53.35]},{"code":"CEFF-0093","program":"wwff","name":"Laguna Parrillar","coordinates":[-71.27885,-53.42255]}]}

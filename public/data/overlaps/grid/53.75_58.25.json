@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":58.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-044","program":"sota","name":"Arvyakryaz","coordinates":[58.327,53.7733]}]}
+{"lat":53.75,"lon":58.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"R9U/SO-044","program":"sota","name":"Arvyakryaz","coordinates":[58.327,53.7733]},{"code":"RFF-1133","program":"wwff","name":"Gora Arvakryaz, Pamyatnik Prirody","coordinates":[58.32807,53.77304]}]}

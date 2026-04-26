@@ -1,1 +1,1 @@
-{"lat":31,"lon":-92.25,"programs":["pota"],"count":1,"references":[{"code":"US-0309","program":"pota","name":"Grand Cote National Wildlife Refuge","coordinates":[-92.1404,31.104]}]}
+{"lat":31,"lon":-92.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0309","program":"pota","name":"Grand Cote National Wildlife Refuge","coordinates":[-92.1404,31.104]},{"code":"KFF-0309","program":"wwff","name":"Grand Cote","coordinates":[-92.12973,31.10192]}]}

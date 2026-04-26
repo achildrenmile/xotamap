@@ -1,1 +1,1 @@
-{"lat":-27.75,"lon":-55.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0098","program":"pota","name":"Canadon Profundidad Provincial Park","coordinates":[-55.7097,-27.5569]}]}
+{"lat":-27.75,"lon":-55.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0098","program":"pota","name":"Canadon Profundidad Provincial Park","coordinates":[-55.7097,-27.5569]},{"code":"LUFF-0162","program":"wwff","name":"Parque Prov. Canadon de Profundidad","coordinates":[-55.70973,-27.55691]}]}

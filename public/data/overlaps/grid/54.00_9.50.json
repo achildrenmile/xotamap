@@ -1,1 +1,1 @@
-{"lat":54,"lon":9.5,"programs":["wwbota"],"count":1,"references":[{"code":"B/DL-0318","program":"wwbota","name":"Warnamt I (Zivilschutz)","coordinates":[9.711667,54.119722]}]}
+{"lat":54,"lon":9.5,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/DL-0318","program":"wwbota","name":"Warnamt I (Zivilschutz)","coordinates":[9.711667,54.119722]},{"code":"DLFF-0040","program":"wwff","name":"Nature Park Aukrug","coordinates":[9.73333,54.06667]}]}

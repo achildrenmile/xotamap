@@ -1,1 +1,1 @@
-{"lat":22.75,"lon":54.25,"programs":["pota"],"count":1,"references":[{"code":"AE-0005","program":"pota","name":"Qasr al Sarab Protected Area","coordinates":[54.3296,22.9016]}]}
+{"lat":22.75,"lon":54.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AE-0005","program":"pota","name":"Qasr al Sarab Protected Area","coordinates":[54.3296,22.9016]},{"code":"A6FF-0027","program":"wwff","name":"Qaser Al Sarab","coordinates":[54.313,22.83]}]}

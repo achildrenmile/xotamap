@@ -1,1 +1,1 @@
-{"lat":31.75,"lon":35.5,"programs":["pota"],"count":1,"references":[{"code":"IL-0028","program":"pota","name":"Qasr al-Yahud Baptismal Site Reserve","coordinates":[35.5451,31.8367]}]}
+{"lat":31.75,"lon":35.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"IL-0028","program":"pota","name":"Qasr al-Yahud Baptismal Site Reserve","coordinates":[35.5451,31.8367]},{"code":"4XFF-0057","program":"wwff","name":"Qasr al-Yahud","coordinates":[35.54619,31.83717]}]}

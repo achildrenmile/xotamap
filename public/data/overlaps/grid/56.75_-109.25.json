@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":-109.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0589","program":"pota","name":"Clearwater River Provincial Park","coordinates":[-109.187,56.8445]}]}
+{"lat":56.75,"lon":-109.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0589","program":"pota","name":"Clearwater River Provincial Park","coordinates":[-109.187,56.8445]},{"code":"VEFF-0589","program":"wwff","name":"Clearwater River Provincial Park","coordinates":[-109.18715,56.84447]}]}

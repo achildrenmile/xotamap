@@ -1,1 +1,1 @@
-{"lat":70.25,"lon":20,"programs":["pota"],"count":1,"references":[{"code":"NO-1429","program":"pota","name":"Nord-Fugløya Nature Reserve","coordinates":[20.2391,70.2622]}]}
+{"lat":70.25,"lon":20,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"NOR 091","program":"arlhs","name":"FuglÃ¸ykalven","coordinates":[20.14999962,70.31999969]},{"code":"NO-1429","program":"pota","name":"Nord-Fugløya Nature Reserve","coordinates":[20.2391,70.2622]},{"code":"WLOTA-0253","program":"wlota","name":"Fugloey","coordinates":[20.15299988,70.31300354]}]}

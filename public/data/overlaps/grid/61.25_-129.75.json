@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":-129.75,"programs":["pota"],"count":1,"references":[{"code":"CA-6285","program":"pota","name":"Frances Lake Campground Recreation Site","coordinates":[-129.645,61.403]}]}
+{"lat":61.25,"lon":-129.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6285","program":"pota","name":"Frances Lake Campground Recreation Site","coordinates":[-129.645,61.403]},{"code":"VEFF-4731","program":"wwff","name":"Frances Lake Campground","coordinates":[-129.63402,61.41146]}]}

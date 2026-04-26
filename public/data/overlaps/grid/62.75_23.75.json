@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":23.75,"programs":["pota"],"count":1,"references":[{"code":"FI-1453","program":"pota","name":"Ukonmäki Natura 2000","coordinates":[23.8428,62.9391]}]}
+{"lat":62.75,"lon":23.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1453","program":"pota","name":"Ukonmäki Natura 2000","coordinates":[23.8428,62.9391]},{"code":"OHFF-1366","program":"wwff","name":"Kynnäs","coordinates":[23.94567,62.8427]}]}

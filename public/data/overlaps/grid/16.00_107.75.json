@@ -1,1 +1,1 @@
-{"lat":16,"lon":107.75,"programs":["pota"],"count":1,"references":[{"code":"VN-0037","program":"pota","name":"Bach Ma National Park","coordinates":[107.88,16.21]}]}
+{"lat":16,"lon":107.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"VN-0037","program":"pota","name":"Bach Ma National Park","coordinates":[107.88,16.21]},{"code":"3WFF-0003","program":"wwff","name":"Bach Ma National Park","coordinates":[107.81303,16.20477]}]}

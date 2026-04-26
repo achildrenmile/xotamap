@@ -1,1 +1,1 @@
-{"lat":66,"lon":-17.25,"programs":["sota"],"count":1,"references":[{"code":"TF/NL-160","program":"sota","name":"Búrfell Tjörnesi","coordinates":[-17.1552,66.0447]}]}
+{"lat":66,"lon":-17.25,"programs":["arlhs","sota"],"count":3,"references":[{"code":"ICE 014","program":"arlhs","name":"Manareyjar","coordinates":[-17.14999962,66.23000336]},{"code":"ICE 092","program":"arlhs","name":"TjÃ¶rnes","coordinates":[-17.14999962,66.19999695]},{"code":"TF/NL-160","program":"sota","name":"Búrfell Tjörnesi","coordinates":[-17.1552,66.0447]}]}

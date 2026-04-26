@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":-79,"programs":["pota"],"count":1,"references":[{"code":"CA-1960","program":"pota","name":"Boatswain Bay Migratory Bird Sanctuary","coordinates":[-78.9157,51.8141]}]}
+{"lat":51.75,"lon":-79,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1960","program":"pota","name":"Boatswain Bay Migratory Bird Sanctuary","coordinates":[-78.9157,51.8141]},{"code":"VEFF-2802","program":"wwff","name":"Boatswain Bay","coordinates":[-78.91701,51.81372]}]}

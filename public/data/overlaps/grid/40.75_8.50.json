@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":8.5,"programs":["pota"],"count":1,"references":[{"code":"IT-0014","program":"pota","name":"Stagno e ginepreto di Platamona Natura 2000","coordinates":[8.52167,40.8222]}]}
+{"lat":40.75,"lon":8.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"IT-0014","program":"pota","name":"Stagno e ginepreto di Platamona Natura 2000","coordinates":[8.52167,40.8222]},{"code":"IFF-1317","program":"wwff","name":"Natura 2000 - Stagno e Ginepreto di Platamona","coordinates":[8.5217,40.8222]}]}

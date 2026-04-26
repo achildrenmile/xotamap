@@ -1,1 +1,1 @@
-{"lat":-33.75,"lon":21,"programs":["sota"],"count":1,"references":[{"code":"ZS/WC-843","program":"sota","name":"Ladismith Hill","coordinates":[21.2315,-33.5211]}]}
+{"lat":-33.75,"lon":21,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/WC-843","program":"sota","name":"Ladismith Hill","coordinates":[21.2315,-33.5211]},{"code":"ZSFF-0209","program":"wwff","name":"Ladismith Klein Karoo Nature Reserve","coordinates":[21.22716,-33.53932]}]}

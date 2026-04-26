@@ -1,1 +1,1 @@
-{"lat":-70.75,"lon":-8.5,"programs":["pota"],"count":1,"references":[{"code":"AQ-0046","program":"pota","name":"Neumayer Station III Antarctic Station","coordinates":[-8.2661,-70.6666]}]}
+{"lat":-70.75,"lon":-8.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AQ-0046","program":"pota","name":"Neumayer Station III Antarctic Station","coordinates":[-8.2661,-70.6666]},{"code":"DLFF-0022","program":"wwff","name":"Neumayer 3 Station","coordinates":[-8.26722,-70.66889]}]}

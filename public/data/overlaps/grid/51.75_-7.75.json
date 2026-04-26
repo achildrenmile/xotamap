@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":-7.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/EI-0020","program":"wwbota","name":"Ram Head Lookout Post (LOP 20)","coordinates":[-7.71006,51.94219]}]}
+{"lat":51.75,"lon":-7.75,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/EI-0020","program":"wwbota","name":"Ram Head Lookout Post (LOP 20)","coordinates":[-7.71006,51.94219]},{"code":"EIFF-0108","program":"wwff","name":"Ardmore Head SAC","coordinates":[-7.7099,51.9435]}]}

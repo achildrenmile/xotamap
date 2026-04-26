@@ -1,1 +1,1 @@
-{"lat":2.5,"lon":104,"programs":["sota"],"count":1,"references":[{"code":"9M2/JO-007","program":"sota","name":"Bukit Seperuk","coordinates":[104.1888,2.7445]}]}
+{"lat":2.5,"lon":104,"programs":["sota","wlota"],"count":2,"references":[{"code":"9M2/JO-007","program":"sota","name":"Bukit Seperuk","coordinates":[104.1888,2.7445]},{"code":"WLOTA-3536","program":"wlota","name":"Pulau Tioman","coordinates":[104.21700287,2.72199988]}]}

@@ -1,1 +1,1 @@
-{"lat":37.5,"lon":24,"programs":["pota"],"count":1,"references":[{"code":"GR-0118","program":"pota","name":"Sounio Protected Area","coordinates":[24.0238,37.7107]}]}
+{"lat":37.5,"lon":24,"programs":["pota","wlota","wwff"],"count":3,"references":[{"code":"GR-0118","program":"pota","name":"Sounio Protected Area","coordinates":[24.0238,37.7107]},{"code":"WLOTA-4146","program":"wlota","name":"Nisos Makronisos","coordinates":[24.10700035,37.64699936]},{"code":"SVFF-0013","program":"wwff","name":"Sounio","coordinates":[24.03353,37.67633]}]}

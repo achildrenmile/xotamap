@@ -1,1 +1,1 @@
-{"lat":-32.5,"lon":133.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0749","program":"pota","name":"Nuyts Archipelago Conservation Park","coordinates":[133.583,-32.2789]}]}
+{"lat":-32.5,"lon":133.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0749","program":"pota","name":"Nuyts Archipelago Conservation Park","coordinates":[133.583,-32.2789]},{"code":"VKFF-1071","program":"wwff","name":"Nuyts Archipelago Conservation Park","coordinates":[133.67,-32.298]}]}

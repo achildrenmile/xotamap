@@ -1,1 +1,1 @@
-{"lat":23.5,"lon":-16,"programs":["pota"],"count":1,"references":[{"code":"EH-0001","program":"pota","name":"Dakhla National Park","coordinates":[-15.943,23.694]}]}
+{"lat":23.5,"lon":-16,"programs":["arlhs","pota"],"count":3,"references":[{"code":"WSA 001","program":"arlhs","name":"Arcipres Grande","coordinates":[-15.94999981,23.71999931]},{"code":"WSA 008","program":"arlhs","name":"Punta Galera/La Sarga/Punta Durnford","coordinates":[-16,23.62999916]},{"code":"EH-0001","program":"pota","name":"Dakhla National Park","coordinates":[-15.943,23.694]}]}

@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":-122.75,"programs":["pota"],"count":1,"references":[{"code":"CA-3962","program":"pota","name":"Pinnacles Provincial Park","coordinates":[-122.561,52.979]}]}
+{"lat":52.75,"lon":-122.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3962","program":"pota","name":"Pinnacles Provincial Park","coordinates":[-122.561,52.979]},{"code":"VEFF-2160","program":"wwff","name":"Pinnacles Provincial Park","coordinates":[-122.56127,52.97908]}]}

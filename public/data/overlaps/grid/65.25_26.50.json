@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":26.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0161","program":"pota","name":"Kuusisuo-Hattusuo Natura 2000","coordinates":[26.5094,65.2557]}]}
+{"lat":65.25,"lon":26.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0161","program":"pota","name":"Kuusisuo-Hattusuo Natura 2000","coordinates":[26.5094,65.2557]},{"code":"OHFF-1103","program":"wwff","name":"Kuusisuo-Hattusuo","coordinates":[26.50936,65.25571]}]}

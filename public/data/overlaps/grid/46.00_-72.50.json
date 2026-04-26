@@ -1,1 +1,1 @@
-{"lat":46,"lon":-72.5,"programs":["pota"],"count":1,"references":[{"code":"CA-2181","program":"pota","name":"Réserve naturelle du Patrimoine-des-Hébert Nature Reserve","coordinates":[-72.428,46.1935]}]}
+{"lat":46,"lon":-72.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2181","program":"pota","name":"Réserve naturelle du Patrimoine-des-Hébert Nature Reserve","coordinates":[-72.428,46.1935]},{"code":"VEFF-4023","program":"wwff","name":"Réserve naturelle du Patrimoine-des-Hébert","coordinates":[-72.42795,46.19349]}]}

@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":-87.75,"programs":["pota"],"count":1,"references":[{"code":"US-1458","program":"pota","name":"Kohler-Andrae State Park","coordinates":[-87.7197,43.665]}]}
+{"lat":43.5,"lon":-87.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1458","program":"pota","name":"Kohler-Andrae State Park","coordinates":[-87.7197,43.665]},{"code":"KFF-1458","program":"wwff","name":"Kohler-Andrae","coordinates":[-87.71972,43.66499]}]}

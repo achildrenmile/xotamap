@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":10.25,"programs":["pota"],"count":1,"references":[{"code":"DK-0003","program":"pota","name":"Råbjerg Mile Nature Reserve","coordinates":[10.4077,57.6491]}]}
+{"lat":57.5,"lon":10.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"DK-0003","program":"pota","name":"Råbjerg Mile Nature Reserve","coordinates":[10.4077,57.6491]},{"code":"OZFF-0172","program":"wwff","name":"Hulsig Hede","coordinates":[10.46688,57.68488]},{"code":"OZFF-0224","program":"wwff","name":"Raabjerg Mile - (Råbjerg Mile)","coordinates":[10.40773,57.64908]}]}

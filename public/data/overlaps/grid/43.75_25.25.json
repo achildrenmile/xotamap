@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":25.25,"programs":["pota"],"count":1,"references":[{"code":"RO-0211","program":"pota","name":"Vedea Park","coordinates":[25.3379,43.9774]}]}
+{"lat":43.75,"lon":25.25,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"RO-0211","program":"pota","name":"Vedea Park","coordinates":[25.3379,43.9774]},{"code":"LZ-00334","program":"wca","name":"OLD BRIDGE","coordinates":[25.373333,43.996111]},{"code":"YOFF-0498","program":"wwff","name":"Vitanesti - Rasmiresti","coordinates":[25.49171,43.99566]}]}

@@ -1,1 +1,1 @@
-{"lat":-28.75,"lon":22.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/NC-279","program":"sota","name":"ZS/NC-279","coordinates":[22.4825,-28.7395]}]}
+{"lat":-28.75,"lon":22.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/NC-279","program":"sota","name":"ZS/NC-279","coordinates":[22.4825,-28.7395]},{"code":"ZSFF-0423","program":"wwff","name":"Witsand Nature Reserve","coordinates":[22.49006,-28.56352]}]}

@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":18,"programs":["gma"],"count":1,"references":[{"code":"HG/DD-212","program":"gma","name":"Kopasz-hegy (CsarnÃ³ta)","coordinates":[18.2175,45.8837]}]}
+{"lat":45.75,"lon":18,"programs":["gma","wwff"],"count":2,"references":[{"code":"HG/DD-212","program":"gma","name":"Kopasz-hegy (CsarnÃ³ta)","coordinates":[18.2175,45.8837]},{"code":"9AFF-0054","program":"wwff","name":"Podpanj","coordinates":[18.13907,45.76506]}]}

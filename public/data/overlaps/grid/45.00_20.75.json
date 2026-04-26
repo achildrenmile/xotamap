@@ -1,1 +1,1 @@
-{"lat":45,"lon":20.75,"programs":["pota"],"count":1,"references":[{"code":"RS-0209","program":"pota","name":"Park dvorca u Hajdučici Natural Monument","coordinates":[20.9635,45.2443]}]}
+{"lat":45,"lon":20.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RS-0209","program":"pota","name":"Park dvorca u Hajdučici Natural Monument","coordinates":[20.9635,45.2443]},{"code":"YUFF-0180","program":"wwff","name":"Dvorac Damaskin","coordinates":[20.96248,45.24683]}]}

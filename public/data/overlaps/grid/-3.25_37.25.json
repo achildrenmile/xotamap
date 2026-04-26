@@ -1,1 +1,1 @@
-{"lat":-3.25,"lon":37.25,"programs":["pota"],"count":1,"references":[{"code":"TZ-0005","program":"pota","name":"Kilimanjaro National Park","coordinates":[37.3597,-3.04966]}]}
+{"lat":-3.25,"lon":37.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TZ-0005","program":"pota","name":"Kilimanjaro National Park","coordinates":[37.3597,-3.04966]},{"code":"5HFF-0005","program":"wwff","name":"Kilimanjaro","coordinates":[37.32,-3.03]}]}

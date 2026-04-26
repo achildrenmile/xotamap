@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"FI-0890","program":"pota","name":"Sielusenmäki Natura 2000","coordinates":[28.0816,61.6235]}]}
+{"lat":61.5,"lon":28,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0890","program":"pota","name":"Sielusenmäki Natura 2000","coordinates":[28.0816,61.6235]},{"code":"OHFF-1406","program":"wwff","name":"Kaitajärven metsän luonnosuojelualue","coordinates":[28.13563,61.59179]}]}

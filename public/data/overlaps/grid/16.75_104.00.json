@@ -1,1 +1,1 @@
-{"lat":16.75,"lon":104,"programs":["pota"],"count":1,"references":[{"code":"TH-0113","program":"pota","name":"Phu Pha Yon National Park","coordinates":[104.177,16.9295]}]}
+{"lat":16.75,"lon":104,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0113","program":"pota","name":"Phu Pha Yon National Park","coordinates":[104.177,16.9295]},{"code":"HSFF-0017","program":"wwff","name":"Phu Pha Yon National Park","coordinates":[104.17437,16.92875]}]}

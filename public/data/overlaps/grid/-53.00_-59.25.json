@@ -1,1 +1,1 @@
-{"lat":-53,"lon":-59.25,"programs":["pota"],"count":1,"references":[{"code":"FK-0001","program":"pota","name":"Beauchene Island National Nature Reserve","coordinates":[-59.2,-52.9167]}]}
+{"lat":-53,"lon":-59.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FK-0001","program":"pota","name":"Beauchene Island National Nature Reserve","coordinates":[-59.2,-52.9167]},{"code":"VPFF-8104","program":"wwff","name":"Beauchene Island","coordinates":[-59.20311,-52.88554]}]}

@@ -1,1 +1,1 @@
-{"lat":-6.5,"lon":-79.5,"programs":["pota"],"count":1,"references":[{"code":"PE-0022","program":"pota","name":"Laquipampa Nature Reserve Wilderness Area","coordinates":[-79.4854,-6.35184]}]}
+{"lat":-6.5,"lon":-79.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"PE-0022","program":"pota","name":"Laquipampa Nature Reserve Wilderness Area","coordinates":[-79.4854,-6.35184]},{"code":"OAFF-0035","program":"wwff","name":"RESERVA DE VIDA SILVESTRE LAQUIPAMPA","coordinates":[-79.48194,-6.35347]}]}

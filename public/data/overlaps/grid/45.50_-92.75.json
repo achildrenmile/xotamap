@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":-92.75,"programs":["pota"],"count":1,"references":[{"code":"US-2529","program":"pota","name":"Wild River State Park","coordinates":[-92.7496,45.523]}]}
+{"lat":45.5,"lon":-92.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-2529","program":"pota","name":"Wild River State Park","coordinates":[-92.7496,45.523]},{"code":"KFF-2529","program":"wwff","name":"Wild River","coordinates":[-92.7496,45.52297]},{"code":"KFF-4285","program":"wwff","name":"Fish Lake","coordinates":[-92.7219,45.71283]}]}

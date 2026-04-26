@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":31,"programs":["pota"],"count":1,"references":[{"code":"FI-0729","program":"pota","name":"Valkeajärven harjualue Natura 2000","coordinates":[31.1193,62.8742]}]}
+{"lat":62.75,"lon":31,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0729","program":"pota","name":"Valkeajärven harjualue Natura 2000","coordinates":[31.1193,62.8742]},{"code":"OHFF-0482","program":"wwff","name":"Valkeajärven harjualue","coordinates":[31.12991,62.8651]},{"code":"OHFF-1695","program":"wwff","name":"Haravapuron helmi","coordinates":[31.01337,62.85385]}]}

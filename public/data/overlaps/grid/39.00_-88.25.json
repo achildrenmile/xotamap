@@ -1,1 +1,1 @@
-{"lat":39,"lon":-88.25,"programs":["pota"],"count":1,"references":[{"code":"US-1020","program":"pota","name":"Sam Parr State Park","coordinates":[-88.1215,39.0166]}]}
+{"lat":39,"lon":-88.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1020","program":"pota","name":"Sam Parr State Park","coordinates":[-88.1215,39.0166]},{"code":"KFF-1020","program":"wwff","name":"Sam Parr","coordinates":[-88.11887,39.0108]}]}

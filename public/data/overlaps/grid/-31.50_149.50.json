@@ -1,1 +1,1 @@
-{"lat":-31.5,"lon":149.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1698","program":"pota","name":"Tinkrameanah National Park","coordinates":[149.707,-31.346]}]}
+{"lat":-31.5,"lon":149.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1698","program":"pota","name":"Tinkrameanah National Park","coordinates":[149.707,-31.346]},{"code":"VKFF-0610","program":"wwff","name":"Tinkrameanah National Park","coordinates":[149.69119,-31.3445]}]}

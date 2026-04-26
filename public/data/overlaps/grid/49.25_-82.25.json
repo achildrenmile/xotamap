@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":-82.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0362","program":"pota","name":"Rene Brunelle Provincial Park","coordinates":[-82.1393,49.4174]}]}
+{"lat":49.25,"lon":-82.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0362","program":"pota","name":"Rene Brunelle Provincial Park","coordinates":[-82.1393,49.4174]},{"code":"VEFF-0362","program":"wwff","name":"Rene Brunelle Provincial Park","coordinates":[-82.1393,49.41736]}]}

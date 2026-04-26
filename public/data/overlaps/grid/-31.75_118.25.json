@@ -1,1 +1,1 @@
-{"lat":-31.75,"lon":118.25,"programs":["pota"],"count":1,"references":[{"code":"AU-3011","program":"pota","name":"Norpa Nature Park","coordinates":[118.413,-31.5807]}]}
+{"lat":-31.75,"lon":118.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"AU-3011","program":"pota","name":"Norpa Nature Park","coordinates":[118.413,-31.5807]},{"code":"VKFF-2993","program":"wwff","name":"Norpa Nature Reserve","coordinates":[118.4127,-31.5807]},{"code":"VKFF-3293","program":"wwff","name":"Maughan Nature Reserve","coordinates":[118.3591,-31.6047]}]}

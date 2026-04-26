@@ -1,1 +1,1 @@
-{"lat":-20.5,"lon":144.25,"programs":["pota"],"count":1,"references":[{"code":"AU-1117","program":"pota","name":"Porcupine Gorge National Park","coordinates":[144.484,-20.3067]}]}
+{"lat":-20.5,"lon":144.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1117","program":"pota","name":"Porcupine Gorge National Park","coordinates":[144.484,-20.3067]},{"code":"VKFF-0418","program":"wwff","name":"Porcupine Gorge National Park","coordinates":[144.4494,-20.4028]}]}

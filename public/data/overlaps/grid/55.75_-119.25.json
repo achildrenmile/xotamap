@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":-119.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0659","program":"pota","name":"Moonshine Lake Provincial Park","coordinates":[-119.245,55.9134]}]}
+{"lat":55.75,"lon":-119.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0659","program":"pota","name":"Moonshine Lake Provincial Park","coordinates":[-119.245,55.9134]},{"code":"VEFF-0659","program":"wwff","name":"Moonshine Lake Provincial Park","coordinates":[-119.24457,55.91343]}]}

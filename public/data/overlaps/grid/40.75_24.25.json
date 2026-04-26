@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":24.25,"programs":["sota"],"count":1,"references":[{"code":"SV/MC-038","program":"sota","name":"Mandra Kari","coordinates":[24.392221,40.97278]}]}
+{"lat":40.75,"lon":24.25,"programs":["sota","wwff"],"count":3,"references":[{"code":"SV/MC-038","program":"sota","name":"Mandra Kari","coordinates":[24.392221,40.97278]},{"code":"SVFF-0079","program":"wwff","name":"Palio Gulf (Kavala)","coordinates":[24.32103,40.861]},{"code":"SVFF-0174","program":"wwff","name":"Dasi Amygdaleona Kavalas","coordinates":[24.38324,40.94699]}]}

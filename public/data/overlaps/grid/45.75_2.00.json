@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":2,"programs":["pota"],"count":1,"references":[{"code":"FR-4276","program":"pota","name":"Vallee de la Gioune Natura 2000","coordinates":[2.12083,45.7711]}]}
+{"lat":45.75,"lon":2,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-4276","program":"pota","name":"Vallee de la Gioune Natura 2000","coordinates":[2.12083,45.7711]},{"code":"FFF-2810","program":"wwff","name":"Vallée du Trenloup","coordinates":[2.12,45.98]}]}

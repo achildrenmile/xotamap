@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":-23,"programs":["pota"],"count":1,"references":[{"code":"IS-0025","program":"pota","name":"Flatey National Nature Reserve","coordinates":[-22.9179,65.3761]}]}
+{"lat":65.25,"lon":-23,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"ICE 063","program":"arlhs","name":"Klofningur","coordinates":[-22.95000076,65.37000275]},{"code":"IS-0025","program":"pota","name":"Flatey National Nature Reserve","coordinates":[-22.9179,65.3761]},{"code":"WLOTA-2127","program":"wlota","name":"Klofningur Islet","coordinates":[-22.95000076,65.3730011]}]}

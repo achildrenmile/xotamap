@@ -1,1 +1,1 @@
-{"lat":5.75,"lon":0,"programs":["pota"],"count":1,"references":[{"code":"GH-0009","program":"pota","name":"Shai-Hills Resource Nature Reserve","coordinates":[0.0532,5.8902]}]}
+{"lat":5.75,"lon":0,"programs":["pota","wwff"],"count":2,"references":[{"code":"GH-0009","program":"pota","name":"Shai-Hills Resource Nature Reserve","coordinates":[0.0532,5.8902]},{"code":"9GFF-0007","program":"wwff","name":"Shai Hills","coordinates":[0.06535,5.90941]}]}

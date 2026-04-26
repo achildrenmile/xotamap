@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":-63.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1515","program":"wwbota","name":"Radio: Pointe-Carleton-Fox River","coordinates":[-63.6619802,49.36461855]}]}
+{"lat":49.25,"lon":-63.75,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 398","program":"arlhs","name":"Pointe du Sud-Ouest/Southwest Point (ÃŽle d&#039;Anticosti)","coordinates":[-63.59999847,49.38999939]},{"code":"B/CA-1515","program":"wwbota","name":"Radio: Pointe-Carleton-Fox River","coordinates":[-63.6619802,49.36461855]}]}

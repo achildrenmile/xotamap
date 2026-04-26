@@ -1,1 +1,1 @@
-{"lat":53.5,"lon":57.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-017","program":"sota","name":"Bolshoy Shatak","coordinates":[57.6371,53.6985]}]}
+{"lat":53.5,"lon":57.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"R9U/SO-017","program":"sota","name":"Bolshoy Shatak","coordinates":[57.6371,53.6985]},{"code":"RFF-1106","program":"wwff","name":"Listvennichniki na gore B. Shaktak, Pamyatnik Prirody","coordinates":[57.63777,53.6993]}]}

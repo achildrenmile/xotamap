@@ -1,1 +1,1 @@
-{"lat":48,"lon":-64.75,"programs":["pota"],"count":1,"references":[{"code":"CA-5177","program":"pota","name":"Frye Lake Nature Reserve","coordinates":[-64.5251,48.0148]}]}
+{"lat":48,"lon":-64.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-5177","program":"pota","name":"Frye Lake Nature Reserve","coordinates":[-64.5251,48.0148]},{"code":"VEFF-2723","program":"wwff","name":"Frye Lake","coordinates":[-64.52511,48.0148]},{"code":"VEFF-4624","program":"wwff","name":"Miscou Grande Plaine Natural Area","coordinates":[-64.5443,48.00224]}]}

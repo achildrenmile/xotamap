@@ -1,1 +1,1 @@
-{"lat":-25,"lon":29.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/LP-484","program":"sota","name":"Rooibok","coordinates":[29.3284,-24.8219]}]}
+{"lat":-25,"lon":29.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/LP-484","program":"sota","name":"Rooibok","coordinates":[29.3284,-24.8219]},{"code":"ZSFF-0346","program":"wwff","name":"Schuinsdraai Nature Reserve","coordinates":[29.36069,-24.82935]}]}

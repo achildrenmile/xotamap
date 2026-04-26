@@ -1,1 +1,1 @@
-{"lat":60.25,"lon":-146,"programs":["sota"],"count":1,"references":[{"code":"KLA/CW-776","program":"sota","name":"Mount Robert Korn","coordinates":[-145.7785,60.4878]}]}
+{"lat":60.25,"lon":-146,"programs":["sota","wlota"],"count":3,"references":[{"code":"KLA/CW-776","program":"sota","name":"Mount Robert Korn","coordinates":[-145.7785,60.4878]},{"code":"WLOTA-4126","program":"wlota","name":"Egg Island","coordinates":[-145.7519989,60.36700058]},{"code":"WLOTA-4262","program":"wlota","name":"Mummy Island","coordinates":[-145.98800659,60.45800018]}]}

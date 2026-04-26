@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":-93.75,"programs":["pota"],"count":1,"references":[{"code":"US-2520","program":"pota","name":"Scenic State Park","coordinates":[-93.57,47.7121]}]}
+{"lat":47.5,"lon":-93.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2520","program":"pota","name":"Scenic State Park","coordinates":[-93.57,47.7121]},{"code":"KFF-2520","program":"wwff","name":"Scenic","coordinates":[-93.56998,47.71211]}]}

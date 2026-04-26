@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-95.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0523","program":"pota","name":"Atikaki Provincial Park","coordinates":[-95.4385,51.4733]}]}
+{"lat":51.25,"lon":-95.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0523","program":"pota","name":"Atikaki Provincial Park","coordinates":[-95.4385,51.4733]},{"code":"VEFF-0523","program":"wwff","name":"Atikaki Provincial Park","coordinates":[-95.43847,51.47327]}]}

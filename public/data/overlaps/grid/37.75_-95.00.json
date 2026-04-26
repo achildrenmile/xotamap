@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":-95,"programs":["pota"],"count":1,"references":[{"code":"US-7930","program":"pota","name":"Hollister State Wildlife Area","coordinates":[-94.8305,37.7764]}]}
+{"lat":37.75,"lon":-95,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-7930","program":"pota","name":"Hollister State Wildlife Area","coordinates":[-94.8305,37.7764]},{"code":"KFF-5432","program":"wwff","name":"Hollister","coordinates":[-94.82613,37.76807]}]}

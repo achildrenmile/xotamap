@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-93.75,"programs":["sota"],"count":1,"references":[{"code":"W5A/OZ-007","program":"sota","name":"Brushy Mountain","coordinates":[-93.7406,35.6346]}]}
+{"lat":35.5,"lon":-93.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"W5A/OZ-007","program":"sota","name":"Brushy Mountain","coordinates":[-93.7406,35.6346]},{"code":"KFF-7242","program":"wwff","name":"Mulberry River","coordinates":[-93.7105,35.6836]}]}

@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":21,"programs":["sota"],"count":1,"references":[{"code":"ZS/WC-963","program":"sota","name":"Franzekraal","coordinates":[21.127,-34.3189]}]}
+{"lat":-34.5,"lon":21,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/WC-963","program":"sota","name":"Franzekraal","coordinates":[21.127,-34.3189]},{"code":"ZSFF-0044","program":"wwff","name":"Annet Private Nature Reserve","coordinates":[21.10569,-34.36887]}]}

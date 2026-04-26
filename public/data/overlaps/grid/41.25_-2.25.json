@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":-2.25,"programs":["pota"],"count":1,"references":[{"code":"ES-2272","program":"pota","name":"Monteagudo de las Vicarías Natura 2000","coordinates":[-2.2031,41.3548]}]}
+{"lat":41.25,"lon":-2.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-2272","program":"pota","name":"Monteagudo de las Vicarías Natura 2000","coordinates":[-2.2031,41.3548]},{"code":"EAFF-1030","program":"wwff","name":"ZEPA Monteagudo De Las Vicarías","coordinates":[-2.19997,41.35623]}]}

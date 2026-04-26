@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":18.75,"programs":["pota"],"count":1,"references":[{"code":"HR-0036","program":"pota","name":"Trpinja Natura 2000","coordinates":[18.9037,45.4281]}]}
+{"lat":45.25,"lon":18.75,"programs":["pota","wca"],"count":3,"references":[{"code":"HR-0036","program":"pota","name":"Trpinja Natura 2000","coordinates":[18.9037,45.4281]},{"code":"9A-00172","program":"wca","name":"ELTZ CASTLE","coordinates":[18.99994353,45.35500816]},{"code":"9A-00173","program":"wca","name":"GOSSEAU-SANDOR-KHUEN CASTLE","coordinates":[18.83721841,45.32960169]}]}

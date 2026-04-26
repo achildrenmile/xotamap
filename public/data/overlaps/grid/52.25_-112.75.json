@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-112.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0049","program":"wwbota","name":"FRP HH3","coordinates":[-112.7109042,52.32275153]}]}
+{"lat":52.25,"lon":-112.75,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0049","program":"wwbota","name":"FRP HH3","coordinates":[-112.7109042,52.32275153]},{"code":"VEFF-5175","program":"wwff","name":"Privately Protected Area (NCC 20001)","coordinates":[-112.72208,52.49616]}]}

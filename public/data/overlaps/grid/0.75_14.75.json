@@ -1,1 +1,1 @@
-{"lat":0.75,"lon":14.75,"programs":["pota"],"count":1,"references":[{"code":"CG-0004","program":"pota","name":"Odzala-Kokoua National Park","coordinates":[14.917,0.942]}]}
+{"lat":0.75,"lon":14.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CG-0004","program":"pota","name":"Odzala-Kokoua National Park","coordinates":[14.917,0.942]},{"code":"TNFF-0002","program":"wwff","name":"Odzala","coordinates":[14.9333,0.8]}]}

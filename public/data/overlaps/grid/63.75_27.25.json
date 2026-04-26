@@ -1,1 +1,1 @@
-{"lat":63.75,"lon":27.25,"programs":["pota"],"count":1,"references":[{"code":"FI-1092","program":"pota","name":"Tavisuon soidensuojelualue Protected Area","coordinates":[27.4077,63.9588]}]}
+{"lat":63.75,"lon":27.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1092","program":"pota","name":"Tavisuon soidensuojelualue Protected Area","coordinates":[27.4077,63.9588]},{"code":"OHFF-0449","program":"wwff","name":"Tavisuon soidensuojelualue","coordinates":[27.40555,63.96085]}]}

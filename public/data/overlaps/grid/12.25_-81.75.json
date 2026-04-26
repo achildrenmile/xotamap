@@ -1,1 +1,1 @@
-{"lat":12.25,"lon":-81.75,"programs":["iota"],"count":1,"references":[{"code":"NA-033","program":"iota","name":"SAN ANDRES ISLAND","coordinates":[-81.625,12.33500004]}]}
+{"lat":12.25,"lon":-81.75,"programs":["arlhs","iota"],"count":2,"references":[{"code":"SAP 008","program":"arlhs","name":"Punta Sur (Isla de San Andres)","coordinates":[-81.73000336,12.47999954]},{"code":"NA-033","program":"iota","name":"SAN ANDRES ISLAND","coordinates":[-81.625,12.33500004]}]}

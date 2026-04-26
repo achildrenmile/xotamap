@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":-116.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0753","program":"pota","name":"Chan Lake Territorial Park","coordinates":[-116.497,61.9374]}]}
+{"lat":61.75,"lon":-116.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0753","program":"pota","name":"Chan Lake Territorial Park","coordinates":[-116.497,61.9374]},{"code":"VEFF-0753","program":"wwff","name":"Chan Lake Territorial Park","coordinates":[-116.49691,61.93745]}]}

@@ -1,1 +1,1 @@
-{"lat":9.25,"lon":-82.25,"programs":["pota"],"count":1,"references":[{"code":"PA-0021","program":"pota","name":"Isla Bastimentos National Marine Park","coordinates":[-82.1646,9.32173]}]}
+{"lat":9.25,"lon":-82.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"PA-0021","program":"pota","name":"Isla Bastimentos National Marine Park","coordinates":[-82.1646,9.32173]},{"code":"HPFF-0008","program":"wwff","name":"Isla Bastimentos","coordinates":[-82.12,9.3]}]}

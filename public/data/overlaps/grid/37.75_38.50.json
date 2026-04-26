@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":38.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0021","program":"pota","name":"Nemrut Dağı National Park","coordinates":[38.7285,37.9701]}]}
+{"lat":37.75,"lon":38.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0021","program":"pota","name":"Nemrut Dağı National Park","coordinates":[38.7285,37.9701]},{"code":"TAFF-0027","program":"wwff","name":"Nemrut Dagi Milli Parki","coordinates":[38.74017,37.98021]}]}

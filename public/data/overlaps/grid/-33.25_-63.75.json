@@ -1,1 +1,1 @@
-{"lat":-33.25,"lon":-63.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0062","program":"pota","name":"Laguna la Felipa Nature Reserve","coordinates":[-63.5577,-33.1301]}]}
+{"lat":-33.25,"lon":-63.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0062","program":"pota","name":"Laguna la Felipa Nature Reserve","coordinates":[-63.5577,-33.1301]},{"code":"LUFF-0147","program":"wwff","name":"Laguna La Felipa","coordinates":[-63.55765,-33.13013]}]}

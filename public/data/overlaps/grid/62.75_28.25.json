@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":28.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0714","program":"pota","name":"Koistilan metsä Natura 2000","coordinates":[28.3796,62.7723]}]}
+{"lat":62.75,"lon":28.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0714","program":"pota","name":"Koistilan metsä Natura 2000","coordinates":[28.3796,62.7723]},{"code":"OHFF-0228","program":"wwff","name":"Seinävuoren rotkon luonnonsuojelualue","coordinates":[28.4691,62.87586]},{"code":"OHFF-0338","program":"wwff","name":"Koistilan metsä","coordinates":[28.38371,62.77238]}]}

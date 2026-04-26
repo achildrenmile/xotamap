@@ -1,1 +1,1 @@
-{"lat":40,"lon":28.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0394","program":"pota","name":"Uluabat Lake Ramsar Site","coordinates":[28.5945,40.1713]}]}
+{"lat":40,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0394","program":"pota","name":"Uluabat Lake Ramsar Site","coordinates":[28.5945,40.1713]},{"code":"TAFF-0053","program":"wwff","name":"Ulubat Golu (Lake)","coordinates":[28.68321,40.16977]}]}

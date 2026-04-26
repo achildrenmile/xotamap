@@ -1,1 +1,1 @@
-{"lat":43,"lon":144.75,"programs":["pota"],"count":1,"references":[{"code":"JP-1001","program":"pota","name":"Akkeshi-Kiritappu-Konbumori Quasi-National Park","coordinates":[144.838,43.0169]}]}
+{"lat":43,"lon":144.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"JP-1001","program":"pota","name":"Akkeshi-Kiritappu-Konbumori Quasi-National Park","coordinates":[144.838,43.0169]},{"code":"JAFF-0099","program":"wwff","name":"Akkeshi-Kiritappu-Konbumori Quasi National Park","coordinates":[144.96529,43.01645]}]}

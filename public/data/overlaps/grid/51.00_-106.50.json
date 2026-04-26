@@ -1,1 +1,1 @@
-{"lat":51,"lon":-106.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0595","program":"pota","name":"Douglas Provincial Park","coordinates":[-106.47,51.018]}]}
+{"lat":51,"lon":-106.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0595","program":"pota","name":"Douglas Provincial Park","coordinates":[-106.47,51.018]},{"code":"VEFF-0595","program":"wwff","name":"Douglas Provincial Park","coordinates":[-106.49734,51.01613]}]}

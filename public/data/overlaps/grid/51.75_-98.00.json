@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":-98,"programs":["pota"],"count":1,"references":[{"code":"CA-1077","program":"pota","name":"Sturgeon Bay Provincial Park","coordinates":[-97.8198,51.8041]}]}
+{"lat":51.75,"lon":-98,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1077","program":"pota","name":"Sturgeon Bay Provincial Park","coordinates":[-97.8198,51.8041]},{"code":"VEFF-1077","program":"wwff","name":"Sturgeon Bay Provincial Park Reserve","coordinates":[-97.81984,51.80408]}]}

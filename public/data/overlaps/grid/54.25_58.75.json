@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":58.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-014","program":"sota","name":"Abarash-Bash","coordinates":[58.8537,54.4716]}]}
+{"lat":54.25,"lon":58.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"R9U/SO-014","program":"sota","name":"Abarash-Bash","coordinates":[58.8537,54.4716]},{"code":"RFF-1180","program":"wwff","name":"Zilim, Prirodniy Park","coordinates":[58.89,54.49]}]}

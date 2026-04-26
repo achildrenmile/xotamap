@@ -1,1 +1,1 @@
-{"lat":38.25,"lon":-8.5,"programs":["pota"],"count":1,"references":[{"code":"PT-0116","program":"pota","name":"Cabrela Natura 2000","coordinates":[-8.36306,38.485]}]}
+{"lat":38.25,"lon":-8.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"PT-0116","program":"pota","name":"Cabrela Natura 2000","coordinates":[-8.36306,38.485]},{"code":"CTFF-0166","program":"wwff","name":"Area Protegida de Cabrela (SIC)","coordinates":[-8.37681,38.49294]},{"code":"CTFF-0323","program":"wwff","name":"Alameda de eucaliptos, Gachina, Alcácer do Sal","coordinates":[-8.4756,38.3782]}]}

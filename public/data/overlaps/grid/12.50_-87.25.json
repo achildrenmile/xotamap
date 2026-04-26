@@ -1,1 +1,1 @@
-{"lat":12.5,"lon":-87.25,"programs":["pota"],"count":1,"references":[{"code":"NI-0055","program":"pota","name":"Complejo volcánico San Cristóbal Nature Reserve","coordinates":[-87.0015,12.7075]}]}
+{"lat":12.5,"lon":-87.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"NI-0055","program":"pota","name":"Complejo volcánico San Cristóbal Nature Reserve","coordinates":[-87.0015,12.7075]},{"code":"YNFF-0004","program":"wwff","name":"Complejo Volcánico San Cristóbal – Casitas-Chonco","coordinates":[-87.00337,12.70606]}]}

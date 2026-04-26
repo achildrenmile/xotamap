@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":-112.5,"programs":["pota"],"count":1,"references":[{"code":"CA-3029","program":"pota","name":"Grand Rapids Wildland Provincial Park","coordinates":[-112.321,56.5712]}]}
+{"lat":56.5,"lon":-112.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3029","program":"pota","name":"Grand Rapids Wildland Provincial Park","coordinates":[-112.321,56.5712]},{"code":"VEFF-1602","program":"wwff","name":"Grand Rapids Wildland Provincial Park","coordinates":[-112.31995,56.57591]}]}

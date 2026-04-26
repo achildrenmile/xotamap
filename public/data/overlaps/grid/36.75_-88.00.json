@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":-88,"programs":["pota"],"count":1,"references":[{"code":"US-1284","program":"pota","name":"Lake Barkley State Park","coordinates":[-87.932,36.8495]}]}
+{"lat":36.75,"lon":-88,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1284","program":"pota","name":"Lake Barkley State Park","coordinates":[-87.932,36.8495]},{"code":"KFF-1284","program":"wwff","name":"Lake Barkley","coordinates":[-87.93195,36.84946]}]}

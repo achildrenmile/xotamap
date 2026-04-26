@@ -1,1 +1,1 @@
-{"lat":-8.25,"lon":-41.25,"programs":["sota"],"count":1,"references":[{"code":"PS8/AC-006","program":"sota","name":"Serra da Topa","coordinates":[-41.1528,-8.2488]}]}
+{"lat":-8.25,"lon":-41.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"PS8/AC-006","program":"sota","name":"Serra da Topa","coordinates":[-41.1528,-8.2488]},{"code":"PYFF-0506","program":"wwff","name":"Area Prot. Amb. das NASCENTES DO RIO CANINDÉ - PI","coordinates":[-41.02346,-8.13217]}]}

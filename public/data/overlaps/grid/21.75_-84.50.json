@@ -1,1 +1,1 @@
-{"lat":21.75,"lon":-84.5,"programs":["pota"],"count":1,"references":[{"code":"CU-0348","program":"pota","name":"Cienaga de Lugones Wildlife Refuge","coordinates":[-84.421,21.9213]}]}
+{"lat":21.75,"lon":-84.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CU-0348","program":"pota","name":"Cienaga de Lugones Wildlife Refuge","coordinates":[-84.421,21.9213]},{"code":"COFF-0004","program":"wwff","name":"Peninsula de Guanahacabibes","coordinates":[-84.46939,21.92671]}]}

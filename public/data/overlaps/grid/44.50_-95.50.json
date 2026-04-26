@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-95.5,"programs":["pota"],"count":1,"references":[{"code":"US-12392","program":"pota","name":"Joseph R. Brown Unique Area","coordinates":[-95.3221,44.6965]}]}
+{"lat":44.5,"lon":-95.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-12392","program":"pota","name":"Joseph R. Brown Unique Area","coordinates":[-95.3221,44.6965]},{"code":"KFF-0366","program":"wwff","name":"Morris","coordinates":[-95.45686,44.59274]},{"code":"KFF-2527","program":"wwff","name":"Upper Sioux Agency - Permanently Closed","coordinates":[-95.46033,44.73708]}]}

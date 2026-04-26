@@ -1,1 +1,1 @@
-{"lat":40,"lon":-5.25,"programs":["sota"],"count":1,"references":[{"code":"EA1/AV-020","program":"sota","name":"Cabezo de Cerbunal","coordinates":[-5.18962,40.23388]}]}
+{"lat":40,"lon":-5.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"EA1/AV-020","program":"sota","name":"Cabezo de Cerbunal","coordinates":[-5.18962,40.23388]},{"code":"EAFF-1256","program":"wwff","name":"LIC Sierra de San Vicente y valles del Tiétar y Alberche","coordinates":[-5.06198,40.06462]}]}

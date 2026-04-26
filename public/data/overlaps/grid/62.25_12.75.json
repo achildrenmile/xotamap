@@ -1,1 +1,1 @@
-{"lat":62.25,"lon":12.75,"programs":["sota"],"count":1,"references":[{"code":"SM/JL-054","program":"sota","name":"Högvålen","coordinates":[12.9289,62.2682]}]}
+{"lat":62.25,"lon":12.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/JL-054","program":"sota","name":"Högvålen","coordinates":[12.9289,62.2682]},{"code":"SMFF-9409","program":"wwff","name":"Övre Rånddalen","coordinates":[12.81018,62.31048]},{"code":"SMFF-9696","program":"wwff","name":"Stentjärnåsen","coordinates":[12.90218,62.3939]}]}

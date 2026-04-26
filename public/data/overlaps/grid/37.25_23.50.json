@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":23.5,"programs":["sota"],"count":1,"references":[{"code":"SV/AT-025","program":"sota","name":"Obori","coordinates":[23.518612,37.35278]}]}
+{"lat":37.25,"lon":23.5,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"GRE 133","program":"arlhs","name":"Zurva (Hydra Island)","coordinates":[23.57999992,37.36999893]},{"code":"SV/AT-025","program":"sota","name":"Obori","coordinates":[23.518612,37.35278]},{"code":"WLOTA-0964","program":"wlota","name":"Nisides Tselevinia","coordinates":[23.54700089,37.44499969]}]}

@@ -1,1 +1,1 @@
-{"lat":64.25,"lon":28.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0601","program":"pota","name":"Kinnussuo - Mustinsuo Natura 2000","coordinates":[28.8365,64.484]}]}
+{"lat":64.25,"lon":28.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0601","program":"pota","name":"Kinnussuo - Mustinsuo Natura 2000","coordinates":[28.8365,64.484]},{"code":"OHFF-0912","program":"wwff","name":"Kinnussuo-Mustinsuo","coordinates":[28.84934,64.47772]},{"code":"OHFF-0913","program":"wwff","name":"Pellinkangas (ei sotilasalue)","coordinates":[28.93669,64.29167]}]}

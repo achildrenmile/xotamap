@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":9.25,"programs":["pota"],"count":1,"references":[{"code":"DE-0257","program":"pota","name":"Wildes Moor Nature Reserve","coordinates":[9.25162,54.4148]}]}
+{"lat":54.25,"lon":9.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"DE-0257","program":"pota","name":"Wildes Moor Nature Reserve","coordinates":[9.25162,54.4148]},{"code":"DLFF-0366","program":"wwff","name":"Wildes Moor bei Schwabstedt","coordinates":[9.25152,54.4159]},{"code":"DLFF-0988","program":"wwff","name":"Haithabu-Dannewerk","coordinates":[9.47466,54.472]}]}

@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":25.75,"programs":["pota"],"count":1,"references":[{"code":"EE-0050","program":"pota","name":"Esna Natura 2000","coordinates":[25.778,58.981]}]}
+{"lat":58.75,"lon":25.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"EE-0050","program":"pota","name":"Esna Natura 2000","coordinates":[25.778,58.981]},{"code":"ESFF-0038","program":"wwff","name":"Esna","coordinates":[25.77847,58.98097]},{"code":"ESFF-0070","program":"wwff","name":"Kareda","coordinates":[25.77434,58.9293]}]}

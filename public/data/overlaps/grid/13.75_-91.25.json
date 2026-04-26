@@ -1,1 +1,1 @@
-{"lat":13.75,"lon":-91.25,"programs":["pota"],"count":1,"references":[{"code":"GT-0010","program":"pota","name":"Sipacate Naranjo National Park","coordinates":[-91.0834,13.9207]}]}
+{"lat":13.75,"lon":-91.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"GT-0010","program":"pota","name":"Sipacate Naranjo National Park","coordinates":[-91.0834,13.9207]},{"code":"TGFF-0006","program":"wwff","name":"Sipacate-El Naranjo","coordinates":[-91.08639,13.92]}]}

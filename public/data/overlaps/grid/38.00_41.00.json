@@ -1,1 +1,1 @@
-{"lat":38,"lon":41,"programs":["pota"],"count":1,"references":[{"code":"TR-0156","program":"pota","name":"Malabadi Nature Park","coordinates":[41.2165,38.1736]}]}
+{"lat":38,"lon":41,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0156","program":"pota","name":"Malabadi Nature Park","coordinates":[41.2165,38.1736]},{"code":"TAFF-0183","program":"wwff","name":"Malabadi Tabiat Parki","coordinates":[41.2057,38.16594]}]}

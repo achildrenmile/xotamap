@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":25.5,"programs":["pota"],"count":1,"references":[{"code":"UA-0052","program":"pota","name":"Cheremskyi Nature Reserve","coordinates":[25.5375,51.5216]}]}
+{"lat":51.5,"lon":25.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0052","program":"pota","name":"Cheremskyi Nature Reserve","coordinates":[25.5375,51.5216]},{"code":"URFF-0038","program":"wwff","name":"Cheremskyi National Reserve","coordinates":[25.55214,51.52861]}]}

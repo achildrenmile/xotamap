@@ -1,1 +1,1 @@
-{"lat":-34.75,"lon":19.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/WC-919","program":"sota","name":"Swartkransberg","coordinates":[19.4511,-34.538]}]}
+{"lat":-34.75,"lon":19.25,"programs":["arlhs","illw","sota"],"count":3,"references":[{"code":"SAF 012","program":"arlhs","name":"Danger Point (Gansbaai)","coordinates":[19.29999924,-34.63000107]},{"code":"ZA0005","program":"illw","name":"Danger Point","coordinates":[19.29999924,-34.63000107]},{"code":"ZS/WC-919","program":"sota","name":"Swartkransberg","coordinates":[19.4511,-34.538]}]}

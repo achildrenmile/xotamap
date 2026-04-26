@@ -1,1 +1,1 @@
-{"lat":8.75,"lon":119.75,"programs":["pota"],"count":1,"references":[{"code":"PH-0168","program":"pota","name":"Tubbataha Reefs National Park","coordinates":[119.866,8.98046]}]}
+{"lat":8.75,"lon":119.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"PH-0168","program":"pota","name":"Tubbataha Reefs National Park","coordinates":[119.866,8.98046]},{"code":"DUFF-0007","program":"wwff","name":"Tubbataha Reefs National Marine Park","coordinates":[119.91666,8.91667]}]}

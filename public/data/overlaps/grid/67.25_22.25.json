@@ -1,1 +1,1 @@
-{"lat":67.25,"lon":22.25,"programs":["pota"],"count":1,"references":[{"code":"SE-0194","program":"pota","name":"Täljstensskogen Nature Reserve","coordinates":[22.3559,67.3926]}]}
+{"lat":67.25,"lon":22.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"SE-0194","program":"pota","name":"Täljstensskogen Nature Reserve","coordinates":[22.3559,67.3926]},{"code":"SMFF-9019","program":"wwff","name":"Täljstensskogen","coordinates":[22.35256,67.39087]}]}

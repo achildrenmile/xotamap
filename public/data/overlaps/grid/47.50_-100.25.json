@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":-100.25,"programs":["pota"],"count":1,"references":[{"code":"US-7702","program":"pota","name":"Lone Tree Wildlife Management Area","coordinates":[-100.096,47.6717]}]}
+{"lat":47.5,"lon":-100.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-7702","program":"pota","name":"Lone Tree Wildlife Management Area","coordinates":[-100.096,47.6717]},{"code":"KFF-7220","program":"wwff","name":"Lonetree","coordinates":[-100.0919,47.6809]}]}

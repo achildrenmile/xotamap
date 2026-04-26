@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-122.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0722","program":"pota","name":"Fraser River Provincial Park","coordinates":[-122.738,53.4847]}]}
+{"lat":53.25,"lon":-122.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0722","program":"pota","name":"Fraser River Provincial Park","coordinates":[-122.738,53.4847]},{"code":"VEFF-0722","program":"wwff","name":"Fraser River Provincial Park","coordinates":[-122.73841,53.48468]}]}

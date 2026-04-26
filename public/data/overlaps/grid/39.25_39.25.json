@@ -1,1 +1,1 @@
-{"lat":39.25,"lon":39.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0012","program":"pota","name":"Munzur Vadisi National Park","coordinates":[39.41,39.27]}]}
+{"lat":39.25,"lon":39.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0012","program":"pota","name":"Munzur Vadisi National Park","coordinates":[39.41,39.27]},{"code":"TAFF-0170","program":"wwff","name":"Keklikkayasi Tabiat Parki","coordinates":[39.47087,39.47087]}]}

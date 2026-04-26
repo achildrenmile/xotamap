@@ -1,1 +1,1 @@
-{"lat":50,"lon":-100.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0565","program":"pota","name":"Rivers Provincial Park","coordinates":[-100.194,50.0342]}]}
+{"lat":50,"lon":-100.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-0565","program":"pota","name":"Rivers Provincial Park","coordinates":[-100.194,50.0342]},{"code":"VEFF-0565","program":"wwff","name":"Rivers Provincial Park","coordinates":[-100.19436,50.03421]},{"code":"VEFF-5056","program":"wwff","name":"Wareham - MHHC","coordinates":[-100.21595,50.02298]}]}

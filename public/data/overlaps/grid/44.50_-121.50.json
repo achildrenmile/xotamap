@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-121.5,"programs":["pota"],"count":1,"references":[{"code":"US-2857","program":"pota","name":"The Cove Palisades State Park","coordinates":[-121.289,44.5346]}]}
+{"lat":44.5,"lon":-121.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2857","program":"pota","name":"The Cove Palisades State Park","coordinates":[-121.289,44.5346]},{"code":"KFF-2857","program":"wwff","name":"The Cove Palisades","coordinates":[-121.27507,44.54301]}]}

@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-121.5,"programs":["sota"],"count":1,"references":[{"code":"W6/SC-222","program":"sota","name":"Pine Top Mountain","coordinates":[-121.2677,35.7487]}]}
+{"lat":35.5,"lon":-121.5,"programs":["arlhs","illw","sota"],"count":3,"references":[{"code":"USA 598","program":"arlhs","name":"Piedras Blancas","coordinates":[-121.27999878,35.66999817]},{"code":"US0047","program":"illw","name":"Piedras Blancas, CA","coordinates":[-121.27999878,35.66999817]},{"code":"W6/SC-222","program":"sota","name":"Pine Top Mountain","coordinates":[-121.2677,35.7487]}]}

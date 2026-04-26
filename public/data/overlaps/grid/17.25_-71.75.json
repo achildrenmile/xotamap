@@ -1,1 +1,1 @@
-{"lat":17.25,"lon":-71.75,"programs":["sota"],"count":1,"references":[{"code":"HI/AB-001","program":"sota","name":"Alto Velo","coordinates":[-71.641,17.4747]}]}
+{"lat":17.25,"lon":-71.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"DOM 007","program":"arlhs","name":"Isla Alto Velo","coordinates":[-71.65000153,17.47999954]},{"code":"HI/AB-001","program":"sota","name":"Alto Velo","coordinates":[-71.641,17.4747]}]}

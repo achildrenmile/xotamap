@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":56,"programs":["pota"],"count":1,"references":[{"code":"IR-0036","program":"pota","name":"Golestan National Park","coordinates":[56,37.329]}]}
+{"lat":37.25,"lon":56,"programs":["pota","wwff"],"count":2,"references":[{"code":"IR-0036","program":"pota","name":"Golestan National Park","coordinates":[56,37.329]},{"code":"EPFF-0003","program":"wwff","name":"Golestan (Mohammad Reza Shah)","coordinates":[56,37.42]}]}

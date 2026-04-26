@@ -1,1 +1,1 @@
-{"lat":58,"lon":-111.25,"programs":["pota"],"count":1,"references":[{"code":"CA-3118","program":"pota","name":"Richardson Wildland Provincial Park","coordinates":[-111.182,58.095]}]}
+{"lat":58,"lon":-111.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3118","program":"pota","name":"Richardson Wildland Provincial Park","coordinates":[-111.182,58.095]},{"code":"VEFF-2667","program":"wwff","name":"Richardson Wildland Provincial Park","coordinates":[-111.15201,58.15392]}]}

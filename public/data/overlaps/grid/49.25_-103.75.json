@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":-103.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1124","program":"pota","name":"Mainprize Regional Park","coordinates":[-103.579,49.3699]}]}
+{"lat":49.25,"lon":-103.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1124","program":"pota","name":"Mainprize Regional Park","coordinates":[-103.579,49.3699]},{"code":"VEFF-1124","program":"wwff","name":"Mainprize Regional Park","coordinates":[-103.57893,49.36987]}]}

@@ -1,1 +1,1 @@
-{"lat":16.75,"lon":101.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0107","program":"pota","name":"Phu Kradueng National Park","coordinates":[101.846,16.8714]}]}
+{"lat":16.75,"lon":101.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"TH-0107","program":"pota","name":"Phu Kradueng National Park","coordinates":[101.846,16.8714]},{"code":"HSFF-0074","program":"wwff","name":"Phu Kradueng National Park","coordinates":[101.84724,16.871]},{"code":"HSFF-0075","program":"wwff","name":"Phu Pha Man National Park","coordinates":[101.96786,16.75698]}]}

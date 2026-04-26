@@ -1,1 +1,1 @@
-{"lat":-22.25,"lon":145,"programs":["pota"],"count":1,"references":[{"code":"AU-1356","program":"pota","name":"Forest Den National Park","coordinates":[145.218,-22.1173]}]}
+{"lat":-22.25,"lon":145,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1356","program":"pota","name":"Forest Den National Park","coordinates":[145.218,-22.1173]},{"code":"VKFF-0178","program":"wwff","name":"Forest Den National Park","coordinates":[145.20329,-22.1234]}]}

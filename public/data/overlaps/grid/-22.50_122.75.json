@@ -1,1 +1,1 @@
-{"lat":-22.5,"lon":122.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0102","program":"pota","name":"Karlamilyi National Park","coordinates":[122.911,-22.3066]}]}
+{"lat":-22.5,"lon":122.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0102","program":"pota","name":"Karlamilyi National Park","coordinates":[122.911,-22.3066]},{"code":"VKFF-0436","program":"wwff","name":"Karlamilyi National Park","coordinates":[122.9112,-22.3066]}]}

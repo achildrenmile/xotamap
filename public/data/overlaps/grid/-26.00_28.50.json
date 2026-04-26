@@ -1,1 +1,1 @@
-{"lat":-26,"lon":28.5,"programs":["gma"],"count":1,"references":[{"code":"ZT/GP-015","program":"gma","name":"Cloverhill","coordinates":[28.65670013,-25.87330055]}]}
+{"lat":-26,"lon":28.5,"programs":["gma","wwff"],"count":2,"references":[{"code":"ZT/GP-015","program":"gma","name":"Cloverhill","coordinates":[28.65670013,-25.87330055]},{"code":"ZSFF-0465","program":"wwff","name":"Bronkhorstspruit Dam Nature Reserve","coordinates":[28.74157,-25.89655]}]}

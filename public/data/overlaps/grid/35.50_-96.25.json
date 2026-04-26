@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-96.25,"programs":["pota"],"count":1,"references":[{"code":"US-6363","program":"pota","name":"Okmulgee Wildlife Management Area","coordinates":[-96.0605,35.6265]}]}
+{"lat":35.5,"lon":-96.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6363","program":"pota","name":"Okmulgee Wildlife Management Area","coordinates":[-96.0605,35.6265]},{"code":"KFF-4820","program":"wwff","name":"Okmulgee","coordinates":[-96.04522,35.64552]}]}

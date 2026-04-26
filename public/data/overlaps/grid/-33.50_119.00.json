@@ -1,1 +1,1 @@
-{"lat":-33.5,"lon":119,"programs":["pota"],"count":1,"references":[{"code":"AU-3620","program":"pota","name":"Lockhart Nature Reserve","coordinates":[119.031,-33.2577]}]}
+{"lat":-33.5,"lon":119,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3620","program":"pota","name":"Lockhart Nature Reserve","coordinates":[119.031,-33.2577]},{"code":"VKFF-3289","program":"wwff","name":"Lake Magenta Nature Reserve","coordinates":[119.0273,-33.4984]}]}

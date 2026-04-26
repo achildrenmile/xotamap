@@ -1,1 +1,1 @@
-{"lat":-15,"lon":35.25,"programs":["pota"],"count":1,"references":[{"code":"MW-0009","program":"pota","name":"liwonde National Park","coordinates":[35.317,-14.826]}]}
+{"lat":-15,"lon":35.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"MW-0009","program":"pota","name":"liwonde National Park","coordinates":[35.317,-14.826]},{"code":"7QFF-0004","program":"wwff","name":"Liwonde","coordinates":[35.33,-14.8]}]}

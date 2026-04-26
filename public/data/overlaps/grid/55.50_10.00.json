@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":10,"programs":["pota"],"count":1,"references":[{"code":"DK-0109","program":"pota","name":"Æbelø, havet syd for og Nærå Natura 2000","coordinates":[10.1902,55.593]}]}
+{"lat":55.5,"lon":10,"programs":["arlhs","illw","pota"],"count":3,"references":[{"code":"DEN 001","program":"arlhs","name":"Ã†belÃ¸","coordinates":[10.17000008,55.65000153]},{"code":"DK0008","program":"illw","name":"RomsÃ¸ Old","coordinates":[10,55.52000046]},{"code":"DK-0109","program":"pota","name":"Æbelø, havet syd for og Nærå Natura 2000","coordinates":[10.1902,55.593]}]}

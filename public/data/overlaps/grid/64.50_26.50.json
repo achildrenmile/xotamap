@@ -1,1 +1,1 @@
-{"lat":64.5,"lon":26.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0202","program":"pota","name":"Rokua National Park","coordinates":[26.5,64.5668]}]}
+{"lat":64.5,"lon":26.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0202","program":"pota","name":"Rokua National Park","coordinates":[26.5,64.5668]},{"code":"OHFF-1361","program":"wwff","name":"Säippäsuo-Kivisuo","coordinates":[26.69561,64.70497]}]}

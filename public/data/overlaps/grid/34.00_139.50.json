@@ -1,1 +1,1 @@
-{"lat":34,"lon":139.5,"programs":["sota"],"count":1,"references":[{"code":"JA/TK-014","program":"sota","name":"Oyama","coordinates":[139.526,34.0935]}]}
+{"lat":34,"lon":139.5,"programs":["arlhs","sota"],"count":3,"references":[{"code":"JPN 198","program":"arlhs","name":"Izu Misaki (Tokyo)","coordinates":[139.5,34.11999893]},{"code":"JPN 1477","program":"arlhs","name":"Yunohama Ko (Tokyo)","coordinates":[139.52999878,34.11999893]},{"code":"JA/TK-014","program":"sota","name":"Oyama","coordinates":[139.526,34.0935]}]}
