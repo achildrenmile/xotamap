@@ -27,10 +27,10 @@ for geojson in "${DATA_DIR}"/*.geojson; do
     --output="$output" \
     --layer="$program" \
     --maximum-zoom=14 \
-    --minimum-zoom=2 \
+    --minimum-zoom=3 \
     --no-tile-size-limit \
     --no-feature-limit \
-    --drop-rate=0 \
+    --drop-densest-as-needed \
     --force \
     "$geojson"
 
