@@ -99,7 +99,7 @@ export default function ProgramDetail() {
         return res.json() as Promise<ProgramIndex>;
       })
       .then((data) => {
-        const found = data.programs.find((p) => p.id === id) ?? null;
+        const found = data.programs.find((p) => p.id === id || p.code.toLowerCase() === id?.toLowerCase()) ?? null;
         setProgram(found);
       })
       .catch(() => {
