@@ -7,7 +7,12 @@ interface ReferenceLayerProps {
   program: string;
   color: string;
   visible: boolean;
+  /** Index among visible reference layers — used to offset co-located points */
+  index: number;
 }
+
+/** Total number of programs with references (for distributing offsets evenly) */
+const TOTAL_REF_PROGRAMS = 11;
 
 export function sourceId(program: string): string {
   return `ref-${program}`;
@@ -26,7 +31,7 @@ export function layerId(program: string): string {
  *  - zoom 6-10: medium dots (4-6px)
  *  - zoom > 10: large dots (8-14px) with stroke for clarity
  */
-export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerProps) {
+export function ReferenceLayer({ map, program, color, visible, index }: ReferenceLayerProps) {
   const src = sourceId(program);
   const lyr = layerId(program);
   const visibleRef = useRef(visible);
@@ -49,6 +54,12 @@ export function ReferenceLayer({ map, program, color, visible }: ReferenceLayerP
         source: src,
         'source-layer': program,
         paint: {
+          // Offset co-located points so overlapping programs are visible side-by-side
+          'circle-translate': (() => {
+            const angle = (index / TOTAL_REF_PROGRAMS) * 2 * Math.PI;
+            const offset = 8; // pixels
+            return [Math.cos(angle) * offset, Math.sin(angle) * offset] as [number, number];
+          })(),
           'circle-color': color,
           'circle-opacity': [
             'interpolate',

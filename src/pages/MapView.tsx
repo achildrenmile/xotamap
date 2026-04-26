@@ -81,13 +81,14 @@ export default function MapView() {
           <>
             {/* Reference layers — rendered into map when map is ready */}
             {map &&
-              ALL_PROGRAMS.filter((p) => p.hasReferences).map((program) => (
+              ALL_PROGRAMS.filter((p) => p.hasReferences).map((program, index) => (
                 <ReferenceLayer
                   key={program.code}
                   map={map}
                   program={program.code.toLowerCase()}
                   color={program.color}
                   visible={visibility[program.code] ?? false}
+                  index={index}
                 />
               ))}
 
