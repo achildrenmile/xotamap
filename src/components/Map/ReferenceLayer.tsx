@@ -37,6 +37,11 @@ export function ReferenceLayer({ map, program, color, visible, index }: Referenc
   const visibleRef = useRef(visible);
   visibleRef.current = visible;
 
+  // Pre-compute pixel offset so co-located points fan out in different directions
+  const angle = (index / TOTAL_REF_PROGRAMS) * 2 * Math.PI;
+  const translateX = Math.round(Math.cos(angle) * 8 * 100) / 100;
+  const translateY = Math.round(Math.sin(angle) * 8 * 100) / 100;
+
   // Add source and layer on mount, remove on unmount
   useEffect(() => {
     if (!map) return;
@@ -54,12 +59,7 @@ export function ReferenceLayer({ map, program, color, visible, index }: Referenc
         source: src,
         'source-layer': program,
         paint: {
-          // Offset co-located points so overlapping programs are visible side-by-side
-          'circle-translate': (() => {
-            const angle = (index / TOTAL_REF_PROGRAMS) * 2 * Math.PI;
-            const offset = 8; // pixels
-            return [Math.cos(angle) * offset, Math.sin(angle) * offset] as [number, number];
-          })(),
+          'circle-translate': [translateX, translateY],
           'circle-color': color,
           'circle-opacity': [
             'interpolate',
@@ -137,7 +137,7 @@ export function ReferenceLayer({ map, program, color, visible, index }: Referenc
       }
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [map, program, color]);
+  }, [map, program, color, translateX, translateY]);
 
   // Toggle visibility — also handle style changes that re-create layers
   useEffect(() => {
