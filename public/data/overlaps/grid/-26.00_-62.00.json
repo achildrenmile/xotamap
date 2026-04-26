@@ -1,1 +1,1 @@
-{"lat":-26,"lon":-62,"programs":["pota"],"count":1,"references":[{"code":"AR-0116","program":"pota","name":"Copo National Park","coordinates":[-61.8762,-25.8322]}]}
+{"lat":-26,"lon":-62,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0116","program":"pota","name":"Copo National Park","coordinates":[-61.8762,-25.8322]},{"code":"LUFF-0006","program":"wwff","name":"Copo","coordinates":[-61.87622,-25.83224]}]}

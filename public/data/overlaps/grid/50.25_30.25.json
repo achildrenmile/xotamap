@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":30.25,"programs":["pota"],"count":1,"references":[{"code":"UA-0018","program":"pota","name":"Holosiivskiy National Park","coordinates":[30.4972,50.3656]}]}
+{"lat":50.25,"lon":30.25,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"UA-0018","program":"pota","name":"Holosiivskiy National Park","coordinates":[30.4972,50.3656]},{"code":"UR-00196","program":"wca","name":"ZMIYEVI VALY","coordinates":[30.466932,50.28026]},{"code":"URFF-0210","program":"wwff","name":"Berezovyy gay Landscape reserve","coordinates":[30.38483,50.30482]}]}

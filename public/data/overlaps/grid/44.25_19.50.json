@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":19.5,"programs":["sota"],"count":1,"references":[{"code":"YU/ZS-109","program":"sota","name":"Ranjenica","coordinates":[19.54673,44.25406]}]}
+{"lat":44.25,"lon":19.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"YU/ZS-109","program":"sota","name":"Ranjenica","coordinates":[19.54673,44.25406]},{"code":"YUFF-0219","program":"wwff","name":"NKD crkva brvnara Milicinica","coordinates":[19.69086,44.44098]}]}

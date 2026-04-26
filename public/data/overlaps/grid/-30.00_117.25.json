@@ -1,1 +1,1 @@
-{"lat":-30,"lon":117.25,"programs":["pota"],"count":1,"references":[{"code":"AU-3517","program":"pota","name":"Goodlands Nature Reserve","coordinates":[117.38,-29.9887]}]}
+{"lat":-30,"lon":117.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3517","program":"pota","name":"Goodlands Nature Reserve","coordinates":[117.38,-29.9887]},{"code":"VKFF-4072","program":"wwff","name":"Mt Gibson Private Nature Reserve","coordinates":[117.30767,-29.75511]}]}

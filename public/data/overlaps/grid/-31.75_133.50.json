@@ -1,1 +1,1 @@
-{"lat":-31.75,"lon":133.5,"programs":["pota"],"count":1,"references":[{"code":"AU-2871","program":"pota","name":"Yumbarra Botanical Gardens","coordinates":[133.61,-31.6892]}]}
+{"lat":-31.75,"lon":133.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2871","program":"pota","name":"Yumbarra Botanical Gardens","coordinates":[133.61,-31.6892]},{"code":"VKFF-1129","program":"wwff","name":"Yumbarra Conservation Park","coordinates":[133.61031,-31.6892]}]}

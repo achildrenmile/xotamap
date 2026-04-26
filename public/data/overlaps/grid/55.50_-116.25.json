@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":-116.25,"programs":["pota"],"count":1,"references":[{"code":"CA-3109","program":"pota","name":"Police Point Natural Area","coordinates":[-116.139,55.5633]}]}
+{"lat":55.5,"lon":-116.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3109","program":"pota","name":"Police Point Natural Area","coordinates":[-116.139,55.5633]},{"code":"VEFF-2664","program":"wwff","name":"Police Point","coordinates":[-116.13887,55.56325]}]}

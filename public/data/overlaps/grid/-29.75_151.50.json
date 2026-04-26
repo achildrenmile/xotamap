@@ -1,1 +1,1 @@
-{"lat":-29.75,"lon":151.5,"programs":["pota"],"count":1,"references":[{"code":"AU-2531","program":"pota","name":"Fladbury Nature Park","coordinates":[151.691,-29.5524]}]}
+{"lat":-29.75,"lon":151.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2531","program":"pota","name":"Fladbury Nature Park","coordinates":[151.691,-29.5524]},{"code":"VKFF-2599","program":"wwff","name":"Fladbury Nature Reserve","coordinates":[151.69099,-29.5524]}]}

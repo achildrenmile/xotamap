@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":-98,"programs":["pota"],"count":1,"references":[{"code":"CA-2434","program":"pota","name":"Dr. Frank Baldwin Wildlife Management Area","coordinates":[-97.937,50.3]}]}
+{"lat":50.25,"lon":-98,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2434","program":"pota","name":"Dr. Frank Baldwin Wildlife Management Area","coordinates":[-97.937,50.3]},{"code":"VEFF-4137","program":"wwff","name":"Dr. Frank Baldwin Wildlife Management Area","coordinates":[-97.98125,50.28194]}]}

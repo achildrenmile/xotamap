@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":-122,"programs":["sota"],"count":1,"references":[{"code":"W7O/CE-085","program":"sota","name":"Pothole Butte","coordinates":[-121.942,42.9506]}]}
+{"lat":42.75,"lon":-122,"programs":["sota","wwff"],"count":2,"references":[{"code":"W7O/CE-085","program":"sota","name":"Pothole Butte","coordinates":[-121.942,42.9506]},{"code":"KFF-4646","program":"wwff","name":"Winema","coordinates":[-121.81363,42.93736]}]}

@@ -1,1 +1,1 @@
-{"lat":-40.75,"lon":172.75,"programs":["pota"],"count":1,"references":[{"code":"NZ-0126","program":"pota","name":"Farewell Spit Nature Reserve","coordinates":[172.915,-40.5428]}]}
+{"lat":-40.75,"lon":172.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"NZ-0126","program":"pota","name":"Farewell Spit Nature Reserve","coordinates":[172.915,-40.5428]},{"code":"ZLFF-0121","program":"wwff","name":"Farewell Spit Nature Reserve","coordinates":[172.963,-40.527]}]}

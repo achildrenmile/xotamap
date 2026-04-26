@@ -1,1 +1,1 @@
-{"lat":51,"lon":18.25,"programs":["pota"],"count":1,"references":[{"code":"PL-2879","program":"pota","name":"Kania Nature Reserve","coordinates":[18.3003,51.1366]}]}
+{"lat":51,"lon":18.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"PL-2879","program":"pota","name":"Kania Nature Reserve","coordinates":[18.3003,51.1366]},{"code":"SPFF-2622","program":"wwff","name":"Nature Reserve Lasek Kurowski","coordinates":[18.43061,51.2302]},{"code":"SPFF-2910","program":"wwff","name":"Nature Reserve Kania","coordinates":[18.30004,51.1368]}]}

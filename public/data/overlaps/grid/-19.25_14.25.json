@@ -1,1 +1,1 @@
-{"lat":-19.25,"lon":14.25,"programs":["sota"],"count":1,"references":[{"code":"V5/SK-113","program":"sota","name":"V5/SK-113","coordinates":[14.2563,-19.2472]}]}
+{"lat":-19.25,"lon":14.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"V5/SK-113","program":"sota","name":"V5/SK-113","coordinates":[14.2563,-19.2472]},{"code":"V5FF-0014","program":"wwff","name":"Ehirovipuka Conservancy","coordinates":[14.31071,-19.07817]}]}

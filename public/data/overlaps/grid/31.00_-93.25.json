@@ -1,1 +1,1 @@
-{"lat":31,"lon":-93.25,"programs":["pota"],"count":1,"references":[{"code":"US-4088","program":"pota","name":"Walnut Hill Wildlife Management Area","coordinates":[-93.0865,31.1982]}]}
+{"lat":31,"lon":-93.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4088","program":"pota","name":"Walnut Hill Wildlife Management Area","coordinates":[-93.0865,31.1982]},{"code":"KFF-4088","program":"wwff","name":"Walnut Hill","coordinates":[-93.09456,31.20429]}]}

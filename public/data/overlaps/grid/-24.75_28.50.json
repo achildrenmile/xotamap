@@ -1,1 +1,1 @@
-{"lat":-24.75,"lon":28.5,"programs":["sota"],"count":1,"references":[{"code":"ZS/LP-349","program":"sota","name":"Kranskop","coordinates":[28.5311,-24.7239]}]}
+{"lat":-24.75,"lon":28.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/LP-349","program":"sota","name":"Kranskop","coordinates":[28.5311,-24.7239]},{"code":"ZSFF-0294","program":"wwff","name":"Nylsvley Conservancy","coordinates":[28.68489,-24.64517]}]}

@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":-103.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2718","program":"pota","name":"Limestone Lake Recreation Site","coordinates":[-103.195,54.6784]}]}
+{"lat":54.5,"lon":-103.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2718","program":"pota","name":"Limestone Lake Recreation Site","coordinates":[-103.195,54.6784]},{"code":"VEFF-3734","program":"wwff","name":"Limestone Lake","coordinates":[-103.18775,54.68588]}]}

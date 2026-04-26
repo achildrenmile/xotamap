@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":24.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0857","program":"pota","name":"Längelmäveden saaret Natura 2000","coordinates":[24.4,61.5453]}]}
+{"lat":61.5,"lon":24.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0857","program":"pota","name":"Längelmäveden saaret Natura 2000","coordinates":[24.4,61.5453]},{"code":"OHFF-0531","program":"wwff","name":"Längelmäveden saaret","coordinates":[24.39995,61.54707]},{"code":"OHFF-1825","program":"wwff","name":"Eräpyhä","coordinates":[24.45004,61.57537]}]}

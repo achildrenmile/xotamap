@@ -1,1 +1,1 @@
-{"lat":63.75,"lon":22.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0541","program":"pota","name":"Luodon saaristo Natura 2000","coordinates":[22.6341,63.8275]}]}
+{"lat":63.75,"lon":22.5,"programs":["arlhs","pota"],"count":3,"references":[{"code":"FIN 014","program":"arlhs","name":"Kallan","coordinates":[22.53000069,63.75]},{"code":"FIN 040","program":"arlhs","name":"Pietarsaari","coordinates":[22.53000069,63.75]},{"code":"FI-0541","program":"pota","name":"Luodon saaristo Natura 2000","coordinates":[22.6341,63.8275]}]}

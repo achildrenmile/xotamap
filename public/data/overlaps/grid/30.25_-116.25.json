@@ -1,1 +1,1 @@
-{"lat":30.25,"lon":-116.25,"programs":["sota"],"count":1,"references":[{"code":"XE2/BC-948","program":"sota","name":"XE2/BC-948","coordinates":[-116.017,30.48452]}]}
+{"lat":30.25,"lon":-116.25,"programs":["arlhs","sota"],"count":2,"references":[{"code":"MEX 154","program":"arlhs","name":"Isla de San Martin (Baja California)","coordinates":[-116.12000275,30.47999954]},{"code":"XE2/BC-948","program":"sota","name":"XE2/BC-948","coordinates":[-116.017,30.48452]}]}

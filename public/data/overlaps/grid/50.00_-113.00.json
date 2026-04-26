@@ -1,1 +1,1 @@
-{"lat":50,"lon":-113,"programs":["pota"],"count":1,"references":[{"code":"CA-1183","program":"pota","name":"Little Bow Provincial Park","coordinates":[-112.925,50.229]}]}
+{"lat":50,"lon":-113,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1183","program":"pota","name":"Little Bow Provincial Park","coordinates":[-112.925,50.229]},{"code":"VEFF-1183","program":"wwff","name":"Little Bow Provincial Park","coordinates":[-112.92535,50.22899]}]}

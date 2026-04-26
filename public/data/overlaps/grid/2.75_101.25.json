@@ -1,1 +1,1 @@
-{"lat":2.75,"lon":101.25,"programs":["sota"],"count":1,"references":[{"code":"9M2/SE-027","program":"sota","name":"Bukit Jugra","coordinates":[101.4244,2.8419]}]}
+{"lat":2.75,"lon":101.25,"programs":["arlhs","illw","sota"],"count":3,"references":[{"code":"WMA 001","program":"arlhs","name":"Bukit Jugra (Strait of Malacca)","coordinates":[101.34999847,2.82999992]},{"code":"MY0006","program":"illw","name":"Bukit Jugra","coordinates":[101.34999847,2.82999992]},{"code":"9M2/SE-027","program":"sota","name":"Bukit Jugra","coordinates":[101.4244,2.8419]}]}

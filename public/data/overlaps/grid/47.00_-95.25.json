@@ -1,1 +1,1 @@
-{"lat":47,"lon":-95.25,"programs":["pota"],"count":1,"references":[{"code":"US-2494","program":"pota","name":"Itasca State Park","coordinates":[-95.1871,47.2309]}]}
+{"lat":47,"lon":-95.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-2494","program":"pota","name":"Itasca State Park","coordinates":[-95.1871,47.2309]},{"code":"KFF-2494","program":"wwff","name":"Itasca","coordinates":[-95.18709,47.23088]},{"code":"KFF-5518","program":"wwff","name":"Two Inlets","coordinates":[-95.18018,47.06042]}]}

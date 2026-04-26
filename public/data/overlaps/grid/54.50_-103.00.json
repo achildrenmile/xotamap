@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":-103,"programs":["pota"],"count":1,"references":[{"code":"CA-0605","program":"pota","name":"Hanson Lake Recreation Site","coordinates":[-102.854,54.6776]}]}
+{"lat":54.5,"lon":-103,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0605","program":"pota","name":"Hanson Lake Recreation Site","coordinates":[-102.854,54.6776]},{"code":"VEFF-0605","program":"wwff","name":"Hanson Lake Recreation Site","coordinates":[-102.85366,54.67755]}]}

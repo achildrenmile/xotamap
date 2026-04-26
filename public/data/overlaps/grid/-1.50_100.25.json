@@ -1,1 +1,1 @@
-{"lat":-1.5,"lon":100.25,"programs":["sota"],"count":1,"references":[{"code":"YBS/SB-522","program":"sota","name":"YBS/SB-522","coordinates":[100.4131,-1.2544]}]}
+{"lat":-1.5,"lon":100.25,"programs":["arlhs","sota"],"count":3,"references":[{"code":"IDO 086","program":"arlhs","name":"Ujung Batumandi/Ujung Sungei Bramei (Sumatra)","coordinates":[100.37999725,-1.5]},{"code":"IDO 229","program":"arlhs","name":"Pulau Nuamuk (East Side) (Sumatra)","coordinates":[100.30000305,-1.26999998]},{"code":"YBS/SB-522","program":"sota","name":"YBS/SB-522","coordinates":[100.4131,-1.2544]}]}

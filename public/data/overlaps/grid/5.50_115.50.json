@@ -1,1 +1,1 @@
-{"lat":5.5,"lon":115.5,"programs":["pota"],"count":1,"references":[{"code":"MY-0056","program":"pota","name":"Pulau Tiga Park","coordinates":[115.653,5.73535]}]}
+{"lat":5.5,"lon":115.5,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"EMA 020","program":"arlhs","name":"Pulau Tiga","coordinates":[115.62999725,5.73000002]},{"code":"MY-0056","program":"pota","name":"Pulau Tiga Park","coordinates":[115.653,5.73535]},{"code":"WLOTA-0597","program":"wlota","name":"Pulau Tiga","coordinates":[115.63500214,5.7329998]}]}

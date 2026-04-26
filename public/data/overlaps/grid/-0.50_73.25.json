@@ -1,1 +1,1 @@
-{"lat":-0.5,"lon":73.25,"programs":["pota"],"count":1,"references":[{"code":"MV-0006","program":"pota","name":"Fuvammulah Marine Protected Area","coordinates":[73.425,-0.29]}]}
+{"lat":-0.5,"lon":73.25,"programs":["pota","wlota"],"count":2,"references":[{"code":"MV-0006","program":"pota","name":"Fuvammulah Marine Protected Area","coordinates":[73.425,-0.29]},{"code":"WLOTA-1310","program":"wlota","name":"Foammulah Atoll","coordinates":[73.41999817,-0.278]}]}

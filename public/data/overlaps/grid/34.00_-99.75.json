@@ -1,1 +1,1 @@
-{"lat":34,"lon":-99.75,"programs":["pota"],"count":1,"references":[{"code":"US-3001","program":"pota","name":"Copper Breaks State Park","coordinates":[-99.743,34.1122]}]}
+{"lat":34,"lon":-99.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3001","program":"pota","name":"Copper Breaks State Park","coordinates":[-99.743,34.1122]},{"code":"KFF-3001","program":"wwff","name":"Copper Breaks","coordinates":[-99.74303,34.11219]}]}

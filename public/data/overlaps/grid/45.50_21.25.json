@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":21.25,"programs":["pota"],"count":1,"references":[{"code":"RO-1063","program":"pota","name":"Lunca Timișului Habitat Protection Area","coordinates":[21.2589,45.6402]}]}
+{"lat":45.5,"lon":21.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RO-1063","program":"pota","name":"Lunca Timișului Habitat Protection Area","coordinates":[21.2589,45.6402]},{"code":"YOFF-0296","program":"wwff","name":"Lunca Timisului","coordinates":[21.39417,45.68389]},{"code":"YOFF-0602","program":"wwff","name":"Lunca Poganisului","coordinates":[21.49342,45.56274]}]}

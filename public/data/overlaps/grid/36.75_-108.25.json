@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":-108.25,"programs":["pota"],"count":1,"references":[{"code":"US-12593","program":"pota","name":"Glade Run Recreation Area BLM Recreation Management Area","coordinates":[-108.179,36.8046]}]}
+{"lat":36.75,"lon":-108.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-12593","program":"pota","name":"Glade Run Recreation Area BLM Recreation Management Area","coordinates":[-108.179,36.8046]},{"code":"KFF-0903","program":"wwff","name":"Aztec Ruins","coordinates":[-108.0001,36.8372]}]}

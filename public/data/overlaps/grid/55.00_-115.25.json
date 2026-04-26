@@ -1,1 +1,1 @@
-{"lat":55,"lon":-115.25,"programs":["pota"],"count":1,"references":[{"code":"CA-3030","program":"pota","name":"Grizzly Ridge Wildland Provincial Park","coordinates":[-115.003,55.101]}]}
+{"lat":55,"lon":-115.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3030","program":"pota","name":"Grizzly Ridge Wildland Provincial Park","coordinates":[-115.003,55.101]},{"code":"VEFF-2010","program":"wwff","name":"Grizzly Ridge Wildland Provincial Park","coordinates":[-115.03576,55.09427]}]}

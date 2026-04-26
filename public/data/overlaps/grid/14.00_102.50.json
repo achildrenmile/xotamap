@@ -1,1 +1,1 @@
-{"lat":14,"lon":102.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0132","program":"pota","name":"Ta Phraya National Park","coordinates":[102.59,14.1117]}]}
+{"lat":14,"lon":102.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0132","program":"pota","name":"Ta Phraya National Park","coordinates":[102.59,14.1117]},{"code":"HSFF-0091","program":"wwff","name":"Ta Phraya National Park","coordinates":[102.66909,14.13192]}]}

@@ -1,1 +1,1 @@
-{"lat":21,"lon":110.25,"programs":["pota"],"count":1,"references":[{"code":"CN-1081","program":"pota","name":"广东三岭山国家森林公园 National Forest","coordinates":[110.337,21.1721]}]}
+{"lat":21,"lon":110.25,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"PRC 075","program":"arlhs","name":"Zhanjiang Harbour","coordinates":[110.41999817,21.12000084]},{"code":"CN-1081","program":"pota","name":"广东三岭山国家森林公园 National Forest","coordinates":[110.337,21.1721]},{"code":"BYFF-0056","program":"wwff","name":"Huguangyan","coordinates":[110.28476,21.14528]}]}

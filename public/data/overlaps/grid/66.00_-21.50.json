@@ -1,1 +1,1 @@
-{"lat":66,"lon":-21.5,"programs":["sota"],"count":1,"references":[{"code":"TF/VF-084","program":"sota","name":"Reykjarneshyrna","coordinates":[-21.3999,66.024]}]}
+{"lat":66,"lon":-21.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"ICE 039","program":"arlhs","name":"GjÃ¶gur","coordinates":[-21.31999969,66]},{"code":"TF/VF-084","program":"sota","name":"Reykjarneshyrna","coordinates":[-21.3999,66.024]}]}

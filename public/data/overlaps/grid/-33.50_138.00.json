@@ -1,1 +1,1 @@
-{"lat":-33.5,"lon":138,"programs":["pota"],"count":1,"references":[{"code":"AU-0936","program":"pota","name":"Clements Gap Conservation Park","coordinates":[138.078,-33.4794]}]}
+{"lat":-33.5,"lon":138,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0936","program":"pota","name":"Clements Gap Conservation Park","coordinates":[138.078,-33.4794]},{"code":"VKFF-0812","program":"wwff","name":"Clements Gap Conservation Park","coordinates":[138.0768,-33.4937]}]}

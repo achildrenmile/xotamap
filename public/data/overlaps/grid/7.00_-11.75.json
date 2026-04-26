@@ -1,1 +1,1 @@
-{"lat":7,"lon":-11.75,"programs":["pota"],"count":1,"references":[{"code":"SL-0009","program":"pota","name":"Mape & Mabesi Lakes National Park","coordinates":[-11.7176,7.18472]}]}
+{"lat":7,"lon":-11.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"SL-0009","program":"pota","name":"Mape & Mabesi Lakes National Park","coordinates":[-11.7176,7.18472]},{"code":"9LFF-0002","program":"wwff","name":"Lake Mape/Mabesi","coordinates":[-11.73031,7.13564]}]}

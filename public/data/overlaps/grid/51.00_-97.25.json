@@ -1,1 +1,1 @@
-{"lat":51,"lon":-97.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2533","program":"pota","name":"David G. Tomasson Wildlife Management Area","coordinates":[-97.092,51.171]}]}
+{"lat":51,"lon":-97.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2533","program":"pota","name":"David G. Tomasson Wildlife Management Area","coordinates":[-97.092,51.171]},{"code":"VEFF-4133","program":"wwff","name":"David G. Tomasson Wildlife Management Area","coordinates":[-97.09028,51.16285]}]}

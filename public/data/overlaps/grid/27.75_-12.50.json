@@ -1,1 +1,1 @@
-{"lat":27.75,"lon":-12.5,"programs":["pota"],"count":1,"references":[{"code":"MA-0005","program":"pota","name":"Khenifiss National Park","coordinates":[-12.3693,27.9953]}]}
+{"lat":27.75,"lon":-12.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"MA-0005","program":"pota","name":"Khenifiss National Park","coordinates":[-12.3693,27.9953]},{"code":"CNFF-0008","program":"wwff","name":"National Park of the Golf of Khnifiss","coordinates":[-12.33333,27.93333]}]}

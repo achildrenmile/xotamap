@@ -1,1 +1,1 @@
-{"lat":-33.25,"lon":144.25,"programs":["pota"],"count":1,"references":[{"code":"AU-2356","program":"pota","name":"Morrisons Lake Nature Park","coordinates":[144.397,-33.1358]}]}
+{"lat":-33.25,"lon":144.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2356","program":"pota","name":"Morrisons Lake Nature Park","coordinates":[144.397,-33.1358]},{"code":"VKFF-2664","program":"wwff","name":"Morrisons Lake Nature Reserve","coordinates":[144.3972,-33.1358]}]}

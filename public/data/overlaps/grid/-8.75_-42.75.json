@@ -1,1 +1,1 @@
-{"lat":-8.75,"lon":-42.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0146","program":"pota","name":"Serra do Areal State Park","coordinates":[-42.5863,-8.69528]}]}
+{"lat":-8.75,"lon":-42.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0146","program":"pota","name":"Serra do Areal State Park","coordinates":[-42.5863,-8.69528]},{"code":"PYFF-0040","program":"wwff","name":"Parque Nacional da SERRA DA CAPIVARA - PI","coordinates":[-42.56825,-8.70364]}]}

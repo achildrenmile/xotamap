@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":0,"programs":["iota"],"count":1,"references":[{"code":"EU-151","program":"iota","name":"CASTELLON / VALENCIA PROVINCE group","coordinates":[0.084999995,39.704999925]}]}
+{"lat":39.5,"lon":0,"programs":["iota","wwff"],"count":2,"references":[{"code":"EU-151","program":"iota","name":"CASTELLON / VALENCIA PROVINCE group","coordinates":[0.084999995,39.704999925]},{"code":"TAFF-0195","program":"wwff","name":"Botanik Parki","coordinates":[0,39.74318]}]}

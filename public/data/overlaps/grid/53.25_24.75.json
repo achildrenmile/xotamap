@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":24.75,"programs":["pota"],"count":1,"references":[{"code":"BY-0066","program":"pota","name":"Ліпічанская пушча Landscape Reserve","coordinates":[24.9729,53.428]}]}
+{"lat":53.25,"lon":24.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0066","program":"pota","name":"Ліпічанская пушча Landscape Reserve","coordinates":[24.9729,53.428]},{"code":"EWFF-0016","program":"wwff","name":"Lipichanskaya pushcha","coordinates":[24.90019,53.42527]}]}

@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":4.25,"programs":["sota"],"count":1,"references":[{"code":"FL/VL-098","program":"sota","name":"Forêt des Brosses","coordinates":[4.445,47.9533]}]}
+{"lat":47.75,"lon":4.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"FL/VL-098","program":"sota","name":"Forêt des Brosses","coordinates":[4.445,47.9533]},{"code":"FFF-2298","program":"wwff","name":"Dunes et marais de Kerity et Ster Poulguen et landes de Kersidal","coordinates":[4.32022,47.80195]}]}

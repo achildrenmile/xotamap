@@ -1,1 +1,1 @@
-{"lat":-24.5,"lon":149.25,"programs":["pota"],"count":1,"references":[{"code":"AU-2858","program":"pota","name":"Mimosa Park Nature Recreation Area","coordinates":[149.489,-24.2511]}]}
+{"lat":-24.5,"lon":149.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2858","program":"pota","name":"Mimosa Park Nature Recreation Area","coordinates":[149.489,-24.2511]},{"code":"VKFF-2874","program":"wwff","name":"Mount Zero - Taravale Nature Refuge","coordinates":[149.4893,-24.2511]}]}

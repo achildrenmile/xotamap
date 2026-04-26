@@ -1,1 +1,1 @@
-{"lat":25,"lon":55.25,"programs":["pota"],"count":1,"references":[{"code":"AE-0016","program":"pota","name":"Ras Al Khor Wildlife Refuge","coordinates":[55.3133,25.1937]}]}
+{"lat":25,"lon":55.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AE-0016","program":"pota","name":"Ras Al Khor Wildlife Refuge","coordinates":[55.3133,25.1937]},{"code":"A6FF-0002","program":"wwff","name":"Ras Al Khor","coordinates":[55.33,25.196]}]}

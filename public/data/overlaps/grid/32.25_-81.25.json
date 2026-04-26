@@ -1,1 +1,1 @@
-{"lat":32.25,"lon":-81.25,"programs":["pota"],"count":1,"references":[{"code":"US-3913","program":"pota","name":"Tillman Sand Ridge Heritage Preserve Wildlife Management Area","coordinates":[-81.193,32.4954]}]}
+{"lat":32.25,"lon":-81.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3913","program":"pota","name":"Tillman Sand Ridge Heritage Preserve Wildlife Management Area","coordinates":[-81.193,32.4954]},{"code":"KFF-3913","program":"wwff","name":"Tillman Sand Ridge","coordinates":[-81.207,32.494]}]}

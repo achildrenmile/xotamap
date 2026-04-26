@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":-106,"programs":["pota"],"count":1,"references":[{"code":"US-0222","program":"pota","name":"Baca National Wildlife Refuge","coordinates":[-105.775,37.8615]}]}
+{"lat":37.75,"lon":-106,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0222","program":"pota","name":"Baca National Wildlife Refuge","coordinates":[-105.775,37.8615]},{"code":"KFF-0222","program":"wwff","name":"Baca National Wildlife Refuge","coordinates":[-105.77491,37.86147]}]}

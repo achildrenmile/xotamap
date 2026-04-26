@@ -1,1 +1,1 @@
-{"lat":66.5,"lon":25.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0071","program":"pota","name":"Paloselän aarnimetsä Nature Reserve","coordinates":[25.3089,66.6935]}]}
+{"lat":66.5,"lon":25.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0071","program":"pota","name":"Paloselän aarnimetsä Nature Reserve","coordinates":[25.3089,66.6935]},{"code":"OHFF-0379","program":"wwff","name":"Paloselän aarnimetsä","coordinates":[25.29146,66.69497]}]}

@@ -1,1 +1,1 @@
-{"lat":62.25,"lon":21.75,"programs":["pota"],"count":1,"references":[{"code":"FI-1022","program":"pota","name":"Tarkankeitaan soidensuojelualue Protected Area","coordinates":[21.8841,62.387]}]}
+{"lat":62.25,"lon":21.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1022","program":"pota","name":"Tarkankeitaan soidensuojelualue Protected Area","coordinates":[21.8841,62.387]},{"code":"OHFF-0323","program":"wwff","name":"Lutakkoneva","coordinates":[21.8299,62.39997]}]}

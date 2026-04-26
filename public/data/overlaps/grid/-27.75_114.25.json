@@ -1,1 +1,1 @@
-{"lat":-27.75,"lon":114.25,"programs":["pota"],"count":1,"references":[{"code":"AU-0104","program":"pota","name":"Kalbarri National Park","coordinates":[114.478,-27.6396]}]}
+{"lat":-27.75,"lon":114.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0104","program":"pota","name":"Kalbarri National Park","coordinates":[114.478,-27.6396]},{"code":"VKFF-0254","program":"wwff","name":"Kalbarri National Park","coordinates":[114.4777,-27.6396]}]}

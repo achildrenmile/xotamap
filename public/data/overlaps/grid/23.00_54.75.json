@@ -1,1 +1,1 @@
-{"lat":23,"lon":54.75,"programs":["pota"],"count":1,"references":[{"code":"AE-0045","program":"pota","name":"Arabian Oryx Protected Area","coordinates":[54.858,23.09]}]}
+{"lat":23,"lon":54.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AE-0045","program":"pota","name":"Arabian Oryx Protected Area","coordinates":[54.858,23.09]},{"code":"A6FF-0017","program":"wwff","name":"Arabian Oryx","coordinates":[54.862,23.072]}]}

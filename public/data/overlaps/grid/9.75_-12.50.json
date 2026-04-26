@@ -1,1 +1,1 @@
-{"lat":9.75,"lon":-12.5,"programs":["pota"],"count":1,"references":[{"code":"SL-0010","program":"pota","name":"Kuru Hills National Park","coordinates":[-12.2941,9.86238]}]}
+{"lat":9.75,"lon":-12.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"SL-0010","program":"pota","name":"Kuru Hills National Park","coordinates":[-12.2941,9.86238]},{"code":"9LFF-0001","program":"wwff","name":"Kuru Hills","coordinates":[-12.28958,9.88633]}]}

@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":22.25,"programs":["pota"],"count":1,"references":[{"code":"PL-0234","program":"pota","name":"Annówka Protected Landscape Area","coordinates":[22.4698,51.684]}]}
+{"lat":51.5,"lon":22.25,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"PL-0234","program":"pota","name":"Annówka Protected Landscape Area","coordinates":[22.4698,51.684]},{"code":"SP-00720","program":"wca","name":"Kock","coordinates":[22.444725,51.635883]},{"code":"SPFF-0794","program":"wwff","name":"Protected Landscape Area Annowka","coordinates":[22.46977,51.68404]}]}

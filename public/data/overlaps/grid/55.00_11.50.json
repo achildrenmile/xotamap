@@ -1,1 +1,1 @@
-{"lat":55,"lon":11.5,"programs":["pota"],"count":1,"references":[{"code":"DK-0134","program":"pota","name":"Karrebæk, Dybsø og Avnø Fjorde Natura 2000","coordinates":[11.7418,55.1236]}]}
+{"lat":55,"lon":11.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"DK-0134","program":"pota","name":"Karrebæk, Dybsø og Avnø Fjorde Natura 2000","coordinates":[11.7418,55.1236]},{"code":"OZFF-0084","program":"wwff","name":"Karrebaek, Dybsoe og Avnoe Fjorde (Karrebæk, Dybsø og Avnø Fjorde)","coordinates":[11.74175,55.12363]}]}

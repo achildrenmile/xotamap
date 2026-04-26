@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":-85,"programs":["pota"],"count":1,"references":[{"code":"US-6764","program":"pota","name":"Portland State Game Land","coordinates":[-84.9178,42.8136]}]}
+{"lat":42.75,"lon":-85,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6764","program":"pota","name":"Portland State Game Land","coordinates":[-84.9178,42.8136]},{"code":"KFF-5401","program":"wwff","name":"Portland","coordinates":[-84.9252,42.81596]}]}

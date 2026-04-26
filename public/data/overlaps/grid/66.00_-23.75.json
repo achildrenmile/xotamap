@@ -1,1 +1,1 @@
-{"lat":66,"lon":-23.75,"programs":["sota"],"count":1,"references":[{"code":"TF/VF-058","program":"sota","name":"Barði","coordinates":[-23.7448,66.0417]}]}
+{"lat":66,"lon":-23.75,"programs":["arlhs","sota"],"count":3,"references":[{"code":"ICE 041","program":"arlhs","name":"GÃ¶ltur","coordinates":[-23.56999969,66.16999817]},{"code":"ICE 124","program":"arlhs","name":"Saudanes West","coordinates":[-23.64999962,66.12000275]},{"code":"TF/VF-058","program":"sota","name":"Barði","coordinates":[-23.7448,66.0417]}]}

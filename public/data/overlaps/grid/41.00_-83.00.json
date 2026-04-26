@@ -1,1 +1,1 @@
-{"lat":41,"lon":-83,"programs":["pota"],"count":1,"references":[{"code":"US-8271","program":"pota","name":"Willard Marsh State Wildlife Area","coordinates":[-82.7804,41.011]}]}
+{"lat":41,"lon":-83,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8271","program":"pota","name":"Willard Marsh State Wildlife Area","coordinates":[-82.7804,41.011]},{"code":"KFF-6487","program":"wwff","name":"Willard Marsh","coordinates":[-82.7804,41.011]}]}

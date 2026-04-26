@@ -1,1 +1,1 @@
-{"lat":-24.5,"lon":-62,"programs":["pota"],"count":1,"references":[{"code":"AR-0075","program":"pota","name":"Formosa Nature Reserve","coordinates":[-61.8144,-24.2659]}]}
+{"lat":-24.5,"lon":-62,"programs":["pota","wwff"],"count":3,"references":[{"code":"AR-0075","program":"pota","name":"Formosa Nature Reserve","coordinates":[-61.8144,-24.2659]},{"code":"LUFF-0060","program":"wwff","name":"Formosa","coordinates":[-61.81442,-24.26587]},{"code":"LUFF-0112","program":"wwff","name":"Riacho TEUQUITO","coordinates":[-61.81667,-24.3]}]}

@@ -1,1 +1,1 @@
-{"lat":-29.75,"lon":147.25,"programs":["pota"],"count":1,"references":[{"code":"AU-2552","program":"pota","name":"Narran Lake Nature Park","coordinates":[147.428,-29.7292]}]}
+{"lat":-29.75,"lon":147.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2552","program":"pota","name":"Narran Lake Nature Park","coordinates":[147.428,-29.7292]},{"code":"VKFF-2680","program":"wwff","name":"Narran Lake Nature Reserve","coordinates":[147.4278,-29.7292]}]}

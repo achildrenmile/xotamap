@@ -1,1 +1,1 @@
-{"lat":44,"lon":-1,"programs":["pota"],"count":1,"references":[{"code":"FR-3926","program":"pota","name":"Arjuzanx National Nature Reserve","coordinates":[-0.869,44.003]}]}
+{"lat":44,"lon":-1,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-3926","program":"pota","name":"Arjuzanx National Nature Reserve","coordinates":[-0.869,44.003]},{"code":"FFF-1440","program":"wwff","name":"Natura 2000 - Site d'Arjuzanx","coordinates":[-0.86583,44.00833]}]}

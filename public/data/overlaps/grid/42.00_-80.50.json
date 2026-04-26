@@ -1,1 +1,1 @@
-{"lat":42,"lon":-80.5,"programs":["pota"],"count":1,"references":[{"code":"US-1350","program":"pota","name":"Erie Bluffs State Park","coordinates":[-80.376,42.0153]}]}
+{"lat":42,"lon":-80.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1350","program":"pota","name":"Erie Bluffs State Park","coordinates":[-80.376,42.0153]},{"code":"KFF-1350","program":"wwff","name":"Erie Bluffs","coordinates":[-80.38489,42.01526]}]}

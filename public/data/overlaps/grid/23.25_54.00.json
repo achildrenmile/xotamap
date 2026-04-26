@@ -1,1 +1,1 @@
-{"lat":23.25,"lon":54,"programs":["pota"],"count":1,"references":[{"code":"AE-0042","program":"pota","name":"Al Beda'a Protected Area","coordinates":[54.15,23.479]}]}
+{"lat":23.25,"lon":54,"programs":["pota","wwff"],"count":2,"references":[{"code":"AE-0042","program":"pota","name":"Al Beda'a Protected Area","coordinates":[54.15,23.479]},{"code":"A6FF-0043","program":"wwff","name":"Bidaa","coordinates":[54.195,23.451]}]}

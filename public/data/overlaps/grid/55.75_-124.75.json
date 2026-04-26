@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":-124.75,"programs":["pota"],"count":1,"references":[{"code":"CA-3926","program":"pota","name":"Omineca Provincial Park","coordinates":[-124.725,55.7963]}]}
+{"lat":55.75,"lon":-124.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-3926","program":"pota","name":"Omineca Provincial Park","coordinates":[-124.725,55.7963]},{"code":"VEFF-2149","program":"wwff","name":"Omineca Protected Area","coordinates":[-124.56299,55.85244]},{"code":"VEFF-2150","program":"wwff","name":"Omineca Provincial Park","coordinates":[-124.56299,55.85244]}]}

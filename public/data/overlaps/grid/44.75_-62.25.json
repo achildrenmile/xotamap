@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":-62.25,"programs":["pota"],"count":1,"references":[{"code":"CA-1794","program":"pota","name":"Marie Joseph Provincial Park","coordinates":[-62.0868,44.9674]}]}
+{"lat":44.75,"lon":-62.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1794","program":"pota","name":"Marie Joseph Provincial Park","coordinates":[-62.0868,44.9674]},{"code":"VEFF-1462","program":"wwff","name":"Marie Joseph Provincial Park","coordinates":[-62.08681,44.96736]},{"code":"VEFF-4783","program":"wwff","name":"Barren Island","coordinates":[-62.03456,44.94275]}]}

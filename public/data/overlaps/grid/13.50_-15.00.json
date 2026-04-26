@@ -1,1 +1,1 @@
-{"lat":13.5,"lon":-15,"programs":["pota"],"count":1,"references":[{"code":"GM-0005","program":"pota","name":"Gambia river Protected Area","coordinates":[-14.967,13.635]}]}
+{"lat":13.5,"lon":-15,"programs":["pota","wwff"],"count":2,"references":[{"code":"GM-0005","program":"pota","name":"Gambia river Protected Area","coordinates":[-14.967,13.635]},{"code":"C5FF-0003","program":"wwff","name":"River Gambia","coordinates":[-15,13.63]}]}

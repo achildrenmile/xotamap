@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":45.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0046","program":"pota","name":"Smolny National Park","coordinates":[45.413,54.8022]}]}
+{"lat":54.75,"lon":45.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0046","program":"pota","name":"Smolny National Park","coordinates":[45.413,54.8022]},{"code":"RFF-0143","program":"wwff","name":"Smolniy","coordinates":[45.41611,54.80049]}]}

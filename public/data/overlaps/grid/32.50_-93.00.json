@@ -1,1 +1,1 @@
-{"lat":32.5,"lon":-93,"programs":["pota"],"count":1,"references":[{"code":"US-2368","program":"pota","name":"Lake Claiborne State Park","coordinates":[-92.9203,32.7301]}]}
+{"lat":32.5,"lon":-93,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2368","program":"pota","name":"Lake Claiborne State Park","coordinates":[-92.9203,32.7301]},{"code":"KFF-2368","program":"wwff","name":"Lake Claiborne","coordinates":[-92.92286,32.72366]}]}

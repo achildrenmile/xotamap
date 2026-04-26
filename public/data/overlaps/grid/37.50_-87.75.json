@@ -1,1 +1,1 @@
-{"lat":37.5,"lon":-87.75,"programs":["pota"],"count":1,"references":[{"code":"US-3822","program":"pota","name":"Lee K. Nelson Wildlife Management Area","coordinates":[-87.6864,37.5013]}]}
+{"lat":37.5,"lon":-87.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3822","program":"pota","name":"Lee K. Nelson Wildlife Management Area","coordinates":[-87.6864,37.5013]},{"code":"KFF-3822","program":"wwff","name":"Lee K. Nelson","coordinates":[-87.68641,37.50132]}]}

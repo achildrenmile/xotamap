@@ -1,1 +1,1 @@
-{"lat":31.5,"lon":-85.25,"programs":["pota"],"count":1,"references":[{"code":"US-2180","program":"pota","name":"George T. Bagby State Park","coordinates":[-85.0577,31.6651]}]}
+{"lat":31.5,"lon":-85.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2180","program":"pota","name":"George T. Bagby State Park","coordinates":[-85.0577,31.6651]},{"code":"KFF-2180","program":"wwff","name":"George T. Bagby and Lodge","coordinates":[-85.05775,31.66509]}]}

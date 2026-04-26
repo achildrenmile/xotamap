@@ -1,1 +1,1 @@
-{"lat":33.5,"lon":-87,"programs":["pota"],"count":1,"references":[{"code":"US-3602","program":"pota","name":"Birmingham Civil Rights National Monument","coordinates":[-86.8137,33.5156]}]}
+{"lat":33.5,"lon":-87,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3602","program":"pota","name":"Birmingham Civil Rights National Monument","coordinates":[-86.8137,33.5156]},{"code":"KFF-3602","program":"wwff","name":"Birmingham Civil Rights","coordinates":[-86.81374,33.51555]}]}

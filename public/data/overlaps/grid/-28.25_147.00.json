@@ -1,1 +1,1 @@
-{"lat":-28.25,"lon":147,"programs":["pota"],"count":1,"references":[{"code":"AU-1155","program":"pota","name":"Narkoola National Park","coordinates":[147.081,-28.0631]}]}
+{"lat":-28.25,"lon":147,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1155","program":"pota","name":"Narkoola National Park","coordinates":[147.081,-28.0631]},{"code":"VKFF-1210","program":"wwff","name":"Narkoola National Park","coordinates":[147.0549,-28.0468]}]}

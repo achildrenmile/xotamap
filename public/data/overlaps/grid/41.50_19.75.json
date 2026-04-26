@@ -1,1 +1,1 @@
-{"lat":41.5,"lon":19.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/ZA-0027","program":"wwbota","name":"Bunkers Kruje Municipality","coordinates":[19.7925,41.5108]}]}
+{"lat":41.5,"lon":19.75,"programs":["wca","wwbota","wwff"],"count":3,"references":[{"code":"ZA-00007","program":"wca","name":"KRUJA CASTLE","coordinates":[19.79406,41.50733]},{"code":"B/ZA-0027","program":"wwbota","name":"Bunkers Kruje Municipality","coordinates":[19.7925,41.5108]},{"code":"ZAFF-0007","program":"wwff","name":"Qafe Shtame","coordinates":[19.89219,41.52073]}]}

@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":-85,"programs":["pota"],"count":1,"references":[{"code":"US-6822","program":"pota","name":"Whitefish Point State Harbor","coordinates":[-84.9666,46.7586]}]}
+{"lat":46.75,"lon":-85,"programs":["arlhs","pota"],"count":2,"references":[{"code":"USA 887","program":"arlhs","name":"Whitefish Point (Lake Superior)","coordinates":[-84.94999695,46.77000046]},{"code":"US-6822","program":"pota","name":"Whitefish Point State Harbor","coordinates":[-84.9666,46.7586]}]}

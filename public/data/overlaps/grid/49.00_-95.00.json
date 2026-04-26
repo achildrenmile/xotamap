@@ -1,1 +1,1 @@
-{"lat":49,"lon":-95,"programs":["pota"],"count":1,"references":[{"code":"US-6463","program":"pota","name":"Garden Island State Recreation Area","coordinates":[-94.847,49.1773]}]}
+{"lat":49,"lon":-95,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6463","program":"pota","name":"Garden Island State Recreation Area","coordinates":[-94.847,49.1773]},{"code":"KFF-5366","program":"wwff","name":"Garden Island","coordinates":[-94.84706,49.17711]}]}

@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":-109,"programs":["pota"],"count":1,"references":[{"code":"CA-1095","program":"pota","name":"Atton's Lake Regional Park","coordinates":[-108.861,52.8356]}]}
+{"lat":52.75,"lon":-109,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1095","program":"pota","name":"Atton's Lake Regional Park","coordinates":[-108.861,52.8356]},{"code":"VEFF-1095","program":"wwff","name":"Atton's Lake Regional Park","coordinates":[-108.8609,52.83556]}]}

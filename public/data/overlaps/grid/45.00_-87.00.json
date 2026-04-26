@@ -1,1 +1,1 @@
-{"lat":45,"lon":-87,"programs":["pota"],"count":1,"references":[{"code":"US-1468","program":"pota","name":"Newport State Park","coordinates":[-86.9988,45.2346]}]}
+{"lat":45,"lon":-87,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-1468","program":"pota","name":"Newport State Park","coordinates":[-86.9988,45.2346]},{"code":"KFF-0599","program":"wwff","name":"Gravel Island","coordinates":[-86.97351,45.21479]},{"code":"KFF-1468","program":"wwff","name":"Newport","coordinates":[-86.99677,45.23635]}]}

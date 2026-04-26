@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":25.75,"programs":["sota"],"count":1,"references":[{"code":"SV/AG-036","program":"sota","name":"Vouno tou Xoriou","coordinates":[25.7975,36.779446]}]}
+{"lat":36.75,"lon":25.75,"programs":["sota","wlota"],"count":2,"references":[{"code":"SV/AG-036","program":"sota","name":"Vouno tou Xoriou","coordinates":[25.7975,36.779446]},{"code":"WLOTA-4094","program":"wlota","name":"Nisos Amorgos","coordinates":[25.80200005,36.76800156]}]}

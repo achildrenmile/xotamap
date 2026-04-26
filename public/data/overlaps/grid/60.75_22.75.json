@@ -1,1 +1,1 @@
-{"lat":60.75,"lon":22.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0654","program":"pota","name":"Kontolanrahka Natura 2000","coordinates":[22.7901,60.7832]}]}
+{"lat":60.75,"lon":22.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0654","program":"pota","name":"Kontolanrahka Natura 2000","coordinates":[22.7901,60.7832]},{"code":"OHFF-0685","program":"wwff","name":"Kontolanrahka","coordinates":[22.78736,60.78253]}]}

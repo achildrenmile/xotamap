@@ -1,1 +1,1 @@
-{"lat":-67.75,"lon":62.75,"programs":["pota"],"count":1,"references":[{"code":"AQ-0034","program":"pota","name":"Mawson Station National Park","coordinates":[62.8666,-67.6]}]}
+{"lat":-67.75,"lon":62.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AQ-0034","program":"pota","name":"Mawson Station National Park","coordinates":[62.8666,-67.6]},{"code":"VKFF-0569","program":"wwff","name":"Douglas Mawson Station (ANARE)","coordinates":[62.8666,-67.6]}]}

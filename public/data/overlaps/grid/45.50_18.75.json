@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":18.75,"programs":["pota"],"count":1,"references":[{"code":"HR-0005","program":"pota","name":"Kopački Rit Nature Park","coordinates":[18.8841,45.659]}]}
+{"lat":45.5,"lon":18.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"HR-0005","program":"pota","name":"Kopački Rit Nature Park","coordinates":[18.8841,45.659]},{"code":"9AFF-0010","program":"wwff","name":"Kopa?ki rit","coordinates":[18.83597,45.58553]},{"code":"9AFF-0103","program":"wwff","name":"Special zoological rezerve Kopacki rit","coordinates":[18.85483,45.60872]}]}

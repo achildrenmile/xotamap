@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":-108.75,"programs":["pota"],"count":1,"references":[{"code":"CA-2687","program":"pota","name":"Hazlet Regional Park Recreation Site","coordinates":[-108.592,50.39]}]}
+{"lat":50.25,"lon":-108.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2687","program":"pota","name":"Hazlet Regional Park Recreation Site","coordinates":[-108.592,50.39]},{"code":"VEFF-5088","program":"wwff","name":"Hazlet Regional Park","coordinates":[-108.64673,50.40782]}]}

@@ -1,1 +1,1 @@
-{"lat":-33.5,"lon":18.5,"programs":["sota"],"count":1,"references":[{"code":"ZS/WC-904","program":"sota","name":"Dassenberg","coordinates":[18.5141,-33.4963]}]}
+{"lat":-33.5,"lon":18.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/WC-904","program":"sota","name":"Dassenberg","coordinates":[18.5141,-33.4963]},{"code":"ZSFF-0320","program":"wwff","name":"Riverlands Nature Reserve","coordinates":[18.58789,-33.49619]}]}

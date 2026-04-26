@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-113.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0092","program":"wwbota","name":"FRP GJ1","coordinates":[-113.6463436,53.79250653]}]}
+{"lat":53.75,"lon":-113.75,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0092","program":"wwbota","name":"FRP GJ1","coordinates":[-113.6463436,53.79250653]},{"code":"VEFF-5142","program":"wwff","name":"Boisvert's GreenWoods Conservation Lands","coordinates":[-113.57067,53.86556]}]}

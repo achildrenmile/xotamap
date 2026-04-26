@@ -1,1 +1,1 @@
-{"lat":14.25,"lon":98.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0124","program":"pota","name":"Sai Yok National Park","coordinates":[98.8506,14.4377]}]}
+{"lat":14.25,"lon":98.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0124","program":"pota","name":"Sai Yok National Park","coordinates":[98.8506,14.4377]},{"code":"HSFF-0086","program":"wwff","name":"Sai Yok National Park","coordinates":[98.85069,14.43704]}]}

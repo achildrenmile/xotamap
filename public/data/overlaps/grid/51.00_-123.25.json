@@ -1,1 +1,1 @@
-{"lat":51,"lon":-123.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4121","program":"pota","name":"South Chilcotin Mountains Provincial Park","coordinates":[-123.086,51.0497]}]}
+{"lat":51,"lon":-123.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4121","program":"pota","name":"South Chilcotin Mountains Provincial Park","coordinates":[-123.086,51.0497]},{"code":"VEFF-2181","program":"wwff","name":"South Chilcotin Mountains Provincial Park","coordinates":[-123.05169,51.0288]}]}

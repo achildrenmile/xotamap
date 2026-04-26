@@ -1,1 +1,1 @@
-{"lat":53,"lon":70.25,"programs":["gma"],"count":1,"references":[{"code":"UNM-SH003","program":"gma","name":"Lysaya (Ð›Ñ‹ÑÐ°Ñ)","coordinates":[70.41694444,53.02388889]}]}
+{"lat":53,"lon":70.25,"programs":["gma","wwff"],"count":2,"references":[{"code":"UNM-SH003","program":"gma","name":"Lysaya (Ð›Ñ‹ÑÐ°Ñ)","coordinates":[70.41694444,53.02388889]},{"code":"UNFF-0003","program":"wwff","name":"Burabay National Park","coordinates":[70.30283,53.08384]}]}

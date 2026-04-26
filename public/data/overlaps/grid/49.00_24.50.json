@@ -1,1 +1,1 @@
-{"lat":49,"lon":24.5,"programs":["pota"],"count":1,"references":[{"code":"UA-0013","program":"pota","name":"Halych National Park","coordinates":[24.7159,49.095]}]}
+{"lat":49,"lon":24.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0013","program":"pota","name":"Halych National Park","coordinates":[24.7159,49.095]},{"code":"URFF-0032","program":"wwff","name":"Halytskyi National Park","coordinates":[24.71821,49.09286]}]}

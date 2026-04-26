@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":-108,"programs":["pota"],"count":1,"references":[{"code":"US-0408","program":"pota","name":"UL Bend National Wildlife Refuge","coordinates":[-107.88,47.6003]}]}
+{"lat":47.5,"lon":-108,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-0408","program":"pota","name":"UL Bend National Wildlife Refuge","coordinates":[-107.88,47.6003]},{"code":"KFF-0399","program":"wwff","name":"Charles M. Russell","coordinates":[-107.95676,47.70021]},{"code":"KFF-0408","program":"wwff","name":"UL Bend","coordinates":[-107.80594,47.59941]}]}

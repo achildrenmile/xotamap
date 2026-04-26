@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-99.25,"programs":["pota"],"count":1,"references":[{"code":"US-2780","program":"pota","name":"Foss State Park","coordinates":[-99.1865,35.53]}]}
+{"lat":35.5,"lon":-99.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2780","program":"pota","name":"Foss State Park","coordinates":[-99.1865,35.53]},{"code":"KFF-2780","program":"wwff","name":"Foss","coordinates":[-99.18651,35.52995]}]}

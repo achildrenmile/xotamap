@@ -1,1 +1,1 @@
-{"lat":64.5,"lon":29.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0606","program":"pota","name":"Juortanansalon alue Natura 2000","coordinates":[29.9262,64.5559]}]}
+{"lat":64.5,"lon":29.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0606","program":"pota","name":"Juortanansalon alue Natura 2000","coordinates":[29.9262,64.5559]},{"code":"OHFF-0164","program":"wwff","name":"Juortanansalo-Lapinsuon luonnonsuojelualue","coordinates":[29.84948,64.5571]},{"code":"OHFF-0442","program":"wwff","name":"Murhisalo","coordinates":[29.96972,64.67181]}]}

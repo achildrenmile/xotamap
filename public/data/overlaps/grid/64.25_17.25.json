@@ -1,1 +1,1 @@
-{"lat":64.25,"lon":17.25,"programs":["sota"],"count":1,"references":[{"code":"SM/VB-208","program":"sota","name":"Vittjärnberget","coordinates":[17.377222,64.30249]}]}
+{"lat":64.25,"lon":17.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"SM/VB-208","program":"sota","name":"Vittjärnberget","coordinates":[17.377222,64.30249]},{"code":"SMFF-2488","program":"wwff","name":"Näversjöberget","coordinates":[17.33833,64.43611]}]}

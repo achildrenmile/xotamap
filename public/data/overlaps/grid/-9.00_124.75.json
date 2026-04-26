@@ -1,1 +1,1 @@
-{"lat":-9,"lon":124.75,"programs":["pota"],"count":1,"references":[{"code":"TL-0034","program":"pota","name":"Batugadé Marine Protected Area","coordinates":[124.959,-8.9487]}]}
+{"lat":-9,"lon":124.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TL-0034","program":"pota","name":"Batugadé Marine Protected Area","coordinates":[124.959,-8.9487]},{"code":"4WFF-0034","program":"wwff","name":"Batugadé Marine Natural Reserve","coordinates":[124.959,-8.9487]}]}

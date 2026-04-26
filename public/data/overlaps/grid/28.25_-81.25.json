@@ -1,1 +1,1 @@
-{"lat":28.25,"lon":-81.25,"programs":["pota"],"count":1,"references":[{"code":"US-6324","program":"pota","name":"Split Oak Forest Wildlife Area","coordinates":[-81.2111,28.3534]}]}
+{"lat":28.25,"lon":-81.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-6324","program":"pota","name":"Split Oak Forest Wildlife Area","coordinates":[-81.2111,28.3534]},{"code":"KFF-5266","program":"wwff","name":"Split Oak Forest","coordinates":[-81.20163,28.35195]},{"code":"KFF-6715","program":"wwff","name":"Hal Scott","coordinates":[-81.09556,28.48601]}]}

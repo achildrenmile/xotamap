@@ -1,1 +1,1 @@
-{"lat":-18,"lon":133.25,"programs":["pota"],"count":1,"references":[{"code":"AU-7020","program":"pota","name":"Lake Woods Wetlands Conservation Reserve","coordinates":[133.492,-17.7937]}]}
+{"lat":-18,"lon":133.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-7020","program":"pota","name":"Lake Woods Wetlands Conservation Reserve","coordinates":[133.492,-17.7937]},{"code":"VKFF-3935","program":"wwff","name":"Lake Woods Wetlands Conservation Covenant","coordinates":[133.4915,-17.7937]}]}

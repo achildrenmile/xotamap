@@ -1,1 +1,1 @@
-{"lat":36.25,"lon":29.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0038","program":"pota","name":"Saklıkent National Park","coordinates":[29.4056,36.476]}]}
+{"lat":36.25,"lon":29.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"TR-0038","program":"pota","name":"Saklıkent National Park","coordinates":[29.4056,36.476]},{"code":"TAFF-0028","program":"wwff","name":"Saklikent Milli Parki","coordinates":[29.40348,36.47401]},{"code":"TAFF-0074","program":"wwff","name":"Patara Antik Kenti (ancient city, beach)","coordinates":[29.31677,36.26122]}]}

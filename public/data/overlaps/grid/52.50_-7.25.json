@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":-7.25,"programs":["sota"],"count":1,"references":[{"code":"EI/IE-048","program":"sota","name":"Coppanagh","coordinates":[-7.041299,52.538475]}]}
+{"lat":52.5,"lon":-7.25,"programs":["sota","wwff"],"count":3,"references":[{"code":"EI/IE-048","program":"sota","name":"Coppanagh","coordinates":[-7.041299,52.538475]},{"code":"EIFF-0133","program":"wwff","name":"Thomastown Quarry SAC","coordinates":[-7.14444,52.5349]},{"code":"EIFF-0134","program":"wwff","name":"River Barrow and River Nore SAC","coordinates":[-7.18277,52.5815]}]}

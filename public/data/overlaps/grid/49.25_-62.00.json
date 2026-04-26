@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":-62,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1512","program":"wwbota","name":"FRP Cap-de-la-Table","coordinates":[-61.896026,49.35094383]}]}
+{"lat":49.25,"lon":-62,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 082","program":"arlhs","name":"Cap de la Table/Table Head (Anticosti Island)","coordinates":[-61.90000153,49.34999847]},{"code":"B/CA-1512","program":"wwbota","name":"FRP Cap-de-la-Table","coordinates":[-61.896026,49.35094383]}]}

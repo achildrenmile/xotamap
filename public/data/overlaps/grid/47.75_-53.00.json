@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":-53,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0696","program":"wwbota","name":"FRP HC15","coordinates":[-52.7867233,47.80869903]}]}
+{"lat":47.75,"lon":-53,"programs":["arlhs","illw","wwbota"],"count":3,"references":[{"code":"CAN 835","program":"arlhs","name":"Cape St. Francis","coordinates":[-52.77999878,47.81999969]},{"code":"CA0022","program":"illw","name":"Cape St. Francis, NF","coordinates":[-52.77999878,47.81999969]},{"code":"B/CA-0696","program":"wwbota","name":"FRP HC15","coordinates":[-52.7867233,47.80869903]}]}

@@ -1,1 +1,1 @@
-{"lat":42.5,"lon":-117.25,"programs":["sota"],"count":1,"references":[{"code":"W7O/SE-097","program":"sota","name":"Three Forks Dome","coordinates":[-117.17,42.5384]}]}
+{"lat":42.5,"lon":-117.25,"programs":["sota","wwff"],"count":3,"references":[{"code":"W7O/SE-097","program":"sota","name":"Three Forks Dome","coordinates":[-117.17,42.5384]},{"code":"KFF-7317","program":"wwff","name":"Owyhee River (OR)","coordinates":[-117.1704,42.5475]},{"code":"KFF-7318","program":"wwff","name":"North Fork Owyhee River (OR)","coordinates":[-117.1681,42.5439]}]}

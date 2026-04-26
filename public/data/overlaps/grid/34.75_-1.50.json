@@ -1,1 +1,1 @@
-{"lat":34.75,"lon":-1.5,"programs":["pota"],"count":1,"references":[{"code":"DZ-0008","program":"pota","name":"Tlemcen National Park","coordinates":[-1.37,34.8359]}]}
+{"lat":34.75,"lon":-1.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"DZ-0008","program":"pota","name":"Tlemcen National Park","coordinates":[-1.37,34.8359]},{"code":"7XFF-0010","program":"wwff","name":"Tlemcen","coordinates":[-1.3,34.88333]}]}

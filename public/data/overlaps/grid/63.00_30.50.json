@@ -1,1 +1,1 @@
-{"lat":63,"lon":30.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0231","program":"pota","name":"Patvinsuo National Park","coordinates":[30.7142,63.1015]}]}
+{"lat":63,"lon":30.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0231","program":"pota","name":"Patvinsuo National Park","coordinates":[30.7142,63.1015]},{"code":"OHFF-0019","program":"wwff","name":"Patvinsuon kansallispuisto","coordinates":[30.70117,63.11328]}]}

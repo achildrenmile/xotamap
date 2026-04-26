@@ -1,1 +1,1 @@
-{"lat":-4.25,"lon":-79.25,"programs":["pota"],"count":1,"references":[{"code":"EC-0029","program":"pota","name":"Colinas Del Pucara Provincial Park","coordinates":[-79.1934,-4.00951]}]}
+{"lat":-4.25,"lon":-79.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"EC-0029","program":"pota","name":"Colinas Del Pucara Provincial Park","coordinates":[-79.1934,-4.00951]},{"code":"HCFF-0007","program":"wwff","name":"Podocarpus","coordinates":[-79.20542,-4.08347]}]}

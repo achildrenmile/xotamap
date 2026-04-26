@@ -1,1 +1,1 @@
-{"lat":63.25,"lon":30,"programs":["pota"],"count":1,"references":[{"code":"FI-0448","program":"pota","name":"Reposuo-Kalliolahdensuo Natura 2000","coordinates":[30.2196,63.3358]}]}
+{"lat":63.25,"lon":30,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0448","program":"pota","name":"Reposuo-Kalliolahdensuo Natura 2000","coordinates":[30.2196,63.3358]},{"code":"OHFF-0348","program":"wwff","name":"Reposuo-Kalliolahdensuo","coordinates":[30.22143,63.33525]},{"code":"OHFF-1078","program":"wwff","name":"Piilosen Särkät","coordinates":[30.21917,63.48828]}]}

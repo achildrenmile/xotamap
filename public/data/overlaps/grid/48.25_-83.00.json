@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":-83,"programs":["sota"],"count":1,"references":[{"code":"VE3/NE-364","program":"sota","name":"VE3/NE-364","coordinates":[-82.7917,48.3895]}]}
+{"lat":48.25,"lon":-83,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE3/NE-364","program":"sota","name":"VE3/NE-364","coordinates":[-82.7917,48.3895]},{"code":"VEFF-0178","program":"wwff","name":"Chapleau-Nemegosenda River Provincial Park","coordinates":[-82.88441,48.47984]}]}

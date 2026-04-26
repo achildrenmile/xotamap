@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":41.75,"programs":["pota"],"count":1,"references":[{"code":"TR-0281","program":"pota","name":"Botan Vadisi National Park","coordinates":[41.9522,37.8981]}]}
+{"lat":37.75,"lon":41.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0281","program":"pota","name":"Botan Vadisi National Park","coordinates":[41.9522,37.8981]},{"code":"TAFF-0082","program":"wwff","name":"Botan Vadisi Milli Parki","coordinates":[41.95275,37.89771]}]}

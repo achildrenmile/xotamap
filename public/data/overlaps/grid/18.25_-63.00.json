@@ -1,1 +1,1 @@
-{"lat":18.25,"lon":-63,"programs":["pota"],"count":1,"references":[{"code":"AI-0008","program":"pota","name":"Junks Hole Marine Park","coordinates":[-62.9851,18.253]}]}
+{"lat":18.25,"lon":-63,"programs":["pota","wwff"],"count":3,"references":[{"code":"AI-0008","program":"pota","name":"Junks Hole Marine Park","coordinates":[-62.9851,18.253]},{"code":"VPFF-2006","program":"wwff","name":"Little Scrub Island","coordinates":[-62.95573,18.29691]},{"code":"VPFF-2010","program":"wwff","name":"Scrub Island","coordinates":[-62.94335,18.29082]}]}

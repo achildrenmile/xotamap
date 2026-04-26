@@ -1,1 +1,1 @@
-{"lat":63.5,"lon":-161.75,"programs":["iota"],"count":1,"references":[{"code":"NA-214","program":"iota","name":"NOME COUNTY SOUTH group","coordinates":[-161.75,63.61000061]}]}
+{"lat":63.5,"lon":-161.75,"programs":["iota","wlota"],"count":2,"references":[{"code":"NA-214","program":"iota","name":"NOME COUNTY SOUTH group","coordinates":[-161.75,63.61000061]},{"code":"WLOTA-2119","program":"wlota","name":"Egg Island","coordinates":[-161.74000549,63.60699844]}]}

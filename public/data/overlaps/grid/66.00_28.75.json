@@ -1,1 +1,1 @@
-{"lat":66,"lon":28.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0130","program":"pota","name":"Kitka Natura 2000","coordinates":[28.7595,66.1839]}]}
+{"lat":66,"lon":28.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0130","program":"pota","name":"Kitka Natura 2000","coordinates":[28.7595,66.1839]},{"code":"OHFF-0435","program":"wwff","name":"Kitka","coordinates":[28.75953,66.18392]}]}

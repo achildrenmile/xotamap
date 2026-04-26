@@ -1,1 +1,1 @@
-{"lat":49,"lon":-57.5,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0681","program":"wwbota","name":"FRP CE41","coordinates":[-57.4338728,49.17316823]}]}
+{"lat":49,"lon":-57.5,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0681","program":"wwbota","name":"FRP CE41","coordinates":[-57.4338728,49.17316823]},{"code":"VEFF-4703","program":"wwff","name":"Black Ash Nature Reserve","coordinates":[-57.4324,49.20034]}]}

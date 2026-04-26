@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":22.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0372","program":"pota","name":"Hämeenkangas Nature Reserve","coordinates":[22.6293,61.7725]}]}
+{"lat":61.75,"lon":22.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0372","program":"pota","name":"Hämeenkangas Nature Reserve","coordinates":[22.6293,61.7725]},{"code":"OHFF-0162","program":"wwff","name":"Hämeenkangas","coordinates":[22.54151,61.77646]}]}

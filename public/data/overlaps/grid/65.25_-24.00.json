@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":-24,"programs":["sota"],"count":1,"references":[{"code":"TF/VF-033","program":"sota","name":"Napi","coordinates":[-23.8583,65.4283]}]}
+{"lat":65.25,"lon":-24,"programs":["arlhs","sota"],"count":2,"references":[{"code":"ICE 107","program":"arlhs","name":"Skor","coordinates":[-23.97999954,65.41999817]},{"code":"TF/VF-033","program":"sota","name":"Napi","coordinates":[-23.8583,65.4283]}]}

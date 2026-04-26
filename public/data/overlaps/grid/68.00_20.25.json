@@ -1,1 +1,1 @@
-{"lat":68,"lon":20.25,"programs":["sota"],"count":1,"references":[{"code":"SM/NB-070","program":"sota","name":"Gamssacohkka","coordinates":[20.3522,68.2433]}]}
+{"lat":68,"lon":20.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"SM/NB-070","program":"sota","name":"Gamssacohkka","coordinates":[20.3522,68.2433]},{"code":"SMFF-2931","program":"wwff","name":"Alajaure","coordinates":[20.30643,68.05417]}]}

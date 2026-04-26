@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":24.75,"programs":["pota"],"count":1,"references":[{"code":"LT-0028","program":"pota","name":"Neris Regional Park","coordinates":[24.954,54.782]}]}
+{"lat":54.75,"lon":24.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"LT-0028","program":"pota","name":"Neris Regional Park","coordinates":[24.954,54.782]},{"code":"LYFF-0020","program":"wwff","name":"Neris Regional Park","coordinates":[24.93333,54.78333]},{"code":"LYFF-0305","program":"wwff","name":"Elniakampio Landscape Reserve","coordinates":[24.93128,54.81744]}]}

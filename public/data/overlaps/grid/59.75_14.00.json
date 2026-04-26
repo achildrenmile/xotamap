@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":14,"programs":["sota"],"count":1,"references":[{"code":"SM/VL-034","program":"sota","name":"Dalkarlsberget","coordinates":[14.193831,59.927376]}]}
+{"lat":59.75,"lon":14,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/VL-034","program":"sota","name":"Dalkarlsberget","coordinates":[14.193831,59.927376]},{"code":"SMFF-5922","program":"wwff","name":"Nordmarksmossarna","coordinates":[14.03694,59.845]},{"code":"SMFF-5923","program":"wwff","name":"Nordmarksmyrarna","coordinates":[14.05258,59.83307]}]}

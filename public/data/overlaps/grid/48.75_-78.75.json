@@ -1,1 +1,1 @@
-{"lat":48.75,"lon":-78.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1979","program":"pota","name":"Chicobi Ecological Reserve","coordinates":[-78.5787,48.8451]}]}
+{"lat":48.75,"lon":-78.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1979","program":"pota","name":"Chicobi Ecological Reserve","coordinates":[-78.5787,48.8451]},{"code":"VEFF-1895","program":"wwff","name":"Reserve ecologique Chicobi","coordinates":[-78.56255,48.83254]}]}

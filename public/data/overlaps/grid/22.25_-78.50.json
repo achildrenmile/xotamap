@@ -1,1 +1,1 @@
-{"lat":22.25,"lon":-78.5,"programs":["pota"],"count":1,"references":[{"code":"CU-0302","program":"pota","name":"Gran Humedal del Norte de Ciego de Ávila Ramsar Site","coordinates":[-78.469,22.3282]}]}
+{"lat":22.25,"lon":-78.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CU-0302","program":"pota","name":"Gran Humedal del Norte de Ciego de Ávila Ramsar Site","coordinates":[-78.469,22.3282]},{"code":"COFF-0001","program":"wwff","name":"Centro y Oeste Cayo Coco","coordinates":[-78.41895,22.49205]}]}

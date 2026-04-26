@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":-86.75,"programs":["pota"],"count":1,"references":[{"code":"US-2950","program":"pota","name":"Henry Horton State Park","coordinates":[-86.6989,35.5891]}]}
+{"lat":35.5,"lon":-86.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2950","program":"pota","name":"Henry Horton State Park","coordinates":[-86.6989,35.5891]},{"code":"KFF-2950","program":"wwff","name":"Henry Horton","coordinates":[-86.69894,35.58908]}]}

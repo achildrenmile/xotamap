@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-56.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1274","program":"pota","name":"Watt's Point Ecological Reserve","coordinates":[-56.2512,51.4613]}]}
+{"lat":51.25,"lon":-56.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1274","program":"pota","name":"Watt's Point Ecological Reserve","coordinates":[-56.2512,51.4613]},{"code":"VEFF-1319","program":"wwff","name":"Watt's Point Park Reserve","coordinates":[-56.25125,51.46131]},{"code":"VEFF-2801","program":"wwff","name":"Watts Point","coordinates":[-56.25938,51.46198]}]}

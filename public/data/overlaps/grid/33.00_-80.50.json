@@ -1,1 +1,1 @@
-{"lat":33,"lon":-80.5,"programs":["pota"],"count":1,"references":[{"code":"US-2895","program":"pota","name":"Givhans Ferry State Park","coordinates":[-80.3853,33.0272]}]}
+{"lat":33,"lon":-80.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2895","program":"pota","name":"Givhans Ferry State Park","coordinates":[-80.3853,33.0272]},{"code":"KFF-2895","program":"wwff","name":"Givhans Ferry","coordinates":[-80.38645,33.02781]}]}

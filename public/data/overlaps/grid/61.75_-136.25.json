@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":-136.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4621","program":"pota","name":"Nordenskiold Wetlands Habitat Protection Area","coordinates":[-136.181,61.923]}]}
+{"lat":61.75,"lon":-136.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4621","program":"pota","name":"Nordenskiold Wetlands Habitat Protection Area","coordinates":[-136.181,61.923]},{"code":"VEFF-1422","program":"wwff","name":"Nordenskiold Wetland","coordinates":[-136.18117,61.92303]}]}

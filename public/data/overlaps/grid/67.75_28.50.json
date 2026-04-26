@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":28.5,"programs":["sota"],"count":1,"references":[{"code":"OH/SL-023","program":"sota","name":"Niekka","coordinates":[28.6656,67.8]}]}
+{"lat":67.75,"lon":28.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"OH/SL-023","program":"sota","name":"Niekka","coordinates":[28.6656,67.8]},{"code":"OHFF-0419","program":"wwff","name":"Kemihaaran erämaa","coordinates":[28.70825,67.94885]}]}

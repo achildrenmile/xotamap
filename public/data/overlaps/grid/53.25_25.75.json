@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":25.75,"programs":["pota"],"count":1,"references":[{"code":"BY-0062","program":"pota","name":"Свіцязянскі Landscape Reserve","coordinates":[25.9113,53.4316]}]}
+{"lat":53.25,"lon":25.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0062","program":"pota","name":"Свіцязянскі Landscape Reserve","coordinates":[25.9113,53.4316]},{"code":"EWFF-0033","program":"wwff","name":"Svityazyanskiy","coordinates":[25.8989,53.4347]}]}

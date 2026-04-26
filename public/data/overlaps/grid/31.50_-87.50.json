@@ -1,1 +1,1 @@
-{"lat":31.5,"lon":-87.5,"programs":["pota"],"count":1,"references":[{"code":"US-3702","program":"pota","name":"Red Hills Wildlife Management Area","coordinates":[-87.3744,31.7359]}]}
+{"lat":31.5,"lon":-87.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3702","program":"pota","name":"Red Hills Wildlife Management Area","coordinates":[-87.3744,31.7359]},{"code":"KFF-3702","program":"wwff","name":"Red Hills Complex","coordinates":[-87.37444,31.73591]}]}

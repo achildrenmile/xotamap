@@ -1,1 +1,1 @@
-{"lat":50,"lon":-103.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1113","program":"pota","name":"Kemoca Regional Park","coordinates":[-103.447,50.2143]}]}
+{"lat":50,"lon":-103.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1113","program":"pota","name":"Kemoca Regional Park","coordinates":[-103.447,50.2143]},{"code":"VEFF-1113","program":"wwff","name":"Kemoca Regional Park","coordinates":[-103.44742,50.2143]}]}

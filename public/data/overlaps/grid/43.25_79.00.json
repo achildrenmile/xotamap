@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":79,"programs":["pota"],"count":1,"references":[{"code":"KZ-0004","program":"pota","name":"Charyn National Park","coordinates":[79.079,43.351]}]}
+{"lat":43.25,"lon":79,"programs":["pota","wwff"],"count":2,"references":[{"code":"KZ-0004","program":"pota","name":"Charyn National Park","coordinates":[79.079,43.351]},{"code":"UNFF-0004","program":"wwff","name":"Charyn National Park","coordinates":[79.08036,43.35083]}]}

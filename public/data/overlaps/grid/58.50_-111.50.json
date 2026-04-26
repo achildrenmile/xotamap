@@ -1,1 +1,1 @@
-{"lat":58.5,"lon":-111.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0663","program":"pota","name":"Peace-Athabasca Delta Natural Area","coordinates":[-111.455,58.6894]}]}
+{"lat":58.5,"lon":-111.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0663","program":"pota","name":"Peace-Athabasca Delta Natural Area","coordinates":[-111.455,58.6894]},{"code":"VEFF-0663","program":"wwff","name":"Peace-Athabasca Delta","coordinates":[-111.45451,58.68941]}]}

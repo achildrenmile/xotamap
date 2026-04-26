@@ -1,1 +1,1 @@
-{"lat":34,"lon":126,"programs":["sota"],"count":1,"references":[{"code":"HL/JN-336","program":"sota","name":"돈대산 (Dondaesan)","coordinates":[126.051,34.2322]}]}
+{"lat":34,"lon":126,"programs":["sota","wwff"],"count":2,"references":[{"code":"HL/JN-336","program":"sota","name":"돈대산 (Dondaesan)","coordinates":[126.051,34.2322]},{"code":"HLFF-0015","program":"wwff","name":"Dadohae-haesang Sea National Park","coordinates":[126.15159,34.18167]}]}

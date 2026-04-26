@@ -1,1 +1,1 @@
-{"lat":69.75,"lon":27.75,"programs":["sota"],"count":1,"references":[{"code":"OH/MU-024","program":"sota","name":"Alla Gálddoaivi","coordinates":[27.793,69.7936]}]}
+{"lat":69.75,"lon":27.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"OH/MU-024","program":"sota","name":"Alla Gálddoaivi","coordinates":[27.793,69.7936]},{"code":"OHFF-0418","program":"wwff","name":"Kaldoaivin erämaa","coordinates":[27.7958,69.75592]}]}

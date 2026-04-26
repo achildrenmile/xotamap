@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":25.25,"programs":["sota"],"count":1,"references":[{"code":"SV/AG-034","program":"sota","name":"420","coordinates":[25.445833,36.83139]}]}
+{"lat":36.75,"lon":25.25,"programs":["sota","wlota"],"count":3,"references":[{"code":"SV/AG-034","program":"sota","name":"420","coordinates":[25.445833,36.83139]},{"code":"WLOTA-1793","program":"wlota","name":"Nisis Despotiko","coordinates":[25.32999992,36.96500015]},{"code":"WLOTA-3002","program":"wlota","name":"Nisis Mikros Avelos","coordinates":[25.39699936,36.82799911]}]}

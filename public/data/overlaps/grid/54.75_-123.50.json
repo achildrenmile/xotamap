@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":-123.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0713","program":"pota","name":"Carp Lake Provincial Park","coordinates":[-123.377,54.7962]}]}
+{"lat":54.75,"lon":-123.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0713","program":"pota","name":"Carp Lake Provincial Park","coordinates":[-123.377,54.7962]},{"code":"VEFF-0713","program":"wwff","name":"Carp Lake Provincial Park and Protected Area","coordinates":[-123.36667,54.78333]}]}

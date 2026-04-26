@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-87.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0440","program":"pota","name":"Winisk River Provincial Park","coordinates":[-87.297,53.3867]}]}
+{"lat":53.25,"lon":-87.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0440","program":"pota","name":"Winisk River Provincial Park","coordinates":[-87.297,53.3867]},{"code":"VEFF-0440","program":"wwff","name":"Winisk River Provincial Park","coordinates":[-87.29697,53.3867]}]}

@@ -1,1 +1,1 @@
-{"lat":-25,"lon":119,"programs":["pota"],"count":1,"references":[{"code":"AU-0147","program":"pota","name":"Collier Range National Park","coordinates":[119.134,-24.7529]}]}
+{"lat":-25,"lon":119,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0147","program":"pota","name":"Collier Range National Park","coordinates":[119.134,-24.7529]},{"code":"VKFF-0106","program":"wwff","name":"Collier Range National Park","coordinates":[119.1346,-24.7529]}]}

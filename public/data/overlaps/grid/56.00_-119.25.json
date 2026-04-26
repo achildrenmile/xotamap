@@ -1,1 +1,1 @@
-{"lat":56,"lon":-119.25,"programs":["pota"],"count":1,"references":[{"code":"CA-3001","program":"pota","name":"Dunvegan West Wildland Provincial Park","coordinates":[-119.019,56.0448]}]}
+{"lat":56,"lon":-119.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3001","program":"pota","name":"Dunvegan West Wildland Provincial Park","coordinates":[-119.019,56.0448]},{"code":"VEFF-2005","program":"wwff","name":"Dunvegan West Wildland Provincial Park","coordinates":[-119.03354,56.05708]}]}

@@ -1,1 +1,1 @@
-{"lat":-17.5,"lon":124.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0009","program":"pota","name":"Windjana Gorge National Park","coordinates":[124.977,-17.4175]}]}
+{"lat":-17.5,"lon":124.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0009","program":"pota","name":"Windjana Gorge National Park","coordinates":[124.977,-17.4175]},{"code":"VKFF-0540","program":"wwff","name":"Bandilngan (Windjana Gorge) National Park","coordinates":[124.9774,-17.4175]}]}

@@ -1,1 +1,1 @@
-{"lat":-15.75,"lon":123,"programs":["pota"],"count":1,"references":[{"code":"AU-3341","program":"pota","name":"Adele Island Nature Reserve","coordinates":[123.16,-15.5284]}]}
+{"lat":-15.75,"lon":123,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"AUS 001","program":"arlhs","name":"Adele Island","coordinates":[123.15000153,-15.52000046]},{"code":"AU-3341","program":"pota","name":"Adele Island Nature Reserve","coordinates":[123.16,-15.5284]},{"code":"WLOTA-1375","program":"wlota","name":"Adele Island","coordinates":[123.15299988,-15.51000023]}]}

@@ -1,1 +1,1 @@
-{"lat":41.5,"lon":-78.5,"programs":["pota"],"count":1,"references":[{"code":"US-8730","program":"pota","name":"PA 030 State Game Land","coordinates":[-78.3686,41.6539]}]}
+{"lat":41.5,"lon":-78.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8730","program":"pota","name":"PA 030 State Game Land","coordinates":[-78.3686,41.6539]},{"code":"KFF-6108","program":"wwff","name":"State Game Land PA 030","coordinates":[-78.3686,41.6539]}]}

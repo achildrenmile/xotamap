@@ -1,1 +1,1 @@
-{"lat":-34.25,"lon":120.75,"programs":["pota"],"count":1,"references":[{"code":"AU-3544","program":"pota","name":"Investigator Island Nature Reserve","coordinates":[120.865,-34.0821]}]}
+{"lat":-34.25,"lon":120.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3544","program":"pota","name":"Investigator Island Nature Reserve","coordinates":[120.865,-34.0821]},{"code":"VKFF-1717","program":"wwff","name":"Investigator Marine Park","coordinates":[120.867,-34.084]}]}

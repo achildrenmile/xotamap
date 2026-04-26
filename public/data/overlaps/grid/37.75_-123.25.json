@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":-123.25,"programs":["sota"],"count":1,"references":[{"code":"W6/NC-542","program":"sota","name":"Point Reyes","coordinates":[-123.015,37.9964]}]}
+{"lat":37.75,"lon":-123.25,"programs":["illw","sota"],"count":2,"references":[{"code":"US0145","program":"illw","name":"Point Reyes, CA","coordinates":[-123.02330017,37.99560165]},{"code":"W6/NC-542","program":"sota","name":"Point Reyes","coordinates":[-123.015,37.9964]}]}

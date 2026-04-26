@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":30.75,"programs":["pota"],"count":1,"references":[{"code":"TR-0428","program":"pota","name":"Düden Park","coordinates":[30.7822,36.854]}]}
+{"lat":36.75,"lon":30.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"TUR 065","program":"arlhs","name":"Baba Burnu","coordinates":[30.75760885,36.84556392]},{"code":"TR-0428","program":"pota","name":"Düden Park","coordinates":[30.7822,36.854]},{"code":"TAFF-0120","program":"wwff","name":"Duden Selalesi","coordinates":[30.78303,36.85098]}]}

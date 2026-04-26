@@ -1,1 +1,1 @@
-{"lat":19.25,"lon":99.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0011","program":"pota","name":"Doi Luang National Park","coordinates":[99.716,19.4784]}]}
+{"lat":19.25,"lon":99.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0011","program":"pota","name":"Doi Luang National Park","coordinates":[99.716,19.4784]},{"code":"HSFF-0010","program":"wwff","name":"Doi Luang National Park","coordinates":[99.63603,19.39404]}]}

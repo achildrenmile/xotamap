@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":-135.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4786","program":"pota","name":"Chilkoot Trail National Historic Site","coordinates":[-135.111,59.7619]}]}
+{"lat":59.75,"lon":-135.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4786","program":"pota","name":"Chilkoot Trail National Historic Site","coordinates":[-135.111,59.7619]},{"code":"VEFF-1624","program":"wwff","name":"Chilkoot Trail N.H.S.","coordinates":[-135.11076,59.76719]}]}

@@ -1,1 +1,1 @@
-{"lat":35.25,"lon":-95.25,"programs":["sota"],"count":1,"references":[{"code":"W5O/SO-028","program":"sota","name":"Holt Mountain","coordinates":[-95.1641,35.379]}]}
+{"lat":35.25,"lon":-95.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"W5O/SO-028","program":"sota","name":"Holt Mountain","coordinates":[-95.1641,35.379]},{"code":"KFF-0490","program":"wwff","name":"Sequoyah","coordinates":[-95.08896,35.43068]}]}

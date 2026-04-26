@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":10,"programs":["pota"],"count":1,"references":[{"code":"DK-0007","program":"pota","name":"Nymølle Bæk Nature Reserve","coordinates":[10.2284,57.3053]}]}
+{"lat":57.25,"lon":10,"programs":["pota","wwff"],"count":2,"references":[{"code":"DK-0007","program":"pota","name":"Nymølle Bæk Nature Reserve","coordinates":[10.2284,57.3053]},{"code":"OZFF-0173","program":"wwff","name":"Nymoelle Baek - (NymÃ¸lle BÃ¦k)","coordinates":[10.22842,57.3053]}]}

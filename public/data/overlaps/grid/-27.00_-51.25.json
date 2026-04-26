@@ -1,1 +1,1 @@
-{"lat":-27,"lon":-51.25,"programs":["sota"],"count":1,"references":[{"code":"PP5/OC-014","program":"sota","name":"PP5/OC-014","coordinates":[-51.1823,-26.8491]}]}
+{"lat":-27,"lon":-51.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"PP5/OC-014","program":"sota","name":"PP5/OC-014","coordinates":[-51.1823,-26.8491]},{"code":"PYFF-0275","program":"wwff","name":"Floresta Nacional de CAÇADOR - SC","coordinates":[-51.20659,-26.76003]}]}

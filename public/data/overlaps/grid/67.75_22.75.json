@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":22.75,"programs":["pota"],"count":1,"references":[{"code":"SE-1844","program":"pota","name":"Pessinki fjällskog Natura 2000","coordinates":[22.8472,67.8942]}]}
+{"lat":67.75,"lon":22.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"SE-1844","program":"pota","name":"Pessinki fjällskog Natura 2000","coordinates":[22.8472,67.8942]},{"code":"SMFF-2924","program":"wwff","name":"Haaravaara","coordinates":[22.81842,67.79341]},{"code":"SMFF-2926","program":"wwff","name":"Marjamaa","coordinates":[22.83221,67.82529]}]}

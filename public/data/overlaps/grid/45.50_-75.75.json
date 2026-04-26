@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":-75.75,"programs":["sota"],"count":1,"references":[{"code":"VE2/OU-066","program":"sota","name":"VE2/OU-066","coordinates":[-75.6914,45.7337]}]}
+{"lat":45.5,"lon":-75.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"VE2/OU-066","program":"sota","name":"VE2/OU-066","coordinates":[-75.6914,45.7337]},{"code":"VEFF-4047","program":"wwff","name":"Réserve naturelle Tamagor","coordinates":[-75.61476,45.652]},{"code":"VEFF-4048","program":"wwff","name":"Réserve naturelle Tamagor (Secteur du Lac-Noir)","coordinates":[-75.60641,45.65722]}]}

@@ -1,1 +1,1 @@
-{"lat":52,"lon":16.25,"programs":["pota"],"count":1,"references":[{"code":"PL-2129","program":"pota","name":"Wielki Łęg Obrzański Natura 2000","coordinates":[16.2825,52.0753]}]}
+{"lat":52,"lon":16.25,"programs":["pota","tota","wwff"],"count":3,"references":[{"code":"PL-2129","program":"pota","name":"Wielki Łęg Obrzański Natura 2000","coordinates":[16.2825,52.0753]},{"code":"SPR-1523","program":"tota","name":"Siekowo","coordinates":[16.373773,52.057993]},{"code":"SPFF-2010","program":"wwff","name":"Natura 2000 Wielki Leg Obrzanski","coordinates":[16.27191,52.0535]}]}

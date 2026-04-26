@@ -1,1 +1,1 @@
-{"lat":47,"lon":-53.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1260","program":"pota","name":"Avalon Wilderness Nature Reserve","coordinates":[-53.2976,47.0464]}]}
+{"lat":47,"lon":-53.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1260","program":"pota","name":"Avalon Wilderness Nature Reserve","coordinates":[-53.2976,47.0464]},{"code":"VEFF-1297","program":"wwff","name":"Avalon Wilderness Reserve","coordinates":[-53.2976,47.04638]},{"code":"VEFF-4718","program":"wwff","name":"Salmonier Nature Reserve","coordinates":[-53.42787,47.16731]}]}

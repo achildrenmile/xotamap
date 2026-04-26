@@ -1,1 +1,1 @@
-{"lat":60,"lon":28.25,"programs":["iota"],"count":1,"references":[{"code":"EU-133","program":"iota","name":"GULF OF FINLAND group","coordinates":[28.42500019,60.045000075]}]}
+{"lat":60,"lon":28.25,"programs":["arlhs","iota"],"count":2,"references":[{"code":"ERU 223","program":"arlhs","name":"Pen-Heta-Stor (Baltic Sea)","coordinates":[28.39999962,60]},{"code":"EU-133","program":"iota","name":"GULF OF FINLAND group","coordinates":[28.42500019,60.045000075]}]}

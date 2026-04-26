@@ -1,1 +1,1 @@
-{"lat":41,"lon":28.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0307","program":"pota","name":"Büyükçekmece Lake Conservation Area","coordinates":[28.56,41.053]}]}
+{"lat":41,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0307","program":"pota","name":"Büyükçekmece Lake Conservation Area","coordinates":[28.56,41.053]},{"code":"TAFF-0079","program":"wwff","name":"Buyukcekmece Golu Dogal Yasam Parki (Lake nature park)","coordinates":[28.5571,41.03501]}]}

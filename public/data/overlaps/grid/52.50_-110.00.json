@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":-110,"programs":["pota"],"count":1,"references":[{"code":"CA-1155","program":"pota","name":"Suffern Lake Regional Park","coordinates":[-109.898,52.6403]}]}
+{"lat":52.5,"lon":-110,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1155","program":"pota","name":"Suffern Lake Regional Park","coordinates":[-109.898,52.6403]},{"code":"VEFF-1155","program":"wwff","name":"Suffern Lake Regional Park","coordinates":[-109.89787,52.64028]}]}

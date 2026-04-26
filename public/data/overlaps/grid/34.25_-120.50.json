@@ -1,1 +1,1 @@
-{"lat":34.25,"lon":-120.5,"programs":["sota"],"count":1,"references":[{"code":"W6/SC-322","program":"sota","name":"1759","coordinates":[-120.3747,34.4945]}]}
+{"lat":34.25,"lon":-120.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"USA 620","program":"arlhs","name":"Point Conception","coordinates":[-120.47000122,34.45000076]},{"code":"W6/SC-322","program":"sota","name":"1759","coordinates":[-120.3747,34.4945]}]}

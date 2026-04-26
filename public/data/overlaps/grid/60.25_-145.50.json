@@ -1,1 +1,1 @@
-{"lat":60.25,"lon":-145.5,"programs":["sota"],"count":1,"references":[{"code":"KLA/CW-784","program":"sota","name":"2746","coordinates":[-145.2715,60.4891]}]}
+{"lat":60.25,"lon":-145.5,"programs":["sota","wlota"],"count":2,"references":[{"code":"KLA/CW-784","program":"sota","name":"2746","coordinates":[-145.2715,60.4891]},{"code":"WLOTA-1974","program":"wlota","name":"Grass Island Bar Channel","coordinates":[-145.29299927,60.2519989]}]}

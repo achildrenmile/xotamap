@@ -1,1 +1,1 @@
-{"lat":17.25,"lon":98,"programs":["pota"],"count":1,"references":[{"code":"TH-0062","program":"pota","name":"Mae Moei National Park","coordinates":[98.0747,17.4819]}]}
+{"lat":17.25,"lon":98,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0062","program":"pota","name":"Mae Moei National Park","coordinates":[98.0747,17.4819]},{"code":"HSFF-0047","program":"wwff","name":"Mae Moei National Park","coordinates":[98.08416,17.47041]}]}

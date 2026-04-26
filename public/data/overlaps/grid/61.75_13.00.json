@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":13,"programs":["sota"],"count":1,"references":[{"code":"SM/DA-007","program":"sota","name":"Stor-Uckuvålen","coordinates":[13.1611,61.9517]}]}
+{"lat":61.75,"lon":13,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/DA-007","program":"sota","name":"Stor-Uckuvålen","coordinates":[13.1611,61.9517]},{"code":"SMFF-6823","program":"wwff","name":"Ögan","coordinates":[13.03367,61.79225]},{"code":"SMFF-7498","program":"wwff","name":"Fjätälven och Västvallen i Storfjäten","coordinates":[13.09278,61.99028]}]}

@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":-85.25,"programs":["pota"],"count":1,"references":[{"code":"US-1544","program":"pota","name":"Tahquamenon Falls State Park","coordinates":[-85.1933,46.6015]}]}
+{"lat":46.5,"lon":-85.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1544","program":"pota","name":"Tahquamenon Falls State Park","coordinates":[-85.1933,46.6015]},{"code":"KFF-1544","program":"wwff","name":"Tahquamenon Falls","coordinates":[-85.19332,46.6015]}]}

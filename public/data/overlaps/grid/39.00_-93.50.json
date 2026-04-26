@@ -1,1 +1,1 @@
-{"lat":39,"lon":-93.5,"programs":["pota"],"count":1,"references":[{"code":"US-5698","program":"pota","name":"Blind Pony State Conservation Area","coordinates":[-93.3674,39.0381]}]}
+{"lat":39,"lon":-93.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-5698","program":"pota","name":"Blind Pony State Conservation Area","coordinates":[-93.3674,39.0381]},{"code":"KFF-6314","program":"wwff","name":"Blind Pony","coordinates":[-93.3674,39.0381]}]}

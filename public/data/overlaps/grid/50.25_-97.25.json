@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":-97.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0085","program":"pota","name":"Rockwood National Wildlife Area","coordinates":[-97.1555,50.2819]}]}
+{"lat":50.25,"lon":-97.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0085","program":"pota","name":"Rockwood National Wildlife Area","coordinates":[-97.1555,50.2819]},{"code":"VEFF-0085","program":"wwff","name":"Rockwood National Wildlife Area","coordinates":[-97.15549,50.28199]}]}

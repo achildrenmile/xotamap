@@ -1,1 +1,1 @@
-{"lat":8,"lon":-83,"programs":["sota"],"count":1,"references":[{"code":"TI/PU-085","program":"sota","name":"Cerro Peña","coordinates":[-82.959,8.2312]}]}
+{"lat":8,"lon":-83,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"PAN 002","program":"arlhs","name":"Burica Island","coordinates":[-82.87999725,8.19999981]},{"code":"TI/PU-085","program":"sota","name":"Cerro Peña","coordinates":[-82.959,8.2312]},{"code":"WLOTA-1077","program":"wlota","name":"Isla Burica","coordinates":[-82.86699677,8.17000008]}]}

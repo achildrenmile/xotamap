@@ -1,1 +1,1 @@
-{"lat":32.5,"lon":-95.5,"programs":["pota"],"count":1,"references":[{"code":"US-6590","program":"pota","name":"Old Sabine Bottom Wildlife Management Area","coordinates":[-95.3536,32.5762]}]}
+{"lat":32.5,"lon":-95.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6590","program":"pota","name":"Old Sabine Bottom Wildlife Management Area","coordinates":[-95.3536,32.5762]},{"code":"KFF-4888","program":"wwff","name":"Old Sabine Bottom","coordinates":[-95.32771,32.5885]}]}

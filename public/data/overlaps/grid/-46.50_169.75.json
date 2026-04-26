@@ -1,1 +1,1 @@
-{"lat":-46.5,"lon":169.75,"programs":["sota"],"count":1,"references":[{"code":"ZL3/OT-527","program":"sota","name":"Kaitangata","coordinates":[169.8602,-46.2994]}]}
+{"lat":-46.5,"lon":169.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"NZL 038","program":"arlhs","name":"Nugget Point (South Island)","coordinates":[169.82000732,-46.45000076]},{"code":"ZL3/OT-527","program":"sota","name":"Kaitangata","coordinates":[169.8602,-46.2994]}]}

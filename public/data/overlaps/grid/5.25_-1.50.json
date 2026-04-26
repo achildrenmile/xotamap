@@ -1,1 +1,1 @@
-{"lat":5.25,"lon":-1.5,"programs":["pota"],"count":1,"references":[{"code":"GH-0012","program":"pota","name":"Kakum National Park","coordinates":[-1.3832,5.357]}]}
+{"lat":5.25,"lon":-1.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"GH-0012","program":"pota","name":"Kakum National Park","coordinates":[-1.3832,5.357]},{"code":"9GFF-0004","program":"wwff","name":"Kakum","coordinates":[-1.33,5.4]}]}

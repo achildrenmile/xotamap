@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":-108.5,"programs":["pota"],"count":1,"references":[{"code":"US-2578","program":"pota","name":"Lake Elmo State Park","coordinates":[-108.477,45.8394]}]}
+{"lat":45.75,"lon":-108.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2578","program":"pota","name":"Lake Elmo State Park","coordinates":[-108.477,45.8394]},{"code":"KFF-2578","program":"wwff","name":"Lake Elmo","coordinates":[-108.47713,45.83938]}]}

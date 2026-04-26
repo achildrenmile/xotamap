@@ -1,1 +1,1 @@
-{"lat":-20.5,"lon":-47.5,"programs":["sota"],"count":1,"references":[{"code":"PY4/SM-400","program":"sota","name":"Morro da Bocaina","coordinates":[-47.2601,-20.37829]}]}
+{"lat":-20.5,"lon":-47.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"PY4/SM-400","program":"sota","name":"Morro da Bocaina","coordinates":[-47.2601,-20.37829]},{"code":"PYFF-0468","program":"wwff","name":"Parque Estadual FURNAS DO BOM JESUS - SP","coordinates":[-47.46026,-20.25519]}]}

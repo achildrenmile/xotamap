@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":21.75,"programs":["pota"],"count":1,"references":[{"code":"SE-0181","program":"pota","name":"Vargön Nature Reserve","coordinates":[21.7758,65.2765]}]}
+{"lat":65.25,"lon":21.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"SE-0181","program":"pota","name":"Vargön Nature Reserve","coordinates":[21.7758,65.2765]},{"code":"SMFF-2625","program":"wwff","name":"Vargön","coordinates":[21.75417,65.28428]},{"code":"SMFF-9015","program":"wwff","name":"Kallfjärden","coordinates":[21.88369,65.3467]}]}

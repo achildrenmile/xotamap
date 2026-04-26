@@ -1,1 +1,1 @@
-{"lat":-32.25,"lon":140,"programs":["pota"],"count":1,"references":[{"code":"AU-0977","program":"pota","name":"Bimbowrie Conservation Park","coordinates":[140.233,-32.0268]}]}
+{"lat":-32.25,"lon":140,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0977","program":"pota","name":"Bimbowrie Conservation Park","coordinates":[140.233,-32.0268]},{"code":"VKFF-1006","program":"wwff","name":"Bimbowrie Conservation Park","coordinates":[140.233,-32.0269]}]}

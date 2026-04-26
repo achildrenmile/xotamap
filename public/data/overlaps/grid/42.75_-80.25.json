@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":-80.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1213","program":"wwbota","name":"NUDET Post ONT7","coordinates":[-80.1273592,42.929228]}]}
+{"lat":42.75,"lon":-80.25,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-1213","program":"wwbota","name":"NUDET Post ONT7","coordinates":[-80.1273592,42.929228]},{"code":"VEFF-3632","program":"wwff","name":"Port Dover West Pier","coordinates":[-80.20174,42.78108]}]}

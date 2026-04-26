@@ -1,1 +1,1 @@
-{"lat":-18.25,"lon":-53,"programs":["pota"],"count":1,"references":[{"code":"BR-0024","program":"pota","name":"Emas National Conservation Area","coordinates":[-52.9278,-18.1064]}]}
+{"lat":-18.25,"lon":-53,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0024","program":"pota","name":"Emas National Conservation Area","coordinates":[-52.9278,-18.1064]},{"code":"PYFF-0015","program":"wwff","name":"Parque Nacional das EMAS - GO - MS","coordinates":[-52.941,-18.1062]}]}

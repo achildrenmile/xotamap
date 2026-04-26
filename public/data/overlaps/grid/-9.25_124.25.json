@@ -1,1 +1,1 @@
-{"lat":-9.25,"lon":124.25,"programs":["pota"],"count":1,"references":[{"code":"TL-0037","program":"pota","name":"Mount Cutete Protected Area","coordinates":[124.425,-9.23371]}]}
+{"lat":-9.25,"lon":124.25,"programs":["pota","wlota","wwff"],"count":3,"references":[{"code":"TL-0037","program":"pota","name":"Mount Cutete Protected Area","coordinates":[124.425,-9.23371]},{"code":"WLOTA-1808","program":"wlota","name":"Pulau Timor","coordinates":[124.39299774,-9.18700027]},{"code":"4WFF-0037","program":"wwff","name":"Mount Cutete Protected Area","coordinates":[124.425,-9.23371]}]}

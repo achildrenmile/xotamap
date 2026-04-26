@@ -1,1 +1,1 @@
-{"lat":-12.25,"lon":143,"programs":["pota"],"count":1,"references":[{"code":"AU-1121","program":"pota","name":"Piper Islands National Park Aboriginal","coordinates":[143.227,-12.2441]}]}
+{"lat":-12.25,"lon":143,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1121","program":"pota","name":"Piper Islands National Park Aboriginal","coordinates":[143.227,-12.2441]},{"code":"VKFF-0415","program":"wwff","name":"Piper Islands National Park (CYPAL)","coordinates":[143.22681,-12.2474]}]}

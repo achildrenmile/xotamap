@@ -1,1 +1,1 @@
-{"lat":46,"lon":-59.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1839","program":"pota","name":"Scatarie Island Wilderness Area","coordinates":[-59.7315,46.0103]}]}
+{"lat":46,"lon":-59.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1839","program":"pota","name":"Scatarie Island Wilderness Area","coordinates":[-59.7315,46.0103]},{"code":"VEFF-1475","program":"wwff","name":"Scatarie Island Wilderness Area","coordinates":[-59.74044,46.01037]}]}

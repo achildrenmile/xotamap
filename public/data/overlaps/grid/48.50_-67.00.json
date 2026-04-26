@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":-67,"programs":["sota"],"count":1,"references":[{"code":"VE2/GA-062","program":"sota","name":"VE2/GA-062","coordinates":[-66.9671,48.7308]}]}
+{"lat":48.5,"lon":-67,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE2/GA-062","program":"sota","name":"VE2/GA-062","coordinates":[-66.9671,48.7308]},{"code":"VEFF-1023","program":"wwff","name":"Réserve faunique de Matane","coordinates":[-66.78952,48.68214]}]}

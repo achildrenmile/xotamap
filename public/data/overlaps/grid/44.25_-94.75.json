@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":-94.75,"programs":["pota"],"count":1,"references":[{"code":"US-2481","program":"pota","name":"Fort Ridgely State Park","coordinates":[-94.7265,44.4482]}]}
+{"lat":44.25,"lon":-94.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2481","program":"pota","name":"Fort Ridgely State Park","coordinates":[-94.7265,44.4482]},{"code":"KFF-2481","program":"wwff","name":"Fort Ridgely","coordinates":[-94.72655,44.4482]}]}

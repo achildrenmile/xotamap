@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":-162.75,"programs":["pota"],"count":1,"references":[{"code":"US-0147","program":"pota","name":"Izembek National Wildlife Refuge","coordinates":[-162.672,55.2927]}]}
+{"lat":55.25,"lon":-162.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0147","program":"pota","name":"Izembek National Wildlife Refuge","coordinates":[-162.672,55.2927]},{"code":"KFF-0147","program":"wwff","name":"Izembek National Wildlife Refuge","coordinates":[-162.68881,55.29216]}]}

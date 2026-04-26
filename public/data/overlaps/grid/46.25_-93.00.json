@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":-93,"programs":["pota"],"count":1,"references":[{"code":"US-4798","program":"pota","name":"General C. C. Andrews State Forest","coordinates":[-92.7995,46.3554]}]}
+{"lat":46.25,"lon":-93,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4798","program":"pota","name":"General C. C. Andrews State Forest","coordinates":[-92.7995,46.3554]},{"code":"KFF-5484","program":"wwff","name":"General C. C. Andrews","coordinates":[-92.82816,46.32648]}]}

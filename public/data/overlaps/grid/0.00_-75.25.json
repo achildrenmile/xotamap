@@ -1,1 +1,1 @@
-{"lat":0,"lon":-75.25,"programs":["pota"],"count":1,"references":[{"code":"CO-0151","program":"pota","name":"La Paya National Nature Reserve","coordinates":[-75.2333,0.155151]}]}
+{"lat":0,"lon":-75.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CO-0151","program":"pota","name":"La Paya National Nature Reserve","coordinates":[-75.2333,0.155151]},{"code":"HKFF-0013","program":"wwff","name":"La Paya","coordinates":[-75.24811,0.19775]}]}

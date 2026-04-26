@@ -1,1 +1,1 @@
-{"lat":33,"lon":-85.25,"programs":["pota"],"count":1,"references":[{"code":"US-7883","program":"pota","name":"West Point Wildlife Management Area","coordinates":[-85.0665,33.1605]}]}
+{"lat":33,"lon":-85.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-7883","program":"pota","name":"West Point Wildlife Management Area","coordinates":[-85.0665,33.1605]},{"code":"KFF-6086","program":"wwff","name":"West Point","coordinates":[-85.0705,33.16171]}]}

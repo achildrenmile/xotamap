@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":22,"programs":["pota"],"count":1,"references":[{"code":"PL-0343","program":"pota","name":"Czerwony Bór Natura 2000","coordinates":[22.0811,52.9915]}]}
+{"lat":52.75,"lon":22,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-0343","program":"pota","name":"Czerwony Bór Natura 2000","coordinates":[22.0811,52.9915]},{"code":"SPFF-1518","program":"wwff","name":"Natura 2000 Czerwony Bor","coordinates":[22.08114,52.9915]}]}

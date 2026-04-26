@@ -1,1 +1,1 @@
-{"lat":-25,"lon":26.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/NW-113","program":"sota","name":"ZS/NW-113","coordinates":[26.4683,-24.8717]}]}
+{"lat":-25,"lon":26.25,"programs":["sota","wwff"],"count":3,"references":[{"code":"ZS/NW-113","program":"sota","name":"ZS/NW-113","coordinates":[26.4683,-24.8717]},{"code":"ZSFF-0157","program":"wwff","name":"Hillside Safaris Game Farm","coordinates":[26.28575,-24.76062]},{"code":"ZSFF-0236","program":"wwff","name":"Madikwe Game Reserve","coordinates":[26.27817,-24.76044]}]}

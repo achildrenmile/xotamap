@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":-111.5,"programs":["pota"],"count":1,"references":[{"code":"US-2235","program":"pota","name":"Harriman State Park","coordinates":[-111.465,44.3257]}]}
+{"lat":44.25,"lon":-111.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-2235","program":"pota","name":"Harriman State Park","coordinates":[-111.465,44.3257]},{"code":"KFF-2235","program":"wwff","name":"Harriman","coordinates":[-111.46523,44.32569]},{"code":"KFF-4644","program":"wwff","name":"Targhee (ID)","coordinates":[-111.25089,44.45731]}]}

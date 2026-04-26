@@ -1,1 +1,1 @@
-{"lat":-22.75,"lon":143,"programs":["pota"],"count":1,"references":[{"code":"AU-1498","program":"pota","name":"Bladensburg National Park","coordinates":[143.078,-22.6545]}]}
+{"lat":-22.75,"lon":143,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1498","program":"pota","name":"Bladensburg National Park","coordinates":[143.078,-22.6545]},{"code":"VKFF-0039","program":"wwff","name":"Bladensburg National Park","coordinates":[143.06219,-22.6488]}]}

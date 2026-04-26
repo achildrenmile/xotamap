@@ -1,1 +1,1 @@
-{"lat":-21.75,"lon":146.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1159","program":"pota","name":"Nairana National Park","coordinates":[146.901,-21.6747]}]}
+{"lat":-21.75,"lon":146.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1159","program":"pota","name":"Nairana National Park","coordinates":[146.901,-21.6747]},{"code":"VKFF-0699","program":"wwff","name":"Nairana National Park","coordinates":[146.8933,-21.6588]}]}

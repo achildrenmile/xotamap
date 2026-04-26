@@ -1,1 +1,1 @@
-{"lat":-18.25,"lon":-66,"programs":["pota"],"count":1,"references":[{"code":"BO-0010","program":"pota","name":"Torotoro National Park","coordinates":[-65.768,-18.0646]}]}
+{"lat":-18.25,"lon":-66,"programs":["pota","wwff"],"count":2,"references":[{"code":"BO-0010","program":"pota","name":"Torotoro National Park","coordinates":[-65.768,-18.0646]},{"code":"CPFF-0012","program":"wwff","name":"Toro Toro","coordinates":[-65.78513,-18.07357]}]}

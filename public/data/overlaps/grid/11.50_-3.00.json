@@ -1,1 +1,1 @@
-{"lat":11.5,"lon":-3,"programs":["pota"],"count":1,"references":[{"code":"BF-0008","program":"pota","name":"Deux Bales National Park","coordinates":[-2.896,11.687]}]}
+{"lat":11.5,"lon":-3,"programs":["pota","wwff"],"count":2,"references":[{"code":"BF-0008","program":"pota","name":"Deux Bales National Park","coordinates":[-2.896,11.687]},{"code":"XTFF-0001","program":"wwff","name":"Deux Bales","coordinates":[-2.97,11.62]}]}

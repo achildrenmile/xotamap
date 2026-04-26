@@ -1,1 +1,1 @@
-{"lat":-23.25,"lon":-43.25,"programs":["sota"],"count":1,"references":[{"code":"PY1/RJ-111","program":"sota","name":"Ilha Redonda","coordinates":[-43.1939,-23.07]}]}
+{"lat":-23.25,"lon":-43.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"PY1/RJ-111","program":"sota","name":"Ilha Redonda","coordinates":[-43.1939,-23.07]},{"code":"PYFF-0222","program":"wwff","name":"Monumento Natural do Arquipélago das ILHAS CAGARRAS - RJ","coordinates":[-43.19515,-23.07068]}]}

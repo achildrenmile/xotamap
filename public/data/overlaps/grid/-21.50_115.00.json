@@ -1,1 +1,1 @@
-{"lat":-21.5,"lon":115,"programs":["pota"],"count":1,"references":[{"code":"AU-3342","program":"pota","name":"Airlie Island Nature Reserve","coordinates":[115.167,-21.3229]}]}
+{"lat":-21.5,"lon":115,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"AUS 241","program":"arlhs","name":"Airlie Island","coordinates":[115.16999817,-21.32999992]},{"code":"AU-3342","program":"pota","name":"Airlie Island Nature Reserve","coordinates":[115.167,-21.3229]},{"code":"WLOTA-1768","program":"wlota","name":"Airlie Island","coordinates":[115.16699982,-21.32299995]}]}

@@ -1,1 +1,1 @@
-{"lat":35,"lon":-80,"programs":["pota"],"count":1,"references":[{"code":"US-6854","program":"pota","name":"Town Creek Indian Mound State Historic Site","coordinates":[-79.9292,35.1826]}]}
+{"lat":35,"lon":-80,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-6854","program":"pota","name":"Town Creek Indian Mound State Historic Site","coordinates":[-79.9292,35.1826]},{"code":"KFF-4949","program":"wwff","name":"Uwharrie","coordinates":[-79.89893,35.24404]},{"code":"KFF-5284","program":"wwff","name":"Pee Dee River","coordinates":[-79.90148,35.0317]}]}

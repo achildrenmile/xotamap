@@ -1,1 +1,1 @@
-{"lat":48.75,"lon":85.75,"programs":["pota"],"count":1,"references":[{"code":"KZ-0017","program":"pota","name":"Markakol Nature Reserve","coordinates":[85.8928,48.823]}]}
+{"lat":48.75,"lon":85.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"KZ-0017","program":"pota","name":"Markakol Nature Reserve","coordinates":[85.8928,48.823]},{"code":"UNFF-0018","program":"wwff","name":"Markakol state natural reserve","coordinates":[85.90036,48.84905]}]}

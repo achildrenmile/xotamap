@@ -1,1 +1,1 @@
-{"lat":66,"lon":-73.75,"programs":["pota"],"count":1,"references":[{"code":"CA-4572","program":"pota","name":"Dewey Soper Migratory Bird Sanctuary","coordinates":[-73.545,66.026]}]}
+{"lat":66,"lon":-73.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4572","program":"pota","name":"Dewey Soper Migratory Bird Sanctuary","coordinates":[-73.545,66.026]},{"code":"VEFF-2305","program":"wwff","name":"Dewey Soper Bird Sanctuary","coordinates":[-73.54549,66.02639]}]}

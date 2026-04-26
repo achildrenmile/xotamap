@@ -1,1 +1,1 @@
-{"lat":34.75,"lon":25.5,"programs":["pota"],"count":1,"references":[{"code":"GR-0174","program":"pota","name":"Nisos Chrysi Protected Area","coordinates":[25.7043,34.8714]}]}
+{"lat":34.75,"lon":25.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"GR-0174","program":"pota","name":"Nisos Chrysi Protected Area","coordinates":[25.7043,34.8714]},{"code":"SVFF-0297","program":"wwff","name":"Nisi Chrysi i Gaidouronisi","coordinates":[25.7042,34.87193]}]}

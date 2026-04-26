@@ -1,1 +1,1 @@
-{"lat":29.5,"lon":35.25,"programs":["pota"],"count":1,"references":[{"code":"JO-0011","program":"pota","name":"Wadi Rum Protected Area","coordinates":[35.3957,29.5112]}]}
+{"lat":29.5,"lon":35.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"JO-0011","program":"pota","name":"Wadi Rum Protected Area","coordinates":[35.3957,29.5112]},{"code":"JYFF-0003","program":"wwff","name":"Wadi Rum","coordinates":[35.40344,29.61167]}]}

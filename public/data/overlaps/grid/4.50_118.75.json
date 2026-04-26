@@ -1,1 +1,1 @@
-{"lat":4.5,"lon":118.75,"programs":["pota"],"count":1,"references":[{"code":"MY-0058","program":"pota","name":"Tun Sakaran ","coordinates":[118.758,4.62423]}]}
+{"lat":4.5,"lon":118.75,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"EMA 004","program":"arlhs","name":"Pulau Mataking","coordinates":[118.94999695,4.57999992]},{"code":"MY-0058","program":"pota","name":"Tun Sakaran ","coordinates":[118.758,4.62423]},{"code":"WLOTA-2471","program":"wlota","name":"Pulau Mataking","coordinates":[118.9469986,4.57800007]}]}

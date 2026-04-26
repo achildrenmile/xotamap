@@ -1,1 +1,1 @@
-{"lat":3.25,"lon":72.75,"programs":["pota"],"count":1,"references":[{"code":"MV-0008","program":"pota","name":"South Ari Marine Conservation Area","coordinates":[72.835,3.475]}]}
+{"lat":3.25,"lon":72.75,"programs":["pota","wlota"],"count":2,"references":[{"code":"MV-0008","program":"pota","name":"South Ari Marine Conservation Area","coordinates":[72.835,3.475]},{"code":"WLOTA-4201","program":"wlota","name":"Nilandhe Atoll","coordinates":[72.99500275,3.27800012]}]}

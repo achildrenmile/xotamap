@@ -1,1 +1,1 @@
-{"lat":63.5,"lon":15.75,"programs":["sota"],"count":1,"references":[{"code":"SM/JL-345","program":"sota","name":"Råkälen","coordinates":[15.943092,63.699932]}]}
+{"lat":63.5,"lon":15.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/JL-345","program":"sota","name":"Råkälen","coordinates":[15.943092,63.699932]},{"code":"SMFF-8487","program":"wwff","name":"Tvärmyran","coordinates":[15.96401,63.6204]},{"code":"SMFF-9820","program":"wwff","name":"Riskammen","coordinates":[15.7862,63.67687]}]}

@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":-115.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4208","program":"pota","name":"Top of the World Provincial Park","coordinates":[-115.398,49.8501]}]}
+{"lat":49.75,"lon":-115.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4208","program":"pota","name":"Top of the World Provincial Park","coordinates":[-115.398,49.8501]},{"code":"VEFF-2193","program":"wwff","name":"Top of the World Provincial Park","coordinates":[-115.39821,49.85091]}]}

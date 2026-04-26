@@ -1,1 +1,1 @@
-{"lat":64,"lon":-139.25,"programs":["pota"],"count":1,"references":[{"code":"CA-6281","program":"pota","name":"Klondike River Campground Recreation Site","coordinates":[-139.113,64.05]}]}
+{"lat":64,"lon":-139.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6281","program":"pota","name":"Klondike River Campground Recreation Site","coordinates":[-139.113,64.05]},{"code":"VEFF-4734","program":"wwff","name":"Klondike River Campground","coordinates":[-139.11235,64.05103]}]}

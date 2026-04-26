@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":-97.5,"programs":["pota"],"count":1,"references":[{"code":"US-8172","program":"pota","name":"Lake Thompson State Recreation Area","coordinates":[-97.4346,44.3235]}]}
+{"lat":44.25,"lon":-97.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8172","program":"pota","name":"Lake Thompson State Recreation Area","coordinates":[-97.4346,44.3235]},{"code":"KFF-4675","program":"wwff","name":"Lake Thompson","coordinates":[-97.4483,44.32371]}]}

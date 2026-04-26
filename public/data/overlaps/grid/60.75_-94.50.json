@@ -1,1 +1,1 @@
-{"lat":60.75,"lon":-94.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4581","program":"pota","name":"McConnell River (Kuugaarjuk) Migratory Bird Sanctuary","coordinates":[-94.4231,60.8021]}]}
+{"lat":60.75,"lon":-94.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4581","program":"pota","name":"McConnell River (Kuugaarjuk) Migratory Bird Sanctuary","coordinates":[-94.4231,60.8021]},{"code":"VEFF-2805","program":"wwff","name":"McConnell River (Kuugaarjuk)","coordinates":[-94.33306,60.83306]}]}

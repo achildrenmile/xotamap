@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":-96.5,"programs":["pota"],"count":1,"references":[{"code":"CA-2391","program":"pota","name":"Catfish Creek Wildlife Management Area","coordinates":[-96.395,50.535]}]}
+{"lat":50.5,"lon":-96.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2391","program":"pota","name":"Catfish Creek Wildlife Management Area","coordinates":[-96.395,50.535]},{"code":"VEFF-4965","program":"wwff","name":"Catfish Creek Wildlife Management Area","coordinates":[-96.39444,50.53556]}]}

@@ -1,1 +1,1 @@
-{"lat":31,"lon":-87.75,"programs":["pota"],"count":1,"references":[{"code":"US-3708","program":"pota","name":"Splinter Hill Bog Complex Preserve State Conservation Area","coordinates":[-87.6662,31.0289]}]}
+{"lat":31,"lon":-87.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3708","program":"pota","name":"Splinter Hill Bog Complex Preserve State Conservation Area","coordinates":[-87.6662,31.0289]},{"code":"KFF-3708","program":"wwff","name":"Splinter Hill Bog Complex","coordinates":[-87.66622,31.02889]}]}

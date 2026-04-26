@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":-127.75,"programs":["pota"],"count":1,"references":[{"code":"CA-4042","program":"pota","name":"Ross Lake Provincial Park","coordinates":[-127.514,55.2578]}]}
+{"lat":55.25,"lon":-127.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4042","program":"pota","name":"Ross Lake Provincial Park","coordinates":[-127.514,55.2578]},{"code":"VEFF-2168","program":"wwff","name":"Ross Lake Provincial Park","coordinates":[-127.52222,55.26076]}]}

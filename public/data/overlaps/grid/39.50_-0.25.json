@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":-0.25,"programs":["pota"],"count":1,"references":[{"code":"ES-1011","program":"pota","name":"Marjal d'Almenara Natura 2000","coordinates":[-0.1967,39.7389]}]}
+{"lat":39.5,"lon":-0.25,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"SPA 010","program":"arlhs","name":"Cabo Canet","coordinates":[-0.2,39.68000031]},{"code":"ES-1011","program":"pota","name":"Marjal d'Almenara Natura 2000","coordinates":[-0.1967,39.7389]},{"code":"EAFF-0344","program":"wwff","name":"ZEPA Marjal i Estanys d'Almenara","coordinates":[-0.18217,39.74017]}]}

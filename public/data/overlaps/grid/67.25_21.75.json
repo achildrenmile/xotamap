@@ -1,1 +1,1 @@
-{"lat":67.25,"lon":21.75,"programs":["sota"],"count":1,"references":[{"code":"SM/NB-091","program":"sota","name":"Narkaustunturi","coordinates":[21.8453,67.2706]}]}
+{"lat":67.25,"lon":21.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/NB-091","program":"sota","name":"Narkaustunturi","coordinates":[21.8453,67.2706]},{"code":"SMFF-2907","program":"wwff","name":"Vinkkakoski","coordinates":[21.83114,67.43999]},{"code":"SMFF-9227","program":"wwff","name":"Laurivaara","coordinates":[21.85358,67.47164]}]}

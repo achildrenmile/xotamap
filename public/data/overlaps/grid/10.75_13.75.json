@@ -1,1 +1,1 @@
-{"lat":10.75,"lon":13.75,"programs":["pota"],"count":1,"references":[{"code":"CM-0009","program":"pota","name":"Mozogo Gokoro National Park","coordinates":[13.95,10.95]}]}
+{"lat":10.75,"lon":13.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CM-0009","program":"pota","name":"Mozogo Gokoro National Park","coordinates":[13.95,10.95]},{"code":"TJFF-0006","program":"wwff","name":"Mozogo-Gokoro","coordinates":[13.92556,10.95556]}]}

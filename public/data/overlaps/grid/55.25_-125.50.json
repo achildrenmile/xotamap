@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":-125.5,"programs":["pota"],"count":1,"references":[{"code":"CA-3881","program":"pota","name":"Nation Lakes Provincial Park","coordinates":[-125.445,55.4614]}]}
+{"lat":55.25,"lon":-125.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3881","program":"pota","name":"Nation Lakes Provincial Park","coordinates":[-125.445,55.4614]},{"code":"VEFF-2143","program":"wwff","name":"Nation Lakes Provincial Park","coordinates":[-125.44569,55.46187]}]}

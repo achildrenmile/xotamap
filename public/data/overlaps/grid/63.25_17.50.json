@@ -1,1 +1,1 @@
-{"lat":63.25,"lon":17.5,"programs":["sota"],"count":1,"references":[{"code":"SM/VN-061","program":"sota","name":"Högliden","coordinates":[17.591236,63.482277]}]}
+{"lat":63.25,"lon":17.5,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/VN-061","program":"sota","name":"Högliden","coordinates":[17.591236,63.482277]},{"code":"SMFF-2295","program":"wwff","name":"Pärmsjöskogen","coordinates":[17.63845,63.30501]},{"code":"SMFF-2314","program":"wwff","name":"Åttjärnsbodarna","coordinates":[17.73182,63.44975]}]}

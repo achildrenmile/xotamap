@@ -1,1 +1,1 @@
-{"lat":41,"lon":8.75,"programs":["pota"],"count":1,"references":[{"code":"IT-0032","program":"pota","name":"Isola Rossa - Costa Paradiso Natura 2000","coordinates":[8.92073,41.0263]}]}
+{"lat":41,"lon":8.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"IT-0032","program":"pota","name":"Isola Rossa - Costa Paradiso Natura 2000","coordinates":[8.92073,41.0263]},{"code":"IFF-1315","program":"wwff","name":"Natura 2000 - Isola Rossa - Costa Paradiso","coordinates":[8.94639,41.07056]}]}

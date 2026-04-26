@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":-88.75,"programs":["pota"],"count":1,"references":[{"code":"US-0989","program":"pota","name":"Dixon Springs State Park","coordinates":[-88.6671,37.3847]}]}
+{"lat":37.25,"lon":-88.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-0989","program":"pota","name":"Dixon Springs State Park","coordinates":[-88.6671,37.3847]},{"code":"KFF-0989","program":"wwff","name":"Dixon Springs","coordinates":[-88.66707,37.38467]},{"code":"KFF-4517","program":"wwff","name":"Shawnee","coordinates":[-88.65418,37.49229]}]}

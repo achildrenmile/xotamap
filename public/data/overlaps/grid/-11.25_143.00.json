@@ -1,1 +1,1 @@
-{"lat":-11.25,"lon":143,"programs":["pota"],"count":1,"references":[{"code":"AU-1396","program":"pota","name":"Denham Group National Park","coordinates":[143.016,-11.1699]}]}
+{"lat":-11.25,"lon":143,"programs":["pota","wwff"],"count":3,"references":[{"code":"AU-1396","program":"pota","name":"Denham Group National Park","coordinates":[143.016,-11.1699]},{"code":"VKFF-3991","program":"wwff","name":"Great Barrier Reef Coast Marine Park","coordinates":[143.028,-11.18]},{"code":"VKFF-3994","program":"wwff","name":"Long Grass Nature Refuge","coordinates":[143.02831,-11.1802]}]}

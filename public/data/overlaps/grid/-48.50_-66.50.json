@@ -1,1 +1,1 @@
-{"lat":-48.5,"lon":-66.5,"programs":["pota"],"count":1,"references":[{"code":"AR-0137","program":"pota","name":"Bahia Laura Nature Park","coordinates":[-66.4757,-48.3844]}]}
+{"lat":-48.5,"lon":-66.5,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"ARG 033","program":"arlhs","name":"Campana","coordinates":[-66.47000122,-48.40000153]},{"code":"AR-0137","program":"pota","name":"Bahia Laura Nature Park","coordinates":[-66.4757,-48.3844]},{"code":"LUFF-0144","program":"wwff","name":"Bahía Laura","coordinates":[-66.47573,-48.38443]}]}

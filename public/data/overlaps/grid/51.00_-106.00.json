@@ -1,1 +1,1 @@
-{"lat":51,"lon":-106,"programs":["pota"],"count":1,"references":[{"code":"CA-1104","program":"pota","name":"Craik Regional Park","coordinates":[-105.798,51.0606]}]}
+{"lat":51,"lon":-106,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1104","program":"pota","name":"Craik Regional Park","coordinates":[-105.798,51.0606]},{"code":"VEFF-1104","program":"wwff","name":"Craik & District Regional Park","coordinates":[-105.79799,51.06058]}]}

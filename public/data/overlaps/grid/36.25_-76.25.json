@@ -1,1 +1,1 @@
-{"lat":36.25,"lon":-76.25,"programs":["pota"],"count":1,"references":[{"code":"US-6932","program":"pota","name":"North River State Game Land","coordinates":[-76.0126,36.3018]}]}
+{"lat":36.25,"lon":-76.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6932","program":"pota","name":"North River State Game Land","coordinates":[-76.0126,36.3018]},{"code":"KFF-4940","program":"wwff","name":"North River","coordinates":[-76.01265,36.30179]}]}

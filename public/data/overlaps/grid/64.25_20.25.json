@@ -1,1 +1,1 @@
-{"lat":64.25,"lon":20.25,"programs":["pota"],"count":1,"references":[{"code":"SE-1502","program":"pota","name":"Bjursjöaltaret Nature Reserve","coordinates":[20.3841,64.3362]}]}
+{"lat":64.25,"lon":20.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"SE-1502","program":"pota","name":"Bjursjöaltaret Nature Reserve","coordinates":[20.3841,64.3362]},{"code":"SMFF-2473","program":"wwff","name":"Bjursjöaltaret","coordinates":[20.41375,64.32843]},{"code":"SMFF-8123","program":"wwff","name":"Bjursjöområdet","coordinates":[20.26222,64.29389]}]}

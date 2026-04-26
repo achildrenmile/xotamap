@@ -1,1 +1,1 @@
-{"lat":33.75,"lon":-92,"programs":["pota"],"count":1,"references":[{"code":"US-1073","program":"pota","name":"Cane Creek State Park","coordinates":[-91.7994,33.929]}]}
+{"lat":33.75,"lon":-92,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1073","program":"pota","name":"Cane Creek State Park","coordinates":[-91.7994,33.929]},{"code":"KFF-1073","program":"wwff","name":"Cane Creek","coordinates":[-91.79935,33.92905]}]}

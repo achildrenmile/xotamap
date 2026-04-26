@@ -1,1 +1,1 @@
-{"lat":10.25,"lon":124.75,"programs":["pota"],"count":1,"references":[{"code":"PH-0086","program":"pota","name":"Rizal Park","coordinates":[124.973,10.3805]}]}
+{"lat":10.25,"lon":124.75,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"PHI 074","program":"arlhs","name":"Canigao Island (Leyte)","coordinates":[124.75,10.25]},{"code":"PH-0086","program":"pota","name":"Rizal Park","coordinates":[124.973,10.3805]},{"code":"WLOTA-2446","program":"wlota","name":"Canigao Island","coordinates":[124.75,10.25]}]}

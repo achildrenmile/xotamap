@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":-67,"programs":["pota"],"count":1,"references":[{"code":"CA-0810","program":"pota","name":"Duley Lake Provincial Park Reserve","coordinates":[-66.998,52.8956]}]}
+{"lat":52.75,"lon":-67,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0810","program":"pota","name":"Duley Lake Provincial Park Reserve","coordinates":[-66.998,52.8956]},{"code":"VEFF-0810","program":"wwff","name":"Duley Lake Provincial Park","coordinates":[-66.99801,52.89561]}]}

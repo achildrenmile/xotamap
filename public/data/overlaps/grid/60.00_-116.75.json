@@ -1,1 +1,1 @@
-{"lat":60,"lon":-116.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0765","program":"pota","name":"Twin Falls Gorge Territorial Park","coordinates":[-116.619,60.2214]}]}
+{"lat":60,"lon":-116.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0765","program":"pota","name":"Twin Falls Gorge Territorial Park","coordinates":[-116.619,60.2214]},{"code":"VEFF-0765","program":"wwff","name":"Twin Falls Gorge Territorial Park","coordinates":[-116.61894,60.22142]}]}

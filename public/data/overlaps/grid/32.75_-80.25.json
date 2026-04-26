@@ -1,1 +1,1 @@
-{"lat":32.75,"lon":-80.25,"programs":["pota"],"count":1,"references":[{"code":"US-3873","program":"pota","name":"Colonial Dorchester State Historic Site","coordinates":[-80.1706,32.9492]}]}
+{"lat":32.75,"lon":-80.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3873","program":"pota","name":"Colonial Dorchester State Historic Site","coordinates":[-80.1706,32.9492]},{"code":"KFF-3873","program":"wwff","name":"Colonial Dorchester","coordinates":[-80.1705,32.9488]}]}

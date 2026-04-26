@@ -1,1 +1,1 @@
-{"lat":67.25,"lon":25.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0051","program":"pota","name":"Iso-Sarrion luonnonsuojelualue State Nature Preserve","coordinates":[25.8417,67.4494]}]}
+{"lat":67.25,"lon":25.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0051","program":"pota","name":"Iso-Sarrion luonnonsuojelualue State Nature Preserve","coordinates":[25.8417,67.4494]},{"code":"OHFF-0386","program":"wwff","name":"Iso-Sarrion luonnonsuojelualue","coordinates":[25.83566,67.44481]}]}

@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-97.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0610","program":"wwbota","name":"FRP HH4","coordinates":[-97.002605,52.353035]}]}
+{"lat":52.25,"lon":-97.25,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 844","program":"arlhs","name":"Cox Reef (Lake Winnipeg)","coordinates":[-97.22000122,52.31999969]},{"code":"B/CA-0610","program":"wwbota","name":"FRP HH4","coordinates":[-97.002605,52.353035]}]}

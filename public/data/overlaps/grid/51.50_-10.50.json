@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":-10.5,"programs":["sota"],"count":1,"references":[{"code":"EI/IS-114","program":"sota","name":"Scarriff Island","coordinates":[-10.254249,51.7281]}]}
+{"lat":51.5,"lon":-10.5,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"IRE 013","program":"arlhs","name":"Bull Rock (Co. Kerry)","coordinates":[-10.30000019,51.59999847]},{"code":"EI/IS-114","program":"sota","name":"Scarriff Island","coordinates":[-10.254249,51.7281]},{"code":"WLOTA-0781","program":"wlota","name":"Bull Rock","coordinates":[-10.30200005,51.59199905]}]}

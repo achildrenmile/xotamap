@@ -1,1 +1,1 @@
-{"lat":-18.5,"lon":-39.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0189","program":"pota","name":"Itaúnas State Park","coordinates":[-39.702,-18.4132]}]}
+{"lat":-18.5,"lon":-39.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"BR-0189","program":"pota","name":"Itaúnas State Park","coordinates":[-39.702,-18.4132]},{"code":"PYFF-0377","program":"wwff","name":"Parque Estadual de ITAÚNAS - ES","coordinates":[-39.70186,-18.41315]},{"code":"PYFF-0774","program":"wwff","name":"Área Prot. Amb. de COSTA DOURADA - BA","coordinates":[-39.64279,-18.25767]}]}

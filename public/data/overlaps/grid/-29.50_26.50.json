@@ -1,1 +1,1 @@
-{"lat":-29.5,"lon":26.5,"programs":["sota"],"count":1,"references":[{"code":"ZS/FS-151","program":"sota","name":"Uysklip","coordinates":[26.6439,-29.4084]}]}
+{"lat":-29.5,"lon":26.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/FS-151","program":"sota","name":"Uysklip","coordinates":[26.6439,-29.4084]},{"code":"ZSFF-0336","program":"wwff","name":"Rustfontein Dam Nature Reserve","coordinates":[26.62472,-29.2948]}]}

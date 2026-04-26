@@ -1,1 +1,1 @@
-{"lat":-25.75,"lon":45,"programs":["pota"],"count":1,"references":[{"code":"MG-0028","program":"pota","name":"Cap Sainte-Marie National Nature Reserve","coordinates":[45.15,-25.58]}]}
+{"lat":-25.75,"lon":45,"programs":["arlhs","pota"],"count":2,"references":[{"code":"MAG 005","program":"arlhs","name":"Cap Sainte-Marie/Tanjona Vohimena","coordinates":[45.15000153,-25.57999992]},{"code":"MG-0028","program":"pota","name":"Cap Sainte-Marie National Nature Reserve","coordinates":[45.15,-25.58]}]}

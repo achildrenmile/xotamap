@@ -1,1 +1,1 @@
-{"lat":-29,"lon":146.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1418","program":"pota","name":"Culgoa Floodplain National Park","coordinates":[146.961,-28.907]}]}
+{"lat":-29,"lon":146.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1418","program":"pota","name":"Culgoa Floodplain National Park","coordinates":[146.961,-28.907]},{"code":"VKFF-0125","program":"wwff","name":"Culgoa Floodplain National Park","coordinates":[146.9697,-28.9144]}]}

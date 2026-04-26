@@ -1,1 +1,1 @@
-{"lat":3.5,"lon":-51.25,"programs":["pota"],"count":1,"references":[{"code":"BR-0011","program":"pota","name":"Cabo Orange National Conservation Area","coordinates":[-51.1319,3.58333]}]}
+{"lat":3.5,"lon":-51.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0011","program":"pota","name":"Cabo Orange National Conservation Area","coordinates":[-51.1319,3.58333]},{"code":"PYFF-0007","program":"wwff","name":"Parque Nacional do CABO ORANGE - AP","coordinates":[-51.1251,3.6722]}]}

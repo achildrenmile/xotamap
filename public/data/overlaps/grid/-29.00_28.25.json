@@ -1,1 +1,1 @@
-{"lat":-29,"lon":28.25,"programs":["pota"],"count":1,"references":[{"code":"LS-0005","program":"pota","name":"Ts'ehlanyane National Park","coordinates":[28.45,-28.9]}]}
+{"lat":-29,"lon":28.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"LS-0005","program":"pota","name":"Ts'ehlanyane National Park","coordinates":[28.45,-28.9]},{"code":"7PFF-0002","program":"wwff","name":"Ts\\'ehlanyane National Park","coordinates":[28.43614,-28.91443]},{"code":"7PFF-0005","program":"wwff","name":"Liphofung Cave","coordinates":[28.49427,-28.75463]}]}

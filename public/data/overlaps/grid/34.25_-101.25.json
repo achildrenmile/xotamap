@@ -1,1 +1,1 @@
-{"lat":34.25,"lon":-101.25,"programs":["pota"],"count":1,"references":[{"code":"US-2995","program":"pota","name":"Caprock Canyons State Park","coordinates":[-101.06,34.437]}]}
+{"lat":34.25,"lon":-101.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2995","program":"pota","name":"Caprock Canyons State Park","coordinates":[-101.06,34.437]},{"code":"KFF-2995","program":"wwff","name":"Caprock Canyons","coordinates":[-101.05986,34.43699]}]}

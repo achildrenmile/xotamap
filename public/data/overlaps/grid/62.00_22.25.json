@@ -1,1 +1,1 @@
-{"lat":62,"lon":22.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0363","program":"pota","name":"Kauhanevan-Pohjankankaan kansallispuisto National Park","coordinates":[22.4237,62.2014]}]}
+{"lat":62,"lon":22.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0363","program":"pota","name":"Kauhanevan-Pohjankankaan kansallispuisto National Park","coordinates":[22.4237,62.2014]},{"code":"OHFF-0006","program":"wwff","name":"Kauhanevan-Pohjankankaan kansallispuisto","coordinates":[22.40892,62.18536]}]}

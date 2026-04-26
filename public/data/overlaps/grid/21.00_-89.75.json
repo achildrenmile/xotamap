@@ -1,1 +1,1 @@
-{"lat":21,"lon":-89.75,"programs":["pota"],"count":1,"references":[{"code":"MX-0031","program":"pota","name":"Dzibilchantun National Park","coordinates":[-89.5994,21.099]}]}
+{"lat":21,"lon":-89.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"MX-0031","program":"pota","name":"Dzibilchantun National Park","coordinates":[-89.5994,21.099]},{"code":"XEFF-0027","program":"wwff","name":"Dzibilchantun","coordinates":[-89.59917,21.09215]}]}

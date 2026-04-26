@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":20.5,"programs":["sota"],"count":1,"references":[{"code":"ZS/WC-895","program":"sota","name":"Potteberg","coordinates":[20.5641,-34.3712]}]}
+{"lat":-34.5,"lon":20.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/WC-895","program":"sota","name":"Potteberg","coordinates":[20.5641,-34.3712]},{"code":"ZSFF-0098","program":"wwff","name":"De Hoop Nature Reserve","coordinates":[20.54697,-34.42033]}]}

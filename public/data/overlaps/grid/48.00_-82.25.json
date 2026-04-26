@@ -1,1 +1,1 @@
-{"lat":48,"lon":-82.25,"programs":["pota"],"count":1,"references":[{"code":"CA-1680","program":"pota","name":"Vimy Lake Uplands Conservation Reserve","coordinates":[-82.2125,48.2182]}]}
+{"lat":48,"lon":-82.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1680","program":"pota","name":"Vimy Lake Uplands Conservation Reserve","coordinates":[-82.2125,48.2182]},{"code":"VEFF-3701","program":"wwff","name":"Vimy Lake Uplands","coordinates":[-82.21285,48.21823]}]}

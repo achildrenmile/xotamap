@@ -1,1 +1,1 @@
-{"lat":63.5,"lon":7.75,"programs":["pota"],"count":1,"references":[{"code":"NO-1640","program":"pota","name":"Remman Nature Reserve","coordinates":[7.82881,63.5311]}]}
+{"lat":63.5,"lon":7.75,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"NOR 109","program":"arlhs","name":"Hauggjela","coordinates":[7.96999979,63.52999878]},{"code":"NO-1640","program":"pota","name":"Remman Nature Reserve","coordinates":[7.82881,63.5311]},{"code":"WLOTA-1445","program":"wlota","name":"Langbaaen (nr Smoela)","coordinates":[7.96299982,63.5320015]}]}

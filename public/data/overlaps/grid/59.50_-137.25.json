@@ -1,1 +1,1 @@
-{"lat":59.5,"lon":-137.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0742","program":"pota","name":"Tatshenshini-Alsek Provincial Park","coordinates":[-137.159,59.7073]}]}
+{"lat":59.5,"lon":-137.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0742","program":"pota","name":"Tatshenshini-Alsek Provincial Park","coordinates":[-137.159,59.7073]},{"code":"VEFF-0742","program":"wwff","name":"Tatshenshini-Alsek Provincial Park","coordinates":[-137.15881,59.7073]}]}

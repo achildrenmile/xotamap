@@ -1,1 +1,1 @@
-{"lat":-45.5,"lon":-74.5,"programs":["pota"],"count":1,"references":[{"code":"CL-0086","program":"pota","name":"Las Guaitecas National Reserve","coordinates":[-74.3167,-45.4833]}]}
+{"lat":-45.5,"lon":-74.5,"programs":["pota","wlota","wwff"],"count":3,"references":[{"code":"CL-0086","program":"pota","name":"Las Guaitecas National Reserve","coordinates":[-74.3167,-45.4833]},{"code":"WLOTA-2955","program":"wlota","name":"Isla Isquiliac","coordinates":[-74.34799957,-45.42300034]},{"code":"CEFF-0082","program":"wwff","name":"Las Guaitecas","coordinates":[-74.33095,-45.48962]}]}

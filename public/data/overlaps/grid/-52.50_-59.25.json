@@ -1,1 +1,1 @@
-{"lat":-52.5,"lon":-59.25,"programs":["pota"],"count":1,"references":[{"code":"FK-0009","program":"pota","name":"Sea Lion Island Ramsar Site","coordinates":[-59.099,-52.4328]}]}
+{"lat":-52.5,"lon":-59.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FK-0009","program":"pota","name":"Sea Lion Island Ramsar Site","coordinates":[-59.099,-52.4328]},{"code":"VPFF-8127","program":"wwff","name":"Sea Lion Island","coordinates":[-59.1081,-52.43207]}]}

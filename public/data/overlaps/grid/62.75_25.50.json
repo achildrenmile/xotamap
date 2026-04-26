@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":25.5,"programs":["pota"],"count":1,"references":[{"code":"FI-1137","program":"pota","name":"Muronahon suojelualue Protected Area","coordinates":[25.6493,62.8385]}]}
+{"lat":62.75,"lon":25.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-1137","program":"pota","name":"Muronahon suojelualue Protected Area","coordinates":[25.6493,62.8385]},{"code":"OHFF-0127","program":"wwff","name":"Muronahon suojelualue","coordinates":[25.64054,62.83685]},{"code":"OHFF-0745","program":"wwff","name":"Lehtisenneva","coordinates":[25.65788,62.75692]}]}

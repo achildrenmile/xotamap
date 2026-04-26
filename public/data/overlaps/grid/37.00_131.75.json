@@ -1,1 +1,1 @@
-{"lat":37,"lon":131.75,"programs":["sota"],"count":1,"references":[{"code":"HL/GB-430","program":"sota","name":"대한봉 (Daehanbong)","coordinates":[131.8651,37.2419]}]}
+{"lat":37,"lon":131.75,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"SKR 040","program":"arlhs","name":"Tok To","coordinates":[131.86999512,37.22999954]},{"code":"HL/GB-430","program":"sota","name":"대한봉 (Daehanbong)","coordinates":[131.8651,37.2419]},{"code":"WLOTA-0016","program":"wlota","name":"Tok To","coordinates":[131.87199402,37.2480011]}]}

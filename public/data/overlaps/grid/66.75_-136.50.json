@@ -1,1 +1,1 @@
-{"lat":66.75,"lon":-136.5,"programs":["pota"],"count":1,"references":[{"code":"CA-6269","program":"pota","name":"Rock River Campground Recreation Site","coordinates":[-136.355,66.912]}]}
+{"lat":66.75,"lon":-136.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6269","program":"pota","name":"Rock River Campground Recreation Site","coordinates":[-136.355,66.912]},{"code":"VEFF-4746","program":"wwff","name":"Rock River Campground","coordinates":[-136.35553,66.91171]}]}

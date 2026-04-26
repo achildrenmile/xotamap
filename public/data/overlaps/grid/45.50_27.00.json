@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"RO-0036","program":"pota","name":"Nicolae Bălcescu Park","coordinates":[27.1777,45.7006]}]}
+{"lat":45.5,"lon":27,"programs":["pota","wwff"],"count":2,"references":[{"code":"RO-0036","program":"pota","name":"Nicolae Bălcescu Park","coordinates":[27.1777,45.7006]},{"code":"YOFF-0327","program":"wwff","name":"Padurea Dalhauti","coordinates":[27.01028,45.69472]}]}

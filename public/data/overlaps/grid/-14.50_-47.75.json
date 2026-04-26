@@ -1,1 +1,1 @@
-{"lat":-14.5,"lon":-47.75,"programs":["sota"],"count":1,"references":[{"code":"PP2/CV-030","program":"sota","name":"PP2/CV-030","coordinates":[-47.6708,-14.3269]}]}
+{"lat":-14.5,"lon":-47.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"PP2/CV-030","program":"sota","name":"PP2/CV-030","coordinates":[-47.6708,-14.3269]},{"code":"PYFF-0677","program":"wwff","name":"Parque Estadual ÁGUAS DO PARAÍSO - GO","coordinates":[-47.74866,-14.28101]}]}

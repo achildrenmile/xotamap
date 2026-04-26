@@ -1,1 +1,1 @@
-{"lat":-24.75,"lon":149.25,"programs":["pota"],"count":1,"references":[{"code":"AU-1003","program":"pota","name":"Zamia Creek Conservation Park","coordinates":[149.375,-24.6077]}]}
+{"lat":-24.75,"lon":149.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1003","program":"pota","name":"Zamia Creek Conservation Park","coordinates":[149.375,-24.6077]},{"code":"VKFF-1682","program":"wwff","name":"Zamia Creek Conservation Park","coordinates":[149.37511,-24.6077]}]}

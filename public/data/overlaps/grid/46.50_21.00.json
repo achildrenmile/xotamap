@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":21,"programs":["pota"],"count":1,"references":[{"code":"HU-0022","program":"pota","name":"Csabapark Park","coordinates":[21.1248,46.6743]}]}
+{"lat":46.5,"lon":21,"programs":["pota","wwff"],"count":2,"references":[{"code":"HU-0022","program":"pota","name":"Csabapark Park","coordinates":[21.1248,46.6743]},{"code":"HAFF-0008","program":"wwff","name":"Koros-Maros NP","coordinates":[21.11408,46.58662]}]}

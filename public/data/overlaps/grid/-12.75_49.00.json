@@ -1,1 +1,1 @@
-{"lat":-12.75,"lon":49,"programs":["pota"],"count":1,"references":[{"code":"MG-0014","program":"pota","name":"Montagne d'Ambre National Park","coordinates":[49.15,-12.62]}]}
+{"lat":-12.75,"lon":49,"programs":["pota","wwff"],"count":2,"references":[{"code":"MG-0014","program":"pota","name":"Montagne d'Ambre National Park","coordinates":[49.15,-12.62]},{"code":"5RFF-0001","program":"wwff","name":"Amber Mountain","coordinates":[49.16611,-12.50222]}]}

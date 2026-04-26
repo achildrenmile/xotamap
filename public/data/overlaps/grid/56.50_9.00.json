@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":9,"programs":["pota"],"count":1,"references":[{"code":"DK-0037","program":"pota","name":"Lovnshalvøen Nature Reserve","coordinates":[9.1806,56.6827]}]}
+{"lat":56.5,"lon":9,"programs":["pota","wwff"],"count":2,"references":[{"code":"DK-0037","program":"pota","name":"Lovnshalvøen Nature Reserve","coordinates":[9.1806,56.6827]},{"code":"OZFF-0068","program":"wwff","name":"Lovnshalvoen (Lovnshalvøen)","coordinates":[9.18077,56.67724]}]}

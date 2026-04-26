@@ -1,1 +1,1 @@
-{"lat":-9.75,"lon":-35.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0650","program":"pota","name":"Do Horto Park","coordinates":[-35.7404,-9.61458]}]}
+{"lat":-9.75,"lon":-35.75,"programs":["arlhs","pota"],"count":3,"references":[{"code":"BRA 063","program":"arlhs","name":"MaceiÃ³ Porto (AL)","coordinates":[-35.72999954,-9.64999962]},{"code":"BRA 178","program":"arlhs","name":"Ponta Verde (AL)","coordinates":[-35.70000076,-9.67000008]},{"code":"BR-0650","program":"pota","name":"Do Horto Park","coordinates":[-35.7404,-9.61458]}]}

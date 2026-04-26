@@ -1,1 +1,1 @@
-{"lat":66.5,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"FI-0075","program":"pota","name":"Matkajärven soidensuojelualue Protected Area","coordinates":[27.0232,66.5775]}]}
+{"lat":66.5,"lon":27,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0075","program":"pota","name":"Matkajärven soidensuojelualue Protected Area","coordinates":[27.0232,66.5775]},{"code":"OHFF-0391","program":"wwff","name":"Matkajärven soidensuojelualue","coordinates":[27.01811,66.5756]}]}

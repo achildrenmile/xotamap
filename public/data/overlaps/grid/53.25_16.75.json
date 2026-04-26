@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":16.75,"programs":["pota"],"count":1,"references":[{"code":"PL-1628","program":"pota","name":"Uroczysko Jary Nature Reserve","coordinates":[16.9423,53.3924]}]}
+{"lat":53.25,"lon":16.75,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"PL-1628","program":"pota","name":"Uroczysko Jary Nature Reserve","coordinates":[16.9423,53.3924]},{"code":"SP-01179","program":"wca","name":"Krajenka","coordinates":[16.988178,53.296532]},{"code":"SPFF-1945","program":"wwff","name":"Nature Reserve Uroczysko Jary","coordinates":[16.94226,53.39244]}]}

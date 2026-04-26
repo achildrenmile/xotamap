@@ -1,1 +1,1 @@
-{"lat":-31,"lon":-53,"programs":["pota"],"count":1,"references":[{"code":"BR-0321","program":"pota","name":"Podocarpus State Park","coordinates":[-52.9278,-30.806]}]}
+{"lat":-31,"lon":-53,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0321","program":"pota","name":"Podocarpus State Park","coordinates":[-52.9278,-30.806]},{"code":"PYFF-0751","program":"wwff","name":"Parque Estadual PODOCARPUS - RS","coordinates":[-52.92777,-30.80583]}]}

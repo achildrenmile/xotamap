@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":42.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0447","program":"pota","name":"Cudi Mountain Flora and Fauna Reserve","coordinates":[42.499,37.3694]}]}
+{"lat":37.25,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0447","program":"pota","name":"Cudi Mountain Flora and Fauna Reserve","coordinates":[42.499,37.3694]},{"code":"TAFF-0218","program":"wwff","name":"Cudi Dagi","coordinates":[42.49558,37.36678]}]}

@@ -1,1 +1,1 @@
-{"lat":-24.75,"lon":150.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1176","program":"pota","name":"Mount Scoria Conservation Park","coordinates":[150.6,-24.5329]}]}
+{"lat":-24.75,"lon":150.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1176","program":"pota","name":"Mount Scoria Conservation Park","coordinates":[150.6,-24.5329]},{"code":"VKFF-1611","program":"wwff","name":"Mount Scoria Conservation Park","coordinates":[150.6002,-24.5329]}]}

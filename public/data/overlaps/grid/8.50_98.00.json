@@ -1,1 +1,1 @@
-{"lat":8.5,"lon":98,"programs":["pota"],"count":1,"references":[{"code":"TH-0033","program":"pota","name":"Khao Lak Lam Rua Marine National Park","coordinates":[98.2401,8.62647]}]}
+{"lat":8.5,"lon":98,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0033","program":"pota","name":"Khao Lak Lam Rua Marine National Park","coordinates":[98.2401,8.62647]},{"code":"HSFF-0027","program":"wwff","name":"Khao Lak - Lam Ru National Park","coordinates":[98.23919,8.6267]}]}

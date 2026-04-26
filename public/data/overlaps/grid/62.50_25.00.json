@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":25,"programs":["sota"],"count":1,"references":[{"code":"OH/JS-016","program":"sota","name":"Kiiskilänmäki","coordinates":[25.153,62.5018]}]}
+{"lat":62.5,"lon":25,"programs":["sota","wwff"],"count":3,"references":[{"code":"OH/JS-016","program":"sota","name":"Kiiskilänmäki","coordinates":[25.153,62.5018]},{"code":"OHFF-0744","program":"wwff","name":"Lampuodinsuo","coordinates":[25.09229,62.50405]},{"code":"OHFF-0750","program":"wwff","name":"Matin Puiston luonnonsuojelualue","coordinates":[25.22877,62.68473]}]}

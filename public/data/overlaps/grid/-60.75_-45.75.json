@@ -1,1 +1,1 @@
-{"lat":-60.75,"lon":-45.75,"programs":["iota"],"count":1,"references":[{"code":"AN-008","program":"iota","name":"SOUTH ORKNEY ISLANDS","coordinates":[-45.75,-60.625]}]}
+{"lat":-60.75,"lon":-45.75,"programs":["iota","wlota"],"count":2,"references":[{"code":"AN-008","program":"iota","name":"SOUTH ORKNEY ISLANDS","coordinates":[-45.75,-60.625]},{"code":"WLOTA-0163","program":"wlota","name":"Signy Island","coordinates":[-45.60300064,-60.70700073]}]}

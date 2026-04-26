@@ -1,1 +1,1 @@
-{"lat":63.5,"lon":-137.25,"programs":["pota"],"count":1,"references":[{"code":"CA-6275","program":"pota","name":"Moose Creek Campground Recreation Site","coordinates":[-137.026,63.509]}]}
+{"lat":63.5,"lon":-137.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6275","program":"pota","name":"Moose Creek Campground Recreation Site","coordinates":[-137.026,63.509]},{"code":"VEFF-4740","program":"wwff","name":"Moose Creek Campground","coordinates":[-137.02817,63.51013]}]}

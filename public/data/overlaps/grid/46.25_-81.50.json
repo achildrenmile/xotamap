@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":-81.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0207","program":"pota","name":"Fairbank Provincial Park","coordinates":[-81.4396,46.4722]}]}
+{"lat":46.25,"lon":-81.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0207","program":"pota","name":"Fairbank Provincial Park","coordinates":[-81.4396,46.4722]},{"code":"VEFF-0207","program":"wwff","name":"Fairbank Provincial Park","coordinates":[-81.44,46.47]}]}

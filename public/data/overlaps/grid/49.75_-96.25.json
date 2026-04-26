@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":-96.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2445","program":"pota","name":"Lewis Bog Ecological Reserve","coordinates":[-96.051,49.825]}]}
+{"lat":49.75,"lon":-96.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2445","program":"pota","name":"Lewis Bog Ecological Reserve","coordinates":[-96.051,49.825]},{"code":"VEFF-4150","program":"wwff","name":"Lewis Bog Ecological Reserve","coordinates":[-96.06969,49.81522]}]}

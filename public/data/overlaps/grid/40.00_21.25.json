@@ -1,1 +1,1 @@
-{"lat":40,"lon":21.25,"programs":["sota"],"count":1,"references":[{"code":"SV/MC-094","program":"sota","name":"Kalogria","coordinates":[21.263294,40.01574]}]}
+{"lat":40,"lon":21.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"SV/MC-094","program":"sota","name":"Kalogria","coordinates":[21.263294,40.01574]},{"code":"SVFF-0229","program":"wwff","name":"Profitis Ilias-Stavros (Grevenon)","coordinates":[21.4273,40.06391]}]}

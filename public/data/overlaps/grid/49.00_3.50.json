@@ -1,1 +1,1 @@
-{"lat":49,"lon":3.5,"programs":["sota"],"count":1,"references":[{"code":"FL/NO-091","program":"sota","name":"Les Couleuvres","coordinates":[3.6823,49.0154]}]}
+{"lat":49,"lon":3.5,"programs":["sota","wwff"],"count":3,"references":[{"code":"FL/NO-091","program":"sota","name":"Les Couleuvres","coordinates":[3.6823,49.0154]},{"code":"FFF-1372","program":"wwff","name":"Les Bruyères de Fère-en-Tardenois","coordinates":[3.52236,49.2146]},{"code":"FFF-1546","program":"wwff","name":"Foret domaniale de Saint-Thibault","coordinates":[3.59879,49.23692]}]}

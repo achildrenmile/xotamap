@@ -1,1 +1,1 @@
-{"lat":-0.75,"lon":104.25,"programs":["sota"],"count":1,"references":[{"code":"YBE/KR-027","program":"sota","name":"YBE/KR-027","coordinates":[104.4872,-0.5008]}]}
+{"lat":-0.75,"lon":104.25,"programs":["arlhs","sota"],"count":2,"references":[{"code":"IDO 226","program":"arlhs","name":"Pulau Muci (Sumatra)","coordinates":[104.30000305,-0.55000001]},{"code":"YBE/KR-027","program":"sota","name":"YBE/KR-027","coordinates":[104.4872,-0.5008]}]}

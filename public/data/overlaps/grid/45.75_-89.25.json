@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":-89.25,"programs":["pota"],"count":1,"references":[{"code":"US-4333","program":"pota","name":"Thunder Lake State Wildlife Area","coordinates":[-89.188,45.8139]}]}
+{"lat":45.75,"lon":-89.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4333","program":"pota","name":"Thunder Lake State Wildlife Area","coordinates":[-89.188,45.8139]},{"code":"KFF-4333","program":"wwff","name":"Thunder Lake","coordinates":[-89.21662,45.81546]}]}

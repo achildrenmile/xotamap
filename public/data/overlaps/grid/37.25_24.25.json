@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":24.25,"programs":["sota"],"count":1,"references":[{"code":"SV/AG-027","program":"sota","name":"Kakovola","coordinates":[24.387777,37.43861]}]}
+{"lat":37.25,"lon":24.25,"programs":["sota","wlota","wwff"],"count":3,"references":[{"code":"SV/AG-027","program":"sota","name":"Kakovola","coordinates":[24.387777,37.43861]},{"code":"WLOTA-4137","program":"wlota","name":"Nisos Kythnos","coordinates":[24.36499977,37.30199814]},{"code":"SVFF-0303","program":"wwff","name":"Oros Atheras - Akrotirio Kefalos Kai Paraktia Zoni","coordinates":[24.39946,37.43918]}]}

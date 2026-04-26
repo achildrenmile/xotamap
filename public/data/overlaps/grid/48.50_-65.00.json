@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":-65,"programs":["sota"],"count":1,"references":[{"code":"VE2/GA-259","program":"sota","name":"VE2/GA-259","coordinates":[-64.781494,48.71295]}]}
+{"lat":48.5,"lon":-65,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE2/GA-259","program":"sota","name":"VE2/GA-259","coordinates":[-64.781494,48.71295]},{"code":"VEFF-1901","program":"wwff","name":"Reserve ecologique de la Grande-Riviere","coordinates":[-64.79522,48.59346]}]}

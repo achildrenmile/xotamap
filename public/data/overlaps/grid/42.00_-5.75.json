@@ -1,1 +1,1 @@
-{"lat":42,"lon":-5.75,"programs":["pota"],"count":1,"references":[{"code":"ES-0441","program":"pota","name":"Riberas del rio Esla y afluentes Natura 2000","coordinates":[-5.6125,42.025]}]}
+{"lat":42,"lon":-5.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-0441","program":"pota","name":"Riberas del rio Esla y afluentes Natura 2000","coordinates":[-5.6125,42.025]},{"code":"EAFF-1136","program":"wwff","name":"LIC Riberas Del Río Esla y Afluentes","coordinates":[-5.65912,42.0601]}]}

@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":-82.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1289","program":"pota","name":"Archambeau Lake Forest Conservation Reserve","coordinates":[-82.4289,46.6075]}]}
+{"lat":46.5,"lon":-82.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1289","program":"pota","name":"Archambeau Lake Forest Conservation Reserve","coordinates":[-82.4289,46.6075]},{"code":"VEFF-4061","program":"wwff","name":"Archambeau Lake Forest","coordinates":[-82.42775,46.60661]}]}

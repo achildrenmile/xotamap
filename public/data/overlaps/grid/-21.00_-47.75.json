@@ -1,1 +1,1 @@
-{"lat":-21,"lon":-47.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0837","program":"pota","name":"Batatais National Forest","coordinates":[-47.6254,-20.9112]}]}
+{"lat":-21,"lon":-47.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0837","program":"pota","name":"Batatais National Forest","coordinates":[-47.6254,-20.9112]},{"code":"PYFF-0569","program":"wwff","name":"Floresta de BATATAIS - SP","coordinates":[-47.62666,-20.91208]}]}

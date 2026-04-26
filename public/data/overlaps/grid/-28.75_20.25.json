@@ -1,1 +1,1 @@
-{"lat":-28.75,"lon":20.25,"programs":["pota"],"count":1,"references":[{"code":"ZA-0050","program":"pota","name":"Augrabies Falls National Park","coordinates":[20.338,-28.594]}]}
+{"lat":-28.75,"lon":20.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"ZA-0050","program":"pota","name":"Augrabies Falls National Park","coordinates":[20.338,-28.594]},{"code":"ZSFF-0003","program":"wwff","name":"Augrabies Falls","coordinates":[20.33833,-28.59111]}]}

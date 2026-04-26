@@ -1,1 +1,1 @@
-{"lat":-33,"lon":135.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0726","program":"pota","name":"Pinkawillinie Conservation Park","coordinates":[135.774,-32.9267]}]}
+{"lat":-33,"lon":135.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0726","program":"pota","name":"Pinkawillinie Conservation Park","coordinates":[135.774,-32.9267]},{"code":"VKFF-1079","program":"wwff","name":"Pinkawillinie Conservation Park","coordinates":[135.81239,-32.9508]}]}

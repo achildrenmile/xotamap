@@ -1,1 +1,1 @@
-{"lat":65,"lon":18,"programs":["sota"],"count":1,"references":[{"code":"SM/VB-250","program":"sota","name":"Fäbodliden","coordinates":[18.218481,65.11346]}]}
+{"lat":65,"lon":18,"programs":["sota","wwff"],"count":2,"references":[{"code":"SM/VB-250","program":"sota","name":"Fäbodliden","coordinates":[18.218481,65.11346]},{"code":"SMFF-2602","program":"wwff","name":"Hällbergsträsk","coordinates":[18.20175,65.13282]}]}

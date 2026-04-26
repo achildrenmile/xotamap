@@ -1,1 +1,1 @@
-{"lat":3,"lon":-76,"programs":["pota"],"count":1,"references":[{"code":"CO-0159","program":"pota","name":"Nevado del Huila National Nature Reserve","coordinates":[-75.8975,3.05407]}]}
+{"lat":3,"lon":-76,"programs":["pota","wwff"],"count":2,"references":[{"code":"CO-0159","program":"pota","name":"Nevado del Huila National Nature Reserve","coordinates":[-75.8975,3.05407]},{"code":"HKFF-0020","program":"wwff","name":"Nevado del Huila","coordinates":[-75.97,3.08]}]}

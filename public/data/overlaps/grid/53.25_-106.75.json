@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-106.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1100","program":"pota","name":"Canwood Regional Park","coordinates":[-106.542,53.3643]}]}
+{"lat":53.25,"lon":-106.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1100","program":"pota","name":"Canwood Regional Park","coordinates":[-106.542,53.3643]},{"code":"VEFF-1100","program":"wwff","name":"Canwood Regional Park","coordinates":[-106.5424,53.36428]}]}

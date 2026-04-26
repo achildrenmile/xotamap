@@ -1,1 +1,1 @@
-{"lat":-33.25,"lon":25.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/EL-229","program":"sota","name":"Spekboomberg","coordinates":[25.3031,-33.2423]}]}
+{"lat":-33.25,"lon":25.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/EL-229","program":"sota","name":"Spekboomberg","coordinates":[25.3031,-33.2423]},{"code":"ZSFF-0206","program":"wwff","name":"Kuzuko Game Reserve","coordinates":[25.49217,-33.21782]}]}

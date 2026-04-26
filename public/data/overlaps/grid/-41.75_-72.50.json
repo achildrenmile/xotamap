@@ -1,1 +1,1 @@
-{"lat":-41.75,"lon":-72.5,"programs":["pota"],"count":1,"references":[{"code":"CL-0246","program":"pota","name":"Laguna El Diamante Nature Recreation Area","coordinates":[-72.289,-41.6388]}]}
+{"lat":-41.75,"lon":-72.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CL-0246","program":"pota","name":"Laguna El Diamante Nature Recreation Area","coordinates":[-72.289,-41.6388]},{"code":"CEFF-0002","program":"wwff","name":"Alerce Andino","coordinates":[-72.48,-41.55]}]}

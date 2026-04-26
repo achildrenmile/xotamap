@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":-119,"programs":["pota"],"count":1,"references":[{"code":"CA-3037","program":"pota","name":"Hay-Zama Lakes Wildland Provincial Park","coordinates":[-118.762,58.8585]}]}
+{"lat":58.75,"lon":-119,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3037","program":"pota","name":"Hay-Zama Lakes Wildland Provincial Park","coordinates":[-118.762,58.8585]},{"code":"VEFF-2014","program":"wwff","name":"Hay-Zama Lakes Wildland Provincial Park","coordinates":[-118.97169,58.76556]}]}

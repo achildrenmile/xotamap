@@ -1,1 +1,1 @@
-{"lat":66.75,"lon":26.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0065","program":"pota","name":"Haikara-aavan-Vitsikkoaavan soidensuojelualue Protected Area","coordinates":[26.9468,66.962]}]}
+{"lat":66.75,"lon":26.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0065","program":"pota","name":"Haikara-aavan-Vitsikkoaavan soidensuojelualue Protected Area","coordinates":[26.9468,66.962]},{"code":"OHFF-0171","program":"wwff","name":"Haikara-aavan-Vitsikkoaavan soidensuojelualue","coordinates":[26.94679,66.96197]}]}

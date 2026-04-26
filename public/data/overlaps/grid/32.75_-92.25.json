@@ -1,1 +1,1 @@
-{"lat":32.75,"lon":-92.25,"programs":["pota"],"count":1,"references":[{"code":"US-0319","program":"pota","name":"Upper Ouachita National Wildlife Refuge","coordinates":[-92.0862,32.8902]}]}
+{"lat":32.75,"lon":-92.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0319","program":"pota","name":"Upper Ouachita National Wildlife Refuge","coordinates":[-92.0862,32.8902]},{"code":"KFF-0319","program":"wwff","name":"Upper Ouachita","coordinates":[-92.08572,32.90386]}]}

@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":-90,"programs":["pota"],"count":1,"references":[{"code":"US-1002","program":"pota","name":"Johnson Sauk Trail State Park","coordinates":[-89.8926,41.326]}]}
+{"lat":41.25,"lon":-90,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1002","program":"pota","name":"Johnson Sauk Trail State Park","coordinates":[-89.8926,41.326]},{"code":"KFF-1002","program":"wwff","name":"Johnson Sauk Trail","coordinates":[-89.89261,41.32597]}]}

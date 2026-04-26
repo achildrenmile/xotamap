@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":-98,"programs":["pota"],"count":1,"references":[{"code":"CA-0521","program":"pota","name":"Amisk Park Reserve","coordinates":[-97.9214,56.7906]}]}
+{"lat":56.75,"lon":-98,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0521","program":"pota","name":"Amisk Park Reserve","coordinates":[-97.9214,56.7906]},{"code":"VEFF-0521","program":"wwff","name":"Amisk Park Reserve","coordinates":[-97.92139,56.79056]}]}

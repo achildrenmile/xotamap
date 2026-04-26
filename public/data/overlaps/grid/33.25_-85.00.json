@@ -1,1 +1,1 @@
-{"lat":33.25,"lon":-85,"programs":["pota"],"count":1,"references":[{"code":"US-2168","program":"pota","name":"Chattahoochee Bend State Park","coordinates":[-84.9896,33.4299]}]}
+{"lat":33.25,"lon":-85,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2168","program":"pota","name":"Chattahoochee Bend State Park","coordinates":[-84.9896,33.4299]},{"code":"KFF-2168","program":"wwff","name":"Chattahoochee Bend","coordinates":[-84.98956,33.42988]}]}

@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-112.25,"programs":["pota"],"count":1,"references":[{"code":"CA-1184","program":"pota","name":"Little Fish Lake Provincial Park","coordinates":[-112.206,51.3738]}]}
+{"lat":51.25,"lon":-112.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1184","program":"pota","name":"Little Fish Lake Provincial Park","coordinates":[-112.206,51.3738]},{"code":"VEFF-1184","program":"wwff","name":"Little Fish Lake Provincial Park","coordinates":[-112.20556,51.37379]}]}

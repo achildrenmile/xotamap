@@ -1,1 +1,1 @@
-{"lat":40.5,"lon":26.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0100","program":"pota","name":"Danişment Nature Park","coordinates":[26.4336,40.609]}]}
+{"lat":40.5,"lon":26.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0100","program":"pota","name":"Danişment Nature Park","coordinates":[26.4336,40.609]},{"code":"TAFF-0087","program":"wwff","name":"Danisment Tabiat Parki","coordinates":[26.43423,40.60896]}]}

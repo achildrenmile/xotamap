@@ -1,1 +1,1 @@
-{"lat":54,"lon":-8.75,"programs":["sota"],"count":1,"references":[{"code":"EI/IN-078","program":"sota","name":"Knocknashee","coordinates":[-8.6797,54.11911]}]}
+{"lat":54,"lon":-8.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"EI/IN-078","program":"sota","name":"Knocknashee","coordinates":[-8.6797,54.11911]},{"code":"EIFF-0255","program":"wwff","name":"Doocastle Turlough SAC","coordinates":[-8.64134,54.02713]}]}

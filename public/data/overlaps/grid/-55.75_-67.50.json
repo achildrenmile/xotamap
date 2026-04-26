@@ -1,1 +1,1 @@
-{"lat":-55.75,"lon":-67.5,"programs":["iota"],"count":1,"references":[{"code":"SA-031","program":"iota","name":"WOLLASTON AND HERMITE ISLANDS","coordinates":[-67.29499817,-55.674999235]}]}
+{"lat":-55.75,"lon":-67.5,"programs":["iota","wwff"],"count":2,"references":[{"code":"SA-031","program":"iota","name":"WOLLASTON AND HERMITE ISLANDS","coordinates":[-67.29499817,-55.674999235]},{"code":"CEFF-0006","program":"wwff","name":"Cabo de Hornos","coordinates":[-67.33,-55.7]}]}

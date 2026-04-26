@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":-5.75,"programs":["pota"],"count":1,"references":[{"code":"ES-0444","program":"pota","name":"Quejigares de la Tierra del Vino Natura 2000","coordinates":[-5.7318,41.294]}]}
+{"lat":41.25,"lon":-5.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-0444","program":"pota","name":"Quejigares de la Tierra del Vino Natura 2000","coordinates":[-5.7318,41.294]},{"code":"EAFF-1131","program":"wwff","name":"LIC Quejigares De La Tierra Del Vino","coordinates":[-5.73231,41.29441]}]}

@@ -1,1 +1,1 @@
-{"lat":64.5,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"FI-0612","program":"pota","name":"Sarvisuo - Jerusaleminsuo Natura 2000","coordinates":[27.2043,64.7492]}]}
+{"lat":64.5,"lon":27,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0612","program":"pota","name":"Sarvisuo - Jerusaleminsuo Natura 2000","coordinates":[27.2043,64.7492]},{"code":"OHFF-1530","program":"wwff","name":"Hautakangas","coordinates":[27.18941,64.60951]},{"code":"OHFF-1704","program":"wwff","name":"Rytykorpi","coordinates":[27.04229,64.5885]}]}

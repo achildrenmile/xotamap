@@ -1,1 +1,1 @@
-{"lat":-14.25,"lon":144.5,"programs":["sota"],"count":1,"references":[{"code":"VK4/NP-078","program":"sota","name":"Walch Hill","coordinates":[144.50056,-14.19073]}]}
+{"lat":-14.25,"lon":144.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"AUS 193","program":"arlhs","name":"Pipon Island","coordinates":[144.52000427,-14.13000011]},{"code":"VK4/NP-078","program":"sota","name":"Walch Hill","coordinates":[144.50056,-14.19073]}]}

@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":28.25,"programs":["pota"],"count":1,"references":[{"code":"RO-0370","program":"pota","name":"Padurea Hagieni Reserve","coordinates":[28.4711,43.8011]}]}
+{"lat":43.75,"lon":28.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RO-0370","program":"pota","name":"Padurea Hagieni Reserve","coordinates":[28.4711,43.8011]},{"code":"YOFF-0178","program":"wwff","name":"Padurea Hagieni","coordinates":[28.47111,43.80111]}]}

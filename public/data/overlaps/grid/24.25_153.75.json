@@ -1,1 +1,1 @@
-{"lat":24.25,"lon":153.75,"programs":["iota"],"count":1,"references":[{"code":"OC-073","program":"iota","name":"MINAMI TORISHIMA","coordinates":[153.965003965,24.2850008]}]}
+{"lat":24.25,"lon":153.75,"programs":["iota","wwff"],"count":2,"references":[{"code":"OC-073","program":"iota","name":"MINAMI TORISHIMA","coordinates":[153.965003965,24.2850008]},{"code":"JAFF-0091","program":"wwff","name":"Minami Torishima National Wildlife Protection Area","coordinates":[153.98059,24.28917]}]}

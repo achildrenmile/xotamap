@@ -1,1 +1,1 @@
-{"lat":36.25,"lon":-105.75,"programs":["sota"],"count":1,"references":[{"code":"W5N/SS-033","program":"sota","name":"9741","coordinates":[-105.6543,36.285]}]}
+{"lat":36.25,"lon":-105.75,"programs":["sota","wwff"],"count":3,"references":[{"code":"W5N/SS-033","program":"sota","name":"9741","coordinates":[-105.6543,36.285]},{"code":"KFF-5143","program":"wwff","name":"Rio Grande del Norte","coordinates":[-105.73691,36.47407]},{"code":"KFF-5903","program":"wwff","name":"Rio Grande (NM)","coordinates":[-105.7335,36.4762]}]}

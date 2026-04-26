@@ -1,1 +1,1 @@
-{"lat":36.5,"lon":-85.75,"programs":["pota"],"count":1,"references":[{"code":"US-3784","program":"pota","name":"Old Mulkey Meetinghouse State Historic Site","coordinates":[-85.7069,36.6778]}]}
+{"lat":36.5,"lon":-85.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3784","program":"pota","name":"Old Mulkey Meetinghouse State Historic Site","coordinates":[-85.7069,36.6778]},{"code":"KFF-3784","program":"wwff","name":"Old Mulkey Meetinghouse","coordinates":[-85.7064,36.6765]}]}

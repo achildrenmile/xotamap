@@ -1,1 +1,1 @@
-{"lat":53,"lon":21.25,"programs":["pota"],"count":1,"references":[{"code":"PL-2868","program":"pota","name":"Bory bagienne i torfowiska Karaska Natura 2000","coordinates":[21.36,53.23]}]}
+{"lat":53,"lon":21.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-2868","program":"pota","name":"Bory bagienne i torfowiska Karaska Natura 2000","coordinates":[21.36,53.23]},{"code":"SPFF-2586","program":"wwff","name":"Natura 2000 Bory bagienne i torfowiska Karaska","coordinates":[21.36016,53.22964]}]}

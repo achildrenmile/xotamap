@@ -1,1 +1,1 @@
-{"lat":-36.75,"lon":140,"programs":["pota"],"count":1,"references":[{"code":"AU-0866","program":"pota","name":"Hanson Scrub Conservation Park","coordinates":[140.173,-36.5636]}]}
+{"lat":-36.75,"lon":140,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0866","program":"pota","name":"Hanson Scrub Conservation Park","coordinates":[140.173,-36.5636]},{"code":"VKFF-0891","program":"wwff","name":"Hanson Scrub Conservation Park","coordinates":[140.17281,-36.5636]}]}

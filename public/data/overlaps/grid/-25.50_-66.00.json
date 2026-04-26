@@ -1,1 +1,1 @@
-{"lat":-25.5,"lon":-66,"programs":["pota"],"count":1,"references":[{"code":"AR-0120","program":"pota","name":"Los Cardones National Park","coordinates":[-65.9535,-25.3413]}]}
+{"lat":-25.5,"lon":-66,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0120","program":"pota","name":"Los Cardones National Park","coordinates":[-65.9535,-25.3413]},{"code":"LUFF-0020","program":"wwff","name":"Los Cardones","coordinates":[-65.95353,-25.34128]}]}

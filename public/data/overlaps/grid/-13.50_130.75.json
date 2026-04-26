@@ -1,1 +1,1 @@
-{"lat":-13.5,"lon":130.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1560","program":"pota","name":"Litchfield National Park","coordinates":[130.849,-13.2569]}]}
+{"lat":-13.5,"lon":130.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1560","program":"pota","name":"Litchfield National Park","coordinates":[130.849,-13.2569]},{"code":"VKFF-0289","program":"wwff","name":"Litchfield National Park","coordinates":[130.8461,-13.2532]}]}

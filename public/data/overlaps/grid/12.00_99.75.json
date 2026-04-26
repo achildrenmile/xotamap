@@ -1,1 +1,1 @@
-{"lat":12,"lon":99.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0041","program":"pota","name":"Khao Sam Roi Yot Marine National Park","coordinates":[99.9537,12.1289]}]}
+{"lat":12,"lon":99.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0041","program":"pota","name":"Khao Sam Roi Yot Marine National Park","coordinates":[99.9537,12.1289]},{"code":"HSFF-0035","program":"wwff","name":"Khao Sam Roi Yot National Park","coordinates":[99.95436,12.12844]}]}

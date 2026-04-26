@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":21,"programs":["sota"],"count":1,"references":[{"code":"HA/EM-069","program":"sota","name":"Krakó","coordinates":[21.2061,48.2622]}]}
+{"lat":48.25,"lon":21,"programs":["sota","wca"],"count":2,"references":[{"code":"HA/EM-069","program":"sota","name":"Krakó","coordinates":[21.2061,48.2622]},{"code":"HA-00005","program":"wca","name":"Boldogkoi Var","coordinates":[21.23194444,48.34555556]}]}

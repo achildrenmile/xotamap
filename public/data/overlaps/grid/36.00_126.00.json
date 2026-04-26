@@ -1,1 +1,1 @@
-{"lat":36,"lon":126,"programs":["sota"],"count":1,"references":[{"code":"HL/CN-136","program":"sota","name":"봉화산 (Bonghwasan)","coordinates":[126.0902,36.2292]}]}
+{"lat":36,"lon":126,"programs":["sota","wlota"],"count":2,"references":[{"code":"HL/CN-136","program":"sota","name":"봉화산 (Bonghwasan)","coordinates":[126.0902,36.2292]},{"code":"WLOTA-3682","program":"wlota","name":"Puran Do","coordinates":[126.10700226,36.2179985]}]}

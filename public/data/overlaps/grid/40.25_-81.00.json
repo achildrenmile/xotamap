@@ -1,1 +1,1 @@
-{"lat":40.25,"lon":-81,"programs":["pota"],"count":1,"references":[{"code":"US-1963","program":"pota","name":"Jefferson Lake State Park","coordinates":[-80.8084,40.4696]}]}
+{"lat":40.25,"lon":-81,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-1963","program":"pota","name":"Jefferson Lake State Park","coordinates":[-80.8084,40.4696]},{"code":"KFF-1963","program":"wwff","name":"Jefferson Lake","coordinates":[-80.80843,40.4696]},{"code":"KFF-4993","program":"wwff","name":"Harrison","coordinates":[-80.9901,40.32935]}]}

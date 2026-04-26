@@ -1,1 +1,1 @@
-{"lat":63,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"FI-0831","program":"pota","name":"Korkeakoski Natura 2000","coordinates":[27.0788,63.2393]}]}
+{"lat":63,"lon":27,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0831","program":"pota","name":"Korkeakoski Natura 2000","coordinates":[27.0788,63.2393]},{"code":"OHFF-0485","program":"wwff","name":"Vorloksonnotko","coordinates":[27.23722,63.00807]}]}

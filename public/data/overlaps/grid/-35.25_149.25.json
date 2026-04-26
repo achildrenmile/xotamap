@@ -1,1 +1,1 @@
-{"lat":-35.25,"lon":149.25,"programs":["pota"],"count":1,"references":[{"code":"AU-2366","program":"pota","name":"Mcleods Creek Nature Park","coordinates":[149.296,-35.0205]}]}
+{"lat":-35.25,"lon":149.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2366","program":"pota","name":"Mcleods Creek Nature Park","coordinates":[149.296,-35.0205]},{"code":"VKFF-2653","program":"wwff","name":"Mcleods Creek Nature Reserve","coordinates":[149.2955,-35.0205]}]}

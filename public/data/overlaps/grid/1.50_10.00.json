@@ -1,1 +1,1 @@
-{"lat":1.5,"lon":10,"programs":["pota"],"count":1,"references":[{"code":"GQ-0008","program":"pota","name":"Monte Alen National Park","coordinates":[10.1179,1.5307]}]}
+{"lat":1.5,"lon":10,"programs":["pota","wwff"],"count":2,"references":[{"code":"GQ-0008","program":"pota","name":"Monte Alen National Park","coordinates":[10.1179,1.5307]},{"code":"3CFF-0009","program":"wwff","name":"Monte Alén","coordinates":[10.12509,1.53051]}]}

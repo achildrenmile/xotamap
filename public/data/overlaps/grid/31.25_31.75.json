@@ -1,1 +1,1 @@
-{"lat":31.25,"lon":31.75,"programs":["iota"],"count":1,"references":[{"code":"AF-109","program":"iota","name":"NILE DELTA AND SINAI REGION group","coordinates":[31.96000004,31.375]}]}
+{"lat":31.25,"lon":31.75,"programs":["arlhs","iota"],"count":2,"references":[{"code":"EGY 033","program":"arlhs","name":"Damietta Port","coordinates":[31.75,31.46999931]},{"code":"AF-109","program":"iota","name":"NILE DELTA AND SINAI REGION group","coordinates":[31.96000004,31.375]}]}

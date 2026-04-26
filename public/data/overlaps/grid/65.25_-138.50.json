@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":-138.5,"programs":["pota"],"count":1,"references":[{"code":"CA-6288","program":"pota","name":"Engineer Creek Campground Recreation Site","coordinates":[-138.272,65.352]}]}
+{"lat":65.25,"lon":-138.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6288","program":"pota","name":"Engineer Creek Campground Recreation Site","coordinates":[-138.272,65.352]},{"code":"VEFF-4728","program":"wwff","name":"Engineer Creek Campground","coordinates":[-138.27199,65.3522]}]}

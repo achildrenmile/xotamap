@@ -1,1 +1,1 @@
-{"lat":60,"lon":-112.75,"programs":["pota"],"count":1,"references":[{"code":"CA-4334","program":"pota","name":"Little Buffalo River Falls Territorial Park","coordinates":[-112.703,60.0473]}]}
+{"lat":60,"lon":-112.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4334","program":"pota","name":"Little Buffalo River Falls Territorial Park","coordinates":[-112.703,60.0473]},{"code":"VEFF-2691","program":"wwff","name":"Little Buffalo River Falls","coordinates":[-112.70277,60.04722]}]}

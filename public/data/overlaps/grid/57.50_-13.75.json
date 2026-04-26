@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":-13.75,"programs":["iota"],"count":1,"references":[{"code":"EU-189","program":"iota","name":"ISLE OF ROCKALL","coordinates":[-13.69000006,57.59000015]}]}
+{"lat":57.5,"lon":-13.75,"programs":["iota","wlota"],"count":2,"references":[{"code":"EU-189","program":"iota","name":"ISLE OF ROCKALL","coordinates":[-13.69000006,57.59000015]},{"code":"WLOTA-1694","program":"wlota","name":"Rockall Rock","coordinates":[-13.68799973,57.59700012]}]}

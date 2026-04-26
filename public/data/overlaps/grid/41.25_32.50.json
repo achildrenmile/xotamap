@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":32.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0254","program":"pota","name":"Baklabostan Nature Park","coordinates":[32.5557,41.2749]}]}
+{"lat":41.25,"lon":32.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0254","program":"pota","name":"Baklabostan Nature Park","coordinates":[32.5557,41.2749]},{"code":"TAFF-0157","program":"wwff","name":"Baklabostan Tabiat Parki","coordinates":[32.55559,41.27478]}]}

@@ -1,1 +1,1 @@
-{"lat":16.25,"lon":104.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0112","program":"pota","name":"Phu Pha Thoep National Park","coordinates":[104.757,16.4398]}]}
+{"lat":16.25,"lon":104.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0112","program":"pota","name":"Phu Pha Thoep National Park","coordinates":[104.757,16.4398]},{"code":"HSFF-0058","program":"wwff","name":"Phu Pha Thoep National Park","coordinates":[104.75464,16.44356]}]}

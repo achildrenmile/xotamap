@@ -1,1 +1,1 @@
-{"lat":-16,"lon":29.25,"programs":["pota"],"count":1,"references":[{"code":"ZW-0006","program":"pota","name":"Mana Pools National Park","coordinates":[29.4554,-15.9238]}]}
+{"lat":-16,"lon":29.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"ZW-0006","program":"pota","name":"Mana Pools National Park","coordinates":[29.4554,-15.9238]},{"code":"Z2FF-0006","program":"wwff","name":"Mana Pools","coordinates":[29.42,-15.93]}]}

@@ -1,1 +1,1 @@
-{"lat":70,"lon":28.5,"programs":["pota"],"count":1,"references":[{"code":"NO-2366","program":"pota","name":"Varangerbotn Nature Reserve","coordinates":[28.5858,70.1661]}]}
+{"lat":70,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"NO-2366","program":"pota","name":"Varangerbotn Nature Reserve","coordinates":[28.5858,70.1661]},{"code":"LAFF-0152","program":"wwff","name":"Varangerbotn","coordinates":[28.58766,70.16808]}]}

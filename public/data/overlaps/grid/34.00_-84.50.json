@@ -1,1 +1,1 @@
-{"lat":34,"lon":-84.5,"programs":["sota"],"count":1,"references":[{"code":"W4G/CE-002","program":"sota","name":"Sweat Mountain","coordinates":[-84.4562,34.067]}]}
+{"lat":34,"lon":-84.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"W4G/CE-002","program":"sota","name":"Sweat Mountain","coordinates":[-84.4562,34.067]},{"code":"KFF-0662","program":"wwff","name":"Chattahoochee River","coordinates":[-84.33216,34.00477]}]}

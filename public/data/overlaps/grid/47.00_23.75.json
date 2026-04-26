@@ -1,1 +1,1 @@
-{"lat":47,"lon":23.75,"programs":["pota"],"count":1,"references":[{"code":"RO-0189","program":"pota","name":"Parcul Balnear Toroc Provincial Recreation Area","coordinates":[23.8654,47.1285]}]}
+{"lat":47,"lon":23.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RO-0189","program":"pota","name":"Parcul Balnear Toroc Provincial Recreation Area","coordinates":[23.8654,47.1285]},{"code":"YOFF-0581","program":"wwff","name":"Somesul Mic","coordinates":[23.92118,47.10811]}]}

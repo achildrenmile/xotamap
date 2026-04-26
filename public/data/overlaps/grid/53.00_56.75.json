@@ -1,1 +1,1 @@
-{"lat":53,"lon":56.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-147","program":"sota","name":"Akkyr","coordinates":[56.7539,53.207]}]}
+{"lat":53,"lon":56.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"R9U/SO-147","program":"sota","name":"Akkyr","coordinates":[56.7539,53.207]},{"code":"RFF-0099","program":"wwff","name":"Shulgan-Tash","coordinates":[56.95793,53.08763]}]}

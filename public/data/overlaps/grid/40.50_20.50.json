@@ -1,1 +1,1 @@
-{"lat":40.5,"lon":20.5,"programs":["wwbota"],"count":1,"references":[{"code":"B/ZA-0036","program":"wwbota","name":"Bunkers Maliq Municipality","coordinates":[20.6987,40.7111]}]}
+{"lat":40.5,"lon":20.5,"programs":["wwbota","wwff"],"count":3,"references":[{"code":"B/ZA-0036","program":"wwbota","name":"Bunkers Maliq Municipality","coordinates":[20.6987,40.7111]},{"code":"ZAFF-0037","program":"wwff","name":"Krastafillak","coordinates":[20.69807,40.69471]},{"code":"ZAFF-0038","program":"wwff","name":"Pylli i Perzier i Maliqit","coordinates":[20.7306,40.72383]}]}

@@ -1,1 +1,1 @@
-{"lat":65.5,"lon":19,"programs":["pota"],"count":1,"references":[{"code":"SE-0183","program":"pota","name":"Vittjåkk-Akkanålke Nature Reserve","coordinates":[19.0577,65.5838]}]}
+{"lat":65.5,"lon":19,"programs":["pota","wwff"],"count":3,"references":[{"code":"SE-0183","program":"pota","name":"Vittjåkk-Akkanålke Nature Reserve","coordinates":[19.0577,65.5838]},{"code":"SMFF-2666","program":"wwff","name":"Vittjåkk-Akkanålke fjällurskog","coordinates":[19.05627,65.56541]},{"code":"SMFF-2711","program":"wwff","name":"Såkevarebergen","coordinates":[19.15845,65.69832]}]}

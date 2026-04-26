@@ -1,1 +1,1 @@
-{"lat":-22,"lon":-41.25,"programs":["pota"],"count":1,"references":[{"code":"BR-0236","program":"pota","name":"Lagoa do Açu State Park","coordinates":[-41.0141,-21.9939]}]}
+{"lat":-22,"lon":-41.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0236","program":"pota","name":"Lagoa do Açu State Park","coordinates":[-41.0141,-21.9939]},{"code":"PYFF-0453","program":"wwff","name":"Parque Estadual da LAGOA DO AÇÚ - RJ","coordinates":[-41.03307,-21.97507]}]}

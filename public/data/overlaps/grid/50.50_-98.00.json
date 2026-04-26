@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":-98,"programs":["pota"],"count":1,"references":[{"code":"CA-2453","program":"pota","name":"Lundar Wildlife Management Area","coordinates":[-97.833,50.732]}]}
+{"lat":50.5,"lon":-98,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2453","program":"pota","name":"Lundar Wildlife Management Area","coordinates":[-97.833,50.732]},{"code":"VEFF-4993","program":"wwff","name":"Lundar Wildlife Management Area","coordinates":[-97.82708,50.74184]}]}

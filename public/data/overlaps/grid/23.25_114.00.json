@@ -1,1 +1,1 @@
-{"lat":23.25,"lon":114,"programs":["pota"],"count":1,"references":[{"code":"CN-0708","program":"pota","name":"广东惠州罗浮山风景名胜区 Mountain Park","coordinates":[114.016,23.2831]}]}
+{"lat":23.25,"lon":114,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-0708","program":"pota","name":"广东惠州罗浮山风景名胜区 Mountain Park","coordinates":[114.016,23.2831]},{"code":"BYFF-0086","program":"wwff","name":"Luofushan","coordinates":[114.03506,23.2643]}]}

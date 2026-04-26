@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-109.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0583","program":"pota","name":"Bronson Forest Recreation Site","coordinates":[-109.571,53.8977]}]}
+{"lat":53.75,"lon":-109.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0583","program":"pota","name":"Bronson Forest Recreation Site","coordinates":[-109.571,53.8977]},{"code":"VEFF-0583","program":"wwff","name":"Bronson Forest Recreation Site","coordinates":[-109.57118,53.89774]}]}

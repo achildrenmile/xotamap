@@ -1,1 +1,1 @@
-{"lat":-23.75,"lon":-51,"programs":["sota"],"count":1,"references":[{"code":"PY5/NP-030","program":"sota","name":"PY5/NP-030","coordinates":[-50.9257,-23.6201]}]}
+{"lat":-23.75,"lon":-51,"programs":["sota","wwff"],"count":2,"references":[{"code":"PY5/NP-030","program":"sota","name":"PY5/NP-030","coordinates":[-50.9257,-23.6201]},{"code":"PYFF-0743","program":"wwff","name":"Parque Estadual do PENHASCO VERDE - PR","coordinates":[-50.80694,-23.69501]}]}

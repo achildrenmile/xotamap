@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":1.75,"programs":["pota"],"count":1,"references":[{"code":"FR-2571","program":"pota","name":"Saint Mesmin Nature Reserve","coordinates":[1.8314,47.87]}]}
+{"lat":47.75,"lon":1.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-2571","program":"pota","name":"Saint Mesmin Nature Reserve","coordinates":[1.8314,47.87]},{"code":"FFF-2895","program":"wwff","name":"Ile et grèves de Combleux","coordinates":[1.98,47.9]}]}

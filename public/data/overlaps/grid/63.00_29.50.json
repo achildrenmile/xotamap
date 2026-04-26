@@ -1,1 +1,1 @@
-{"lat":63,"lon":29.5,"programs":["sota"],"count":1,"references":[{"code":"OH/JS-011","program":"sota","name":"Räsävaara","coordinates":[29.7274,63.1288]}]}
+{"lat":63,"lon":29.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"OH/JS-011","program":"sota","name":"Räsävaara","coordinates":[29.7274,63.1288]},{"code":"OHFF-0853","program":"wwff","name":"Savijärven suo","coordinates":[29.67592,63.09869]}]}

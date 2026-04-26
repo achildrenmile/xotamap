@@ -1,1 +1,1 @@
-{"lat":51,"lon":-97,"programs":["pota"],"count":1,"references":[{"code":"CA-1050","program":"pota","name":"Grassy Narrows Marsh Wildlife Reserve","coordinates":[-96.8353,51.0453]}]}
+{"lat":51,"lon":-97,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1050","program":"pota","name":"Grassy Narrows Marsh Wildlife Reserve","coordinates":[-96.8353,51.0453]},{"code":"VEFF-1050","program":"wwff","name":"Grassy Narrows Marsh","coordinates":[-96.83526,51.04529]}]}

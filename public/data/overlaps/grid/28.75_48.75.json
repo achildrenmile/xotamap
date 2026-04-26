@@ -1,1 +1,1 @@
-{"lat":28.75,"lon":48.75,"programs":["pota"],"count":1,"references":[{"code":"KW-0016","program":"pota","name":"Qaruh Island Nature Reserve","coordinates":[48.7835,28.8547]}]}
+{"lat":28.75,"lon":48.75,"programs":["pota","wlota"],"count":3,"references":[{"code":"KW-0016","program":"pota","name":"Qaruh Island Nature Reserve","coordinates":[48.7835,28.8547]},{"code":"WLOTA-1433","program":"wlota","name":"Jazirat Qaruh","coordinates":[48.77500153,28.81299973]},{"code":"WLOTA-4192","program":"wlota","name":"Mudayrah Reef","coordinates":[48.77000046,28.93300056]}]}

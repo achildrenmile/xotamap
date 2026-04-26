@@ -1,1 +1,1 @@
-{"lat":-32.75,"lon":144.5,"programs":["pota"],"count":1,"references":[{"code":"AU-2380","program":"pota","name":"Kajuligah Nature Park","coordinates":[144.692,-32.6952]}]}
+{"lat":-32.75,"lon":144.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2380","program":"pota","name":"Kajuligah Nature Park","coordinates":[144.692,-32.6952]},{"code":"VKFF-2633","program":"wwff","name":"Kajuligah Nature Reserve","coordinates":[144.69209,-32.6952]}]}

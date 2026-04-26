@@ -1,1 +1,1 @@
-{"lat":-43,"lon":-64.5,"programs":["iota"],"count":1,"references":[{"code":"SA-096","program":"iota","name":"CHUBUT PROVINCE NORTH group","coordinates":[-64.39500046,-43]}]}
+{"lat":-43,"lon":-64.5,"programs":["arlhs","iota"],"count":3,"references":[{"code":"ARG 055","program":"arlhs","name":"Punta Ninfas","coordinates":[-64.31999969,-42.97000122]},{"code":"ARG 112","program":"arlhs","name":"Baliza Capitan Rodriguez","coordinates":[-64.5,-42.93000031]},{"code":"SA-096","program":"iota","name":"CHUBUT PROVINCE NORTH group","coordinates":[-64.39500046,-43]}]}

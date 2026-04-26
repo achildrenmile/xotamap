@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":138.75,"programs":["sota"],"count":1,"references":[{"code":"JA/NI-127","program":"sota","name":"Kakudayama","coordinates":[138.8369,37.7805]}]}
+{"lat":37.75,"lon":138.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"JPN 213","program":"arlhs","name":"Kakuta Misaki (Niigata)","coordinates":[138.82000732,37.77999878]},{"code":"JA/NI-127","program":"sota","name":"Kakudayama","coordinates":[138.8369,37.7805]}]}

@@ -1,1 +1,1 @@
-{"lat":24.25,"lon":-111.75,"programs":["sota"],"count":1,"references":[{"code":"XE2/BS-554","program":"sota","name":"XE2/BS-554","coordinates":[-111.729,24.38052]}]}
+{"lat":24.25,"lon":-111.75,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"MEX 128","program":"arlhs","name":"Punta Tosca (Baja California)","coordinates":[-111.72000122,24.31999969]},{"code":"XE2/BS-554","program":"sota","name":"XE2/BS-554","coordinates":[-111.729,24.38052]},{"code":"WLOTA-1634","program":"wlota","name":"Isla Santa Margarita","coordinates":[-111.71700287,24.30800056]}]}

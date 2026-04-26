@@ -1,1 +1,1 @@
-{"lat":6,"lon":80,"programs":["pota"],"count":1,"references":[{"code":"LK-0018","program":"pota","name":"Hikkaduwa Marine Conservation Area","coordinates":[80.095,6.132]}]}
+{"lat":6,"lon":80,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"SLI 018","program":"arlhs","name":"Galle Lighthouse","coordinates":[80.219373,6.024551]},{"code":"LK-0018","program":"pota","name":"Hikkaduwa Marine Conservation Area","coordinates":[80.095,6.132]},{"code":"4SFF-0004","program":"wwff","name":"Hikkaduwa National Park","coordinates":[80.09586,6.12965]}]}

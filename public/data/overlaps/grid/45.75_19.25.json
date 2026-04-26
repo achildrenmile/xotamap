@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":19.25,"programs":["pota"],"count":1,"references":[{"code":"RS-0094","program":"pota","name":"Park arboretum Aleksa Šantić Natural Monument","coordinates":[19.3478,45.8745]}]}
+{"lat":45.75,"lon":19.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RS-0094","program":"pota","name":"Park arboretum Aleksa Šantić Natural Monument","coordinates":[19.3478,45.8745]},{"code":"YUFF-0169","program":"wwff","name":"Park arboretum Aleksa Santic","coordinates":[19.3479,45.8741]}]}

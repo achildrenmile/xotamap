@@ -1,1 +1,1 @@
-{"lat":-25.5,"lon":149,"programs":["pota"],"count":1,"references":[{"code":"AU-1366","program":"pota","name":"Expedition National Park","coordinates":[149.004,-25.2603]}]}
+{"lat":-25.5,"lon":149,"programs":["pota","wwff"],"count":3,"references":[{"code":"AU-1366","program":"pota","name":"Expedition National Park","coordinates":[149.004,-25.2603]},{"code":"VKFF-0166","program":"wwff","name":"Expedition (Limited Depth) National Park","coordinates":[149.0473,-25.2586]},{"code":"VKFF-1195","program":"wwff","name":"Expedition National Park","coordinates":[149.0005,-25.3034]}]}

@@ -1,1 +1,1 @@
-{"lat":-23.5,"lon":46.75,"programs":["pota"],"count":1,"references":[{"code":"MG-0012","program":"pota","name":"Midongy du Sud National Park","coordinates":[46.9,-23.4]}]}
+{"lat":-23.5,"lon":46.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"MG-0012","program":"pota","name":"Midongy du Sud National Park","coordinates":[46.9,-23.4]},{"code":"5RFF-0014","program":"wwff","name":"Midongy du sud","coordinates":[46.91667,-23.5]}]}

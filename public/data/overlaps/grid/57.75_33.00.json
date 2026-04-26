@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":33,"programs":["pota"],"count":1,"references":[{"code":"RU-0053","program":"pota","name":"Valdaysky National Park","coordinates":[33.1741,57.9256]}]}
+{"lat":57.75,"lon":33,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0053","program":"pota","name":"Valdaysky National Park","coordinates":[33.1741,57.9256]},{"code":"RFF-0121","program":"wwff","name":"Valdaiskiy","coordinates":[33.16223,57.90171]}]}

@@ -1,1 +1,1 @@
-{"lat":-25.5,"lon":124.25,"programs":["pota"],"count":1,"references":[{"code":"AU-2962","program":"pota","name":"Mangkili Claypan Nature Park","coordinates":[124.268,-25.3903]}]}
+{"lat":-25.5,"lon":124.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2962","program":"pota","name":"Mangkili Claypan Nature Park","coordinates":[124.268,-25.3903]},{"code":"VKFF-2941","program":"wwff","name":"Mangkili Claypan Nature Reserve","coordinates":[124.268,-25.3903]}]}

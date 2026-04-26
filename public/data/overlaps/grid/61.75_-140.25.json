@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":-140.25,"programs":["pota"],"count":1,"references":[{"code":"CA-6279","program":"pota","name":"Lake Creek Campground Recreation Site","coordinates":[-140.149,61.857]}]}
+{"lat":61.75,"lon":-140.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6279","program":"pota","name":"Lake Creek Campground Recreation Site","coordinates":[-140.149,61.857]},{"code":"VEFF-4735","program":"wwff","name":"Lake Creek Campground","coordinates":[-140.1491,61.85702]}]}

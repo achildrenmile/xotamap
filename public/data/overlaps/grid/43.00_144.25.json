@@ -1,1 +1,1 @@
-{"lat":43,"lon":144.25,"programs":["pota"],"count":1,"references":[{"code":"JP-0004","program":"pota","name":"Kushiroshitsugen National Park","coordinates":[144.445,43.1383]}]}
+{"lat":43,"lon":144.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"JP-0004","program":"pota","name":"Kushiroshitsugen National Park","coordinates":[144.445,43.1383]},{"code":"JAFF-0015","program":"wwff","name":"Kushiro Shitsugen National Park","coordinates":[144.44542,43.13829]}]}

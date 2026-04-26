@@ -1,1 +1,1 @@
-{"lat":-4,"lon":-41,"programs":["sota"],"count":1,"references":[{"code":"PT7/NO-186","program":"sota","name":"PT7/NO-186","coordinates":[-40.7562,-3.8048]}]}
+{"lat":-4,"lon":-41,"programs":["sota","wwff"],"count":2,"references":[{"code":"PT7/NO-186","program":"sota","name":"PT7/NO-186","coordinates":[-40.7562,-3.8048]},{"code":"PYFF-0055","program":"wwff","name":"Parque Nacional de UBAJARA - CE","coordinates":[-40.8879,-3.7693]}]}

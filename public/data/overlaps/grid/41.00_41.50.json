@@ -1,1 +1,1 @@
-{"lat":41,"lon":41.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0031","program":"pota","name":"Hatila Vadisi National Park","coordinates":[41.65,41.12]}]}
+{"lat":41,"lon":41.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0031","program":"pota","name":"Hatila Vadisi National Park","coordinates":[41.65,41.12]},{"code":"TAFF-0012","program":"wwff","name":"Hatila Vadisi Milli Parki","coordinates":[41.73623,41.18613]}]}

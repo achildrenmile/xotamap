@@ -1,1 +1,1 @@
-{"lat":62.25,"lon":-113.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0764","program":"pota","name":"Reid Lake Territorial Park","coordinates":[-113.468,62.4892]}]}
+{"lat":62.25,"lon":-113.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0764","program":"pota","name":"Reid Lake Territorial Park","coordinates":[-113.468,62.4892]},{"code":"VEFF-0764","program":"wwff","name":"Reid Lake Territorial Park","coordinates":[-113.46756,62.48917]}]}

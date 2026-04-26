@@ -1,1 +1,1 @@
-{"lat":65.5,"lon":28.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0149","program":"pota","name":"Kylmäluoma Natura 2000","coordinates":[28.7355,65.5821]}]}
+{"lat":65.5,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0149","program":"pota","name":"Kylmäluoma Natura 2000","coordinates":[28.7355,65.5821]},{"code":"OHFF-0359","program":"wwff","name":"Kylmäluoma","coordinates":[28.73548,65.58209]}]}

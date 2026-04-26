@@ -1,1 +1,1 @@
-{"lat":-24,"lon":133.75,"programs":["pota"],"count":1,"references":[{"code":"AU-1564","program":"pota","name":"Kuyunba Conservation Reserve","coordinates":[133.779,-23.8087]}]}
+{"lat":-24,"lon":133.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1564","program":"pota","name":"Kuyunba Conservation Reserve","coordinates":[133.779,-23.8087]},{"code":"VKFF-1243","program":"wwff","name":"Kuyunba Conservation Reserve","coordinates":[133.77901,-23.8087]}]}

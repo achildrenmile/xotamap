@@ -1,1 +1,1 @@
-{"lat":41.5,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"TR-0142","program":"pota","name":"Kavaklımeşe Korusu Nature Park","coordinates":[27.1759,41.6374]}]}
+{"lat":41.5,"lon":27,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0142","program":"pota","name":"Kavaklımeşe Korusu Nature Park","coordinates":[27.1759,41.6374]},{"code":"TAFF-0080","program":"wwff","name":"Kavaklimese Korusu Tabiat Parki","coordinates":[27.17784,41.63699]}]}

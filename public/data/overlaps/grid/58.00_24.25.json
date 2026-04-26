@@ -1,1 +1,1 @@
-{"lat":58,"lon":24.25,"programs":["pota"],"count":1,"references":[{"code":"EE-0029","program":"pota","name":"Pärnumaa State Recreation Area","coordinates":[24.45,58.019]}]}
+{"lat":58,"lon":24.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"EE-0029","program":"pota","name":"Pärnumaa State Recreation Area","coordinates":[24.45,58.019]},{"code":"ESFF-0063","program":"wwff","name":"Kabli","coordinates":[24.44796,58.01757]}]}

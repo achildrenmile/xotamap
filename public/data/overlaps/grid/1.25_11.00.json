@@ -1,1 +1,1 @@
-{"lat":1.25,"lon":11,"programs":["pota"],"count":1,"references":[{"code":"GQ-0010","program":"pota","name":"Piedra Nzas National Nature Reserve","coordinates":[11.05,1.39]}]}
+{"lat":1.25,"lon":11,"programs":["pota","wwff"],"count":2,"references":[{"code":"GQ-0010","program":"pota","name":"Piedra Nzas National Nature Reserve","coordinates":[11.05,1.39]},{"code":"3CFF-0012","program":"wwff","name":"Piedra Nzas","coordinates":[11.04791,1.46964]}]}

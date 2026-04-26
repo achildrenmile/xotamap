@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":-53.5,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0710","program":"wwbota","name":"FRP GB22","coordinates":[-53.360278,46.73611603]}]}
+{"lat":46.5,"lon":-53.5,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 698","program":"arlhs","name":"Powels Head","coordinates":[-53.40000153,46.68000031]},{"code":"B/CA-0710","program":"wwbota","name":"FRP GB22","coordinates":[-53.360278,46.73611603]}]}

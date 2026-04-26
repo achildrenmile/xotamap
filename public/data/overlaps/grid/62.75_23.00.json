@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":23,"programs":["pota"],"count":1,"references":[{"code":"FI-1451","program":"pota","name":"Peränevanholma Natura 2000","coordinates":[23.2137,62.7949]}]}
+{"lat":62.75,"lon":23,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1451","program":"pota","name":"Peränevanholma Natura 2000","coordinates":[23.2137,62.7949]},{"code":"OHFF-1356","program":"wwff","name":"Peränevanholma","coordinates":[23.2135,62.79217]}]}

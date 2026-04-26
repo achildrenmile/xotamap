@@ -1,1 +1,1 @@
-{"lat":-34.25,"lon":140.25,"programs":["pota"],"count":1,"references":[{"code":"AU-0815","program":"pota","name":"Loch Luna Game Reserve","coordinates":[140.405,-34.2009]}]}
+{"lat":-34.25,"lon":140.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0815","program":"pota","name":"Loch Luna Game Reserve","coordinates":[140.405,-34.2009]},{"code":"VKFF-1723","program":"wwff","name":"Loch Luna Game Reserve","coordinates":[140.3887,-34.2065]}]}

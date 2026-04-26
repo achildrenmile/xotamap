@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":-104.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0580","program":"pota","name":"Big Sandy Lake Recreation Site","coordinates":[-104.172,54.4938]}]}
+{"lat":54.25,"lon":-104.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0580","program":"pota","name":"Big Sandy Lake Recreation Site","coordinates":[-104.172,54.4938]},{"code":"VEFF-0580","program":"wwff","name":"Big Sandy Lake Recreation Site","coordinates":[-104.17184,54.49377]}]}

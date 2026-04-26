@@ -1,1 +1,1 @@
-{"lat":36.75,"lon":8.25,"programs":["pota"],"count":1,"references":[{"code":"DZ-0001","program":"pota","name":"El Kala National Park","coordinates":[8.4447,36.8901]}]}
+{"lat":36.75,"lon":8.25,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"ALG 049","program":"arlhs","name":"El Kala/La Calle","coordinates":[8.44999981,36.90000153]},{"code":"DZ-0001","program":"pota","name":"El Kala National Park","coordinates":[8.4447,36.8901]},{"code":"7XFF-0005","program":"wwff","name":"El Kala","coordinates":[8.4,36.9]}]}

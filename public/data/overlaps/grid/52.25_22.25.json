@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":22.25,"programs":["pota"],"count":1,"references":[{"code":"PL-2073","program":"pota","name":"Śnieżyczki Nature Reserve","coordinates":[22.3742,52.4039]}]}
+{"lat":52.25,"lon":22.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-2073","program":"pota","name":"Śnieżyczki Nature Reserve","coordinates":[22.3742,52.4039]},{"code":"SPFF-2077","program":"wwff","name":"Nature Reserve Sniezyczki","coordinates":[22.37423,52.40364]}]}

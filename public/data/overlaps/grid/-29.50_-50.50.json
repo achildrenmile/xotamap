@@ -1,1 +1,1 @@
-{"lat":-29.5,"lon":-50.5,"programs":["pota"],"count":1,"references":[{"code":"BR-0805","program":"pota","name":"Sao Francisco de Paula National Forest","coordinates":[-50.3802,-29.3938]}]}
+{"lat":-29.5,"lon":-50.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0805","program":"pota","name":"Sao Francisco de Paula National Forest","coordinates":[-50.3802,-29.3938]},{"code":"PYFF-0088","program":"wwff","name":"Floresta Nacional de SÃO FRANCISCO DE PAULA - RS","coordinates":[-50.38453,-29.41829]}]}

@@ -1,1 +1,1 @@
-{"lat":41.75,"lon":-4.5,"programs":["pota"],"count":1,"references":[{"code":"ES-0191","program":"pota","name":"Leonesa Oriental National Historic Trail","coordinates":[-4.45086,41.8887]}]}
+{"lat":41.75,"lon":-4.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-0191","program":"pota","name":"Leonesa Oriental National Historic Trail","coordinates":[-4.45086,41.8887]},{"code":"EAFF-0372","program":"wwff","name":"LIC Montes del Cerrato","coordinates":[-4.33493,41.78482]}]}

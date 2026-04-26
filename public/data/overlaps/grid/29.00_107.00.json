@@ -1,1 +1,1 @@
-{"lat":29,"lon":107,"programs":["pota"],"count":1,"references":[{"code":"CN-1389","program":"pota","name":"重庆金佛山国家森林公园 National Park","coordinates":[107.166,29.0579]}]}
+{"lat":29,"lon":107,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1389","program":"pota","name":"重庆金佛山国家森林公园 National Park","coordinates":[107.166,29.0579]},{"code":"BYFF-0062","program":"wwff","name":"Jinfoshan","coordinates":[107.17448,29.01933]}]}

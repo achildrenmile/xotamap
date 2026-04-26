@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":37.75,"programs":["pota"],"count":1,"references":[{"code":"RU-0022","program":"pota","name":"Losiny Ostrov National Park","coordinates":[37.822,55.8651]}]}
+{"lat":55.75,"lon":37.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-0022","program":"pota","name":"Losiny Ostrov National Park","coordinates":[37.822,55.8651]},{"code":"RFF-0127","program":"wwff","name":"Losinyj Ostrov","coordinates":[37.82764,55.8677]},{"code":"RFF-0196","program":"wwff","name":"Izmailovo","coordinates":[37.78267,55.77744]}]}

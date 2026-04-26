@@ -1,1 +1,1 @@
-{"lat":38.25,"lon":-96,"programs":["pota"],"count":1,"references":[{"code":"US-0291","program":"pota","name":"Flint Hills National Wildlife Refuge","coordinates":[-95.9642,38.3123]}]}
+{"lat":38.25,"lon":-96,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0291","program":"pota","name":"Flint Hills National Wildlife Refuge","coordinates":[-95.9642,38.3123]},{"code":"KFF-0291","program":"wwff","name":"Flint Hills National Wildlife Refuge","coordinates":[-95.9141,38.32035]}]}

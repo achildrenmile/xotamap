@@ -1,1 +1,1 @@
-{"lat":55,"lon":26.25,"programs":["pota"],"count":1,"references":[{"code":"LT-0030","program":"pota","name":"Sirveta Regional Park","coordinates":[26.254,55.2]}]}
+{"lat":55,"lon":26.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"LT-0030","program":"pota","name":"Sirveta Regional Park","coordinates":[26.254,55.2]},{"code":"LYFF-0028","program":"wwff","name":"Sirvetos Regional Park","coordinates":[26.29994,55.20004]},{"code":"LYFF-0286","program":"wwff","name":"Milaðiaus Telmological Reserve","coordinates":[26.48941,55.23096]}]}

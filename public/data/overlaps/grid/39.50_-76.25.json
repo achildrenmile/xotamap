@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":-76.25,"programs":["pota"],"count":1,"references":[{"code":"US-1601","program":"pota","name":"Susquehanna State Park","coordinates":[-76.1607,39.6062]}]}
+{"lat":39.5,"lon":-76.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-1601","program":"pota","name":"Susquehanna State Park","coordinates":[-76.1607,39.6062]},{"code":"KFF-1601","program":"wwff","name":"Susquehanna","coordinates":[-76.16702,39.60402]},{"code":"KFF-4772","program":"wwff","name":"Stoney","coordinates":[-76.24982,39.51523]}]}

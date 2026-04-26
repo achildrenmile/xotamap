@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":-56,"programs":["pota"],"count":1,"references":[{"code":"CA-1262","program":"pota","name":"Burnt Cape Ecological Reserve","coordinates":[-55.7514,51.5615]}]}
+{"lat":51.5,"lon":-56,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"CAN 679","program":"arlhs","name":"Cape Norman","coordinates":[-55.91999817,51.63000107]},{"code":"CA-1262","program":"pota","name":"Burnt Cape Ecological Reserve","coordinates":[-55.7514,51.5615]},{"code":"VEFF-1300","program":"wwff","name":"Burnt Cape Ecological Reserve","coordinates":[-55.75141,51.56154]}]}

@@ -1,1 +1,1 @@
-{"lat":-35,"lon":141,"programs":["pota"],"count":1,"references":[{"code":"AU-8309","program":"pota","name":"Berrook State Forest","coordinates":[141.059,-34.9747]}]}
+{"lat":-35,"lon":141,"programs":["pota","wwff"],"count":3,"references":[{"code":"AU-8309","program":"pota","name":"Berrook State Forest","coordinates":[141.059,-34.9747]},{"code":"VKFF-6238","program":"wwff","name":"Berrook Reference Area","coordinates":[141.1357,-34.8555]},{"code":"VKFF-6301","program":"wwff","name":"Millewa South Reference Area","coordinates":[141.1342,-34.7584]}]}

@@ -1,1 +1,1 @@
-{"lat":48,"lon":-55,"programs":["pota"],"count":1,"references":[{"code":"CA-4543","program":"pota","name":"Bay du Nord Wilderness Reserve Protected Area","coordinates":[-54.8691,48.0797]}]}
+{"lat":48,"lon":-55,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4543","program":"pota","name":"Bay du Nord Wilderness Reserve Protected Area","coordinates":[-54.8691,48.0797]},{"code":"VEFF-2284","program":"wwff","name":"Bay du Nord Wilderness Reserve","coordinates":[-54.9934,48.06146]}]}

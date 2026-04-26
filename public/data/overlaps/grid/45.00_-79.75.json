@@ -1,1 +1,1 @@
-{"lat":45,"lon":-79.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0227","program":"pota","name":"Hardy Lake Provincial Park","coordinates":[-79.5245,45.0095]}]}
+{"lat":45,"lon":-79.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-0227","program":"pota","name":"Hardy Lake Provincial Park","coordinates":[-79.5245,45.0095]},{"code":"VEFF-0227","program":"wwff","name":"Hardy Lake Provincial Park","coordinates":[-79.52615,45.01108]},{"code":"VEFF-4929","program":"wwff","name":"H. N. Crossley Nature Reserve","coordinates":[-79.64579,45.22501]}]}

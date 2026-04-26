@@ -1,1 +1,1 @@
-{"lat":-11.25,"lon":142.5,"programs":["pota"],"count":1,"references":[{"code":"AU-2854","program":"pota","name":"Jardine River Resources Area","coordinates":[142.735,-11.073]}]}
+{"lat":-11.25,"lon":142.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2854","program":"pota","name":"Jardine River Resources Area","coordinates":[142.735,-11.073]},{"code":"VKFF-2867","program":"wwff","name":"Jardine River Resources Reserve","coordinates":[142.735,-11.073]}]}

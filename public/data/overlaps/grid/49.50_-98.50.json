@@ -1,1 +1,1 @@
-{"lat":49.5,"lon":-98.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0569","program":"pota","name":"Stephenfield Provincial Park","coordinates":[-98.2959,49.521]}]}
+{"lat":49.5,"lon":-98.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0569","program":"pota","name":"Stephenfield Provincial Park","coordinates":[-98.2959,49.521]},{"code":"VEFF-0569","program":"wwff","name":"Stephenfield Provincial Park","coordinates":[-98.29594,49.52104]}]}

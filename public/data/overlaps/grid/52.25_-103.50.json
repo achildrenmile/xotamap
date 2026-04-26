@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-103.5,"programs":["pota"],"count":1,"references":[{"code":"CA-2830","program":"pota","name":"Round Lake Recreation Site","coordinates":[-103.376,52.3625]}]}
+{"lat":52.25,"lon":-103.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-2830","program":"pota","name":"Round Lake Recreation Site","coordinates":[-103.376,52.3625]},{"code":"VEFF-4237","program":"wwff","name":"Round Lake Recreation Site","coordinates":[-103.39861,52.36285]},{"code":"VEFF-5111","program":"wwff","name":"Pickle Lake","coordinates":[-103.26908,52.3507]}]}

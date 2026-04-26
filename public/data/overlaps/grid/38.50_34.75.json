@@ -1,1 +1,1 @@
-{"lat":38.5,"lon":34.75,"programs":["pota"],"count":1,"references":[{"code":"TR-0353","program":"pota","name":"Göreme Historical National Park","coordinates":[34.8631,38.6544]}]}
+{"lat":38.5,"lon":34.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0353","program":"pota","name":"Göreme Historical National Park","coordinates":[34.8631,38.6544]},{"code":"TAFF-0005","program":"wwff","name":"Goreme Milli Parki (Ancient Goreme)","coordinates":[34.84549,38.64009]}]}

@@ -1,1 +1,1 @@
-{"lat":38.5,"lon":30.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0016","program":"pota","name":"Başkomutan Tarihi National Park","coordinates":[30.42,38.7]}]}
+{"lat":38.5,"lon":30.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0016","program":"pota","name":"Başkomutan Tarihi National Park","coordinates":[30.42,38.7]},{"code":"TAFF-0007","program":"wwff","name":"Baskomutan Historical National Park","coordinates":[30.4687,38.6553]}]}

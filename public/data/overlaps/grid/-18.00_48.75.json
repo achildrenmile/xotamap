@@ -1,1 +1,1 @@
-{"lat":-18,"lon":48.75,"programs":["pota"],"count":1,"references":[{"code":"MG-0032","program":"pota","name":"Mangerivola National Nature Reserve","coordinates":[48.8,-18]}]}
+{"lat":-18,"lon":48.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"MG-0032","program":"pota","name":"Mangerivola National Nature Reserve","coordinates":[48.8,-18]},{"code":"5RFF-0018","program":"wwff","name":"Zahamena","coordinates":[48.76,-17.77889]}]}

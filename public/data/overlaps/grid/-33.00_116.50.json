@@ -1,1 +1,1 @@
-{"lat":-33,"lon":116.5,"programs":["pota"],"count":1,"references":[{"code":"AU-3126","program":"pota","name":"Mooradung Nature Park","coordinates":[116.565,-32.899]}]}
+{"lat":-33,"lon":116.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-3126","program":"pota","name":"Mooradung Nature Park","coordinates":[116.565,-32.899]},{"code":"VKFF-3153","program":"wwff","name":"Mooradung Nature Reserve","coordinates":[116.5646,-32.89899]}]}

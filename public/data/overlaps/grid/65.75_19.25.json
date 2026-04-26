@@ -1,1 +1,1 @@
-{"lat":65.75,"lon":19.25,"programs":["pota"],"count":1,"references":[{"code":"SE-0185","program":"pota","name":"Harrejaureliden National Reserve","coordinates":[19.2726,65.846]}]}
+{"lat":65.75,"lon":19.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"SE-0185","program":"pota","name":"Harrejaureliden National Reserve","coordinates":[19.2726,65.846]},{"code":"SMFF-2742","program":"wwff","name":"Harrejaureliden","coordinates":[19.27229,65.84613]},{"code":"SMFF-9556","program":"wwff","name":"Serpraliden","coordinates":[19.29283,65.87039]}]}

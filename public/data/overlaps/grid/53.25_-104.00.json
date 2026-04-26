@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-104,"programs":["pota"],"count":1,"references":[{"code":"CA-2742","program":"pota","name":"Maurice Street Protected Area","coordinates":[-103.922,53.4533]}]}
+{"lat":53.25,"lon":-104,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2742","program":"pota","name":"Maurice Street Protected Area","coordinates":[-103.922,53.4533]},{"code":"VEFF-2636","program":"wwff","name":"Maurice Street Wildlife Sanctuary","coordinates":[-103.9309,53.46111]}]}

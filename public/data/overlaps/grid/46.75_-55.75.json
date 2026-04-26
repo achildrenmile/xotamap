@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":-55.75,"programs":["pota"],"count":1,"references":[{"code":"CA-4554","program":"pota","name":"Lawn Bay Ecological Reserve","coordinates":[-55.6056,46.8947]}]}
+{"lat":46.75,"lon":-55.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-4554","program":"pota","name":"Lawn Bay Ecological Reserve","coordinates":[-55.6056,46.8947]},{"code":"VEFF-1315","program":"wwff","name":"Sandy Cove Ecological Reserve","coordinates":[-55.61697,46.89934]},{"code":"VEFF-2794","program":"wwff","name":"Lawn Bay","coordinates":[-55.59976,46.88357]}]}

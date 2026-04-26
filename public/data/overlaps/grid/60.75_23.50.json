@@ -1,1 +1,1 @@
-{"lat":60.75,"lon":23.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0646","program":"pota","name":"Koijärvi Natura 2000","coordinates":[23.7354,60.9748]}]}
+{"lat":60.75,"lon":23.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0646","program":"pota","name":"Koijärvi Natura 2000","coordinates":[23.7354,60.9748]},{"code":"OHFF-1389","program":"wwff","name":"Loimalammin-Salmistonmäen Luonnonsuojelualue","coordinates":[23.66676,60.80371]},{"code":"OHFF-1392","program":"wwff","name":"Heinijoen Luonnonsuojelualue","coordinates":[23.72594,60.87563]}]}

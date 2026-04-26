@@ -1,1 +1,1 @@
-{"lat":2.5,"lon":-73.75,"programs":["pota"],"count":1,"references":[{"code":"CO-0171","program":"pota","name":"Sierra de La Macarena National Nature Reserve","coordinates":[-73.6032,2.65502]}]}
+{"lat":2.5,"lon":-73.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CO-0171","program":"pota","name":"Sierra de La Macarena National Nature Reserve","coordinates":[-73.6032,2.65502]},{"code":"HKFF-0037","program":"wwff","name":"Macarena","coordinates":[-73.56171,2.57817]}]}

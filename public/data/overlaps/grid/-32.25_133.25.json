@@ -1,1 +1,1 @@
-{"lat":-32.25,"lon":133.25,"programs":["pota"],"count":1,"references":[{"code":"AU-9701","program":"pota","name":"Davenport State Beach","coordinates":[133.45,-32.1795]}]}
+{"lat":-32.25,"lon":133.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-9701","program":"pota","name":"Davenport State Beach","coordinates":[133.45,-32.1795]},{"code":"VKFF-1735","program":"wwff","name":"Nuyts Archipelago Marine Park","coordinates":[133.353,-32.195]}]}

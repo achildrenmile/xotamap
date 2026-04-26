@@ -1,1 +1,1 @@
-{"lat":-37.75,"lon":178.5,"programs":["sota"],"count":1,"references":[{"code":"ZL1/GI-149","program":"sota","name":"ZL1/GI-149","coordinates":[178.5158,-37.709]}]}
+{"lat":-37.75,"lon":178.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"NZL 020","program":"arlhs","name":"East Cape (North Island)","coordinates":[178.55000305,-37.68000031]},{"code":"ZL1/GI-149","program":"sota","name":"ZL1/GI-149","coordinates":[178.5158,-37.709]}]}

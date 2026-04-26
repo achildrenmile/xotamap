@@ -1,1 +1,1 @@
-{"lat":36.5,"lon":25,"programs":["sota"],"count":1,"references":[{"code":"SV/AG-062","program":"sota","name":"Troullos","coordinates":[25.107222,36.680557]}]}
+{"lat":36.5,"lon":25,"programs":["sota","wlota","wwff"],"count":3,"references":[{"code":"SV/AG-062","program":"sota","name":"Troullos","coordinates":[25.107222,36.680557]},{"code":"WLOTA-4174","program":"wlota","name":"Nisos Sikinos","coordinates":[25.14800072,36.67499924]},{"code":"SVFF-0281","program":"wwff","name":"Folegandros Anatoliki Mechri Dytiki Sikino Kai Thalassia Zoni","coordinates":[25.01531,36.62825]}]}

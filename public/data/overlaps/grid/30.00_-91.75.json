@@ -1,1 +1,1 @@
-{"lat":30,"lon":-91.75,"programs":["pota"],"count":1,"references":[{"code":"US-2370","program":"pota","name":"Lake Fausse Pointe State Park","coordinates":[-91.6096,30.0613]}]}
+{"lat":30,"lon":-91.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2370","program":"pota","name":"Lake Fausse Pointe State Park","coordinates":[-91.6096,30.0613]},{"code":"KFF-2370","program":"wwff","name":"Lake Fausse Pointe","coordinates":[-91.60847,30.06145]}]}

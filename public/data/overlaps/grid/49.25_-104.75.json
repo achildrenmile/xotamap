@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":-104.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1102","program":"pota","name":"Ceylon Regional Park","coordinates":[-104.579,49.4625]}]}
+{"lat":49.25,"lon":-104.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1102","program":"pota","name":"Ceylon Regional Park","coordinates":[-104.579,49.4625]},{"code":"VEFF-1102","program":"wwff","name":"Ceylon Regional Park","coordinates":[-104.57895,49.46252]}]}

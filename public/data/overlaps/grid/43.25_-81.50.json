@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":-81.5,"programs":["pota"],"count":1,"references":[{"code":"CA-6012","program":"pota","name":"Morrison Dam Conservation Area","coordinates":[-81.4577,43.3602]}]}
+{"lat":43.25,"lon":-81.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6012","program":"pota","name":"Morrison Dam Conservation Area","coordinates":[-81.4577,43.3602]},{"code":"VEFF-3609","program":"wwff","name":"Morrison Dam","coordinates":[-81.45799,43.36007]}]}

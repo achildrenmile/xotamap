@@ -1,1 +1,1 @@
-{"lat":62,"lon":38,"programs":["pota"],"count":1,"references":[{"code":"RU-0012","program":"pota","name":"Kenozersky National Park","coordinates":[38.1957,62.0774]}]}
+{"lat":62,"lon":38,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0012","program":"pota","name":"Kenozersky National Park","coordinates":[38.1957,62.0774]},{"code":"RFF-0125","program":"wwff","name":"Kenozerskiy","coordinates":[38.12256,62.00606]}]}

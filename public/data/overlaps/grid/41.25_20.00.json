@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":20,"programs":["wwbota"],"count":1,"references":[{"code":"B/ZA-0003","program":"wwbota","name":"Bunkers Bulqize Municipality","coordinates":[20.2166,41.4833]}]}
+{"lat":41.25,"lon":20,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/ZA-0003","program":"wwbota","name":"Bunkers Bulqize Municipality","coordinates":[20.2166,41.4833]},{"code":"ZAFF-0021","program":"wwff","name":"Mali Me Gropa-Bize-Martanesh","coordinates":[20.11647,41.36066]}]}

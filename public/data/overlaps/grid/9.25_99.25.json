@@ -1,1 +1,1 @@
-{"lat":9.25,"lon":99.25,"programs":["pota"],"count":1,"references":[{"code":"TH-0309","program":"pota","name":"Laem Pho Recreation Park","coordinates":[99.2702,9.37544]}]}
+{"lat":9.25,"lon":99.25,"programs":["arlhs","pota"],"count":3,"references":[{"code":"THA 034","program":"arlhs","name":"Ko Prap (Bandon River)","coordinates":[99.43000031,9.27000046]},{"code":"THA 050","program":"arlhs","name":"Laem Sui","coordinates":[99.31999969,9.39999962]},{"code":"TH-0309","program":"pota","name":"Laem Pho Recreation Park","coordinates":[99.2702,9.37544]}]}

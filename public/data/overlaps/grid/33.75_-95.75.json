@@ -1,1 +1,1 @@
-{"lat":33.75,"lon":-95.75,"programs":["pota"],"count":1,"references":[{"code":"US-6591","program":"pota","name":"Pat Mayse Wildlife Management Area","coordinates":[-95.6763,33.82]}]}
+{"lat":33.75,"lon":-95.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-6591","program":"pota","name":"Pat Mayse Wildlife Management Area","coordinates":[-95.6763,33.82]},{"code":"KFF-4889","program":"wwff","name":"Pat Mayse","coordinates":[-95.67958,33.80982]}]}

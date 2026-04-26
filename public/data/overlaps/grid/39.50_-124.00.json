@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":-124,"programs":["pota"],"count":1,"references":[{"code":"US-3591","program":"pota","name":"Westport-Union Landing State Beach","coordinates":[-123.791,39.677]}]}
+{"lat":39.5,"lon":-124,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-3591","program":"pota","name":"Westport-Union Landing State Beach","coordinates":[-123.791,39.677]},{"code":"KFF-1168","program":"wwff","name":"MacKerricher","coordinates":[-123.77691,39.51553]},{"code":"KFF-3591","program":"wwff","name":"Westport-Union Landing","coordinates":[-123.791,39.677]}]}

@@ -1,1 +1,1 @@
-{"lat":66.25,"lon":22.5,"programs":["pota"],"count":1,"references":[{"code":"SE-0189","program":"pota","name":"Vaimisberget Nature Reserve","coordinates":[22.7251,66.3122]}]}
+{"lat":66.25,"lon":22.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"SE-0189","program":"pota","name":"Vaimisberget Nature Reserve","coordinates":[22.7251,66.3122]},{"code":"SMFF-2814","program":"wwff","name":"Granberget (Överkalix)","coordinates":[22.50846,66.26791]},{"code":"SMFF-2823","program":"wwff","name":"Vaimisberget","coordinates":[22.73919,66.30916]}]}

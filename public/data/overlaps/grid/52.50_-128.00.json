@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":-128,"programs":["pota"],"count":1,"references":[{"code":"CA-3470","program":"pota","name":"Ellerslie-Roscoe Conservancy Protected Area","coordinates":[-127.891,52.5102]}]}
+{"lat":52.5,"lon":-128,"programs":["arlhs","pota"],"count":2,"references":[{"code":"CAN 400","program":"arlhs","name":"Pointer Island","coordinates":[-127.97000122,52.70000076]},{"code":"CA-3470","program":"pota","name":"Ellerslie-Roscoe Conservancy Protected Area","coordinates":[-127.891,52.5102]}]}

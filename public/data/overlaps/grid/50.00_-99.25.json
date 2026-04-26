@@ -1,1 +1,1 @@
-{"lat":50,"lon":-99.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2543","program":"pota","name":"Whitemud Watershed Wildlife Management Area","coordinates":[-99.173,50.033]}]}
+{"lat":50,"lon":-99.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2543","program":"pota","name":"Whitemud Watershed Wildlife Management Area","coordinates":[-99.173,50.033]},{"code":"VEFF-4446","program":"wwff","name":"Whitemud Watershed Wildlife Management Area","coordinates":[-99.21563,50.04427]}]}

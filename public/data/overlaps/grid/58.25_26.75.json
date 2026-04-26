@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":26.75,"programs":["pota"],"count":1,"references":[{"code":"EE-0067","program":"pota","name":"Ropka-Ihaste Natura 2000","coordinates":[26.754,58.337]}]}
+{"lat":58.25,"lon":26.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"EE-0067","program":"pota","name":"Ropka-Ihaste Natura 2000","coordinates":[26.754,58.337]},{"code":"ESFF-0299","program":"wwff","name":"Ropka-Ihaste","coordinates":[26.75482,58.33658]},{"code":"ESFF-0357","program":"wwff","name":"Anne looduskaitseala","coordinates":[26.77734,58.36344]}]}

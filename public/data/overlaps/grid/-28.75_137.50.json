@@ -1,1 +1,1 @@
-{"lat":-28.75,"lon":137.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0845","program":"pota","name":"Kati Thanda-Lake Eyre National Park","coordinates":[137.504,-28.5256]}]}
+{"lat":-28.75,"lon":137.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0845","program":"pota","name":"Kati Thanda-Lake Eyre National Park","coordinates":[137.504,-28.5256]},{"code":"VKFF-0276","program":"wwff","name":"Kati Thanda-Lake Eyre National Park","coordinates":[137.5239,-28.6689]}]}

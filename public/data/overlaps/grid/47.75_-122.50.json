@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":-122.5,"programs":["pota"],"count":1,"references":[{"code":"US-12282","program":"pota","name":"Possession Point State Park","coordinates":[-122.377,47.9072]}]}
+{"lat":47.75,"lon":-122.5,"programs":["arlhs","illw","pota"],"count":3,"references":[{"code":"USA 517","program":"arlhs","name":"Mukilteo","coordinates":[-122.30999756,47.95000076]},{"code":"US0107","program":"illw","name":"Mukilteo, WA","coordinates":[-122.30619812,47.94869995]},{"code":"US-12282","program":"pota","name":"Possession Point State Park","coordinates":[-122.377,47.9072]}]}

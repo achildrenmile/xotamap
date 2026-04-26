@@ -1,1 +1,1 @@
-{"lat":42.5,"lon":-5.25,"programs":["pota"],"count":1,"references":[{"code":"ES-0492","program":"pota","name":"Rebollares del Cea Natura 2000","coordinates":[-5.0994,42.6333]}]}
+{"lat":42.5,"lon":-5.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"ES-0492","program":"pota","name":"Rebollares del Cea Natura 2000","coordinates":[-5.0994,42.6333]},{"code":"EAFF-1134","program":"wwff","name":"LIC Rebollares Del Cea","coordinates":[-5.11541,42.66218]}]}

@@ -1,1 +1,1 @@
-{"lat":-13.5,"lon":-69.5,"programs":["pota"],"count":1,"references":[{"code":"PE-0039","program":"pota","name":"Bahuaja Sonene National Park","coordinates":[-69.4149,-13.4518]}]}
+{"lat":-13.5,"lon":-69.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"PE-0039","program":"pota","name":"Bahuaja Sonene National Park","coordinates":[-69.4149,-13.4518]},{"code":"OAFF-0001","program":"wwff","name":"Bahuaja-Sonene National Park","coordinates":[-69.36829,-13.43937]}]}

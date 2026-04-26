@@ -1,1 +1,1 @@
-{"lat":51,"lon":-102.25,"programs":["pota"],"count":1,"references":[{"code":"CA-1147","program":"pota","name":"Saltcoats Regional Park","coordinates":[-102.153,51.0322]}]}
+{"lat":51,"lon":-102.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-1147","program":"pota","name":"Saltcoats Regional Park","coordinates":[-102.153,51.0322]},{"code":"VEFF-1147","program":"wwff","name":"Saltcoats & District Regional Park","coordinates":[-102.15316,51.03224]},{"code":"VEFF-5128","program":"wwff","name":"Saltcoats Game Preserve","coordinates":[-102.15795,51.04327]}]}

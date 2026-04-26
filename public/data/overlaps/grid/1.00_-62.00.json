@@ -1,1 +1,1 @@
-{"lat":1,"lon":-62,"programs":["pota"],"count":1,"references":[{"code":"BR-0068","program":"pota","name":"Serra da Mocidade National Conservation Area","coordinates":[-61.8875,1.14916]}]}
+{"lat":1,"lon":-62,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0068","program":"pota","name":"Serra da Mocidade National Conservation Area","coordinates":[-61.8875,1.14916]},{"code":"PYFF-0042","program":"wwff","name":"Parque Nacional SERRA DA MOCIDADE - RR","coordinates":[-61.8607,1.1733]}]}

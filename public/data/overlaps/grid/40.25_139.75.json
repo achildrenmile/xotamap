@@ -1,1 +1,1 @@
-{"lat":40.25,"lon":139.75,"programs":["sota"],"count":1,"references":[{"code":"JA/AM-034","program":"sota","name":"JA/AM-034","coordinates":[139.9902,40.4505]}]}
+{"lat":40.25,"lon":139.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"JPN 1034","program":"arlhs","name":"Iwadate Ko No. 1 Breakwater (Akita)","coordinates":[139.97999573,40.40000153]},{"code":"JA/AM-034","program":"sota","name":"JA/AM-034","coordinates":[139.9902,40.4505]}]}

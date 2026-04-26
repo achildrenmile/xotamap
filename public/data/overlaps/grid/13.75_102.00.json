@@ -1,1 +1,1 @@
-{"lat":13.75,"lon":102,"programs":["pota"],"count":1,"references":[{"code":"TH-0101","program":"pota","name":"Pang Sida National Park","coordinates":[102.205,13.9831]}]}
+{"lat":13.75,"lon":102,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0101","program":"pota","name":"Pang Sida National Park","coordinates":[102.205,13.9831]},{"code":"HSFF-0069","program":"wwff","name":"Pang Sida National Park","coordinates":[102.20376,13.9841]}]}

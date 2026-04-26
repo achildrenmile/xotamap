@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":-121.25,"programs":["pota"],"count":1,"references":[{"code":"CA-4046","program":"pota","name":"Ruth Lake Provincial Park","coordinates":[-121.029,51.8281]}]}
+{"lat":51.75,"lon":-121.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4046","program":"pota","name":"Ruth Lake Provincial Park","coordinates":[-121.029,51.8281]},{"code":"VEFF-2170","program":"wwff","name":"Ruth Lake Provincial Park","coordinates":[-121.03229,51.82691]}]}

@@ -1,1 +1,1 @@
-{"lat":-11.75,"lon":-77.25,"programs":["pota"],"count":1,"references":[{"code":"PE-0027","program":"pota","name":"Antonio Raimondi Ecological Site","coordinates":[-77.114,-11.7444]}]}
+{"lat":-11.75,"lon":-77.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"PE-0027","program":"pota","name":"Antonio Raimondi Ecological Site","coordinates":[-77.114,-11.7444]},{"code":"OAFF-0029","program":"wwff","name":"Lomas de Ancon Restricted Zone","coordinates":[-77.09866,-11.67038]}]}

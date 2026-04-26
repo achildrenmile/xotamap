@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":141.25,"programs":["sota"],"count":1,"references":[{"code":"JA8/RM-005","program":"sota","name":"Tengudake","coordinates":[141.4159,43.7764]}]}
+{"lat":43.75,"lon":141.25,"programs":["arlhs","sota"],"count":2,"references":[{"code":"JPN 849","program":"arlhs","name":"Betukari Ko (Hokkaido)","coordinates":[141.47999573,43.83000183]},{"code":"JA8/RM-005","program":"sota","name":"Tengudake","coordinates":[141.4159,43.7764]}]}

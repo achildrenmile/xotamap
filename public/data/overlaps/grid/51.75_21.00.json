@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":21,"programs":["pota"],"count":1,"references":[{"code":"PL-2650","program":"pota","name":"Dolina Pilicy Natura 2000","coordinates":[21.1522,51.7506]}]}
+{"lat":51.75,"lon":21,"programs":["pota","tota","wca"],"count":3,"references":[{"code":"PL-2650","program":"pota","name":"Dolina Pilicy Natura 2000","coordinates":[21.1522,51.7506]},{"code":"SPR-0708","program":"tota","name":"Zamek Czersk","coordinates":[21.234026,51.958059]},{"code":"SP-00974","program":"wca","name":"Czersk","coordinates":[21.233974,51.958042]}]}

@@ -1,1 +1,1 @@
-{"lat":40,"lon":-110.5,"programs":["pota"],"count":1,"references":[{"code":"US-3092","program":"pota","name":"Fred Hayes at Starvation State Park","coordinates":[-110.46,40.187]}]}
+{"lat":40,"lon":-110.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3092","program":"pota","name":"Fred Hayes at Starvation State Park","coordinates":[-110.46,40.187]},{"code":"KFF-3092","program":"wwff","name":"Fred Hayes at Starvation","coordinates":[-110.4597,40.18699]}]}

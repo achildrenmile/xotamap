@@ -1,1 +1,1 @@
-{"lat":-20.25,"lon":138,"programs":["pota"],"count":1,"references":[{"code":"AU-1461","program":"pota","name":"Wiliyan-ngurru National Park","coordinates":[138.191,-20.0181]}]}
+{"lat":-20.25,"lon":138,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1461","program":"pota","name":"Wiliyan-ngurru National Park","coordinates":[138.191,-20.0181]},{"code":"VKFF-0073","program":"wwff","name":"Wiliyan-ngurru National Park","coordinates":[138.19067,-20.03028]}]}

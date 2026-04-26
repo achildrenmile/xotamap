@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":-115.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0640","program":"pota","name":"Carson-Pegasus Provincial Park","coordinates":[-115.644,54.2983]}]}
+{"lat":54.25,"lon":-115.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0640","program":"pota","name":"Carson-Pegasus Provincial Park","coordinates":[-115.644,54.2983]},{"code":"VEFF-0640","program":"wwff","name":"Carson-Pegasus Provincial Park","coordinates":[-115.64415,54.2983]}]}

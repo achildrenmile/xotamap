@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-115,"programs":["pota"],"count":1,"references":[{"code":"CA-3112","program":"pota","name":"Prefontaine Brock Lakes Natural Area","coordinates":[-114.843,53.805]}]}
+{"lat":53.75,"lon":-115,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3112","program":"pota","name":"Prefontaine Brock Lakes Natural Area","coordinates":[-114.843,53.805]},{"code":"VEFF-4283","program":"wwff","name":"Prefontaine Brock Lakes Natural Area","coordinates":[-114.8434,53.80451]}]}

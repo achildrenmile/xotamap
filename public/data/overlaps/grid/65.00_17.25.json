@@ -1,1 +1,1 @@
-{"lat":65,"lon":17.25,"programs":["sota"],"count":1,"references":[{"code":"SM/VB-226","program":"sota","name":"Stor-Bokjon (Stuora Båktjanje)","coordinates":[17.457436,65.16062]}]}
+{"lat":65,"lon":17.25,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/VB-226","program":"sota","name":"Stor-Bokjon (Stuora Båktjanje)","coordinates":[17.457436,65.16062]},{"code":"SMFF-2584","program":"wwff","name":"Holmträskberget","coordinates":[17.35444,65.01861]},{"code":"SMFF-7332","program":"wwff","name":"Långselberget","coordinates":[17.29874,65.05931]}]}

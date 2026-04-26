@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":26,"programs":["pota"],"count":1,"references":[{"code":"LT-0001","program":"pota","name":"Aukštaitija National Park","coordinates":[26.059,55.344]}]}
+{"lat":55.25,"lon":26,"programs":["pota","wwff"],"count":2,"references":[{"code":"LT-0001","program":"pota","name":"Aukštaitija National Park","coordinates":[26.059,55.344]},{"code":"LYFF-0001","program":"wwff","name":"Aukstaitija National Park","coordinates":[26.05706,55.34394]}]}

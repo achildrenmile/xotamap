@@ -1,1 +1,1 @@
-{"lat":-5.25,"lon":-37.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0025","program":"pota","name":"Furna Feia National Conservation Area","coordinates":[-37.5108,-5.05833]}]}
+{"lat":-5.25,"lon":-37.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0025","program":"pota","name":"Furna Feia National Conservation Area","coordinates":[-37.5108,-5.05833]},{"code":"PYFF-0381","program":"wwff","name":"Parque Nacional da FURNA FEIA - RN","coordinates":[-37.5125,-5.05464]}]}

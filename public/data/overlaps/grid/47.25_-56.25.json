@@ -1,1 +1,1 @@
-{"lat":47.25,"lon":-56.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0699","program":"wwbota","name":"FRP DC41","coordinates":[-56.1964928,47.48456293]}]}
+{"lat":47.25,"lon":-56.25,"programs":["wlota","wwbota"],"count":2,"references":[{"code":"WLOTA-4650","program":"wlota","name":"Pass Island","coordinates":[-56.1969986,47.49300003]},{"code":"B/CA-0699","program":"wwbota","name":"FRP DC41","coordinates":[-56.1964928,47.48456293]}]}

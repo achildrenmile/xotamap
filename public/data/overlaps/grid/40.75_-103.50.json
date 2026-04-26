@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":-103.5,"programs":["pota"],"count":1,"references":[{"code":"US-1232","program":"pota","name":"North Sterling State Park","coordinates":[-103.265,40.7895]}]}
+{"lat":40.75,"lon":-103.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1232","program":"pota","name":"North Sterling State Park","coordinates":[-103.265,40.7895]},{"code":"KFF-1232","program":"wwff","name":"North Sterling","coordinates":[-103.26505,40.78949]}]}

@@ -1,1 +1,1 @@
-{"lat":36,"lon":23,"programs":["sota"],"count":1,"references":[{"code":"SV/AT-023","program":"sota","name":"Ag.Georgios","coordinates":[23.085556,36.240555]}]}
+{"lat":36,"lon":23,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"GRE 077","program":"arlhs","name":"Kapsali (Kithira Island)","coordinates":[23,36.15000153]},{"code":"SV/AT-023","program":"sota","name":"Ag.Georgios","coordinates":[23.085556,36.240555]},{"code":"WLOTA-1368","program":"wlota","name":"Nisis Antidragonera","coordinates":[23.11800003,36.23699951]}]}

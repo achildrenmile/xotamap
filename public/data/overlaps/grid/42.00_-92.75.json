@@ -1,1 +1,1 @@
-{"lat":42,"lon":-92.75,"programs":["pota"],"count":1,"references":[{"code":"US-2324","program":"pota","name":"Union Grove State Park","coordinates":[-92.7247,42.1243]}]}
+{"lat":42,"lon":-92.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2324","program":"pota","name":"Union Grove State Park","coordinates":[-92.7247,42.1243]},{"code":"KFF-2324","program":"wwff","name":"Union Grove","coordinates":[-92.71838,42.12443]}]}

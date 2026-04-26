@@ -1,1 +1,1 @@
-{"lat":61,"lon":127.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0021","program":"pota","name":"Lena Pillars National Park","coordinates":[127.364,61.1067]}]}
+{"lat":61,"lon":127.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0021","program":"pota","name":"Lena Pillars National Park","coordinates":[127.364,61.1067]},{"code":"RFF-0113","program":"wwff","name":"Lenskiye Stolby","coordinates":[127.44689,61.11539]}]}

@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":30.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0340","program":"pota","name":"Kanlıpınar Nature Park","coordinates":[30.667,39.7222]}]}
+{"lat":39.5,"lon":30.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"TR-0340","program":"pota","name":"Kanlıpınar Nature Park","coordinates":[30.667,39.7222]},{"code":"TAFF-0155","program":"wwff","name":"Sehr-i Derya Parki","coordinates":[30.66743,39.72183]},{"code":"TAFF-0192","program":"wwff","name":"Odunpazari Kent Ormani","coordinates":[30.51677,39.73022]}]}

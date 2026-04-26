@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":-6,"programs":["wwbota"],"count":1,"references":[{"code":"B/EI-0009","program":"wwbota","name":"Wicklow Head Lookout Post (LOP 9)","coordinates":[-5.99824,52.96521]}]}
+{"lat":52.75,"lon":-6,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"IRE 079","program":"arlhs","name":"Wicklow Head Low (Co. Wicklow)","coordinates":[-6,52.97000122]},{"code":"B/EI-0009","program":"wwbota","name":"Wicklow Head Lookout Post (LOP 9)","coordinates":[-5.99824,52.96521]}]}

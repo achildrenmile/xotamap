@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":-137.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4607","program":"pota","name":"Fort Selkirk Historic Site Habitat Protection Area","coordinates":[-137.386,62.774]}]}
+{"lat":62.75,"lon":-137.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4607","program":"pota","name":"Fort Selkirk Historic Site Habitat Protection Area","coordinates":[-137.386,62.774]},{"code":"VEFF-1419","program":"wwff","name":"Fort Selkirk","coordinates":[-137.38602,62.77419]}]}

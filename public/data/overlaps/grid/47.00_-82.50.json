@@ -1,1 +1,1 @@
-{"lat":47,"lon":-82.5,"programs":["sota"],"count":1,"references":[{"code":"VE3/NE-132","program":"sota","name":"VE3/NE-132","coordinates":[-82.4976,47.1863]}]}
+{"lat":47,"lon":-82.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE3/NE-132","program":"sota","name":"VE3/NE-132","coordinates":[-82.4976,47.1863]},{"code":"VEFF-0306","program":"wwff","name":"Mississagi River Provincial Park","coordinates":[-82.49566,47.18386]}]}

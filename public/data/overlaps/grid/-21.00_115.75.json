@@ -1,1 +1,1 @@
-{"lat":-21,"lon":115.75,"programs":["pota"],"count":1,"references":[{"code":"AU-7551","program":"pota","name":"Great Sandy Island Nature Reserve","coordinates":[115.895,-20.9459]}]}
+{"lat":-21,"lon":115.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-7551","program":"pota","name":"Great Sandy Island Nature Reserve","coordinates":[115.895,-20.9459]},{"code":"VKFF-4083","program":"wwff","name":"Great Sandy Island Nature Reserve","coordinates":[115.8883,-20.9334]}]}

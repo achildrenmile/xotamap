@@ -1,1 +1,1 @@
-{"lat":69.5,"lon":29.5,"programs":["pota"],"count":1,"references":[{"code":"NO-1405","program":"pota","name":"Neiden- og Munkefjord Nature Reserve","coordinates":[29.5374,69.678]}]}
+{"lat":69.5,"lon":29.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"NO-1405","program":"pota","name":"Neiden- og Munkefjord Nature Reserve","coordinates":[29.5374,69.678]},{"code":"LAFF-0176","program":"wwff","name":"Neiden- og Munkefjord","coordinates":[29.54354,69.68194]}]}

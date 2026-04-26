@@ -1,1 +1,1 @@
-{"lat":-19.75,"lon":148.25,"programs":["pota"],"count":1,"references":[{"code":"AU-1306","program":"pota","name":"Holbourne Island National Park","coordinates":[148.357,-19.7261]}]}
+{"lat":-19.75,"lon":148.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1306","program":"pota","name":"Holbourne Island National Park","coordinates":[148.357,-19.7261]},{"code":"VKFF-0236","program":"wwff","name":"Holbourne Island National Park","coordinates":[148.3593,-19.7273]}]}

@@ -1,1 +1,1 @@
-{"lat":-22.75,"lon":-56.25,"programs":["pota"],"count":1,"references":[{"code":"PY-0003","program":"pota","name":"Cerro Corá National Park","coordinates":[-56.0168,-22.6425]}]}
+{"lat":-22.75,"lon":-56.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"PY-0003","program":"pota","name":"Cerro Corá National Park","coordinates":[-56.0168,-22.6425]},{"code":"ZPFF-0002","program":"wwff","name":"CerroCor","coordinates":[-56.03,-22.58]}]}

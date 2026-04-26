@@ -1,1 +1,1 @@
-{"lat":34,"lon":-87.5,"programs":["pota"],"count":1,"references":[{"code":"US-4452","program":"pota","name":"William B. Bankhead National Forest","coordinates":[-87.3722,34.1974]}]}
+{"lat":34,"lon":-87.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4452","program":"pota","name":"William B. Bankhead National Forest","coordinates":[-87.3722,34.1974]},{"code":"KFF-4501","program":"wwff","name":"William B. Bankhead","coordinates":[-87.33444,34.23722]}]}

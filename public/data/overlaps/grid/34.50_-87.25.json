@@ -1,1 +1,1 @@
-{"lat":34.5,"lon":-87.25,"programs":["pota"],"count":1,"references":[{"code":"US-3698","program":"pota","name":"Mallard-Fox Creek Wildlife Management Area","coordinates":[-87.1385,34.683]}]}
+{"lat":34.5,"lon":-87.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3698","program":"pota","name":"Mallard-Fox Creek Wildlife Management Area","coordinates":[-87.1385,34.683]},{"code":"KFF-3698","program":"wwff","name":"Mallard-Fox Creek","coordinates":[-87.13849,34.68298]}]}

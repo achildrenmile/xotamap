@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":-78.5,"programs":["pota"],"count":1,"references":[{"code":"US-2043","program":"pota","name":"Darien Lakes State Park","coordinates":[-78.4319,42.9032]}]}
+{"lat":42.75,"lon":-78.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2043","program":"pota","name":"Darien Lakes State Park","coordinates":[-78.4319,42.9032]},{"code":"KFF-2043","program":"wwff","name":"Darien Lakes","coordinates":[-78.43195,42.90321]}]}

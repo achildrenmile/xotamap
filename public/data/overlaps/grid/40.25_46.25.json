@@ -1,1 +1,1 @@
-{"lat":40.25,"lon":46.25,"programs":["pota"],"count":1,"references":[{"code":"AZ-0013","program":"pota","name":"Goygol National Park","coordinates":[46.311,40.362]}]}
+{"lat":40.25,"lon":46.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AZ-0013","program":"pota","name":"Goygol National Park","coordinates":[46.311,40.362]},{"code":"4JFF-0005","program":"wwff","name":"Goygol National Park","coordinates":[46.33,40.4]}]}

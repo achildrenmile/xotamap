@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":-117,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0354","program":"wwbota","name":"FRP DE1","coordinates":[-116.9154503,49.91424993]}]}
+{"lat":49.75,"lon":-117,"programs":["wwbota","wwff"],"count":3,"references":[{"code":"B/CA-0354","program":"wwbota","name":"FRP DE1","coordinates":[-116.9154503,49.91424993]},{"code":"VEFF-3160","program":"wwff","name":"Kaslo Municipal Hall N.H.S.","coordinates":[-116.90487,49.91069]},{"code":"VEFF-3187","program":"wwff","name":"S.S. Moyie N.H.S.","coordinates":[-116.90243,49.91163]}]}

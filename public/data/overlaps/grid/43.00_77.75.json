@@ -1,1 +1,1 @@
-{"lat":43,"lon":77.75,"programs":["gma"],"count":1,"references":[{"code":"UNM-038","program":"gma","name":"Assy-Turgen Observatory (ÐÑÑÑƒ-Ð¢ÑƒÑ€Ð³ÐµÐ½ÑŒÑ","coordinates":[77.87166667,43.22527778]}]}
+{"lat":43,"lon":77.75,"programs":["gma","wwff"],"count":2,"references":[{"code":"UNM-038","program":"gma","name":"Assy-Turgen Observatory (ÐÑÑÑƒ-Ð¢ÑƒÑ€Ð³ÐµÐ½ÑŒÑ","coordinates":[77.87166667,43.22527778]},{"code":"UNFF-0039","program":"wwff","name":"Chiturgenckiy spruce National nature monument","coordinates":[77.77098,43.22572]}]}

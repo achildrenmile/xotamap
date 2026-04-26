@@ -1,1 +1,1 @@
-{"lat":52,"lon":-107.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1681","program":"wwbota","name":"FRP NH4","coordinates":[-107.229523,52.136963]}]}
+{"lat":52,"lon":-107.25,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-1681","program":"wwbota","name":"FRP NH4","coordinates":[-107.229523,52.136963]},{"code":"VEFF-4215","program":"wwff","name":"Harder Archaeological Site","coordinates":[-107.05231,52.2105]}]}

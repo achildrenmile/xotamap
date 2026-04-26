@@ -1,1 +1,1 @@
-{"lat":38.75,"lon":-101,"programs":["pota"],"count":1,"references":[{"code":"US-5717","program":"pota","name":"Little Jerusalem Badlands State Park","coordinates":[-100.928,38.8028]}]}
+{"lat":38.75,"lon":-101,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-5717","program":"pota","name":"Little Jerusalem Badlands State Park","coordinates":[-100.928,38.8028]},{"code":"KFF-4713","program":"wwff","name":"Little Jerusalem Badlands","coordinates":[-100.9282,38.80281]}]}

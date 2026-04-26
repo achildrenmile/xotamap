@@ -1,1 +1,1 @@
-{"lat":0.5,"lon":9.25,"programs":["pota"],"count":1,"references":[{"code":"GA-0016","program":"pota","name":"Arboretum Raponda Walker Botanical Gardens","coordinates":[9.322,0.57425]}]}
+{"lat":0.5,"lon":9.25,"programs":["arlhs","pota"],"count":2,"references":[{"code":"GAB 001","program":"arlhs","name":"Cap Esterias","coordinates":[9.32999992,0.62]},{"code":"GA-0016","program":"pota","name":"Arboretum Raponda Walker Botanical Gardens","coordinates":[9.322,0.57425]}]}

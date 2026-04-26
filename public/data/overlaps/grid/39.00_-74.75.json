@@ -1,1 +1,1 @@
-{"lat":39,"lon":-74.75,"programs":["pota"],"count":1,"references":[{"code":"US-1612","program":"pota","name":"Corson's Inlet State Park","coordinates":[-74.6452,39.2131]}]}
+{"lat":39,"lon":-74.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1612","program":"pota","name":"Corson's Inlet State Park","coordinates":[-74.6452,39.2131]},{"code":"KFF-1612","program":"wwff","name":"Corson's Inlet","coordinates":[-74.64517,39.21307]}]}

@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":141,"programs":["pota"],"count":1,"references":[{"code":"AU-5227","program":"pota","name":"Morkala Bushland Reserve","coordinates":[141.169,-34.3743]}]}
+{"lat":-34.5,"lon":141,"programs":["pota","wwff"],"count":3,"references":[{"code":"AU-5227","program":"pota","name":"Morkala Bushland Reserve","coordinates":[141.169,-34.3743]},{"code":"VKFF-4119","program":"wwff","name":"Morkala Bushland Reserve","coordinates":[141.169,-34.3743]},{"code":"VKFF-6304","program":"wwff","name":"Morkalla Reference Area","coordinates":[141.1148,-34.4137]}]}

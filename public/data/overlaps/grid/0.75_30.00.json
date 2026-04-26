@@ -1,1 +1,1 @@
-{"lat":0.75,"lon":30,"programs":["pota"],"count":1,"references":[{"code":"UG-0012","program":"pota","name":"Semuliki National Park","coordinates":[30.0611,0.825]}]}
+{"lat":0.75,"lon":30,"programs":["pota","wwff"],"count":2,"references":[{"code":"UG-0012","program":"pota","name":"Semuliki National Park","coordinates":[30.0611,0.825]},{"code":"5XFF-0010","program":"wwff","name":"Semuliki","coordinates":[30.04314,0.83322]}]}

@@ -1,1 +1,1 @@
-{"lat":29.25,"lon":48.25,"programs":["iota"],"count":1,"references":[{"code":"AS-118","program":"iota","name":"KUWAIT group","coordinates":[48.315000535,29.295000075]}]}
+{"lat":29.25,"lon":48.25,"programs":["iota","wlota","wwff"],"count":3,"references":[{"code":"AS-118","program":"iota","name":"KUWAIT group","coordinates":[48.315000535,29.295000075]},{"code":"WLOTA-1182","program":"wlota","name":"Jazirat Maskan","coordinates":[48.25,29.48200035]},{"code":"9KFF-0002","program":"wwff","name":"Failaka","coordinates":[48.37364,29.40132]}]}

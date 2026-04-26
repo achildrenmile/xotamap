@@ -1,1 +1,1 @@
-{"lat":39.25,"lon":23.75,"programs":["pota"],"count":1,"references":[{"code":"GR-0211","program":"pota","name":"Diaselo Dimou Alonisou National Wildlife Refuge","coordinates":[23.9311,39.2519]}]}
+{"lat":39.25,"lon":23.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"GR-0211","program":"pota","name":"Diaselo Dimou Alonisou National Wildlife Refuge","coordinates":[23.9311,39.2519]},{"code":"SVFF-0081","program":"wwff","name":"Alonissos-N.Sporades","coordinates":[23.95289,39.26243]}]}

@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-104.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0628","program":"pota","name":"Touchwood Hills Post Provincial Park","coordinates":[-104.097,51.3635]}]}
+{"lat":51.25,"lon":-104.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0628","program":"pota","name":"Touchwood Hills Post Provincial Park","coordinates":[-104.097,51.3635]},{"code":"VEFF-0628","program":"wwff","name":"Touchwood Hills Post Provincial Park","coordinates":[-104.09658,51.36349]}]}

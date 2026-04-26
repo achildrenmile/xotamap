@@ -1,1 +1,1 @@
-{"lat":2.5,"lon":16,"programs":["pota"],"count":1,"references":[{"code":"CF-0003","program":"pota","name":"Dzanga-Ndoki National Park","coordinates":[16.2,2.5]}]}
+{"lat":2.5,"lon":16,"programs":["pota","wwff"],"count":2,"references":[{"code":"CF-0003","program":"pota","name":"Dzanga-Ndoki National Park","coordinates":[16.2,2.5]},{"code":"TLFF-0003","program":"wwff","name":"Dzanga-Ndoki","coordinates":[16.16667,2.5]}]}

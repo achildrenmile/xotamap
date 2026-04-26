@@ -1,1 +1,1 @@
-{"lat":-24,"lon":28.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/LP-621","program":"sota","name":"Hopefield","coordinates":[28.4893,-23.8626]}]}
+{"lat":-24,"lon":28.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/LP-621","program":"sota","name":"Hopefield","coordinates":[28.4893,-23.8626]},{"code":"ZSFF-0216","program":"wwff","name":"Lapalala Game Reserve","coordinates":[28.31696,-23.90069]}]}

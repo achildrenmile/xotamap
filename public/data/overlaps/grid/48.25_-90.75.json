@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":-90.75,"programs":["pota"],"count":1,"references":[{"code":"CA-0141","program":"pota","name":"Arrowhead Peninsula Provincial Park","coordinates":[-90.671,48.2577]}]}
+{"lat":48.25,"lon":-90.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0141","program":"pota","name":"Arrowhead Peninsula Provincial Park","coordinates":[-90.671,48.2577]},{"code":"VEFF-0141","program":"wwff","name":"Arrowhead Peninsula Provincial Park","coordinates":[-90.62881,48.26629]}]}

@@ -1,1 +1,1 @@
-{"lat":26,"lon":-99.75,"programs":["pota"],"count":1,"references":[{"code":"MX-0019","program":"pota","name":"El Sabinal National Park","coordinates":[-99.6222,26.0839]}]}
+{"lat":26,"lon":-99.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"MX-0019","program":"pota","name":"El Sabinal National Park","coordinates":[-99.6222,26.0839]},{"code":"XEFF-0032","program":"wwff","name":"El Sabinal","coordinates":[-99.62222,26.08389]}]}

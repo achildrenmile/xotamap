@@ -1,1 +1,1 @@
-{"lat":60.5,"lon":-129.25,"programs":["pota"],"count":1,"references":[{"code":"CA-5452","program":"pota","name":"Simpson Lake Recreation Park","coordinates":[-129.23,60.6793]}]}
+{"lat":60.5,"lon":-129.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-5452","program":"pota","name":"Simpson Lake Recreation Park","coordinates":[-129.23,60.6793]},{"code":"VEFF-1426","program":"wwff","name":"Simpson Lake","coordinates":[-129.23019,60.6776]}]}

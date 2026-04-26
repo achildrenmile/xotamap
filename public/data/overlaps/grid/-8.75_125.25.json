@@ -1,1 +1,1 @@
-{"lat":-8.75,"lon":125.25,"programs":["pota"],"count":1,"references":[{"code":"TL-0022","program":"pota","name":"Mount Fatumasin Protected Area","coordinates":[125.387,-8.65774]}]}
+{"lat":-8.75,"lon":125.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TL-0022","program":"pota","name":"Mount Fatumasin Protected Area","coordinates":[125.387,-8.65774]},{"code":"4WFF-0022","program":"wwff","name":"Mount Fatumasin Protected Area","coordinates":[125.387,-8.65774]}]}

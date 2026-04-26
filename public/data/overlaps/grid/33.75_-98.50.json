@@ -1,1 +1,1 @@
-{"lat":33.75,"lon":-98.5,"programs":["pota"],"count":1,"references":[{"code":"US-3022","program":"pota","name":"Lake Arrowhead State Park","coordinates":[-98.3906,33.7574]}]}
+{"lat":33.75,"lon":-98.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3022","program":"pota","name":"Lake Arrowhead State Park","coordinates":[-98.3906,33.7574]},{"code":"KFF-3022","program":"wwff","name":"Lake Arrowhead","coordinates":[-98.39056,33.75737]}]}

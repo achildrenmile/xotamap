@@ -1,1 +1,1 @@
-{"lat":-27,"lon":-50,"programs":["sota"],"count":1,"references":[{"code":"PP5/VI-036","program":"sota","name":"PP5/VI-036","coordinates":[-49.9584,-26.9545]}]}
+{"lat":-27,"lon":-50,"programs":["sota","wwff"],"count":2,"references":[{"code":"PP5/VI-036","program":"sota","name":"PP5/VI-036","coordinates":[-49.9584,-26.9545]},{"code":"PYFF-0272","program":"wwff","name":"Área Relev Int Ecológico SERRA DAS ABELHAS - SC","coordinates":[-49.89759,-26.78882]}]}

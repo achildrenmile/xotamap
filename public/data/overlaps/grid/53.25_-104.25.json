@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":-104.25,"programs":["pota"],"count":1,"references":[{"code":"CA-1137","program":"pota","name":"Nipawin Regional Park","coordinates":[-104.008,53.3849]}]}
+{"lat":53.25,"lon":-104.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1137","program":"pota","name":"Nipawin Regional Park","coordinates":[-104.008,53.3849]},{"code":"VEFF-1137","program":"wwff","name":"Nipawin & District Regional Park","coordinates":[-104.00827,53.38487]}]}

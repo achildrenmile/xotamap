@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":-55.75,"programs":["sota"],"count":1,"references":[{"code":"VO1/NP-030","program":"sota","name":"VO1/NP-030","coordinates":[-55.7402,51.3899]}]}
+{"lat":51.25,"lon":-55.75,"programs":["arlhs","sota"],"count":2,"references":[{"code":"CAN 684","program":"arlhs","name":"Fishing Point/Fox Point","coordinates":[-55.54999924,51.34999847]},{"code":"VO1/NP-030","program":"sota","name":"VO1/NP-030","coordinates":[-55.7402,51.3899]}]}

@@ -1,1 +1,1 @@
-{"lat":42.5,"lon":-92.5,"programs":["pota"],"count":1,"references":[{"code":"US-2290","program":"pota","name":"George Wyth State Park","coordinates":[-92.4077,42.5366]}]}
+{"lat":42.5,"lon":-92.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2290","program":"pota","name":"George Wyth State Park","coordinates":[-92.4077,42.5366]},{"code":"KFF-2290","program":"wwff","name":"George Wyth","coordinates":[-92.40973,42.53447]}]}

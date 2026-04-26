@@ -1,1 +1,1 @@
-{"lat":42,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"BG-0124","program":"pota","name":"Silistar Protected Area","coordinates":[28.0083,42.0258]}]}
+{"lat":42,"lon":28,"programs":["pota","wca","wwff"],"count":3,"references":[{"code":"BG-0124","program":"pota","name":"Silistar Protected Area","coordinates":[28.0083,42.0258]},{"code":"LZ-00510","program":"wca","name":"KREPOST KASTRITSA","coordinates":[28.019722,42.008611]},{"code":"LZFF-0382","program":"wwff","name":"Silistar","coordinates":[28.00833,42.02583]}]}

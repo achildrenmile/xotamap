@@ -1,1 +1,1 @@
-{"lat":30.25,"lon":-94.25,"programs":["pota"],"count":1,"references":[{"code":"US-3060","program":"pota","name":"Village Creek State Park","coordinates":[-94.1746,30.2522]}]}
+{"lat":30.25,"lon":-94.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3060","program":"pota","name":"Village Creek State Park","coordinates":[-94.1746,30.2522]},{"code":"KFF-3060","program":"wwff","name":"Village Creek","coordinates":[-94.17463,30.25222]}]}

@@ -1,1 +1,1 @@
-{"lat":15.5,"lon":-96.25,"programs":["pota"],"count":1,"references":[{"code":"MX-0066","program":"pota","name":"Huatulco National Park","coordinates":[-96.1867,15.7298]}]}
+{"lat":15.5,"lon":-96.25,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"MEX 106","program":"arlhs","name":"Huatulco","coordinates":[-96.12999725,15.72999954]},{"code":"MX-0066","program":"pota","name":"Huatulco National Park","coordinates":[-96.1867,15.7298]},{"code":"XEFF-0039","program":"wwff","name":"Huatulco","coordinates":[-96.195,15.714]}]}

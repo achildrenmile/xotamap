@@ -1,1 +1,1 @@
-{"lat":-33.5,"lon":135.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0867","program":"pota","name":"Hambidge Wilderness Protection Area","coordinates":[135.923,-33.4028]}]}
+{"lat":-33.5,"lon":135.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0867","program":"pota","name":"Hambidge Wilderness Protection Area","coordinates":[135.923,-33.4028]},{"code":"VKFF-1713","program":"wwff","name":"Hambidge Wilderness Protection Area","coordinates":[135.92349,-33.4029]}]}

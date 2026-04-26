@@ -1,1 +1,1 @@
-{"lat":34.25,"lon":-97.25,"programs":["pota"],"count":1,"references":[{"code":"US-3675","program":"pota","name":"Chickasaw National Recreation Area","coordinates":[-97.0209,34.4488]}]}
+{"lat":34.25,"lon":-97.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-3675","program":"pota","name":"Chickasaw National Recreation Area","coordinates":[-97.0209,34.4488]},{"code":"KFF-3675","program":"wwff","name":"Chickasaw","coordinates":[-97.0064,34.4615]},{"code":"KFF-5559","program":"wwff","name":"Arbuckle Springs","coordinates":[-97.19269,34.4301]}]}

@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":29,"programs":["pota"],"count":1,"references":[{"code":"FI-0451","program":"pota","name":"Sysmäjärvi Natura 2000","coordinates":[29.053,62.6867]}]}
+{"lat":62.5,"lon":29,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0451","program":"pota","name":"Sysmäjärvi Natura 2000","coordinates":[29.053,62.6867]},{"code":"OHFF-0335","program":"wwff","name":"Iso-Juurikan-Leveävaaran alue","coordinates":[29.13226,62.68988]},{"code":"OHFF-0637","program":"wwff","name":"Sysmäjärvi","coordinates":[29.08243,62.68116]}]}

@@ -1,1 +1,1 @@
-{"lat":-81.75,"lon":-149,"programs":["pota"],"count":1,"references":[{"code":"AQ-0023","program":"pota","name":"Siple Dome Camp Antarctic Station","coordinates":[-149,-81.65]}]}
+{"lat":-81.75,"lon":-149,"programs":["pota","wwff"],"count":2,"references":[{"code":"AQ-0023","program":"pota","name":"Siple Dome Camp Antarctic Station","coordinates":[-149,-81.65]},{"code":"KFF-0095","program":"wwff","name":"Siple Dome Camp","coordinates":[-149,-81.65]}]}

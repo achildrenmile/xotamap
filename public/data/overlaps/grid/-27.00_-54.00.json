@@ -1,1 +1,1 @@
-{"lat":-27,"lon":-54,"programs":["pota"],"count":1,"references":[{"code":"AR-0097","program":"pota","name":"Yaboti Biosphere Reserve","coordinates":[-53.9539,-26.9329]}]}
+{"lat":-27,"lon":-54,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0097","program":"pota","name":"Yaboti Biosphere Reserve","coordinates":[-53.9539,-26.9329]},{"code":"LUFF-0082","program":"wwff","name":"Yabot","coordinates":[-53.95387,-26.93292]}]}

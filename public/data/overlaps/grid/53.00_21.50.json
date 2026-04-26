@@ -1,1 +1,1 @@
-{"lat":53,"lon":21.5,"programs":["pota"],"count":1,"references":[{"code":"PL-0470","program":"pota","name":"Olsy Płoszyckie Nature Reserve","coordinates":[21.5762,53.2139]}]}
+{"lat":53,"lon":21.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"PL-0470","program":"pota","name":"Olsy Płoszyckie Nature Reserve","coordinates":[21.5762,53.2139]},{"code":"SPFF-1125","program":"wwff","name":"Nature Reserve Olsy Ploszyckie","coordinates":[21.57621,53.21389]}]}

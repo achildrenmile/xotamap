@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":-21,"programs":["sota"],"count":1,"references":[{"code":"TF/NL-123","program":"sota","name":"Þrælsfell","coordinates":[-20.8184,65.4666]}]}
+{"lat":65.25,"lon":-21,"programs":["arlhs","sota"],"count":2,"references":[{"code":"ICE 083","program":"arlhs","name":"Skard","coordinates":[-20.97999954,65.48000336]},{"code":"TF/NL-123","program":"sota","name":"Þrælsfell","coordinates":[-20.8184,65.4666]}]}

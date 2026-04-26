@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":-65.5,"programs":["sota"],"count":1,"references":[{"code":"VE2/BU-188","program":"sota","name":"VE2/BU-188","coordinates":[-65.3088,57.5272]}]}
+{"lat":57.5,"lon":-65.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"VE2/BU-188","program":"sota","name":"VE2/BU-188","coordinates":[-65.3088,57.5272]},{"code":"VEFF-0129","program":"wwff","name":"Ulittaniujalik (Monts-Pyramides) National Park","coordinates":[-65.43195,57.62695]}]}

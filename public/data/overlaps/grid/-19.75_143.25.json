@@ -1,1 +1,1 @@
-{"lat":-19.75,"lon":143.25,"programs":["pota"],"count":1,"references":[{"code":"AU-1101","program":"pota","name":"Rungulla Resources Reserve","coordinates":[143.492,-19.563]}]}
+{"lat":-19.75,"lon":143.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1101","program":"pota","name":"Rungulla Resources Reserve","coordinates":[143.492,-19.563]},{"code":"VKFF-3990","program":"wwff","name":"Rungulla Resources Reserve","coordinates":[143.4592,-19.5697]}]}

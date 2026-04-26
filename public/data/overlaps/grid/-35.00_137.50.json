@@ -1,1 +1,1 @@
-{"lat":-35,"lon":137.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0794","program":"pota","name":"Minlacowie Conservation Park","coordinates":[137.652,-34.8825]}]}
+{"lat":-35,"lon":137.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0794","program":"pota","name":"Minlacowie Conservation Park","coordinates":[137.652,-34.8825]},{"code":"VKFF-0909","program":"wwff","name":"Minlacowie Conservation Park","coordinates":[137.6525,-34.8825]}]}

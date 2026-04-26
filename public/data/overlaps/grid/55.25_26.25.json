@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":26.25,"programs":["sota"],"count":1,"references":[{"code":"LY/LY-001","program":"sota","name":"Nevaišių kalnas","coordinates":[26.27818,55.28847]}]}
+{"lat":55.25,"lon":26.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"LY/LY-001","program":"sota","name":"Nevaišių kalnas","coordinates":[26.27818,55.28847]},{"code":"LYFF-0295","program":"wwff","name":"Puðnies Telmological Reserve","coordinates":[26.44873,55.49722]}]}

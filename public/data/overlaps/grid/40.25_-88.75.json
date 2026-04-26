@@ -1,1 +1,1 @@
-{"lat":40.25,"lon":-88.75,"programs":["pota"],"count":1,"references":[{"code":"US-4099","program":"pota","name":"Moraine View State Recreation Area","coordinates":[-88.7208,40.4174]}]}
+{"lat":40.25,"lon":-88.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4099","program":"pota","name":"Moraine View State Recreation Area","coordinates":[-88.7208,40.4174]},{"code":"KFF-4099","program":"wwff","name":"Moraine View","coordinates":[-88.73177,40.41088]}]}

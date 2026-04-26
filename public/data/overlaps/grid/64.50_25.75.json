@@ -1,1 +1,1 @@
-{"lat":64.5,"lon":25.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0619","program":"pota","name":"Loukkuneva-Isoneva Natura 2000","coordinates":[25.8367,64.566]}]}
+{"lat":64.5,"lon":25.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0619","program":"pota","name":"Loukkuneva-Isoneva Natura 2000","coordinates":[25.8367,64.566]},{"code":"OHFF-1519","program":"wwff","name":"Loukkuneva-Isoneva","coordinates":[25.81003,64.55141]}]}

@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":-81.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0155","program":"pota","name":"Black Creek Provincial Park","coordinates":[-81.3622,44.9682]}]}
+{"lat":44.75,"lon":-81.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0155","program":"pota","name":"Black Creek Provincial Park","coordinates":[-81.3622,44.9682]},{"code":"VEFF-0155","program":"wwff","name":"Black Creek Provincial Park","coordinates":[-81.36352,44.97527]}]}

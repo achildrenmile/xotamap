@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":32.5,"programs":["pota"],"count":1,"references":[{"code":"UA-0032","program":"pota","name":"Pyryatynskyi National Park","coordinates":[32.5182,50.2859]}]}
+{"lat":50.25,"lon":32.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0032","program":"pota","name":"Pyryatynskyi National Park","coordinates":[32.5182,50.2859]},{"code":"URFF-0074","program":"wwff","name":"Pyriatynskyi National Park","coordinates":[32.54425,50.27266]}]}

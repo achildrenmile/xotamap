@@ -1,1 +1,1 @@
-{"lat":35,"lon":-5.25,"programs":["pota"],"count":1,"references":[{"code":"MA-0008","program":"pota","name":"Talassemtane National Park","coordinates":[-5.08069,35.1308]}]}
+{"lat":35,"lon":-5.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"MA-0008","program":"pota","name":"Talassemtane National Park","coordinates":[-5.08069,35.1308]},{"code":"CNFF-0011","program":"wwff","name":"Talassemtane","coordinates":[-5.08118,35.1362]}]}

@@ -1,1 +1,1 @@
-{"lat":42.5,"lon":21.25,"programs":["sota"],"count":1,"references":[{"code":"YU/JS-057","program":"sota","name":"Lisica","coordinates":[21.39296,42.74506]}]}
+{"lat":42.5,"lon":21.25,"programs":["sota","wca"],"count":2,"references":[{"code":"YU/JS-057","program":"sota","name":"Lisica","coordinates":[21.39296,42.74506]},{"code":"YU-00014","program":"wca","name":"NOVO BRDO FORTRESS","coordinates":[21.4172,42.61515]}]}

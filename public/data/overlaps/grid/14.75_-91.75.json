@@ -1,1 +1,1 @@
-{"lat":14.75,"lon":-91.75,"programs":["pota"],"count":1,"references":[{"code":"GT-0006","program":"pota","name":"Cerro El Baúl State Park","coordinates":[-91.5006,14.83]}]}
+{"lat":14.75,"lon":-91.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"GT-0006","program":"pota","name":"Cerro El Baúl State Park","coordinates":[-91.5006,14.83]},{"code":"TGFF-0001","program":"wwff","name":"Cerro Ba?l","coordinates":[-91.50278,14.83111]}]}

@@ -1,1 +1,1 @@
-{"lat":-32.75,"lon":135,"programs":["pota"],"count":1,"references":[{"code":"AU-6262","program":"pota","name":"Gawler Ranges Conservation Park","coordinates":[135.058,-32.5933]}]}
+{"lat":-32.75,"lon":135,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-6262","program":"pota","name":"Gawler Ranges Conservation Park","coordinates":[135.058,-32.5933]},{"code":"VKFF-3812","program":"wwff","name":"Gawler Ranges Conservation Park","coordinates":[135.0578,-32.5933]}]}

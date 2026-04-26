@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":-131,"programs":["pota"],"count":1,"references":[{"code":"US-4538","program":"pota","name":"Misty Fjords National Monument","coordinates":[-130.849,54.767]}]}
+{"lat":54.75,"lon":-131,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"ALK 012","program":"arlhs","name":"Tree Point, AK","coordinates":[-130.92999268,54.79999924]},{"code":"US-4538","program":"pota","name":"Misty Fjords National Monument","coordinates":[-130.849,54.767]},{"code":"WLOTA-2785","program":"wlota","name":"Boat Rock Light","coordinates":[-130.79200745,54.77500153]}]}

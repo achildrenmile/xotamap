@@ -1,1 +1,1 @@
-{"lat":42,"lon":142.5,"programs":["sota"],"count":1,"references":[{"code":"JA8/HD-130","program":"sota","name":"Gunkanyama","coordinates":[142.6082,42.2488]}]}
+{"lat":42,"lon":142.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"JPN 938","program":"arlhs","name":"Ogifushi Hana East Breakwater (Hokkaido)","coordinates":[142.66999817,42.20000076]},{"code":"JA8/HD-130","program":"sota","name":"Gunkanyama","coordinates":[142.6082,42.2488]}]}

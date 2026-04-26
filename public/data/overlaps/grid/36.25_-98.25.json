@@ -1,1 +1,1 @@
-{"lat":36.25,"lon":-98.25,"programs":["pota"],"count":1,"references":[{"code":"US-7687","program":"pota","name":"Drummond Flats Wildlife Management Area","coordinates":[-98.0507,36.3038]}]}
+{"lat":36.25,"lon":-98.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-7687","program":"pota","name":"Drummond Flats Wildlife Management Area","coordinates":[-98.0507,36.3038]},{"code":"KFF-5563","program":"wwff","name":"Drummond Flat","coordinates":[-98.04185,36.29303]}]}

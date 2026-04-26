@@ -1,1 +1,1 @@
-{"lat":49.5,"lon":-81,"programs":["pota"],"count":1,"references":[{"code":"CA-0272","program":"pota","name":"Little Abitibi Provincial Park","coordinates":[-80.8606,49.5894]}]}
+{"lat":49.5,"lon":-81,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0272","program":"pota","name":"Little Abitibi Provincial Park","coordinates":[-80.8606,49.5894]},{"code":"VEFF-0272","program":"wwff","name":"Little Abitibi Provincial Park","coordinates":[-80.79881,49.55022]}]}

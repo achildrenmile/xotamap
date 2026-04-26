@@ -1,1 +1,1 @@
-{"lat":6.5,"lon":100.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0036","program":"pota","name":"Khao Nam Khang National Park","coordinates":[100.594,6.56525]}]}
+{"lat":6.5,"lon":100.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0036","program":"pota","name":"Khao Nam Khang National Park","coordinates":[100.594,6.56525]},{"code":"HSFF-0030","program":"wwff","name":"Khao Nam Khang National Park","coordinates":[100.58774,6.59922]}]}

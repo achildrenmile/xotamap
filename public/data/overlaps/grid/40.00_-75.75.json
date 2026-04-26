@@ -1,1 +1,1 @@
-{"lat":40,"lon":-75.75,"programs":["pota"],"count":1,"references":[{"code":"US-1380","program":"pota","name":"Marsh Creek State Park","coordinates":[-75.7204,40.0671]}]}
+{"lat":40,"lon":-75.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1380","program":"pota","name":"Marsh Creek State Park","coordinates":[-75.7204,40.0671]},{"code":"KFF-1380","program":"wwff","name":"Marsh Creek","coordinates":[-75.71976,40.06918]}]}

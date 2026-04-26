@@ -1,1 +1,1 @@
-{"lat":-32,"lon":119.75,"programs":["pota"],"count":1,"references":[{"code":"AU-2994","program":"pota","name":"Jilbadji Nature Park","coordinates":[119.844,-31.9777]}]}
+{"lat":-32,"lon":119.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2994","program":"pota","name":"Jilbadji Nature Park","coordinates":[119.844,-31.9777]},{"code":"VKFF-2976","program":"wwff","name":"Jilbadji Nature Reserve","coordinates":[119.8439,-31.9777]}]}

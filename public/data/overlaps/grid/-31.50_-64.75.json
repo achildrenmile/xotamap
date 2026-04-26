@@ -1,1 +1,1 @@
-{"lat":-31.5,"lon":-64.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0325","program":"pota","name":"Reserva Hídrica \"Los Gigantes\" Protected Area","coordinates":[-64.742,-31.4012]}]}
+{"lat":-31.5,"lon":-64.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0325","program":"pota","name":"Reserva Hídrica \"Los Gigantes\" Protected Area","coordinates":[-64.742,-31.4012]},{"code":"LUFF-0201","program":"wwff","name":"Reserva Hídrica Los Gigantes","coordinates":[-64.73217,-31.39334]}]}

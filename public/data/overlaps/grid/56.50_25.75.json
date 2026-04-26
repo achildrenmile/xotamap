@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":25.75,"programs":["pota"],"count":1,"references":[{"code":"LV-0014","program":"pota","name":"Struve Geodetic Arc World Heritage Site","coordinates":[25.8566,56.5016]}]}
+{"lat":56.5,"lon":25.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"LV-0014","program":"pota","name":"Struve Geodetic Arc World Heritage Site","coordinates":[25.8566,56.5016]},{"code":"YLFF-0298","program":"wwff","name":"Vesetas palienes purvs","coordinates":[25.81458,56.70318]}]}

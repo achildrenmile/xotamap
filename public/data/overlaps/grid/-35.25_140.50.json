@@ -1,1 +1,1 @@
-{"lat":-35.25,"lon":140.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0847","program":"pota","name":"Karte Conservation Park","coordinates":[140.708,-35.0879]}]}
+{"lat":-35.25,"lon":140.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0847","program":"pota","name":"Karte Conservation Park","coordinates":[140.708,-35.0879]},{"code":"VKFF-0898","program":"wwff","name":"Karte Conservation Park","coordinates":[140.70419,-35.1057]}]}

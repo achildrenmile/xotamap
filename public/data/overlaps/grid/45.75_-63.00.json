@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":-63,"programs":["pota"],"count":1,"references":[{"code":"CA-0488","program":"pota","name":"Waterside Beach Provincial Park","coordinates":[-62.778,45.7617]}]}
+{"lat":45.75,"lon":-63,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0488","program":"pota","name":"Waterside Beach Provincial Park","coordinates":[-62.778,45.7617]},{"code":"VEFF-0488","program":"wwff","name":"Waterside Beach Provincial Park","coordinates":[-62.77796,45.76166]}]}

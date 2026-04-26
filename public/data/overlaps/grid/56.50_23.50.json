@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":23.5,"programs":["pota"],"count":1,"references":[{"code":"LV-0010","program":"pota","name":"Lielupe River floodplains Nature Park","coordinates":[23.726,56.662]}]}
+{"lat":56.5,"lon":23.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"LV-0010","program":"pota","name":"Lielupe River floodplains Nature Park","coordinates":[23.726,56.662]},{"code":"YLFF-0054","program":"wwff","name":"Sv?tes paliene","coordinates":[23.65969,56.71836]},{"code":"YLFF-0133","program":"wwff","name":"Lielupe","coordinates":[23.72094,56.6659]}]}

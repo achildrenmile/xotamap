@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":-66,"programs":["pota"],"count":1,"references":[{"code":"CA-0797","program":"pota","name":"Tetagouche Falls Recreation Park","coordinates":[-65.8245,47.6171]}]}
+{"lat":47.5,"lon":-66,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0797","program":"pota","name":"Tetagouche Falls Recreation Park","coordinates":[-65.8245,47.6171]},{"code":"VEFF-0797","program":"wwff","name":"Tetagouche Falls Trail","coordinates":[-65.82451,47.61705]}]}

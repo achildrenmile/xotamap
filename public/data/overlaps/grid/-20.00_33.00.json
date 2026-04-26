@@ -1,1 +1,1 @@
-{"lat":-20,"lon":33,"programs":["pota"],"count":1,"references":[{"code":"MZ-0003","program":"pota","name":"Chimanimani National Reserve","coordinates":[33.091,-19.7896]}]}
+{"lat":-20,"lon":33,"programs":["pota","wwff"],"count":2,"references":[{"code":"MZ-0003","program":"pota","name":"Chimanimani National Reserve","coordinates":[33.091,-19.7896]},{"code":"Z2FF-0001","program":"wwff","name":"Chimanimani","coordinates":[33,-19.8]}]}

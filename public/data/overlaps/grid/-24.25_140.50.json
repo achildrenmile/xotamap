@@ -1,1 +1,1 @@
-{"lat":-24.25,"lon":140.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1532","program":"pota","name":"Astrebla Downs National Park","coordinates":[140.569,-24.2114]}]}
+{"lat":-24.25,"lon":140.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1532","program":"pota","name":"Astrebla Downs National Park","coordinates":[140.569,-24.2114]},{"code":"VKFF-0006","program":"wwff","name":"Astrebla Downs National Park","coordinates":[140.5681,-24.2102]}]}

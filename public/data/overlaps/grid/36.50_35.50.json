@@ -1,1 +1,1 @@
-{"lat":36.5,"lon":35.5,"programs":["pota"],"count":1,"references":[{"code":"TR-0071","program":"pota","name":"Yumurtalık Lagünü National Park","coordinates":[35.5533,36.6937]}]}
+{"lat":36.5,"lon":35.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0071","program":"pota","name":"Yumurtalık Lagünü National Park","coordinates":[35.5533,36.6937]},{"code":"TAFF-0038","program":"wwff","name":"Yumurtalik Lagunu Milli Parki (Lagoon)","coordinates":[35.62106,36.67869]}]}

@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":-88,"programs":["pota"],"count":1,"references":[{"code":"CA-1282","program":"pota","name":"Agate Island Wilderness Area","coordinates":[-87.9855,48.7]}]}
+{"lat":48.5,"lon":-88,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1282","program":"pota","name":"Agate Island Wilderness Area","coordinates":[-87.9855,48.7]},{"code":"VEFF-4352","program":"wwff","name":"Agate Island Wilderness Area","coordinates":[-87.98786,48.69327]}]}

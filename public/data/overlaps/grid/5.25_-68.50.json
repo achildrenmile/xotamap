@@ -1,1 +1,1 @@
-{"lat":5.25,"lon":-68.5,"programs":["pota"],"count":1,"references":[{"code":"CO-0148","program":"pota","name":"El Tuparro National Nature Reserve","coordinates":[-68.4769,5.25131]}]}
+{"lat":5.25,"lon":-68.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CO-0148","program":"pota","name":"El Tuparro National Nature Reserve","coordinates":[-68.4769,5.25131]},{"code":"HKFF-0010","program":"wwff","name":"El Tuparro","coordinates":[-68.47,5.32]}]}

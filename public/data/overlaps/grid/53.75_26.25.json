@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":26.25,"programs":["pota"],"count":1,"references":[{"code":"BY-0068","program":"pota","name":"Налібоцкі Landscape Reserve","coordinates":[26.3991,53.8732]}]}
+{"lat":53.75,"lon":26.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0068","program":"pota","name":"Налібоцкі Landscape Reserve","coordinates":[26.3991,53.8732]},{"code":"EWFF-0019","program":"wwff","name":"Nalibokskiy","coordinates":[26.44272,53.90231]}]}

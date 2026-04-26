@@ -1,1 +1,1 @@
-{"lat":-30,"lon":115.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0155","program":"pota","name":"Capamauro Nature Reserve","coordinates":[115.907,-29.8883]}]}
+{"lat":-30,"lon":115.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0155","program":"pota","name":"Capamauro Nature Reserve","coordinates":[115.907,-29.8883]},{"code":"VKFF-1862","program":"wwff","name":"Capamauro Nature Reserve","coordinates":[115.9071,-29.8883]}]}

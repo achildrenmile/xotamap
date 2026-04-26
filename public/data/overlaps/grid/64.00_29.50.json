@@ -1,1 +1,1 @@
-{"lat":64,"lon":29.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0682","program":"pota","name":"Lentua Nature Reserve","coordinates":[29.6112,64.2292]}]}
+{"lat":64,"lon":29.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0682","program":"pota","name":"Lentua Nature Reserve","coordinates":[29.6112,64.2292]},{"code":"OHFF-0062","program":"wwff","name":"Lentuan luonnonsuojelualue","coordinates":[29.59981,64.23828]}]}

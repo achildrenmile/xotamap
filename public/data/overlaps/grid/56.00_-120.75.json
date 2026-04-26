@@ -1,1 +1,1 @@
-{"lat":56,"lon":-120.75,"programs":["pota"],"count":1,"references":[{"code":"CA-4187","program":"pota","name":"Taylor Landing Provincial Park","coordinates":[-120.666,56.1347]}]}
+{"lat":56,"lon":-120.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4187","program":"pota","name":"Taylor Landing Provincial Park","coordinates":[-120.666,56.1347]},{"code":"VEFF-3156","program":"wwff","name":"Fort St. John N.H.S.","coordinates":[-120.68784,56.15885]}]}

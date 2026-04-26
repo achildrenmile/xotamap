@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":-128.5,"programs":["pota"],"count":1,"references":[{"code":"CA-6274","program":"pota","name":"Nahanni Range Campground Recreation Site","coordinates":[-128.282,61.27]}]}
+{"lat":61.25,"lon":-128.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6274","program":"pota","name":"Nahanni Range Campground Recreation Site","coordinates":[-128.282,61.27]},{"code":"VEFF-4741","program":"wwff","name":"Nahanni Range Campground","coordinates":[-128.27604,61.26997]}]}

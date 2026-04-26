@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":9.5,"programs":["pota"],"count":1,"references":[{"code":"DK-0031","program":"pota","name":"Vokslev Hede National Historic Site","coordinates":[9.72021,56.9479]}]}
+{"lat":56.75,"lon":9.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"DK-0031","program":"pota","name":"Vokslev Hede National Historic Site","coordinates":[9.72021,56.9479]},{"code":"OZFF-0163","program":"wwff","name":"Vokslev Hede","coordinates":[9.72021,56.9479]},{"code":"OZFF-0250","program":"wwff","name":"Ulvedybet and Nibe Bredning","coordinates":[9.55246,56.99997]}]}

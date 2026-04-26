@@ -1,1 +1,1 @@
-{"lat":51,"lon":-98.25,"programs":["pota"],"count":1,"references":[{"code":"CA-2448","program":"pota","name":"Little Birch Wildlife Management Area","coordinates":[-98.151,51.185]}]}
+{"lat":51,"lon":-98.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2448","program":"pota","name":"Little Birch Wildlife Management Area","coordinates":[-98.151,51.185]},{"code":"VEFF-4152","program":"wwff","name":"Little Birch Wildlife Management Area","coordinates":[-98.08699,51.16743]}]}

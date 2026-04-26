@@ -1,1 +1,1 @@
-{"lat":-25.25,"lon":153,"programs":["sota"],"count":1,"references":[{"code":"VK4/SW-104","program":"sota","name":"Koorooman Sand Blow","coordinates":[153.17844,-25.17778]}]}
+{"lat":-25.25,"lon":153,"programs":["sota","wwff"],"count":2,"references":[{"code":"VK4/SW-104","program":"sota","name":"Koorooman Sand Blow","coordinates":[153.17844,-25.17778]},{"code":"VKFF-0186","program":"wwff","name":"Great Sandy Marine Park","coordinates":[153.147,-25.248]}]}

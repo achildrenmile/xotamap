@@ -1,1 +1,1 @@
-{"lat":-32,"lon":140.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0970","program":"pota","name":"Boolcoomatta Conservation Reserve","coordinates":[140.581,-31.9424]}]}
+{"lat":-32,"lon":140.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0970","program":"pota","name":"Boolcoomatta Conservation Reserve","coordinates":[140.581,-31.9424]},{"code":"VKFF-1770","program":"wwff","name":"Boolcoomatta Conservation Reserve","coordinates":[140.595,-31.933]}]}

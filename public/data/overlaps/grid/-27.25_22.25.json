@@ -1,1 +1,1 @@
-{"lat":-27.25,"lon":22.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/NC-345","program":"sota","name":"ZS/NC-345","coordinates":[22.4643,-27.2439]}]}
+{"lat":-27.25,"lon":22.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/NC-345","program":"sota","name":"ZS/NC-345","coordinates":[22.4643,-27.2439]},{"code":"ZSFF-0393","program":"wwff","name":"Tswalu Desert Reserve","coordinates":[22.41206,-27.24376]}]}

@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":-7.25,"programs":["sota"],"count":1,"references":[{"code":"EI/IE-055","program":"sota","name":"Clogrennan Hill","coordinates":[-7.010052,52.8132]}]}
+{"lat":52.75,"lon":-7.25,"programs":["sota","wwff"],"count":3,"references":[{"code":"EI/IE-055","program":"sota","name":"Clogrennan Hill","coordinates":[-7.010052,52.8132]},{"code":"EIFF-0054","program":"wwff","name":"Timahoe Esker","coordinates":[-7.202,52.961]},{"code":"EIFF-0157","program":"wwff","name":"Ballyprior Grassland SAC","coordinates":[-7.13184,52.9834]}]}

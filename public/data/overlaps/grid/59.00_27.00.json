@@ -1,1 +1,1 @@
-{"lat":59,"lon":27,"programs":["pota"],"count":1,"references":[{"code":"EE-0012","program":"pota","name":"Muraka Natura 2000","coordinates":[27.07,59.155]}]}
+{"lat":59,"lon":27,"programs":["pota","wwff"],"count":2,"references":[{"code":"EE-0012","program":"pota","name":"Muraka Natura 2000","coordinates":[27.07,59.155]},{"code":"ESFF-0318","program":"wwff","name":"Alutaguse Rahvuspark","coordinates":[27.21217,59.11025]}]}

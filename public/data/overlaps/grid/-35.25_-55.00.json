@@ -1,1 +1,1 @@
-{"lat":-35.25,"lon":-55,"programs":["wwbota"],"count":1,"references":[{"code":"B/CX-0008","program":"wwbota","name":"ISLA DE LOBOS","coordinates":[-54.88373,-35.02462]}]}
+{"lat":-35.25,"lon":-55,"programs":["wlota","wwbota"],"count":2,"references":[{"code":"WLOTA-0799","program":"wlota","name":"Isla de Lobos","coordinates":[-54.88299942,-35.25]},{"code":"B/CX-0008","program":"wwbota","name":"ISLA DE LOBOS","coordinates":[-54.88373,-35.02462]}]}

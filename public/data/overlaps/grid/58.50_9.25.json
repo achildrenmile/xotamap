@@ -1,1 +1,1 @@
-{"lat":58.5,"lon":9.25,"programs":["pota"],"count":1,"references":[{"code":"NO-2020","program":"pota","name":"Stangholmen Nature Reserve","coordinates":[9.32395,58.7429]}]}
+{"lat":58.5,"lon":9.25,"programs":["pota","wlota"],"count":2,"references":[{"code":"NO-2020","program":"pota","name":"Stangholmen Nature Reserve","coordinates":[9.32395,58.7429]},{"code":"WLOTA-3215","program":"wlota","name":"Vestre Sandoya Island","coordinates":[9.44999981,58.58300018]}]}

@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":75.25,"programs":["gma"],"count":1,"references":[{"code":"UNM-025","program":"gma","name":"Aksoran (ÐÐºÑÐ¾Ñ€Ð°Ð½)","coordinates":[75.47083333,48.42361111]}]}
+{"lat":48.25,"lon":75.25,"programs":["gma","wwff"],"count":2,"references":[{"code":"UNM-025","program":"gma","name":"Aksoran (ÐÐºÑÐ¾Ñ€Ð°Ð½)","coordinates":[75.47083333,48.42361111]},{"code":"UNFF-0116","program":"wwff","name":"State natural reserve Altyn Dala","coordinates":[75.49428,48.41218]}]}

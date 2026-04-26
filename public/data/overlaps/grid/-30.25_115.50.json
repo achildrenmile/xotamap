@@ -1,1 +1,1 @@
-{"lat":-30.25,"lon":115.5,"programs":["pota"],"count":1,"references":[{"code":"AU-0179","program":"pota","name":"Alexander Morrison National Park","coordinates":[115.576,-30.0615]}]}
+{"lat":-30.25,"lon":115.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0179","program":"pota","name":"Alexander Morrison National Park","coordinates":[115.576,-30.0615]},{"code":"VKFF-0002","program":"wwff","name":"Alexander Morrison National Park","coordinates":[115.5834,-30.0493]}]}

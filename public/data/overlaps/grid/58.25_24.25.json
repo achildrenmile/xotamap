@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":24.25,"programs":["pota"],"count":1,"references":[{"code":"EE-0073","program":"pota","name":"Valgeranna Natura 2000","coordinates":[24.422,58.389]}]}
+{"lat":58.25,"lon":24.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"EE-0073","program":"pota","name":"Valgeranna Natura 2000","coordinates":[24.422,58.389]},{"code":"ESFF-0237","program":"wwff","name":"Valgeranna","coordinates":[24.41469,58.38982]}]}

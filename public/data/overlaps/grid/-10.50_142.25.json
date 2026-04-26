@@ -1,1 +1,1 @@
-{"lat":-10.5,"lon":142.25,"programs":["sota"],"count":1,"references":[{"code":"VK4/NP-099","program":"sota","name":"Mt Ernest Is","coordinates":[142.48274,-10.25667]}]}
+{"lat":-10.5,"lon":142.25,"programs":["arlhs","sota"],"count":2,"references":[{"code":"AUS 231","program":"arlhs","name":"Twin Island (Torres Straight)","coordinates":[142.44999695,-10.47000027]},{"code":"VK4/NP-099","program":"sota","name":"Mt Ernest Is","coordinates":[142.48274,-10.25667]}]}

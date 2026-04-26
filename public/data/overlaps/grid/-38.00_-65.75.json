@@ -1,1 +1,1 @@
-{"lat":-38,"lon":-65.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0082","program":"pota","name":"Lihue Calel National Park","coordinates":[-65.6037,-37.925]}]}
+{"lat":-38,"lon":-65.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0082","program":"pota","name":"Lihue Calel National Park","coordinates":[-65.6037,-37.925]},{"code":"LUFF-0017","program":"wwff","name":"Lihue´ Calel","coordinates":[-65.60374,-37.92498]}]}

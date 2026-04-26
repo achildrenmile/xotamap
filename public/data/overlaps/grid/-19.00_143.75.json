@@ -1,1 +1,1 @@
-{"lat":-19,"lon":143.75,"programs":["pota"],"count":1,"references":[{"code":"AU-2862","program":"pota","name":"Newcastle Range-The Oaks Nature Recreation Area","coordinates":[143.925,-18.8269]}]}
+{"lat":-19,"lon":143.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2862","program":"pota","name":"Newcastle Range-The Oaks Nature Recreation Area","coordinates":[143.925,-18.8269]},{"code":"VKFF-2878","program":"wwff","name":"Pooh Corner Nature Refuge","coordinates":[143.9248,-18.8269]}]}

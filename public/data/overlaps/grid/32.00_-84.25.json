@@ -1,1 +1,1 @@
-{"lat":32,"lon":-84.25,"programs":["pota"],"count":1,"references":[{"code":"US-0799","program":"pota","name":"Andersonville National Historic Site","coordinates":[-84.1244,32.1896]}]}
+{"lat":32,"lon":-84.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0799","program":"pota","name":"Andersonville National Historic Site","coordinates":[-84.1244,32.1896]},{"code":"KFF-0799","program":"wwff","name":"Andersonville","coordinates":[-84.12442,32.18963]}]}

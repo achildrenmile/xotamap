@@ -1,1 +1,1 @@
-{"lat":-65,"lon":-63,"programs":["pota"],"count":1,"references":[{"code":"AQ-0075","program":"pota","name":"Almirante Brown Antarctic Station","coordinates":[-62.8708,-64.8954]}]}
+{"lat":-65,"lon":-63,"programs":["pota","wwff"],"count":2,"references":[{"code":"AQ-0075","program":"pota","name":"Almirante Brown Antarctic Station","coordinates":[-62.8708,-64.8954]},{"code":"CEFF-0039","program":"wwff","name":"Presidente Gabriel Gonzales Videla Base (Air Force)","coordinates":[-62.85,-64.82]}]}

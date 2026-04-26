@@ -1,1 +1,1 @@
-{"lat":-55,"lon":-64.5,"programs":["pota"],"count":1,"references":[{"code":"AR-0144","program":"pota","name":"Isla de los Estados Provincial Park Reserve","coordinates":[-64.2736,-54.784]}]}
+{"lat":-55,"lon":-64.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0144","program":"pota","name":"Isla de los Estados Provincial Park Reserve","coordinates":[-64.2736,-54.784]},{"code":"LUFF-0080","program":"wwff","name":"Isla de Los Estados","coordinates":[-64.27355,-54.78405]}]}

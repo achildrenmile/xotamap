@@ -1,1 +1,1 @@
-{"lat":31.25,"lon":-84.5,"programs":["pota"],"count":1,"references":[{"code":"US-3748","program":"pota","name":"Elmodel Wildlife Management Area","coordinates":[-84.4882,31.3472]}]}
+{"lat":31.25,"lon":-84.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-3748","program":"pota","name":"Elmodel Wildlife Management Area","coordinates":[-84.4882,31.3472]},{"code":"KFF-3739","program":"wwff","name":"Chickasawhatchee","coordinates":[-84.43833,31.44667]},{"code":"KFF-3748","program":"wwff","name":"Elmodel","coordinates":[-84.48821,31.34722]}]}

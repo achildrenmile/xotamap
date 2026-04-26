@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":13.25,"programs":["sota"],"count":1,"references":[{"code":"SM/VL-041","program":"sota","name":"Loggolvberg","coordinates":[13.381326,59.96584]}]}
+{"lat":59.75,"lon":13.25,"programs":["sota","wca","wwff"],"count":3,"references":[{"code":"SM/VL-041","program":"sota","name":"Loggolvberg","coordinates":[13.381326,59.96584]},{"code":"SM-01405","program":"wca","name":"EUSTACEÃâ¢S CASTLE","coordinates":[13.251147,59.769575]},{"code":"SMFF-6651","program":"wwff","name":"Botten - Falla","coordinates":[13.28851,59.82043]}]}

@@ -1,1 +1,1 @@
-{"lat":49,"lon":-109.75,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-1624","program":"wwbota","name":"FRP LE32","coordinates":[-109.731529,49.000389]}]}
+{"lat":49,"lon":-109.75,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-1624","program":"wwbota","name":"FRP LE32","coordinates":[-109.731529,49.000389]},{"code":"VEFF-5115","program":"wwff","name":"Prairie Pasture Conservation Area - Govenlock","coordinates":[-109.74622,49.08697]}]}

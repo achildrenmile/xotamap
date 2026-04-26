@@ -1,1 +1,1 @@
-{"lat":12.75,"lon":102,"programs":["pota"],"count":1,"references":[{"code":"TH-0029","program":"pota","name":"Khao Khitchakut National Park","coordinates":[102.121,12.8393]}]}
+{"lat":12.75,"lon":102,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0029","program":"pota","name":"Khao Khitchakut National Park","coordinates":[102.121,12.8393]},{"code":"HSFF-0024","program":"wwff","name":"Khao Khitchakut National Park","coordinates":[102.16334,12.85087]}]}

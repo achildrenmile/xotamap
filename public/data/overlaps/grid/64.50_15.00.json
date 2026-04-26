@@ -1,1 +1,1 @@
-{"lat":64.5,"lon":15,"programs":["sota"],"count":1,"references":[{"code":"SM/JL-031","program":"sota","name":"Bastunäsklumpen","coordinates":[15.0255,64.6802]}]}
+{"lat":64.5,"lon":15,"programs":["sota","wwff"],"count":3,"references":[{"code":"SM/JL-031","program":"sota","name":"Bastunäsklumpen","coordinates":[15.0255,64.6802]},{"code":"SMFF-2505","program":"wwff","name":"Jougdadalen","coordinates":[15.06144,64.50408]},{"code":"SMFF-9697","program":"wwff","name":"Valvkullen","coordinates":[15.11322,64.58983]}]}

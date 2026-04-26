@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-64.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0896","program":"pota","name":"Card Lake Provincial Park","coordinates":[-64.2708,44.7181]}]}
+{"lat":44.5,"lon":-64.5,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"CAN 863","program":"arlhs","name":"Hubbards Cove","coordinates":[-64.5,44.61999893]},{"code":"CA-0896","program":"pota","name":"Card Lake Provincial Park","coordinates":[-64.2708,44.7181]},{"code":"VEFF-0896","program":"wwff","name":"Card Lake Park","coordinates":[-64.26443,44.71937]}]}

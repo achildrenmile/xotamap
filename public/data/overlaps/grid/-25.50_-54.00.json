@@ -1,1 +1,1 @@
-{"lat":-25.5,"lon":-54,"programs":["pota"],"count":1,"references":[{"code":"BR-0766","program":"pota","name":"Iguaçu National Park","coordinates":[-53.8137,-25.4357]}]}
+{"lat":-25.5,"lon":-54,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0766","program":"pota","name":"Iguaçu National Park","coordinates":[-53.8137,-25.4357]},{"code":"PYFF-0018","program":"wwff","name":"Parque Nacional do IGUAÇU - PR","coordinates":[-53.7771,-25.375]}]}

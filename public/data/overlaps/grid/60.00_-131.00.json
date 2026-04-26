@@ -1,1 +1,1 @@
-{"lat":60,"lon":-131,"programs":["pota"],"count":1,"references":[{"code":"CA-4627","program":"pota","name":"Rancheria Falls Recreation Site","coordinates":[-130.82,60.0801]}]}
+{"lat":60,"lon":-131,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4627","program":"pota","name":"Rancheria Falls Recreation Site","coordinates":[-130.82,60.0801]},{"code":"VEFF-2811","program":"wwff","name":"Rancheria Falls","coordinates":[-130.8197,60.08013]}]}

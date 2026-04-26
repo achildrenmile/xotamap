@@ -1,1 +1,1 @@
-{"lat":27.75,"lon":-115.25,"programs":["sota"],"count":1,"references":[{"code":"XE2/BS-749","program":"sota","name":"XE2/BS-749","coordinates":[-115.015,27.75362]}]}
+{"lat":27.75,"lon":-115.25,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"MEX 040","program":"arlhs","name":"Isla Natividad (Baja California)","coordinates":[-115.18000031,27.87000084]},{"code":"XE2/BS-749","program":"sota","name":"XE2/BS-749","coordinates":[-115.015,27.75362]},{"code":"WLOTA-1357","program":"wlota","name":"Isla de Natividad","coordinates":[-115.17700195,27.87299919]}]}

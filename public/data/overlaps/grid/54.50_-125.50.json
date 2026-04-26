@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":-125.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0735","program":"pota","name":"Rubyrock Lake Provincial Park","coordinates":[-125.355,54.6582]}]}
+{"lat":54.5,"lon":-125.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0735","program":"pota","name":"Rubyrock Lake Provincial Park","coordinates":[-125.355,54.6582]},{"code":"VEFF-0735","program":"wwff","name":"Rubyrock Lake Provincial Park","coordinates":[-125.35473,54.65817]}]}

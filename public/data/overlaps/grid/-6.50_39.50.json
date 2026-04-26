@@ -1,1 +1,1 @@
-{"lat":-6.5,"lon":39.5,"programs":["iota"],"count":1,"references":[{"code":"AF-032","program":"iota","name":"ZANZIBAR ISLAND","coordinates":[39.540000915,-6.32999992]}]}
+{"lat":-6.5,"lon":39.5,"programs":["arlhs","iota","wlota"],"count":3,"references":[{"code":"ZAN 009","program":"arlhs","name":"Ras Makaunduchi","coordinates":[39.56999969,-6.42999983]},{"code":"AF-032","program":"iota","name":"ZANZIBAR ISLAND","coordinates":[39.540000915,-6.32999992]},{"code":"WLOTA-1080","program":"wlota","name":"Zanzibar Island","coordinates":[39.56299973,-6.42799997]}]}

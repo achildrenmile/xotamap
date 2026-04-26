@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":-101.75,"programs":["pota"],"count":1,"references":[{"code":"CA-1101","program":"pota","name":"Carlton Trail Regional Park","coordinates":[-101.699,50.677]}]}
+{"lat":50.5,"lon":-101.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1101","program":"pota","name":"Carlton Trail Regional Park","coordinates":[-101.699,50.677]},{"code":"VEFF-1101","program":"wwff","name":"Carlton Trail Regional Park","coordinates":[-101.69851,50.67704]}]}

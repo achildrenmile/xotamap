@@ -1,1 +1,1 @@
-{"lat":-31.75,"lon":-69.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0015","program":"pota","name":"Los Morrillos Provincial Park Reserve","coordinates":[-69.7264,-31.7474]}]}
+{"lat":-31.75,"lon":-69.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0015","program":"pota","name":"Los Morrillos Provincial Park Reserve","coordinates":[-69.7264,-31.7474]},{"code":"LUFF-0181","program":"wwff","name":"Refugio Vida Silvestre Los Morillos","coordinates":[-69.71991,-31.74046]}]}

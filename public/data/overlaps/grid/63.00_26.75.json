@@ -1,1 +1,1 @@
-{"lat":63,"lon":26.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0829","program":"pota","name":"Pangansuo Natura 2000","coordinates":[26.9104,63.1531]}]}
+{"lat":63,"lon":26.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"FI-0829","program":"pota","name":"Pangansuo Natura 2000","coordinates":[26.9104,63.1531]},{"code":"OHFF-0476","program":"wwff","name":"Pangansuo","coordinates":[26.90782,63.15266]},{"code":"OHFF-0484","program":"wwff","name":"Vehmasmäen metsä","coordinates":[26.91903,63.12747]}]}

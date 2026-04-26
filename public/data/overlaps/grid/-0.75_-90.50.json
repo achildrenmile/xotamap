@@ -1,1 +1,1 @@
-{"lat":-0.75,"lon":-90.5,"programs":["pota"],"count":1,"references":[{"code":"EC-0004","program":"pota","name":"Galapagos National Park","coordinates":[-90.323,-0.61969]}]}
+{"lat":-0.75,"lon":-90.5,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"GAL 005","program":"arlhs","name":"Isla Santa Cruz","coordinates":[-90.27999878,-0.75]},{"code":"EC-0004","program":"pota","name":"Galapagos National Park","coordinates":[-90.323,-0.61969]},{"code":"WLOTA-1667","program":"wlota","name":"Isla de Santa Cruz","coordinates":[-90.30999756,-0.74299997]}]}

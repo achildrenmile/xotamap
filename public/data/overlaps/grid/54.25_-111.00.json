@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":-111,"programs":["pota"],"count":1,"references":[{"code":"CA-0660","program":"pota","name":"Moose Lake Provincial Park","coordinates":[-110.93,54.272]}]}
+{"lat":54.25,"lon":-111,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0660","program":"pota","name":"Moose Lake Provincial Park","coordinates":[-110.93,54.272]},{"code":"VEFF-0660","program":"wwff","name":"Moose Lake Provincial Park","coordinates":[-110.93032,54.27204]}]}

@@ -1,1 +1,1 @@
-{"lat":64,"lon":20.25,"programs":["iota"],"count":1,"references":[{"code":"EU-135","program":"iota","name":"VASTERBOTTEN COUNTY group","coordinates":[20.46000004,64.23500061]}]}
+{"lat":64,"lon":20.25,"programs":["iota","wwff"],"count":3,"references":[{"code":"EU-135","program":"iota","name":"VASTERBOTTEN COUNTY group","coordinates":[20.46000004,64.23500061]},{"code":"SMFF-8484","program":"wwff","name":"Krokån","coordinates":[20.33805,64.20509]},{"code":"SMFF-8486","program":"wwff","name":"Rödstensbacken","coordinates":[20.34227,64.19239]}]}

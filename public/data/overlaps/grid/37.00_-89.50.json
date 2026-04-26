@@ -1,1 +1,1 @@
-{"lat":37,"lon":-89.5,"programs":["pota"],"count":1,"references":[{"code":"US-4130","program":"pota","name":"Horseshoe Lake-Alexander State Fish and Wildlife Area","coordinates":[-89.2895,37.1184]}]}
+{"lat":37,"lon":-89.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4130","program":"pota","name":"Horseshoe Lake-Alexander State Fish and Wildlife Area","coordinates":[-89.2895,37.1184]},{"code":"KFF-4130","program":"wwff","name":"Horseshoe Lake-Alexander","coordinates":[-89.28949,37.11844]}]}

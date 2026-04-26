@@ -1,1 +1,1 @@
-{"lat":-30.5,"lon":150.5,"programs":["pota"],"count":1,"references":[{"code":"AU-1627","program":"pota","name":"Woodsreef State Conservation Area","coordinates":[150.738,-30.3832]}]}
+{"lat":-30.5,"lon":150.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1627","program":"pota","name":"Woodsreef State Conservation Area","coordinates":[150.738,-30.3832]},{"code":"VKFF-1405","program":"wwff","name":"Woodsreef State Conservation Area","coordinates":[150.73801,-30.3832]}]}

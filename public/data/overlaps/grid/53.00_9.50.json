@@ -1,1 +1,1 @@
-{"lat":53,"lon":9.5,"programs":["pota"],"count":1,"references":[{"code":"DE-0267","program":"pota","name":"Obere Wümmeniederung Nature Reserve","coordinates":[9.72718,53.2235]}]}
+{"lat":53,"lon":9.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"DE-0267","program":"pota","name":"Obere Wümmeniederung Nature Reserve","coordinates":[9.72718,53.2235]},{"code":"DLFF-0159","program":"wwff","name":"Nature Reserve Obere W?mmeniederung","coordinates":[9.73639,53.21972]}]}

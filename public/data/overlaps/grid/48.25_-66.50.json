@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":-66.5,"programs":["sota"],"count":1,"references":[{"code":"VE2/GA-092","program":"sota","name":"VE2/GA-092","coordinates":[-66.4832,48.4792]}]}
+{"lat":48.25,"lon":-66.5,"programs":["arlhs","sota"],"count":2,"references":[{"code":"CAN 1409","program":"arlhs","name":"Inch Aaron Range Rear","coordinates":[-66.34999847,48.29999924]},{"code":"VE2/GA-092","program":"sota","name":"VE2/GA-092","coordinates":[-66.4832,48.4792]}]}

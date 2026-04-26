@@ -1,1 +1,1 @@
-{"lat":-14,"lon":-76.5,"programs":["pota"],"count":1,"references":[{"code":"PE-0052","program":"pota","name":"reserva Nacional Paracas National Park Reserve","coordinates":[-76.3338,-13.851]}]}
+{"lat":-14,"lon":-76.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"PE-0052","program":"pota","name":"reserva Nacional Paracas National Park Reserve","coordinates":[-76.3338,-13.851]},{"code":"WLOTA-1266","program":"wlota","name":"Isla San Gallan","coordinates":[-76.45300293,-13.81999969]}]}

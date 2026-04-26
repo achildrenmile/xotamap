@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":28.25,"programs":["pota"],"count":1,"references":[{"code":"BY-0006","program":"pota","name":"Бярэзінскі Biosphere Reserve","coordinates":[28.312,54.748]}]}
+{"lat":54.5,"lon":28.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BY-0006","program":"pota","name":"Бярэзінскі Biosphere Reserve","coordinates":[28.312,54.748]},{"code":"EWFF-0004","program":"wwff","name":"Berezinskiy","coordinates":[28.32825,54.70399]}]}

@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":-53.25,"programs":["pota"],"count":1,"references":[{"code":"CA-0807","program":"pota","name":"Chance Cove Provincial Park","coordinates":[-53.0267,46.7716]}]}
+{"lat":46.75,"lon":-53.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0807","program":"pota","name":"Chance Cove Provincial Park","coordinates":[-53.0267,46.7716]},{"code":"VEFF-0807","program":"wwff","name":"Chance Cove Provincial Park","coordinates":[-53.02675,46.77161]}]}

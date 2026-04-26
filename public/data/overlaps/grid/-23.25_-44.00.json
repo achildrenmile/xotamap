@@ -1,1 +1,1 @@
-{"lat":-23.25,"lon":-44,"programs":["sota"],"count":1,"references":[{"code":"PY1/IG-014","program":"sota","name":"Pico da Marambaia","coordinates":[-43.987,-23.0771]}]}
+{"lat":-23.25,"lon":-44,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"BRA 151","program":"arlhs","name":"Marambaia (RJ)","coordinates":[-43.83000183,-23.12000084]},{"code":"PY1/IG-014","program":"sota","name":"Pico da Marambaia","coordinates":[-43.987,-23.0771]},{"code":"WLOTA-0715","program":"wlota","name":"Ilha de Marambaia","coordinates":[-43.83499908,-23.11499977]}]}

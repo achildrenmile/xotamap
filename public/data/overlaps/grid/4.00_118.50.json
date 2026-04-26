@@ -1,1 +1,1 @@
-{"lat":4,"lon":118.5,"programs":["pota"],"count":1,"references":[{"code":"MY-0060","program":"pota","name":"Sipadan Island Park","coordinates":[118.628,4.11783]}]}
+{"lat":4,"lon":118.5,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"EMA 007","program":"arlhs","name":"Pulau Sipadan (Sabah)","coordinates":[118.62999725,4.11999989]},{"code":"MY-0060","program":"pota","name":"Sipadan Island Park","coordinates":[118.628,4.11783]},{"code":"WLOTA-3161","program":"wlota","name":"Pulau Sipadan","coordinates":[118.63200378,4.11000013]}]}

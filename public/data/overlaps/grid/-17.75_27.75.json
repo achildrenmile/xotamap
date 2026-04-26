@@ -1,1 +1,1 @@
-{"lat":-17.75,"lon":27.75,"programs":["pota"],"count":1,"references":[{"code":"ZW-0002","program":"pota","name":"Chizarira National Park","coordinates":[27.8797,-17.7407]}]}
+{"lat":-17.75,"lon":27.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"ZW-0002","program":"pota","name":"Chizarira National Park","coordinates":[27.8797,-17.7407]},{"code":"Z2FF-0002","program":"wwff","name":"Chizarira","coordinates":[27.87,-17.73]}]}

@@ -1,1 +1,1 @@
-{"lat":35.75,"lon":-119.75,"programs":["pota"],"count":1,"references":[{"code":"US-10875","program":"pota","name":"Kern National Wildlife Refuge","coordinates":[-119.581,35.7603]}]}
+{"lat":35.75,"lon":-119.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-10875","program":"pota","name":"Kern National Wildlife Refuge","coordinates":[-119.581,35.7603]},{"code":"KFF-0197","program":"wwff","name":"Kern","coordinates":[-119.58045,35.76078]},{"code":"KFF-7005","program":"wwff","name":"Kern","coordinates":[-119.581,35.7603]}]}

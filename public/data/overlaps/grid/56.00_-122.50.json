@@ -1,1 +1,1 @@
-{"lat":56,"lon":-122.5,"programs":["pota"],"count":1,"references":[{"code":"CA-3288","program":"pota","name":"Butler Ridge Provincial Park","coordinates":[-122.363,56.148]}]}
+{"lat":56,"lon":-122.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-3288","program":"pota","name":"Butler Ridge Provincial Park","coordinates":[-122.363,56.148]},{"code":"VEFF-2062","program":"wwff","name":"Butler Ridge Provincial Park","coordinates":[-122.27934,56.16067]}]}

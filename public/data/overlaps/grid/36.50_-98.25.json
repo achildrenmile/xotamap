@@ -1,1 +1,1 @@
-{"lat":36.5,"lon":-98.25,"programs":["pota"],"count":1,"references":[{"code":"US-2783","program":"pota","name":"Salt Plains State Park","coordinates":[-98.1329,36.743]}]}
+{"lat":36.5,"lon":-98.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2783","program":"pota","name":"Salt Plains State Park","coordinates":[-98.1329,36.743]},{"code":"KFF-2783","program":"wwff","name":"Great Salt Plains","coordinates":[-98.13293,36.74296]}]}

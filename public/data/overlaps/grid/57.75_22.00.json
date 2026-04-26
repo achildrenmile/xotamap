@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":22,"programs":["pota"],"count":1,"references":[{"code":"EE-0153","program":"pota","name":"Kura kurgu linnuala Natura 2000","coordinates":[22.0425,57.8938]}]}
+{"lat":57.75,"lon":22,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"EST 023","program":"arlhs","name":"Kaavi (Saaremaa Island)","coordinates":[22.19000053,57.97999954]},{"code":"EE-0153","program":"pota","name":"Kura kurgu linnuala Natura 2000","coordinates":[22.0425,57.8938]},{"code":"ESFF-0310","program":"wwff","name":"Vesitükimaa hoiuala","coordinates":[22.03032,57.92111]}]}

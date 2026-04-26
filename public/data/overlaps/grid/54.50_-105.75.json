@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":-105.75,"programs":["pota"],"count":1,"references":[{"code":"CA-2759","program":"pota","name":"Montreal River Recreation Site","coordinates":[-105.688,54.7263]}]}
+{"lat":54.5,"lon":-105.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2759","program":"pota","name":"Montreal River Recreation Site","coordinates":[-105.688,54.7263]},{"code":"VEFF-5101","program":"wwff","name":"Montreal River Recreation Site","coordinates":[-105.69499,54.72164]}]}

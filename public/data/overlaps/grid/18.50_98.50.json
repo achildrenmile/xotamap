@@ -1,1 +1,1 @@
-{"lat":18.5,"lon":98.5,"programs":["pota"],"count":1,"references":[{"code":"TH-0069","program":"pota","name":"Mae Wang National Park","coordinates":[98.7042,18.6381]}]}
+{"lat":18.5,"lon":98.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"TH-0069","program":"pota","name":"Mae Wang National Park","coordinates":[98.7042,18.6381]},{"code":"HSFF-0008","program":"wwff","name":"Doi Inthanon National Park","coordinates":[98.52135,18.53678]},{"code":"HSFF-0048","program":"wwff","name":"Mae Wang National Park","coordinates":[98.72384,18.53836]}]}

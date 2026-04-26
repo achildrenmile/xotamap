@@ -1,1 +1,1 @@
-{"lat":63.75,"lon":8.25,"programs":["pota"],"count":1,"references":[{"code":"NO-2379","program":"pota","name":"Vassholmen Nature Reserve","coordinates":[8.37573,63.7537]}]}
+{"lat":63.75,"lon":8.25,"programs":["arlhs","pota","wlota"],"count":3,"references":[{"code":"NOR 043","program":"arlhs","name":"Sula","coordinates":[8.44999981,63.84999847]},{"code":"NO-2379","program":"pota","name":"Vassholmen Nature Reserve","coordinates":[8.37573,63.7537]},{"code":"WLOTA-1307","program":"wlota","name":"Sula Island - Store Sula","coordinates":[8.45300007,63.84700012]}]}

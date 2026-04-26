@@ -1,1 +1,1 @@
-{"lat":43,"lon":40.25,"programs":["pota"],"count":1,"references":[{"code":"GE-0037","program":"pota","name":"Bichvinta-Miuseri Nature Reserve","coordinates":[40.4256,43.1742]}]}
+{"lat":43,"lon":40.25,"programs":["arlhs","pota"],"count":2,"references":[{"code":"GEO 002","program":"arlhs","name":"Mys Pitsunda","coordinates":[40.34999847,43.15000153]},{"code":"GE-0037","program":"pota","name":"Bichvinta-Miuseri Nature Reserve","coordinates":[40.4256,43.1742]}]}

@@ -1,1 +1,1 @@
-{"lat":30,"lon":-82.5,"programs":["pota"],"count":1,"references":[{"code":"US-3642","program":"pota","name":"Olustee Battlefield State Park","coordinates":[-82.3804,30.2189]}]}
+{"lat":30,"lon":-82.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-3642","program":"pota","name":"Olustee Battlefield State Park","coordinates":[-82.3804,30.2189]},{"code":"KFF-3642","program":"wwff","name":"Olustee Battlefield","coordinates":[-82.38037,30.21892]}]}

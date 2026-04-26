@@ -1,1 +1,1 @@
-{"lat":-32,"lon":149.25,"programs":["pota"],"count":1,"references":[{"code":"AU-2154","program":"pota","name":"Adelyne State Conservation Area","coordinates":[149.257,-31.9568]}]}
+{"lat":-32,"lon":149.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-2154","program":"pota","name":"Adelyne State Conservation Area","coordinates":[149.257,-31.9568]},{"code":"VKFF-1267","program":"wwff","name":"Adelyne State Conservation Area","coordinates":[149.25681,-31.9568]}]}

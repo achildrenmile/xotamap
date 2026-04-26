@@ -1,1 +1,1 @@
-{"lat":-28,"lon":150,"programs":["pota"],"count":1,"references":[{"code":"AU-1079","program":"pota","name":"Southwood National Park","coordinates":[150.137,-27.8134]}]}
+{"lat":-28,"lon":150,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-1079","program":"pota","name":"Southwood National Park","coordinates":[150.137,-27.8134]},{"code":"VKFF-0462","program":"wwff","name":"Southwood National Park","coordinates":[150.1021,-27.8242]}]}

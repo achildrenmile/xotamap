@@ -1,1 +1,1 @@
-{"lat":39.75,"lon":-83.5,"programs":["pota"],"count":1,"references":[{"code":"US-1973","program":"pota","name":"Madison Lake State Park","coordinates":[-83.3737,39.8705]}]}
+{"lat":39.75,"lon":-83.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-1973","program":"pota","name":"Madison Lake State Park","coordinates":[-83.3737,39.8705]},{"code":"KFF-1973","program":"wwff","name":"Madison Lake","coordinates":[-83.37366,39.87048]}]}

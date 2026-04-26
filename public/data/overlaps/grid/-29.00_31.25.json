@@ -1,1 +1,1 @@
-{"lat":-29,"lon":31.25,"programs":["sota"],"count":1,"references":[{"code":"ZS/KN-365","program":"sota","name":"ZS/KN-365","coordinates":[31.2908,-28.8535]}]}
+{"lat":-29,"lon":31.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"ZS/KN-365","program":"sota","name":"ZS/KN-365","coordinates":[31.2908,-28.8535]},{"code":"ZSFF-0102","program":"wwff","name":"Dlinza Forest Nature Reserve","coordinates":[31.45259,-28.89632]}]}

@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":18.25,"programs":["gma"],"count":1,"references":[{"code":"HG/DD-215","program":"gma","name":"GarÃ¡b-hegy (FelsÃµnyÃ©k)","coordinates":[18.2545,46.7782]}]}
+{"lat":46.75,"lon":18.25,"programs":["gma","wca"],"count":2,"references":[{"code":"HG/DD-215","program":"gma","name":"GarÃ¡b-hegy (FelsÃµnyÃ©k)","coordinates":[18.2545,46.7782]},{"code":"HA-00032","program":"wca","name":"Ozorai Pipo Vara","coordinates":[18.40027778,46.75277778]}]}

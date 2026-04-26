@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-105.5,"programs":["pota"],"count":1,"references":[{"code":"CA-1122","program":"pota","name":"Lucien Lake Regional Park","coordinates":[-105.317,52.4803]}]}
+{"lat":52.25,"lon":-105.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-1122","program":"pota","name":"Lucien Lake Regional Park","coordinates":[-105.317,52.4803]},{"code":"VEFF-1122","program":"wwff","name":"Lucien Lake Regional Park","coordinates":[-105.31732,52.48033]}]}

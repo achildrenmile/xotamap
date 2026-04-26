@@ -1,1 +1,1 @@
-{"lat":31.75,"lon":-96.25,"programs":["pota"],"count":1,"references":[{"code":"US-6596","program":"pota","name":"Richland Creek Wildlife Management Area","coordinates":[-96.0974,31.9531]}]}
+{"lat":31.75,"lon":-96.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-6596","program":"pota","name":"Richland Creek Wildlife Management Area","coordinates":[-96.0974,31.9531]},{"code":"KFF-3007","program":"wwff","name":"Fairfield Lake","coordinates":[-96.06967,31.7698]},{"code":"KFF-4890","program":"wwff","name":"Richmond Creek","coordinates":[-96.05853,31.92655]}]}

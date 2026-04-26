@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":-115,"programs":["pota"],"count":1,"references":[{"code":"CA-2936","program":"pota","name":"Bentz Lake Natural Area","coordinates":[-114.861,51.8009]}]}
+{"lat":51.75,"lon":-115,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-2936","program":"pota","name":"Bentz Lake Natural Area","coordinates":[-114.861,51.8009]},{"code":"VEFF-1989","program":"wwff","name":"Bentz Lake Natural Area","coordinates":[-114.8576,51.79873]}]}

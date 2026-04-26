@@ -1,1 +1,1 @@
-{"lat":41.75,"lon":-94.5,"programs":["pota"],"count":1,"references":[{"code":"US-2320","program":"pota","name":"Springbrook State Park","coordinates":[-94.4667,41.7715]}]}
+{"lat":41.75,"lon":-94.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-2320","program":"pota","name":"Springbrook State Park","coordinates":[-94.4667,41.7715]},{"code":"KFF-2320","program":"wwff","name":"Springbrook","coordinates":[-94.47142,41.77284]},{"code":"KFF-6761","program":"wwff","name":"Saylorville","coordinates":[-94.376,41.957]}]}

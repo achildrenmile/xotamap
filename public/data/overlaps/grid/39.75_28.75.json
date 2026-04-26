@@ -1,1 +1,1 @@
-{"lat":39.75,"lon":28.75,"programs":["pota"],"count":1,"references":[{"code":"TR-0212","program":"pota","name":"Sadağı Kanyonu Nature Park","coordinates":[28.907,39.8705]}]}
+{"lat":39.75,"lon":28.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0212","program":"pota","name":"Sadağı Kanyonu Nature Park","coordinates":[28.907,39.8705]},{"code":"TAFF-0093","program":"wwff","name":"Sadagi Kanyonu Tabiat Parki","coordinates":[28.90674,39.87096]}]}

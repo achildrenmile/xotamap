@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-106,"programs":["pota"],"count":1,"references":[{"code":"CA-6338","program":"pota","name":"Dana Recreation Site","coordinates":[-105.755,52.2507]}]}
+{"lat":52.25,"lon":-106,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6338","program":"pota","name":"Dana Recreation Site","coordinates":[-105.755,52.2507]},{"code":"VEFF-4202","program":"wwff","name":"Dana Recreation Site","coordinates":[-105.7552,52.25156]}]}

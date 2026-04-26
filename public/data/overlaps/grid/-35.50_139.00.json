@@ -1,1 +1,1 @@
-{"lat":-35.5,"lon":139,"programs":["pota"],"count":1,"references":[{"code":"AU-0659","program":"pota","name":"Tolderol Game Reserve","coordinates":[139.15,-35.3708]}]}
+{"lat":-35.5,"lon":139,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"AUS 114","program":"arlhs","name":"Narrung","coordinates":[139,-35.5]},{"code":"AU-0659","program":"pota","name":"Tolderol Game Reserve","coordinates":[139.15,-35.3708]},{"code":"VKFF-1752","program":"wwff","name":"Tolderol Game Reserve","coordinates":[139.14951,-35.3708]}]}

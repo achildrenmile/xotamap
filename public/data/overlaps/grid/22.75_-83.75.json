@@ -1,1 +1,1 @@
-{"lat":22.75,"lon":-83.75,"programs":["pota"],"count":1,"references":[{"code":"CU-0359","program":"pota","name":"Cayo Levisa - Corona de San Carlos Marine Reserve","coordinates":[-83.532,22.8806]}]}
+{"lat":22.75,"lon":-83.75,"programs":["pota","wlota"],"count":2,"references":[{"code":"CU-0359","program":"pota","name":"Cayo Levisa - Corona de San Carlos Marine Reserve","coordinates":[-83.532,22.8806]},{"code":"WLOTA-0324","program":"wlota","name":"Cayo Arenas","coordinates":[-83.65499878,22.83699989]}]}

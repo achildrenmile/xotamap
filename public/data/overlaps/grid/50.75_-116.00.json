@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":-116,"programs":["pota"],"count":1,"references":[{"code":"CA-0045","program":"pota","name":"Kootenay National Park","coordinates":[-115.959,50.9769]}]}
+{"lat":50.75,"lon":-116,"programs":["pota","wwff"],"count":3,"references":[{"code":"CA-0045","program":"pota","name":"Kootenay National Park","coordinates":[-115.959,50.9769]},{"code":"VEFF-0045","program":"wwff","name":"Kootenay National Park","coordinates":[-115.95922,50.97708]},{"code":"VEFF-1704","program":"wwff","name":"Mount Assiniboine Provincial Park","coordinates":[-115.75877,50.94488]}]}

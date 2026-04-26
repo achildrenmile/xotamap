@@ -1,1 +1,1 @@
-{"lat":56,"lon":48.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0023","program":"pota","name":"Mariy Chodra National Park","coordinates":[48.4381,56.1417]}]}
+{"lat":56,"lon":48.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0023","program":"pota","name":"Mariy Chodra National Park","coordinates":[48.4381,56.1417]},{"code":"RFF-0128","program":"wwff","name":"Mariy Chodra","coordinates":[48.414,56.12183]}]}

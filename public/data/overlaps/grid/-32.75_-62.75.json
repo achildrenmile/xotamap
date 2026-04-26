@@ -1,1 +1,1 @@
-{"lat":-32.75,"lon":-62.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0063","program":"pota","name":"Francisco Tau Natura 2000","coordinates":[-62.7004,-32.627]}]}
+{"lat":-32.75,"lon":-62.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0063","program":"pota","name":"Francisco Tau Natura 2000","coordinates":[-62.7004,-32.627]},{"code":"LUFF-0148","program":"wwff","name":"R.N M Francisco TAU","coordinates":[-62.70041,-32.62697]}]}

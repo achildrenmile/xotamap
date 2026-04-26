@@ -1,1 +1,1 @@
-{"lat":36.5,"lon":25.25,"programs":["sota"],"count":1,"references":[{"code":"SV/AG-035","program":"sota","name":"Pyrgos","coordinates":[25.336111,36.71417]}]}
+{"lat":36.5,"lon":25.25,"programs":["sota","wlota","wwff"],"count":3,"references":[{"code":"SV/AG-035","program":"sota","name":"Pyrgos","coordinates":[25.336111,36.71417]},{"code":"WLOTA-4117","program":"wlota","name":"Nisos Ios","coordinates":[25.26000023,36.71699905]},{"code":"SVFF-0287","program":"wwff","name":"Anemomyloi-Psathi-Kalamos-Profitis Ilias","coordinates":[25.34241,36.71365]}]}

@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":-116,"programs":["pota"],"count":1,"references":[{"code":"CA-0653","program":"pota","name":"Hilliard's Bay Provincial Park","coordinates":[-115.974,55.51]}]}
+{"lat":55.5,"lon":-116,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0653","program":"pota","name":"Hilliard's Bay Provincial Park","coordinates":[-115.974,55.51]},{"code":"VEFF-0653","program":"wwff","name":"Hilliard's Bay Provincial Park","coordinates":[-115.97408,55.50997]}]}

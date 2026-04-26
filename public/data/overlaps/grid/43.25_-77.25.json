@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":-77.25,"programs":["pota"],"count":1,"references":[{"code":"US-2012","program":"pota","name":"Beechwood State Park","coordinates":[-77.0263,43.265]}]}
+{"lat":43.25,"lon":-77.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2012","program":"pota","name":"Beechwood State Park","coordinates":[-77.0263,43.265]},{"code":"KFF-2012","program":"wwff","name":"Beechwood","coordinates":[-77.02629,43.26501]}]}

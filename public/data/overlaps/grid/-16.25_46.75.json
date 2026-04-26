@@ -1,1 +1,1 @@
-{"lat":-16.25,"lon":46.75,"programs":["pota"],"count":1,"references":[{"code":"MG-0005","program":"pota","name":"Ankarafantsika National Park","coordinates":[46.95,-16.22]}]}
+{"lat":-16.25,"lon":46.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"MG-0005","program":"pota","name":"Ankarafantsika National Park","coordinates":[46.95,-16.22]},{"code":"5RFF-0004","program":"wwff","name":"Ankarafantsika","coordinates":[46.95,-16.15]}]}

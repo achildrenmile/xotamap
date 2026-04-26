@@ -1,1 +1,1 @@
-{"lat":6.75,"lon":93.75,"programs":["pota"],"count":1,"references":[{"code":"IN-0002","program":"pota","name":"Galathea National Park","coordinates":[93.8483,6.83909]}]}
+{"lat":6.75,"lon":93.75,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"AND 007","program":"arlhs","name":"Indira Point (Nicobar)","coordinates":[93.83000183,6.75]},{"code":"IN-0002","program":"pota","name":"Galathea National Park","coordinates":[93.8483,6.83909]},{"code":"VUFF-0021","program":"wwff","name":"Galathea","coordinates":[93.83,6.92]}]}

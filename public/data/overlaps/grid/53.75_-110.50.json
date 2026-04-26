@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-110.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4777","program":"pota","name":"Frog Lake National Historic Site","coordinates":[-110.359,53.831]}]}
+{"lat":53.75,"lon":-110.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4777","program":"pota","name":"Frog Lake National Historic Site","coordinates":[-110.359,53.831]},{"code":"VEFF-1600","program":"wwff","name":"Frog Lake N.H.S.","coordinates":[-110.35868,53.83108]}]}

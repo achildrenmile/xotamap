@@ -1,1 +1,1 @@
-{"lat":48,"lon":-53.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0737","program":"wwbota","name":"FRP ED42","coordinates":[-53.218126,48.02623603]}]}
+{"lat":48,"lon":-53.25,"programs":["arlhs","wwbota"],"count":2,"references":[{"code":"CAN 688","program":"arlhs","name":"Hant&#039;s Harbour","coordinates":[-53.25,48.20000076]},{"code":"B/CA-0737","program":"wwbota","name":"FRP ED42","coordinates":[-53.218126,48.02623603]}]}

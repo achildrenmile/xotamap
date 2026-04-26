@@ -1,1 +1,1 @@
-{"lat":34.5,"lon":-81.25,"programs":["pota"],"count":1,"references":[{"code":"US-2889","program":"pota","name":"Chester State Park","coordinates":[-81.2488,34.6835]}]}
+{"lat":34.5,"lon":-81.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2889","program":"pota","name":"Chester State Park","coordinates":[-81.2488,34.6835]},{"code":"KFF-2889","program":"wwff","name":"Chester","coordinates":[-81.2442,34.6823]}]}

@@ -1,1 +1,1 @@
-{"lat":15.25,"lon":98.75,"programs":["pota"],"count":1,"references":[{"code":"TH-0304","program":"pota","name":"Thung Yai Naresuan Wildlife Area","coordinates":[98.9166,15.3335]}]}
+{"lat":15.25,"lon":98.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"TH-0304","program":"pota","name":"Thung Yai Naresuan Wildlife Area","coordinates":[98.9166,15.3335]},{"code":"HSFF-0104","program":"wwff","name":"Thungyai Naresuan","coordinates":[98.79966,15.34272]}]}

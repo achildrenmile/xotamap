@@ -1,1 +1,1 @@
-{"lat":15.25,"lon":105.25,"programs":["pota"],"count":1,"references":[{"code":"TH-0027","program":"pota","name":"Kaeng Tana National Park","coordinates":[105.477,15.2997]}]}
+{"lat":15.25,"lon":105.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"TH-0027","program":"pota","name":"Kaeng Tana National Park","coordinates":[105.477,15.2997]},{"code":"HSFF-0022","program":"wwff","name":"Kaeng Tana National Park","coordinates":[105.47681,15.29961]},{"code":"HSFF-0070","program":"wwff","name":"Pha Taem National Park","coordinates":[105.49994,15.40213]}]}

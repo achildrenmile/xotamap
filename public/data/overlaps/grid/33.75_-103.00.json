@@ -1,1 +1,1 @@
-{"lat":33.75,"lon":-103,"programs":["pota"],"count":1,"references":[{"code":"US-0552","program":"pota","name":"Muleshoe National Wildlife Refuge","coordinates":[-102.762,33.9589]}]}
+{"lat":33.75,"lon":-103,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0552","program":"pota","name":"Muleshoe National Wildlife Refuge","coordinates":[-102.762,33.9589]},{"code":"KFF-0552","program":"wwff","name":"Muleshoe","coordinates":[-102.7622,33.95894]}]}

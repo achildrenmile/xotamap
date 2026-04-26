@@ -1,1 +1,1 @@
-{"lat":41.5,"lon":-81.5,"programs":["pota"],"count":1,"references":[{"code":"US-0836","program":"pota","name":"James A. Garfield National Historic Site","coordinates":[-81.3515,41.6649]}]}
+{"lat":41.5,"lon":-81.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-0836","program":"pota","name":"James A. Garfield National Historic Site","coordinates":[-81.3515,41.6649]},{"code":"KFF-0836","program":"wwff","name":"James A. Garfield","coordinates":[-81.35151,41.66487]},{"code":"KFF-6449","program":"wwff","name":"Mentor Marsh","coordinates":[-81.3054,41.7297]}]}

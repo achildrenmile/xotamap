@@ -1,1 +1,1 @@
-{"lat":33.25,"lon":-82.25,"programs":["pota"],"count":1,"references":[{"code":"US-4654","program":"pota","name":"Spirit Creek Forest Wildlife Management Area","coordinates":[-82.0223,33.3469]}]}
+{"lat":33.25,"lon":-82.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4654","program":"pota","name":"Spirit Creek Forest Wildlife Management Area","coordinates":[-82.0223,33.3469]},{"code":"KFF-6044","program":"wwff","name":"Spirit Creek Educational","coordinates":[-82.0207,33.3524]}]}

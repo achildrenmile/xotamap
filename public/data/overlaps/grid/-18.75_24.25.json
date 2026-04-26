@@ -1,1 +1,1 @@
-{"lat":-18.75,"lon":24.25,"programs":["pota"],"count":1,"references":[{"code":"BW-0002","program":"pota","name":"Chobe National Park","coordinates":[24.4203,-18.7336]}]}
+{"lat":-18.75,"lon":24.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"BW-0002","program":"pota","name":"Chobe National Park","coordinates":[24.4203,-18.7336]},{"code":"A2FF-0002","program":"wwff","name":"Chobe National Park","coordinates":[24.38,-18.62]}]}

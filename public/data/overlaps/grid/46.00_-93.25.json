@@ -1,1 +1,1 @@
-{"lat":46,"lon":-93.25,"programs":["pota"],"count":1,"references":[{"code":"US-4829","program":"pota","name":"Snake River State Forest","coordinates":[-93.2058,46.1187]}]}
+{"lat":46,"lon":-93.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-4829","program":"pota","name":"Snake River State Forest","coordinates":[-93.2058,46.1187]},{"code":"KFF-5515","program":"wwff","name":"Snake River","coordinates":[-93.20483,46.11513]}]}

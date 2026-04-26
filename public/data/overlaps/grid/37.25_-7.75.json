@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":-7.75,"programs":["pota"],"count":1,"references":[{"code":"PT-0374","program":"pota","name":"Terras da Ordem National Forest","coordinates":[-7.50474,37.3498]}]}
+{"lat":37.25,"lon":-7.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"PT-0374","program":"pota","name":"Terras da Ordem National Forest","coordinates":[-7.50474,37.3498]},{"code":"CTFF-0244","program":"wwff","name":"Mata Nacional das Terras da Ordem, Castro Marim","coordinates":[-7.50224,37.35052]}]}

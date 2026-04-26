@@ -1,1 +1,1 @@
-{"lat":-42,"lon":-72.5,"programs":["pota"],"count":1,"references":[{"code":"CL-0064","program":"pota","name":"Hornopiren National Park","coordinates":[-72.2667,-41.9167]}]}
+{"lat":-42,"lon":-72.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CL-0064","program":"pota","name":"Hornopiren National Park","coordinates":[-72.2667,-41.9167]},{"code":"CEFF-0010","program":"wwff","name":"Hornopir","coordinates":[-72.28,-41.97]}]}

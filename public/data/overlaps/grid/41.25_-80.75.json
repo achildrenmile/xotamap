@@ -1,1 +1,1 @@
-{"lat":41.25,"lon":-80.75,"programs":["pota"],"count":1,"references":[{"code":"US-9500","program":"pota","name":"Shenango State Wildlife Area","coordinates":[-80.551,41.3874]}]}
+{"lat":41.25,"lon":-80.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-9500","program":"pota","name":"Shenango State Wildlife Area","coordinates":[-80.551,41.3874]},{"code":"KFF-5918","program":"wwff","name":"Shenango","coordinates":[-80.551,41.3874]}]}

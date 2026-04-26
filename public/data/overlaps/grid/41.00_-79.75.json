@@ -1,1 +1,1 @@
-{"lat":41,"lon":-79.75,"programs":["pota"],"count":1,"references":[{"code":"US-8794","program":"pota","name":"PA 095 State Game Land","coordinates":[-79.7048,41.0812]}]}
+{"lat":41,"lon":-79.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-8794","program":"pota","name":"PA 095 State Game Land","coordinates":[-79.7048,41.0812]},{"code":"KFF-6157","program":"wwff","name":"State Game Land PA 095","coordinates":[-79.7048,41.0812]}]}

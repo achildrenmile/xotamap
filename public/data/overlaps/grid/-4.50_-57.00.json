@@ -1,1 +1,1 @@
-{"lat":-4.5,"lon":-57,"programs":["pota"],"count":1,"references":[{"code":"BR-0002","program":"pota","name":"Amazônia National Park","coordinates":[-56.8339,-4.38638]}]}
+{"lat":-4.5,"lon":-57,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0002","program":"pota","name":"Amazônia National Park","coordinates":[-56.8339,-4.38638]},{"code":"PYFF-0002","program":"wwff","name":"Parque Nacional da AMAZONIA - AM - PA","coordinates":[-56.8784,-4.3023]}]}

@@ -1,1 +1,1 @@
-{"lat":31.5,"lon":-83,"programs":["pota"],"count":1,"references":[{"code":"US-2178","program":"pota","name":"General Coffee State Park","coordinates":[-82.7553,31.5088]}]}
+{"lat":31.5,"lon":-83,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2178","program":"pota","name":"General Coffee State Park","coordinates":[-82.7553,31.5088]},{"code":"KFF-2178","program":"wwff","name":"General Coffee","coordinates":[-82.76977,31.52386]}]}

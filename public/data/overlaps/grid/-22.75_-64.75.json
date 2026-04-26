@@ -1,1 +1,1 @@
-{"lat":-22.75,"lon":-64.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0118","program":"pota","name":"Baritu National Park","coordinates":[-64.6287,-22.597]}]}
+{"lat":-22.75,"lon":-64.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0118","program":"pota","name":"Baritu National Park","coordinates":[-64.6287,-22.597]},{"code":"LUFF-0001","program":"wwff","name":"Baritu´","coordinates":[-64.62866,-22.59697]}]}

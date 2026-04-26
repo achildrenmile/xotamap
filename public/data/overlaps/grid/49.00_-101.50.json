@@ -1,1 +1,1 @@
-{"lat":49,"lon":-101.5,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0452","program":"wwbota","name":"FRP DE42","coordinates":[-101.295451,49.0014239]}]}
+{"lat":49,"lon":-101.5,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/CA-0452","program":"wwbota","name":"FRP DE42","coordinates":[-101.295451,49.0014239]},{"code":"VEFF-4977","program":"wwff","name":"Frank W. Boyd Wildlife Management Area","coordinates":[-101.32907,49.11085]}]}

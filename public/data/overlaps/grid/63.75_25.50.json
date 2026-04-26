@@ -1,1 +1,1 @@
-{"lat":63.75,"lon":25.5,"programs":["pota"],"count":1,"references":[{"code":"FI-0207","program":"pota","name":"Latvakangas Natura 2000","coordinates":[25.7375,63.9107]}]}
+{"lat":63.75,"lon":25.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0207","program":"pota","name":"Latvakangas Natura 2000","coordinates":[25.7375,63.9107]},{"code":"OHFF-0360","program":"wwff","name":"Latvakangas","coordinates":[25.73753,63.91074]}]}

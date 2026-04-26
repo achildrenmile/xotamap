@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":135.25,"programs":["pota"],"count":1,"references":[{"code":"RU-0050","program":"pota","name":"Udegeyskaya Legenda National Park","coordinates":[135.476,45.7572]}]}
+{"lat":45.75,"lon":135.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0050","program":"pota","name":"Udegeyskaya Legenda National Park","coordinates":[135.476,45.7572]},{"code":"RFF-0173","program":"wwff","name":"Udegeyskaya Legenda","coordinates":[135.48338,45.76704]}]}

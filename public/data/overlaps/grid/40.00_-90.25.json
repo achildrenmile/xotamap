@@ -1,1 +1,1 @@
-{"lat":40,"lon":-90.25,"programs":["pota"],"count":1,"references":[{"code":"US-10100","program":"pota","name":"Anderson Lake State Fish and Wildlife Area","coordinates":[-90.2019,40.1974]}]}
+{"lat":40,"lon":-90.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-10100","program":"pota","name":"Anderson Lake State Fish and Wildlife Area","coordinates":[-90.2019,40.1974]},{"code":"KFF-6576","program":"wwff","name":"Anderson Lake","coordinates":[-90.213,40.19]}]}

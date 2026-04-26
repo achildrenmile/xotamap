@@ -1,1 +1,1 @@
-{"lat":61,"lon":-117.5,"programs":["pota"],"count":1,"references":[{"code":"CA-4324","program":"pota","name":"Dory Point Territorial Park","coordinates":[-117.483,61.2452]}]}
+{"lat":61,"lon":-117.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-4324","program":"pota","name":"Dory Point Territorial Park","coordinates":[-117.483,61.2452]},{"code":"VEFF-2220","program":"wwff","name":"Dory Point Territorial Park","coordinates":[-117.47735,61.23955]}]}

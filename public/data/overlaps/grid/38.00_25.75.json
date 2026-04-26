@@ -1,1 +1,1 @@
-{"lat":38,"lon":25.75,"programs":["sota"],"count":1,"references":[{"code":"SV/AG-019","program":"sota","name":"Traxonas","coordinates":[25.987223,38.17389]}]}
+{"lat":38,"lon":25.75,"programs":["sota","wlota"],"count":2,"references":[{"code":"SV/AG-019","program":"sota","name":"Traxonas","coordinates":[25.987223,38.17389]},{"code":"WLOTA-4103","program":"wlota","name":"Nisos Chios","coordinates":[25.92499924,38.20299911]}]}

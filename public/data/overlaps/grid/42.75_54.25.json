@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":54.25,"programs":["pota"],"count":1,"references":[{"code":"KZ-0020","program":"pota","name":"Ustyurt Nature Reserve","coordinates":[54.2944,42.7555]}]}
+{"lat":42.75,"lon":54.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"KZ-0020","program":"pota","name":"Ustyurt Nature Reserve","coordinates":[54.2944,42.7555]},{"code":"UNFF-0022","program":"wwff","name":"Ust'urskij State Nature Reserve","coordinates":[54.2944,42.75555]}]}

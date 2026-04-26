@@ -1,1 +1,1 @@
-{"lat":30.75,"lon":-82.5,"programs":["pota"],"count":1,"references":[{"code":"US-2200","program":"pota","name":"Stephen C Foster State Park","coordinates":[-82.3648,30.8219]}]}
+{"lat":30.75,"lon":-82.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-2200","program":"pota","name":"Stephen C Foster State Park","coordinates":[-82.3648,30.8219]},{"code":"KFF-0263","program":"wwff","name":"Okefenokee","coordinates":[-82.2979,30.79317]},{"code":"KFF-2200","program":"wwff","name":"Stephen C Foster","coordinates":[-82.36485,30.82192]}]}

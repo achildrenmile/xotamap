@@ -1,1 +1,1 @@
-{"lat":-23.25,"lon":-64.75,"programs":["pota"],"count":1,"references":[{"code":"AR-0122","program":"pota","name":"Yungas Biosphere Reserve","coordinates":[-64.7215,-23.0259]}]}
+{"lat":-23.25,"lon":-64.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AR-0122","program":"pota","name":"Yungas Biosphere Reserve","coordinates":[-64.7215,-23.0259]},{"code":"LUFF-0084","program":"wwff","name":"Yungas-1","coordinates":[-64.72154,-23.02589]}]}

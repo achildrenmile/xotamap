@@ -1,1 +1,1 @@
-{"lat":30.75,"lon":-92.5,"programs":["pota"],"count":1,"references":[{"code":"US-2359","program":"pota","name":"Chicot State Park","coordinates":[-92.2837,30.7904]}]}
+{"lat":30.75,"lon":-92.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-2359","program":"pota","name":"Chicot State Park","coordinates":[-92.2837,30.7904]},{"code":"KFF-2359","program":"wwff","name":"Chicot","coordinates":[-92.28308,30.78913]}]}

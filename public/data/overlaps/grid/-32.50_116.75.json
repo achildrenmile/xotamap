@@ -1,1 +1,1 @@
-{"lat":-32.5,"lon":116.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0166","program":"pota","name":"Boyagin Nature Reserve","coordinates":[116.863,-32.4623]}]}
+{"lat":-32.5,"lon":116.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0166","program":"pota","name":"Boyagin Nature Reserve","coordinates":[116.863,-32.4623]},{"code":"VKFF-1866","program":"wwff","name":"Boyagin Nature Reserve","coordinates":[116.8804,-32.4717]}]}

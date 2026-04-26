@@ -1,1 +1,1 @@
-{"lat":5,"lon":8.75,"programs":["pota"],"count":1,"references":[{"code":"CM-0006","program":"pota","name":"Korup National Park","coordinates":[8.85,5.0536]}]}
+{"lat":5,"lon":8.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CM-0006","program":"pota","name":"Korup National Park","coordinates":[8.85,5.0536]},{"code":"TJFF-0005","program":"wwff","name":"Korup","coordinates":[8.83333,5.08333]}]}

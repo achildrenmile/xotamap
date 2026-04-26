@@ -1,1 +1,1 @@
-{"lat":55,"lon":-113.5,"programs":["pota"],"count":1,"references":[{"code":"CA-0639","program":"pota","name":"Calling Lake Provincial Park","coordinates":[-113.272,55.1754]}]}
+{"lat":55,"lon":-113.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-0639","program":"pota","name":"Calling Lake Provincial Park","coordinates":[-113.272,55.1754]},{"code":"VEFF-0639","program":"wwff","name":"Calling Lake Provincial Park","coordinates":[-113.27179,55.17544]}]}

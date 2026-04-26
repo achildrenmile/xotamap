@@ -1,1 +1,1 @@
-{"lat":37.5,"lon":8.75,"programs":["pota"],"count":1,"references":[{"code":"TN-0020","program":"pota","name":"Archipel de la Galite Marine Protected Area","coordinates":[8.934,37.5274]}]}
+{"lat":37.5,"lon":8.75,"programs":["arlhs","pota"],"count":2,"references":[{"code":"TUN 016","program":"arlhs","name":"Galiton de l&#039;Ouest","coordinates":[8.88000011,37.5]},{"code":"TN-0020","program":"pota","name":"Archipel de la Galite Marine Protected Area","coordinates":[8.934,37.5274]}]}

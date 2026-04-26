@@ -1,1 +1,1 @@
-{"lat":-19.25,"lon":127.75,"programs":["pota"],"count":1,"references":[{"code":"AU-0008","program":"pota","name":"Wolfe Creek Meteorite Crater National Park","coordinates":[127.796,-19.1723]}]}
+{"lat":-19.25,"lon":127.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AU-0008","program":"pota","name":"Wolfe Creek Meteorite Crater National Park","coordinates":[127.796,-19.1723]},{"code":"VKFF-0543","program":"wwff","name":"Wolfe Creek Crater National Park","coordinates":[127.7956,-19.1723]}]}

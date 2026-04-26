@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":16.25,"programs":["pota"],"count":1,"references":[{"code":"IT-0670","program":"pota","name":"Parco Nazionale dell'Alta Murgia National Park","coordinates":[16.3322,40.9866]}]}
+{"lat":40.75,"lon":16.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"IT-0670","program":"pota","name":"Parco Nazionale dell'Alta Murgia National Park","coordinates":[16.3322,40.9866]},{"code":"IFF-0002","program":"wwff","name":"Parco Nazionale dell'Alta Murgia","coordinates":[16.36695,40.98959]}]}

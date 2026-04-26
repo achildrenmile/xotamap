@@ -1,1 +1,1 @@
-{"lat":29,"lon":129,"programs":["sota"],"count":1,"references":[{"code":"JA6/KG-128","program":"sota","name":"Imakiradake","coordinates":[129.2081,29.1445]}]}
+{"lat":29,"lon":129,"programs":["arlhs","sota","wlota"],"count":3,"references":[{"code":"JPN 618","program":"arlhs","name":"Takara Shima (Ryukyu Islands) (Kagoshima)","coordinates":[129.22000122,29.12999916]},{"code":"JA6/KG-128","program":"sota","name":"Imakiradake","coordinates":[129.2081,29.1445]},{"code":"WLOTA-0884","program":"wlota","name":"Takara Shima","coordinates":[129.22200012,29.125]}]}

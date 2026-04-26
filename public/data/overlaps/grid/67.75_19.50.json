@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":19.5,"programs":["pota"],"count":1,"references":[{"code":"SE-0682","program":"pota","name":"Ratejokk Natura 2000","coordinates":[19.5609,67.8146]}]}
+{"lat":67.75,"lon":19.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"SE-0682","program":"pota","name":"Ratejokk Natura 2000","coordinates":[19.5609,67.8146]},{"code":"SMFF-7638","program":"wwff","name":"Ratejokk","coordinates":[19.56,67.81445]}]}

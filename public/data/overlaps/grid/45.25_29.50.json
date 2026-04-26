@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":29.5,"programs":["pota"],"count":1,"references":[{"code":"RO-0256","program":"pota","name":"Letea National Forest","coordinates":[29.5273,45.314]}]}
+{"lat":45.25,"lon":29.5,"programs":["arlhs","pota","wwff"],"count":3,"references":[{"code":"UKR 041","program":"arlhs","name":"Girlo Prorva","coordinates":[29.71999931,45.47000122]},{"code":"RO-0256","program":"pota","name":"Letea National Forest","coordinates":[29.5273,45.314]},{"code":"URFF-0006","program":"wwff","name":"Dunaiskyi Biosphere Reserve","coordinates":[29.67201,45.41845]}]}

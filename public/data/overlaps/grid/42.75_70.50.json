@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":70.5,"programs":["gma"],"count":1,"references":[{"code":"UNM-006","program":"gma","name":"Karatau range (Ñ…Ñ€ÐµÐ±ÐµÑ‚ ÐšÐ°Ñ€Ð°Ñ‚Ð°Ñƒ)","coordinates":[70.65055556,42.875]}]}
+{"lat":42.75,"lon":70.5,"programs":["gma","wwff"],"count":2,"references":[{"code":"UNM-006","program":"gma","name":"Karatau range (Ñ…Ñ€ÐµÐ±ÐµÑ‚ ÐšÐ°Ñ€Ð°Ñ‚Ð°Ñƒ)","coordinates":[70.65055556,42.875]},{"code":"UNFF-0105","program":"wwff","name":"Zhambyl  state natural reserve","coordinates":[70.63468,42.91922]}]}

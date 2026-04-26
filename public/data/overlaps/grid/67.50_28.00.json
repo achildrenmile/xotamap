@@ -1,1 +1,1 @@
-{"lat":67.5,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"FI-0042","program":"pota","name":"Vintilänkairan luonnonsuojelualue State Nature Preserve","coordinates":[28.2141,67.637]}]}
+{"lat":67.5,"lon":28,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0042","program":"pota","name":"Vintilänkairan luonnonsuojelualue State Nature Preserve","coordinates":[28.2141,67.637]},{"code":"OHFF-0406","program":"wwff","name":"Vintilänkairan luonnonsuojelualue","coordinates":[28.04202,67.65186]}]}

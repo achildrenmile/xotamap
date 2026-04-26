@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":47,"programs":["pota"],"count":1,"references":[{"code":"RU-0007","program":"pota","name":"Chuvash Forest National Park","coordinates":[47.1542,54.8431]}]}
+{"lat":54.75,"lon":47,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0007","program":"pota","name":"Chuvash Forest National Park","coordinates":[47.1542,54.8431]},{"code":"RFF-0149","program":"wwff","name":"Chavash Varmane","coordinates":[47.2467,54.85606]}]}
