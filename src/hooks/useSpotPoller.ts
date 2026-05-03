@@ -43,7 +43,7 @@ export function useSpotPoller(filters?: SpotFilters): UseSpotPollerResult {
   const filtersRef = useRef(filters);
   filtersRef.current = filters;
 
-  const doFetch = useCallback(async () => {
+  const doFetch = useCallback(async (force = false) => {
     if (isFetching.current) return;
     if (!navigator.onLine) return;
 
@@ -52,7 +52,9 @@ export function useSpotPoller(filters?: SpotFilters): UseSpotPollerResult {
     setError(null);
 
     try {
-      const result = await fetchSpots(filtersRef.current);
+      const result = force
+        ? await fetchSpots(filtersRef.current, { skipRateLimit: true })
+        : await fetchSpots(filtersRef.current);
       if (result !== null) {
         setSpots(result);
         setLastUpdate(new Date());
@@ -96,8 +98,8 @@ export function useSpotPoller(filters?: SpotFilters): UseSpotPollerResult {
       animFrameId = window.setTimeout(tick, 1000);
     };
 
-    // Initial fetch on mount
-    void doFetch();
+    // Initial fetch on mount — force to bypass shared rate limit
+    void doFetch(true);
 
     animFrameId = window.setTimeout(tick, 1000);
     return () => window.clearTimeout(animFrameId);

@@ -276,9 +276,12 @@ export class SpotholeError extends Error {
  * });
  * ```
  */
-export async function fetchSpots(filters?: SpotFilters): Promise<Spot[] | null> {
+export async function fetchSpots(
+  filters?: SpotFilters,
+  options?: { skipRateLimit?: boolean },
+): Promise<Spot[] | null> {
   // Rate limit check — silently return null instead of throwing
-  if (!canRequest()) {
+  if (!options?.skipRateLimit && !canRequest()) {
     return null;
   }
 

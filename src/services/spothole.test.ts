@@ -242,8 +242,9 @@ describe('spothole service', () => {
     // First call succeeds
     await fetchSpots();
 
-    // Second call should be rate limited
-    await expect(fetchSpots()).rejects.toThrow('Rate limited');
+    // Second call should be rate limited (returns null)
+    const result = await fetchSpots();
+    expect(result).toBeNull();
     expect(canRequest()).toBe(false);
 
     // Advance time past rate limit
