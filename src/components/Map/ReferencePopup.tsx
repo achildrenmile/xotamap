@@ -113,7 +113,7 @@ function buildEntryHTML(
   if (deepLink) {
     html += `<a href="${deepLink}" target="_blank" rel="noopener noreferrer" class="xota-popup-link">&rarr; ${escapeHtml(refCode)} @ ${escapeHtml(programCode)}</a>`;
   }
-  html += `<a href="/encyclopedia/${encodeURIComponent(program.toLowerCase())}" class="xota-popup-link">&rarr; ${escapeHtml(t.popupEncyclopedia)}</a>`;
+  html += `<a href="/encyclopedia/${encodeURIComponent(program.toLowerCase())}" target="_blank" rel="noopener noreferrer" class="xota-popup-link">&rarr; ${escapeHtml(t.popupEncyclopedia)}</a>`;
   html += '</div>';
 
   return html;
