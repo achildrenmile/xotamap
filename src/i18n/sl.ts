@@ -27,6 +27,8 @@ export const sl: Translations = {
   basemapDark: 'Temna',
   locationError: 'Lokacije ni bilo mogoče določiti',
   locationDenied: 'Dostop do lokacije zavrnjen',
+  loadingReferences: 'Nalaganje referenčnih podatkov…',
+  updateData: 'Posodobi podatke karte',
 
   // Encyclopedia
   encyclopediaTitle: 'Enciklopedija programov',

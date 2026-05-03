@@ -1,7 +1,7 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useCallback } from 'react';
 import type maplibregl from 'maplibre-gl';
 import { MapContainer } from '../components/Map/MapContainer';
-import { ReferenceLayer, layerId } from '../components/Map/ReferenceLayer';
+import { ReferenceLayer, layerId, sourceId } from '../components/Map/ReferenceLayer';
 import { ReferencePopup } from '../components/Map/ReferencePopup';
 import { SpotLayer } from '../components/Map/SpotLayer';
 import { LayerSwitcher, type ProgramEntry } from '../components/Map/LayerSwitcher';
@@ -38,6 +38,58 @@ export default function MapView() {
   const [searchedPoint, setSearchedPoint] = useState<{ lat: number; lon: number } | null>(null);
 
   const [activeBasemap, setActiveBasemap] = useState<BasemapStyle>('standard');
+
+  // Loading state: show overlay until all reference sources are registered and map is idle
+  const [mapReady, setMapReady] = useState(false);
+  const [mapInstance, setMapInstance] = useState<maplibregl.Map | null>(null);
+
+  useEffect(() => {
+    if (!mapInstance) return;
+    const refPrograms = ALL_PROGRAMS.filter((p) => p.hasReferences);
+
+    const checkReady = () => {
+      // All sources must be registered
+      const allSourcesLoaded = refPrograms.every((p) => {
+        try {
+          return !!mapInstance.getSource(sourceId(p.code.toLowerCase()));
+        } catch {
+          return false;
+        }
+      });
+      if (allSourcesLoaded && mapInstance.areTilesLoaded()) {
+        setMapReady(true);
+      }
+    };
+
+    mapInstance.on('idle', checkReady);
+    return () => {
+      mapInstance.off('idle', checkReady);
+    };
+  }, [mapInstance]);
+
+  // Force-refresh PMTiles data by clearing caches and reloading sources
+  const handleUpdateData = useCallback(() => {
+    if (!mapInstance) return;
+    setMapReady(false);
+    const refPrograms = ALL_PROGRAMS.filter((p) => p.hasReferences);
+    for (const p of refPrograms) {
+      const src = sourceId(p.code.toLowerCase());
+      const lyr = layerId(p.code.toLowerCase());
+      try {
+        if (mapInstance.getLayer(lyr)) mapInstance.removeLayer(lyr);
+        if (mapInstance.getSource(src)) mapInstance.removeSource(src);
+      } catch {
+        // ignore
+      }
+    }
+    // Clear browser cache for PMTiles and reload page
+    if ('caches' in window) {
+      caches.keys().then((names) => {
+        for (const name of names) caches.delete(name);
+      });
+    }
+    window.location.reload();
+  }, [mapInstance]);
 
   // T26 — spot polling
   const { spots } = useSpotPoller({
@@ -76,8 +128,21 @@ export default function MapView() {
 
   return (
     <div className="relative h-full w-full">
+      {/* Loading overlay */}
+      {!mapReady && (
+        <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-white/90 dark:bg-gray-900/90">
+          <div className="mb-4 h-10 w-10 animate-spin rounded-full border-4 border-blue-500 border-t-transparent" />
+          <p className="text-lg font-medium text-gray-700 dark:text-gray-200">{t.loadingReferences}</p>
+        </div>
+      )}
       <MapContainer>
-        {(map: maplibregl.Map | null) => (
+        {(map: maplibregl.Map | null) => {
+          // Capture map instance for loading tracking
+          if (map && map !== mapInstance) {
+            // Use setTimeout to avoid setState during render
+            setTimeout(() => setMapInstance(map), 0);
+          }
+          return (
           <>
             {/* Reference layers — rendered into map when map is ready */}
             {map &&
@@ -123,6 +188,7 @@ export default function MapView() {
                 onToggle={toggle}
                 onShowAll={showAll}
                 onHideAll={hideAll}
+                onUpdateData={handleUpdateData}
               />
             </div>
 
@@ -145,7 +211,8 @@ export default function MapView() {
               </div>
             )}
           </>
-        )}
+          );
+        }}
       </MapContainer>
     </div>
   );

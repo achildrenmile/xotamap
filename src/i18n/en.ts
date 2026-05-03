@@ -27,6 +27,8 @@ export const en: Translations = {
   basemapDark: 'Dark',
   locationError: 'Could not determine location',
   locationDenied: 'Location access denied',
+  loadingReferences: 'Loading reference data…',
+  updateData: 'Update map data',
 
   // Encyclopedia
   encyclopediaTitle: 'Program Encyclopedia',

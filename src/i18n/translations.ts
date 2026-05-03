@@ -27,6 +27,8 @@ export interface Translations {
   basemapDark: string;
   locationError: string;
   locationDenied: string;
+  loadingReferences: string;
+  updateData: string;
 
   // Encyclopedia
   encyclopediaTitle: string;

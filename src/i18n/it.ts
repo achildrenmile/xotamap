@@ -27,6 +27,8 @@ export const it: Translations = {
   basemapDark: 'Scuro',
   locationError: 'Impossibile determinare la posizione',
   locationDenied: 'Accesso alla posizione negato',
+  loadingReferences: 'Caricamento dati di riferimento…',
+  updateData: 'Aggiorna dati mappa',
 
   // Encyclopedia
   encyclopediaTitle: 'Enciclopedia dei Programmi',

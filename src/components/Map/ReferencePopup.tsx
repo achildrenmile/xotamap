@@ -32,7 +32,7 @@ function buildReferenceUrl(program: string, refCode: string): string | null {
     case 'mota':
     case 'arlhs':
     case 'illw':
-      return `https://www.cqgma.org/gmamap/?ref=${refCode}`;
+      return 'https://www.cqgma.org';
     case 'iota':
       return `https://www.iota-world.org/islands/?grpRef=${refCode}`;
     case 'wwbota':

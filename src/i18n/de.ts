@@ -27,6 +27,8 @@ export const de: Translations = {
   basemapDark: 'Dunkel',
   locationError: 'Standort konnte nicht ermittelt werden',
   locationDenied: 'Standortzugriff verweigert',
+  loadingReferences: 'Referenzdaten werden geladen…',
+  updateData: 'Kartendaten aktualisieren',
 
   // Encyclopedia
   encyclopediaTitle: 'Programm-Enzyklopädie',
