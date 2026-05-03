@@ -197,6 +197,17 @@ export const sl: Translations = {
   helpTip3: 'Spoti so prikazani tudi kot pike na karti, ko so aktivne postaje vidne.',
   helpTip4: 'Vsi podatki se shranjujejo lokalno — račun ni potreben.',
 
+  // Contribute
+  helpContributeTitle: 'Sodeluj',
+  helpContributeText: 'xOTA Map je odprtokodni projekt radioamaterske skupnosti. Veselimo se vsakega prispevka — naj bo\u0161 razvijalec, oblikovalec, prevajalec ali radioamater z dobrimi idejami!',
+  helpContributeIdeas: 'Kako lahko pomagate:',
+  helpContributeIdea1: 'Prijavite napake ali predlagajte nove funkcije (Issues)',
+  helpContributeIdea2: 'Prispevajte kodo — pull requesti so dobrodo\u0161li',
+  helpContributeIdea3: 'Izbolj\u0161ajte prevode ali dodajte nove jezike',
+  helpContributeIdea4: 'Dodajte ali posodobite manjkajo\u010de podatke programov',
+  helpContributeCta: 'Oglejte si projekt, pustite zvezdico in postanite del projekta!',
+  helpContributeGithub: 'Ogled projekta na GitHub',
+
   // Language
   language: 'Jezik',
 };

@@ -197,6 +197,17 @@ export const it: Translations = {
   helpTip3: 'Gli spot vengono mostrati anche come punti sulla mappa quando le stazioni attive sono visibili.',
   helpTip4: 'Tutti i dati vengono salvati localmente — nessun account necessario.',
 
+  // Contribute
+  helpContributeTitle: 'Partecipa',
+  helpContributeText: 'xOTA Map \u00e8 un progetto open source della comunit\u00e0 radioamatoriale. Ogni contributo \u00e8 benvenuto — che tu sia sviluppatore, designer, traduttore o semplicemente un radioamatore con buone idee!',
+  helpContributeIdeas: 'Come puoi aiutare:',
+  helpContributeIdea1: 'Segnala bug o suggerisci nuove funzionalit\u00e0 (Issues)',
+  helpContributeIdea2: 'Contribuisci con codice — le pull request sono benvenute',
+  helpContributeIdea3: 'Migliora le traduzioni o aggiungi nuove lingue',
+  helpContributeIdea4: 'Aggiungi o aggiorna dati di programmi mancanti',
+  helpContributeCta: 'Dai un\'occhiata, lascia una stella e diventa parte del progetto!',
+  helpContributeGithub: 'Vedi il progetto su GitHub',
+
   // Language
   language: 'Lingua',
 };

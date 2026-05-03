@@ -197,6 +197,17 @@ export const en: Translations = {
   helpTip3: 'Spots are also displayed as dots on the map when active stations are visible.',
   helpTip4: 'All data is stored locally — no account required.',
 
+  // Contribute
+  helpContributeTitle: 'Get Involved',
+  helpContributeText: 'xOTA Map is an open-source project by the amateur radio community. We welcome any contribution — whether you are a developer, designer, translator, or a ham with great ideas!',
+  helpContributeIdeas: 'Ways to help:',
+  helpContributeIdea1: 'Report bugs or suggest new features (Issues)',
+  helpContributeIdea2: 'Contribute code — pull requests are welcome',
+  helpContributeIdea3: 'Improve translations or add new languages',
+  helpContributeIdea4: 'Add or update missing program data',
+  helpContributeCta: 'Check it out, leave a star, and become part of the project!',
+  helpContributeGithub: 'View project on GitHub',
+
   // Language
   language: 'Language',
 };

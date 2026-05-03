@@ -197,6 +197,17 @@ export interface Translations {
   helpTip3: string;
   helpTip4: string;
 
+  // Contribute
+  helpContributeTitle: string;
+  helpContributeText: string;
+  helpContributeIdeas: string;
+  helpContributeIdea1: string;
+  helpContributeIdea2: string;
+  helpContributeIdea3: string;
+  helpContributeIdea4: string;
+  helpContributeCta: string;
+  helpContributeGithub: string;
+
   // Language
   language: string;
 }

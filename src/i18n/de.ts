@@ -197,6 +197,17 @@ export const de: Translations = {
   helpTip3: 'Spots werden auch als Punkte auf der Karte angezeigt, wenn aktive Stationen sichtbar sind.',
   helpTip4: 'Alle Daten werden lokal gespeichert — es ist kein Konto erforderlich.',
 
+  // Contribute
+  helpContributeTitle: 'Mitmachen',
+  helpContributeText: 'xOTA Map ist ein Open-Source-Projekt der Amateurfunk-Community. Wir freuen uns über jede Unterstützung — egal ob du Entwickler, Designer, Übersetzer oder einfach Funkamateur mit guten Ideen bist!',
+  helpContributeIdeas: 'So kannst du helfen:',
+  helpContributeIdea1: 'Fehler melden oder neue Funktionen vorschlagen (Issues)',
+  helpContributeIdea2: 'Code beitragen — Pull Requests sind willkommen',
+  helpContributeIdea3: 'Übersetzungen verbessern oder neue Sprachen hinzufügen',
+  helpContributeIdea4: 'Fehlende Programmdaten ergänzen oder aktualisieren',
+  helpContributeCta: 'Schau vorbei, hinterlasse einen Stern und werde Teil des Projekts!',
+  helpContributeGithub: 'Zum Projekt auf GitHub',
+
   // Language
   language: 'Sprache',
 };
