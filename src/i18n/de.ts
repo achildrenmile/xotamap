@@ -2,7 +2,7 @@ import type { Translations } from './translations';
 
 export const de: Translations = {
   // App
-  appTitle: 'xOTA Map (Beta)',
+  appTitle: 'xOTA Map',
   appSubtitle: 'Mehrstufige xOTA-Aktivierungskarte',
   footerText: 'xOTA Map • Multi-Programm Aktivierungen',
 
@@ -11,6 +11,7 @@ export const de: Translations = {
   navEncyclopedia: 'Enzyklopädie',
   navSpots: 'Spots',
   navLog: 'Logbuch',
+  navHelp: 'Hilfe',
 
   // Map
   mapLoading: 'Karte wird geladen…',
@@ -176,6 +177,25 @@ export const de: Translations = {
   lightMode: 'Hell',
   darkMode: 'Dunkel',
   systemMode: 'System',
+
+  // Help
+  helpTitle: 'Hilfe & Anleitung',
+  helpIntro: 'xOTA Map zeigt Referenzpunkte verschiedener Amateurfunk-Aktivierungsprogramme auf einer interaktiven Karte. Hier findest du eine Übersicht der Funktionen.',
+  helpMapTitle: 'Karte',
+  helpMapText: 'Die Karte zeigt Referenzpunkte aller unterstützten Programme. Verwende den Ebenen-Schalter, um Programme ein-/auszublenden. Klicke auf einen Punkt für Details. Rechtsklick oder langes Drücken öffnet "Was gilt hier?" mit allen Programmen an diesem Standort.',
+  helpEncyclopediaTitle: 'Enzyklopädie',
+  helpEncyclopediaText: 'Die Enzyklopädie erklärt alle unterstützten Aktivierungsprogramme mit Regeln, Anforderungen, Awards und Links zu offiziellen Websites.',
+  helpSpotsTitle: 'Spots',
+  helpSpotsText: 'Live-Spots von der Spothole API zeigen aktive Stationen in Echtzeit. Spots werden automatisch alle 60 Sekunden aktualisiert und können nach Programm, Band, Betriebsart und Alter gefiltert werden.',
+  helpLogTitle: 'Logbuch',
+  helpLogText: 'Starte eine Aktivierung und logge QSOs direkt im Browser. Exportiere dein Log als ADIF-Datei zum Hochladen bei SOTA, POTA, GMA oder Wavelog. Daten werden lokal im Browser gespeichert.',
+  helpWhatCountsTitle: 'Was gilt hier?',
+  helpWhatCountsText: 'Rechtsklick auf die Karte zeigt alle Programme, die an diesem Standort gelten, mit den nächsten Referenzpunkten und Entfernungen.',
+  helpTipsTitle: 'Tipps',
+  helpTip1: 'Wechsle zwischen Standard-, Outdoor- und Dunkel-Basiskarte über den Kartenstil-Schalter.',
+  helpTip2: 'Verwende die Ortsuche, um schnell zu einem bestimmten Standort zu navigieren.',
+  helpTip3: 'Spots werden auch als Punkte auf der Karte angezeigt, wenn aktive Stationen sichtbar sind.',
+  helpTip4: 'Alle Daten werden lokal gespeichert — es ist kein Konto erforderlich.',
 
   // Language
   language: 'Sprache',

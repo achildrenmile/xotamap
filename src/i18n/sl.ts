@@ -2,7 +2,7 @@ import type { Translations } from './translations';
 
 export const sl: Translations = {
   // App
-  appTitle: 'xOTA Map (Beta)',
+  appTitle: 'xOTA Map',
   appSubtitle: 'Večprogramska karta aktivacij xOTA',
   footerText: 'xOTA Map • Večprogramske aktivacije',
 
@@ -11,6 +11,7 @@ export const sl: Translations = {
   navEncyclopedia: 'Enciklopedija',
   navSpots: 'Spoti',
   navLog: 'Dnevnik',
+  navHelp: 'Pomoč',
 
   // Map
   mapLoading: 'Nalaganje karte…',
@@ -176,6 +177,25 @@ export const sl: Translations = {
   lightMode: 'Svetlo',
   darkMode: 'Temno',
   systemMode: 'Sistem',
+
+  // Help
+  helpTitle: 'Pomoč & Vodnik',
+  helpIntro: 'xOTA Map prikazuje referenčne točke različnih programov aktivacij radioamaterjev na interaktivni karti. Tukaj je pregled funkcij.',
+  helpMapTitle: 'Karta',
+  helpMapText: 'Karta prikazuje referenčne točke za vse podprte programe. Uporabite preklopnik plasti za prikaz/skrivanje programov. Kliknite na točko za podrobnosti. Desni klik ali dolg pritisk odpre "Kaj velja tukaj?" s prikaz vseh programov na tej lokaciji.',
+  helpEncyclopediaTitle: 'Enciklopedija',
+  helpEncyclopediaText: 'Enciklopedija pojasnjuje vse podprte programe aktivacij s pravili, zahtevami, nagradami in povezavami do uradnih spletnih strani.',
+  helpSpotsTitle: 'Spoti',
+  helpSpotsText: 'Živi spoti iz API-ja Spothole prikazujejo aktivne postaje v realnem času. Spoti se samodejno osvežijo vsakih 60 sekund in jih je mogoče filtrirati po programu, pasu, načinu in starosti.',
+  helpLogTitle: 'Dnevnik',
+  helpLogText: 'Začnite aktivacijo in zabeležite QSO neposredno v brskalniku. Izvozite dnevnik kot datoteko ADIF za nalaganje na SOTA, POTA, GMA ali Wavelog. Podatki se shranjujejo lokalno v brskalniku.',
+  helpWhatCountsTitle: 'Kaj velja tukaj?',
+  helpWhatCountsText: 'Desni klik na karto za prikaz vseh programov, ki veljajo na lokaciji, z najbližjimi referenčnimi točkami in razdaljami.',
+  helpTipsTitle: 'Nasveti',
+  helpTip1: 'Preklapljajte med osnovnimi kartami Standard, Outdoor in Temna s preklopnikom sloga karte.',
+  helpTip2: 'Uporabite iskanje lokacije za hitro navigacijo do določenega kraja.',
+  helpTip3: 'Spoti so prikazani tudi kot pike na karti, ko so aktivne postaje vidne.',
+  helpTip4: 'Vsi podatki se shranjujejo lokalno — račun ni potreben.',
 
   // Language
   language: 'Jezik',

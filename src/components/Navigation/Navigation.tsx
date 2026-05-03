@@ -1,11 +1,11 @@
 import { NavLink } from 'react-router-dom';
-import { Map, BookOpen, Radio, ClipboardList } from 'lucide-react';
+import { Map, BookOpen, Radio, ClipboardList, HelpCircle } from 'lucide-react';
 import { useI18n } from '../../i18n';
 
 interface NavItem {
   to: string;
   icon: React.ReactNode;
-  labelKey: 'navMap' | 'navEncyclopedia' | 'navSpots' | 'navLog';
+  labelKey: 'navMap' | 'navEncyclopedia' | 'navSpots' | 'navLog' | 'navHelp';
 }
 
 const navItems: NavItem[] = [
@@ -13,6 +13,7 @@ const navItems: NavItem[] = [
   { to: '/encyclopedia', icon: <BookOpen className="w-4 h-4" />, labelKey: 'navEncyclopedia' },
   { to: '/spots', icon: <Radio className="w-4 h-4" />, labelKey: 'navSpots' },
   { to: '/log', icon: <ClipboardList className="w-4 h-4" />, labelKey: 'navLog' },
+  { to: '/help', icon: <HelpCircle className="w-4 h-4" />, labelKey: 'navHelp' },
 ];
 
 interface NavigationProps {

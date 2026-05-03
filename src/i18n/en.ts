@@ -2,7 +2,7 @@ import type { Translations } from './translations';
 
 export const en: Translations = {
   // App
-  appTitle: 'xOTA Map (Beta)',
+  appTitle: 'xOTA Map',
   appSubtitle: 'Multi-Program xOTA Activations Map',
   footerText: 'xOTA Map • Multi-Program Activations',
 
@@ -11,6 +11,7 @@ export const en: Translations = {
   navEncyclopedia: 'Encyclopedia',
   navSpots: 'Spots',
   navLog: 'Log',
+  navHelp: 'Help',
 
   // Map
   mapLoading: 'Loading map…',
@@ -176,6 +177,25 @@ export const en: Translations = {
   lightMode: 'Light',
   darkMode: 'Dark',
   systemMode: 'System',
+
+  // Help
+  helpTitle: 'Help & Guide',
+  helpIntro: 'xOTA Map displays reference points from various amateur radio activation programs on an interactive map. Here is an overview of the features.',
+  helpMapTitle: 'Map',
+  helpMapText: 'The map shows reference points for all supported programs. Use the layer switcher to show/hide programs. Click a point for details. Right-click or long-press opens "What counts here?" showing all programs at that location.',
+  helpEncyclopediaTitle: 'Encyclopedia',
+  helpEncyclopediaText: 'The encyclopedia explains all supported activation programs with rules, requirements, awards, and links to official websites.',
+  helpSpotsTitle: 'Spots',
+  helpSpotsText: 'Live spots from the Spothole API show active stations in real time. Spots auto-refresh every 60 seconds and can be filtered by program, band, mode, and age.',
+  helpLogTitle: 'Log',
+  helpLogText: 'Start an activation and log QSOs directly in the browser. Export your log as an ADIF file for upload to SOTA, POTA, GMA, or Wavelog. Data is stored locally in the browser.',
+  helpWhatCountsTitle: 'What counts here?',
+  helpWhatCountsText: 'Right-click on the map to see all programs that apply at a location, with the nearest reference points and distances.',
+  helpTipsTitle: 'Tips',
+  helpTip1: 'Switch between Standard, Outdoor, and Dark basemaps using the map style switcher.',
+  helpTip2: 'Use the location search to quickly navigate to a specific place.',
+  helpTip3: 'Spots are also displayed as dots on the map when active stations are visible.',
+  helpTip4: 'All data is stored locally — no account required.',
 
   // Language
   language: 'Language',

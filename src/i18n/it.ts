@@ -2,7 +2,7 @@ import type { Translations } from './translations';
 
 export const it: Translations = {
   // App
-  appTitle: 'xOTA Map (Beta)',
+  appTitle: 'xOTA Map',
   appSubtitle: 'Mappa Attivazioni xOTA Multi-Programma',
   footerText: 'xOTA Map • Attivazioni Multi-Programma',
 
@@ -11,6 +11,7 @@ export const it: Translations = {
   navEncyclopedia: 'Enciclopedia',
   navSpots: 'Spot',
   navLog: 'Registro',
+  navHelp: 'Aiuto',
 
   // Map
   mapLoading: 'Caricamento mappa…',
@@ -176,6 +177,25 @@ export const it: Translations = {
   lightMode: 'Chiaro',
   darkMode: 'Scuro',
   systemMode: 'Sistema',
+
+  // Help
+  helpTitle: 'Aiuto & Guida',
+  helpIntro: 'xOTA Map mostra i punti di riferimento di vari programmi di attivazione radioamatoriale su una mappa interattiva. Ecco una panoramica delle funzionalit\u00e0.',
+  helpMapTitle: 'Mappa',
+  helpMapText: 'La mappa mostra i punti di riferimento per tutti i programmi supportati. Usa il selettore livelli per mostrare/nascondere i programmi. Clicca su un punto per i dettagli. Clic destro o pressione prolungata apre "Cosa vale qui?" mostrando tutti i programmi in quella posizione.',
+  helpEncyclopediaTitle: 'Enciclopedia',
+  helpEncyclopediaText: 'L\'enciclopedia spiega tutti i programmi di attivazione supportati con regole, requisiti, premi e link ai siti ufficiali.',
+  helpSpotsTitle: 'Spot',
+  helpSpotsText: 'Gli spot in tempo reale dall\'API Spothole mostrano le stazioni attive. Gli spot si aggiornano automaticamente ogni 60 secondi e possono essere filtrati per programma, banda, modo ed et\u00e0.',
+  helpLogTitle: 'Registro',
+  helpLogText: 'Avvia un\'attivazione e registra i QSO direttamente nel browser. Esporta il log come file ADIF per caricarlo su SOTA, POTA, GMA o Wavelog. I dati vengono salvati localmente nel browser.',
+  helpWhatCountsTitle: 'Cosa vale qui?',
+  helpWhatCountsText: 'Clic destro sulla mappa per vedere tutti i programmi validi in una posizione, con i punti di riferimento pi\u00f9 vicini e le distanze.',
+  helpTipsTitle: 'Suggerimenti',
+  helpTip1: 'Passa tra le mappe base Standard, Outdoor e Scuro usando il selettore stile mappa.',
+  helpTip2: 'Usa la ricerca posizione per navigare rapidamente verso un luogo specifico.',
+  helpTip3: 'Gli spot vengono mostrati anche come punti sulla mappa quando le stazioni attive sono visibili.',
+  helpTip4: 'Tutti i dati vengono salvati localmente — nessun account necessario.',
 
   // Language
   language: 'Lingua',

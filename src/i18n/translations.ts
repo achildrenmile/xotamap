@@ -11,6 +11,7 @@ export interface Translations {
   navEncyclopedia: string;
   navSpots: string;
   navLog: string;
+  navHelp: string;
 
   // Map
   mapLoading: string;
@@ -176,6 +177,25 @@ export interface Translations {
   lightMode: string;
   darkMode: string;
   systemMode: string;
+
+  // Help
+  helpTitle: string;
+  helpIntro: string;
+  helpMapTitle: string;
+  helpMapText: string;
+  helpEncyclopediaTitle: string;
+  helpEncyclopediaText: string;
+  helpSpotsTitle: string;
+  helpSpotsText: string;
+  helpLogTitle: string;
+  helpLogText: string;
+  helpWhatCountsTitle: string;
+  helpWhatCountsText: string;
+  helpTipsTitle: string;
+  helpTip1: string;
+  helpTip2: string;
+  helpTip3: string;
+  helpTip4: string;
 
   // Language
   language: string;

@@ -5,6 +5,7 @@ import Encyclopedia from './pages/Encyclopedia'
 import ProgramDetail from './pages/ProgramDetail'
 import SpotList from './pages/SpotList'
 import LogView from './pages/LogView'
+import HelpPage from './pages/HelpPage'
 
 export const router = createBrowserRouter([
   {
@@ -16,6 +17,7 @@ export const router = createBrowserRouter([
       { path: 'encyclopedia/:id', element: <ProgramDetail /> },
       { path: 'spots', element: <SpotList /> },
       { path: 'log', element: <LogView /> },
+      { path: 'help', element: <HelpPage /> },
     ],
   },
 ])
