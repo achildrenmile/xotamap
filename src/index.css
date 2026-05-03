@@ -129,6 +129,8 @@ html, body, #root {
 .xota-popup {
   padding: 10px 12px;
   min-width: 200px;
+  max-height: 60vh;
+  overflow-y: auto;
 }
 
 .xota-popup-title {

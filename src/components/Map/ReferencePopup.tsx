@@ -67,16 +67,15 @@ function buildReferenceUrl(program: string, refCode: string): string | null {
 }
 
 /**
- * Build popup HTML for a clicked reference feature.
+ * Build popup HTML for a single reference entry (used inside multi-feature popup).
  */
-function buildPopupHTML(
+function buildEntryHTML(
   feature: MapGeoJSONFeature,
   program: string,
   t: Translations,
 ): string {
   const props = feature.properties || {};
 
-  // Try common property names for reference code and name
   const refCode =
     props.reference || props.ref || props.code || props.id || '';
   const name = props.name || props.summit_name || props.park_name || '';
@@ -84,25 +83,17 @@ function buildPopupHTML(
   const points = props.points || props.score || '';
   const programCode = program.toUpperCase();
 
-  // Build programs line — the feature may belong to multiple programs
   const programs = props.programs
     ? String(props.programs)
     : programCode;
 
-  // Title line
-  let html = '<div class="xota-popup">';
-  html += `<div class="xota-popup-title">${escapeHtml(refCode)}`;
+  let html = `<div class="xota-popup-title">${escapeHtml(refCode)}`;
   if (name) {
     html += ` &mdash; ${escapeHtml(name)}`;
   }
   html += '</div>';
 
-  // Separator
-  html += '<div class="xota-popup-separator"></div>';
-
-  // Details
   html += '<div class="xota-popup-details">';
-
   html += `<div class="xota-popup-row"><span class="xota-popup-label">${escapeHtml(t.popupProgramme)}:</span> <span>${escapeHtml(programs)}</span></div>`;
 
   if (altitude) {
@@ -117,19 +108,47 @@ function buildPopupHTML(
 
   html += '</div>';
 
-  // Links
   html += '<div class="xota-popup-links">';
-
   const deepLink = buildReferenceUrl(program, refCode);
   if (deepLink) {
     html += `<a href="${deepLink}" target="_blank" rel="noopener noreferrer" class="xota-popup-link">&rarr; ${escapeHtml(refCode)} @ ${escapeHtml(programCode)}</a>`;
   }
-
   html += `<a href="/encyclopedia/${encodeURIComponent(program.toLowerCase())}" class="xota-popup-link">&rarr; ${escapeHtml(t.popupEncyclopedia)}</a>`;
-
-  html += '</div>';
   html += '</div>';
 
+  return html;
+}
+
+/**
+ * Build popup HTML for one or more overlapping reference features.
+ * Deduplicates by program+refCode so the same reference isn't shown twice.
+ */
+function buildPopupHTML(
+  features: MapGeoJSONFeature[],
+  t: Translations,
+): string {
+  // Deduplicate by program + refCode
+  const seen = new Set<string>();
+  const unique: { feature: MapGeoJSONFeature; program: string }[] = [];
+  for (const f of features) {
+    const program = programFromLayerId(f.layer.id);
+    const props = f.properties || {};
+    const refCode = props.reference || props.ref || props.code || props.id || '';
+    const key = `${program}:${refCode}`;
+    if (!seen.has(key)) {
+      seen.add(key);
+      unique.push({ feature: f, program });
+    }
+  }
+
+  let html = '<div class="xota-popup">';
+  for (let i = 0; i < unique.length; i++) {
+    if (i > 0) {
+      html += '<div class="xota-popup-separator"></div>';
+    }
+    html += buildEntryHTML(unique[i].feature, unique[i].program, t);
+  }
+  html += '</div>';
   return html;
 }
 
@@ -170,19 +189,23 @@ export function ReferencePopup({ map, layerIds, t }: ReferencePopupProps) {
 
       if (existingLayers.length === 0) return;
 
-      const features = map.queryRenderedFeatures(e.point, {
+      // Use a bounding box around the click point to catch nearby overlapping
+      // features — especially important on mobile where touch targets are imprecise
+      const tolerance = 'ontouchstart' in window ? 20 : 5;
+      const bbox: [maplibregl.PointLike, maplibregl.PointLike] = [
+        [e.point.x - tolerance, e.point.y - tolerance],
+        [e.point.x + tolerance, e.point.y + tolerance],
+      ];
+      const features = map.queryRenderedFeatures(bbox, {
         layers: existingLayers,
       });
 
       if (!features || features.length === 0) return;
 
-      const feature = features[0];
-      const program = programFromLayerId(feature.layer.id);
-
-      // Get coordinates — for point features use geometry, otherwise click point
+      // Get coordinates from first feature or click point
       let lng = e.lngLat.lng;
       let lat = e.lngLat.lat;
-      const geom = feature.geometry;
+      const geom = features[0].geometry;
       if (geom.type === 'Point') {
         [lng, lat] = geom.coordinates as [number, number];
       }
@@ -199,7 +222,7 @@ export function ReferencePopup({ map, layerIds, t }: ReferencePopupProps) {
         className: 'xota-reference-popup',
       })
         .setLngLat([lng, lat])
-        .setHTML(buildPopupHTML(feature, program, t))
+        .setHTML(buildPopupHTML(features, t))
         .addTo(map);
 
       popupRef.current = popup;
