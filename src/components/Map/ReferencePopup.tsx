@@ -225,6 +225,22 @@ export function ReferencePopup({ map, layerIds, t }: ReferencePopupProps) {
         .setHTML(buildPopupHTML(features, t))
         .addTo(map);
 
+      // In standalone PWA mode, links with target="_blank" don't open in
+      // the system browser. Intercept clicks and use window.open() instead.
+      const isStandalone =
+        window.matchMedia('(display-mode: standalone)').matches ||
+        (navigator as unknown as { standalone?: boolean }).standalone === true;
+      if (isStandalone) {
+        const el = popup.getElement();
+        el.addEventListener('click', (evt) => {
+          const anchor = (evt.target as HTMLElement).closest('a[target="_blank"]');
+          if (anchor) {
+            evt.preventDefault();
+            window.open((anchor as HTMLAnchorElement).href, '_blank');
+          }
+        });
+      }
+
       popupRef.current = popup;
     },
     [map, layerIds, t],
