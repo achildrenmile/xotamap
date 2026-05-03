@@ -144,7 +144,7 @@
             "color": "#2ECC71",
             "icon": "flower-2",
             "rules": {
-                "minQsos": 10,
+                "minQsos": 44,
                 "activationRadius": "Within the protected area boundaries",
                 "equipment": "Portable operation from within the protected area",
                 "operatingModes": [
@@ -153,13 +153,13 @@
                     "FM",
                     "Digital"
                 ],
-                "specialRequirements": "Minimum 10 QSOs required for a valid activation. Must be within official protected area boundaries."
+                "specialRequirements": "44 QSOs required for a valid activation (can be accrued over multiple visits). Must be within official protected area boundaries."
             },
             "awards": [
                 {
                     "name": "Activator Award",
-                    "points": 100,
-                    "description": "100 activations"
+                    "points": 44,
+                    "description": "44 QSOs from one reference"
                 },
                 {
                     "name": "WWFF Hunter — Bronze",
