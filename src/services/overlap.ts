@@ -36,7 +36,27 @@ export async function fetchOverlapGrid(
       gridCache.set(key, []);
       return [];
     }
-    const data: OverlapReference[] = await response.json();
+    const raw = await response.json();
+    // Grid files are { references: [{ code, program, name, coordinates: [lon, lat] }] }
+    const rawRefs: Array<{
+      code: string;
+      program: string;
+      name: string;
+      coordinates: [number, number];
+      elevation?: number;
+      points?: number;
+    }> = raw.references ?? raw;
+    const data: OverlapReference[] = Array.isArray(rawRefs)
+      ? rawRefs.map((r) => ({
+          code: r.code,
+          program: r.program,
+          name: r.name,
+          lon: Array.isArray(r.coordinates) ? r.coordinates[0] : (r as unknown as OverlapReference).lon,
+          lat: Array.isArray(r.coordinates) ? r.coordinates[1] : (r as unknown as OverlapReference).lat,
+          elevation: r.elevation,
+          points: r.points,
+        }))
+      : [];
     gridCache.set(key, data);
     return data;
   } catch {
