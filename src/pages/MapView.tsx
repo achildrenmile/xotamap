@@ -29,6 +29,10 @@ const ALL_PROGRAMS: ProgramEntry[] = (
   }>
 );
 
+// Module-level flag: once references have loaded once, never show overlay again
+// (unless user explicitly clicks "Update data" which reloads the page)
+let hasLoadedOnce = false;
+
 export default function MapView() {
   const { t } = useI18n();
   const { visibility, toggle, showAll, hideAll } =
@@ -39,16 +43,15 @@ export default function MapView() {
 
   const [activeBasemap, setActiveBasemap] = useState<BasemapStyle>('standard');
 
-  // Loading state: show overlay until all reference sources are registered and map is idle
-  const [mapReady, setMapReady] = useState(false);
+  // Loading state: show overlay only on first visit, not when navigating back
+  const [mapReady, setMapReady] = useState(hasLoadedOnce);
   const [mapInstance, setMapInstance] = useState<maplibregl.Map | null>(null);
 
   useEffect(() => {
-    if (!mapInstance) return;
+    if (!mapInstance || hasLoadedOnce) return;
     const refPrograms = ALL_PROGRAMS.filter((p) => p.hasReferences);
 
     const checkReady = () => {
-      // All sources must be registered
       const allSourcesLoaded = refPrograms.every((p) => {
         try {
           return !!mapInstance.getSource(sourceId(p.code.toLowerCase()));
@@ -57,6 +60,7 @@ export default function MapView() {
         }
       });
       if (allSourcesLoaded && mapInstance.areTilesLoaded()) {
+        hasLoadedOnce = true;
         setMapReady(true);
       }
     };
