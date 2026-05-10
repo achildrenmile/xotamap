@@ -1,1 +1,1 @@
-{"lat":-25.75,"lon":28.25,"programs":["wwff"],"count":1,"references":[{"code":"ZSFF-0327","program":"wwff","name":"Roodeplaat Nature Reserve","coordinates":[28.36072,-25.64179]}]}
+{"lat":-25.75,"lon":28.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"ZA-0167","program":"pota","name":"Skuilkrans Kopje Nature Reserve","coordinates":[28.308,-25.7461]},{"code":"ZSFF-0327","program":"wwff","name":"Roodeplaat Nature Reserve","coordinates":[28.36072,-25.64179]}]}

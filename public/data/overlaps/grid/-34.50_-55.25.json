@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":-55.25,"programs":["pota"],"count":1,"references":[{"code":"UY-0100","program":"pota","name":"Manantiales Serranos UNESCO Geopark","coordinates":[-55.108,-34.395]}]}
+{"lat":-34.5,"lon":-55.25,"programs":["pota","wwbota"],"count":2,"references":[{"code":"UY-0100","program":"pota","name":"Manantiales Serranos UNESCO Geopark","coordinates":[-55.108,-34.395]},{"code":"B/CX-0034","program":"wwbota","name":"Batallón de Infantería Nº 36, Minas","coordinates":[-55.23,-34.37]}]}

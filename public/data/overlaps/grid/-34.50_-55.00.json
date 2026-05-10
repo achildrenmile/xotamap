@@ -1,1 +1,1 @@
-{"lat":-34.5,"lon":-55,"programs":["sota"],"count":1,"references":[{"code":"CX/CG-004","program":"sota","name":"CX/CG-004","coordinates":[-54.995,-34.4556]}]}
+{"lat":-34.5,"lon":-55,"programs":["sota","wwbota"],"count":3,"references":[{"code":"CX/CG-004","program":"sota","name":"CX/CG-004","coordinates":[-54.995,-34.4556]},{"code":"B/CX-0014","program":"wwbota","name":"Cuartel de San Carlos, Maldonado","coordinates":[-54.95,-34.5]},{"code":"B/CX-0024","program":"wwbota","name":"Batallón de Infantería Nº 14, San Carlos","coordinates":[-54.95,-34.5]}]}

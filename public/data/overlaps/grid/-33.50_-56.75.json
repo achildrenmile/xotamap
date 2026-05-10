@@ -1,1 +1,1 @@
-{"lat":-33.5,"lon":-56.75,"programs":["pota"],"count":1,"references":[{"code":"UY-0034","program":"pota","name":"Parque de la Hispanidad Park","coordinates":[-56.51,-33.407]}]}
+{"lat":-33.5,"lon":-56.75,"programs":["pota","wwbota"],"count":2,"references":[{"code":"UY-0034","program":"pota","name":"Parque de la Hispanidad Park","coordinates":[-56.51,-33.407]},{"code":"B/CX-0035","program":"wwbota","name":"Batallón de Infantería Nº 37, Durazno","coordinates":[-56.52,-33.38]}]}
