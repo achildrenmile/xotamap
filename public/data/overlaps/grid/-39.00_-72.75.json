@@ -1,1 +1,1 @@
-{"lat":-39,"lon":-72.75,"programs":["pota"],"count":1,"references":[{"code":"CL-0275","program":"pota","name":"Pulmahue Recreation Park","coordinates":[-72.5954,-38.7737]}]}
+{"lat":-39,"lon":-72.75,"programs":["pota","tota"],"count":2,"references":[{"code":"CL-0275","program":"pota","name":"Pulmahue Recreation Park","coordinates":[-72.5954,-38.7737]},{"code":"CER-0901","program":"tota","name":"Mirador Isla Cautin Temuco","coordinates":[-72.59356,-38.75031]}]}

@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":-119,"programs":["sota"],"count":1,"references":[{"code":"W7N/PC-169","program":"sota","name":"Rocky 2 Benchmark","coordinates":[-118.9912,39.6993]}]}
+{"lat":39.5,"lon":-119,"programs":["pota","sota"],"count":2,"references":[{"code":"US-13290","program":"pota","name":"Forty Mile Desert State Historical Monument","coordinates":[-118.833,39.5667]},{"code":"W7N/PC-169","program":"sota","name":"Rocky 2 Benchmark","coordinates":[-118.9912,39.6993]}]}

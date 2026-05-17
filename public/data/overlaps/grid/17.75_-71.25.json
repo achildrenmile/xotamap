@@ -1,1 +1,1 @@
-{"lat":17.75,"lon":-71.25,"programs":["pota"],"count":1,"references":[{"code":"DO-0108","program":"pota","name":"Mirador del Paraíso Protected Landscape","coordinates":[-71.2269,17.9018]}]}
+{"lat":17.75,"lon":-71.25,"programs":["pota","tota"],"count":3,"references":[{"code":"DO-0108","program":"pota","name":"Mirador del Paraíso Protected Landscape","coordinates":[-71.2269,17.9018]},{"code":"HIR-5006","program":"tota","name":"Mirador Enrriquillo","coordinates":[-71.2271,17.902]},{"code":"HIR-5005","program":"tota","name":"Mirador Paraido","coordinates":[-71.1553,17.99713]}]}

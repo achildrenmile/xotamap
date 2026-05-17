@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":28.75,"programs":["pota"],"count":1,"references":[{"code":"FI-0987","program":"pota","name":"Hevonniemi Natura 2000","coordinates":[28.819,61.8979]}]}
+{"lat":61.75,"lon":28.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0987","program":"pota","name":"Hevonniemi Natura 2000","coordinates":[28.819,61.8979]},{"code":"OHFF-2032","program":"wwff","name":"Miekkoniemen luonnonsuojelualue","coordinates":[28.91469,61.87731]}]}

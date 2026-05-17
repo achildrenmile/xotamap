@@ -1,1 +1,1 @@
-{"lat":66,"lon":28.5,"programs":["sota"],"count":1,"references":[{"code":"OH/KU-008","program":"sota","name":"Riisitunturi","coordinates":[28.5592,66.2231]}]}
+{"lat":66,"lon":28.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"OH/KU-008","program":"sota","name":"Riisitunturi","coordinates":[28.5592,66.2231]},{"code":"OHFF-2047","program":"wwff","name":"Pikkutassun suojelualue","coordinates":[28.52862,66.00608]}]}

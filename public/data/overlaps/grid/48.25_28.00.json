@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":28,"programs":["pota"],"count":1,"references":[{"code":"MD-0036","program":"pota","name":"Zona umedă Unguri-Holoșnița (Ramsar Wetlands) Ramsar Site","coordinates":[28.0658,48.3138]}]}
+{"lat":48.25,"lon":28,"programs":["pota","wwff"],"count":2,"references":[{"code":"MD-0036","program":"pota","name":"Zona umedă Unguri-Holoșnița (Ramsar Wetlands) Ramsar Site","coordinates":[28.0658,48.3138]},{"code":"ERFF-0032","program":"wwff","name":"Zona umeda Unguri-Holosnita (Ramsar Wetlands)","coordinates":[28.06577,48.31385]}]}
