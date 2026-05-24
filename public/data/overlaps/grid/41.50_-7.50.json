@@ -1,1 +1,1 @@
-{"lat":41.5,"lon":-7.5,"programs":["wwff"],"count":1,"references":[{"code":"CTFF-0403","program":"wwff","name":"Cedro-do-atlas, Madalena, Jardim Público, Chaves","coordinates":[-7.4658,41.7368]}]}
+{"lat":41.5,"lon":-7.5,"programs":["tota","wwff"],"count":2,"references":[{"code":"CTR-1605","program":"tota","name":"Miradouro de Chaves","coordinates":[-7.42811,41.72342]},{"code":"CTFF-0403","program":"wwff","name":"Cedro-do-atlas, Madalena, Jardim Público, Chaves","coordinates":[-7.4658,41.7368]}]}

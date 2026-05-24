@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":-8.5,"programs":["pota"],"count":1,"references":[{"code":"PT-0332","program":"pota","name":"Mata Nacional dos Sete Montes National Forest","coordinates":[-8.42472,39.6014]}]}
+{"lat":39.5,"lon":-8.5,"programs":["pota","tota"],"count":2,"references":[{"code":"PT-0332","program":"pota","name":"Mata Nacional dos Sete Montes National Forest","coordinates":[-8.42472,39.6014]},{"code":"CTR-0702","program":"tota","name":"Miradouro do Castelo de Tomar","coordinates":[-8.41758,39.60323]}]}

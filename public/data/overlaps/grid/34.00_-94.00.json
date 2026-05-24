@@ -1,1 +1,1 @@
-{"lat":34,"lon":-94,"programs":["pota"],"count":1,"references":[{"code":"US-7301","program":"pota","name":"Lake Greeson Wildlife Management Area","coordinates":[-93.756,34.227]}]}
+{"lat":34,"lon":-94,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-7301","program":"pota","name":"Lake Greeson Wildlife Management Area","coordinates":[-93.756,34.227]},{"code":"KFF-7355","program":"wwff","name":"Lake Greeson","coordinates":[-93.7559,34.2271]}]}

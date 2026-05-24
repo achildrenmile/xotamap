@@ -1,1 +1,1 @@
-{"lat":42.25,"lon":-113.5,"programs":["sota"],"count":1,"references":[{"code":"W7I/CI-109","program":"sota","name":"Cotterel Mountains HP","coordinates":[-113.4561,42.3611]}]}
+{"lat":42.25,"lon":-113.5,"programs":["pota","sota"],"count":2,"references":[{"code":"US-13293","program":"pota","name":"McClendon Spring Campground BLM Recreation Management Area","coordinates":[-113.407,42.3355]},{"code":"W7I/CI-109","program":"sota","name":"Cotterel Mountains HP","coordinates":[-113.4561,42.3611]}]}

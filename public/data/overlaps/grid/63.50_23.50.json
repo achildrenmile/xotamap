@@ -1,1 +1,1 @@
-{"lat":63.5,"lon":23.5,"programs":["pota"],"count":1,"references":[{"code":"FI-1514","program":"pota","name":"Kiimanevan–Ison Köyrisennevan luonnonsuojelualue State Nature Preserve","coordinates":[23.6517,63.7236]}]}
+{"lat":63.5,"lon":23.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1514","program":"pota","name":"Kiimanevan–Ison Köyrisennevan luonnonsuojelualue State Nature Preserve","coordinates":[23.6517,63.7236]},{"code":"OHFF-2111","program":"wwff","name":"Kiimanevan–Ison Köyrisennevan luonnonsuojelualue","coordinates":[23.6517,63.7236]}]}

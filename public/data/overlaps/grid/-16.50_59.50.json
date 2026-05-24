@@ -1,1 +1,1 @@
-{"lat":-16.5,"lon":59.5,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-2099","program":"wlota","name":"Raphael Island","coordinates":[59.61700058,-16.45000076]}]}
+{"lat":-16.5,"lon":59.5,"programs":["iota","wlota"],"count":2,"references":[{"code":"AF-015","program":"iota","name":"SAINT BRANDON ISLANDS","coordinates":[59.5,-16.5]},{"code":"WLOTA-2099","program":"wlota","name":"Raphael Island","coordinates":[59.61700058,-16.45000076]}]}
