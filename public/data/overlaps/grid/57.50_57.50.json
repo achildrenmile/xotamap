@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":57.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1241","program":"wwff","name":"Poyushchiye Peski, Pamyatnik Prirody","coordinates":[57.543,57.543]}]}
+{"lat":57.5,"lon":57.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"SE-2051","program":"pota","name":"Komosse Nature Reserve","coordinates":[57.7061,57.7061]},{"code":"SE-2054","program":"pota","name":"Komosse Södra Nature Reserve","coordinates":[57.6996,57.6996]},{"code":"RFF-1241","program":"wwff","name":"Poyushchiye Peski, Pamyatnik Prirody","coordinates":[57.543,57.543]}]}

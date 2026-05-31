@@ -1,1 +1,1 @@
-{"lat":-35.25,"lon":147.25,"programs":["sota"],"count":1,"references":[{"code":"VK2/RI-046","program":"sota","name":"Lighthouse Hill","coordinates":[147.2711,-35.0357]}]}
+{"lat":-35.25,"lon":147.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"VK2/RI-046","program":"sota","name":"Lighthouse Hill","coordinates":[147.2711,-35.0357]},{"code":"VKFF-6424","program":"wwff","name":"Crown Land / Travelling Stock Reserve Conservation Reserve","coordinates":[147.394,-35.2143]}]}

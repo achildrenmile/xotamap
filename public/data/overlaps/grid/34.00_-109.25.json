@@ -1,1 +1,1 @@
-{"lat":34,"lon":-109.25,"programs":["sota"],"count":1,"references":[{"code":"W7A/AP-037","program":"sota","name":"Coyote Hills","coordinates":[-109.2368,34.1712]}]}
+{"lat":34,"lon":-109.25,"programs":["pota","sota"],"count":2,"references":[{"code":"US-13330","program":"pota","name":"Sipe White Mountain State Wildlife Area","coordinates":[-109.238,34.0331]},{"code":"W7A/AP-037","program":"sota","name":"Coyote Hills","coordinates":[-109.2368,34.1712]}]}
