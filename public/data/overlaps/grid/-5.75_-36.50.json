@@ -1,1 +1,1 @@
-{"lat":-5.75,"lon":-36.5,"programs":["sota"],"count":1,"references":[{"code":"PS7/CP-029","program":"sota","name":"Serra Cabugi","coordinates":[-36.3219,-5.7058]}]}
+{"lat":-5.75,"lon":-36.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"PS7/CP-029","program":"sota","name":"Serra Cabugi","coordinates":[-36.3219,-5.7058]},{"code":"PYFF-0835","program":"wwff","name":"Parque Ecológico do PICO DO CABUGI - RN","coordinates":[-36.32767,-5.68871]}]}

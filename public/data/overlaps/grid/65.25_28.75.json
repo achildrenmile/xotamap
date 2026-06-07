@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":28.75,"programs":["wwff"],"count":1,"references":[{"code":"OHFF-2130","program":"wwff","name":"Saarensuon soidensuojelualue","coordinates":[28.8095,65.28747]}]}
+{"lat":65.25,"lon":28.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1709","program":"pota","name":"Saarensuon soidensuojelualue Protected Area","coordinates":[28.7945,65.2866]},{"code":"OHFF-2130","program":"wwff","name":"Saarensuon soidensuojelualue","coordinates":[28.8095,65.28747]}]}
