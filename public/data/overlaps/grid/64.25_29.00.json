@@ -1,1 +1,1 @@
-{"lat":64.25,"lon":29,"programs":["wwff"],"count":1,"references":[{"code":"OHFF-1036","program":"wwff","name":"Kellojärven ranta-alueet ja saaret","coordinates":[29.05245,64.2757]}]}
+{"lat":64.25,"lon":29,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1727","program":"pota","name":"Kellojärven ranta-alueet ja saaret Natura 2000","coordinates":[29.0424,64.2634]},{"code":"OHFF-1036","program":"wwff","name":"Kellojärven ranta-alueet ja saaret","coordinates":[29.05245,64.2757]}]}

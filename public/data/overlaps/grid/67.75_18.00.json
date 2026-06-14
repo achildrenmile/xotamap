@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":18,"programs":["sota","wwff"],"count":2,"references":[{"code":"SM/NB-051","program":"sota","name":"Guorgucohkka","coordinates":[18.105,67.8381]},{"code":"SMFF-0018","program":"wwff","name":"Sarek","coordinates":[18.19333,67.94667]}]}
+{"lat":67.75,"lon":18,"programs":["sota"],"count":1,"references":[{"code":"SM/NB-051","program":"sota","name":"Guorgucohkka","coordinates":[18.105,67.8381]}]}

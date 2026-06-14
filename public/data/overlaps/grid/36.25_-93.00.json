@@ -1,1 +1,1 @@
-{"lat":36.25,"lon":-93,"programs":["pota"],"count":1,"references":[{"code":"US-7187","program":"pota","name":"Slippery Hollow State Natural Area","coordinates":[-92.775,36.355]}]}
+{"lat":36.25,"lon":-93,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-7187","program":"pota","name":"Slippery Hollow State Natural Area","coordinates":[-92.775,36.355]},{"code":"KFF-7442","program":"wwff","name":"Slippery Hollow","coordinates":[-92.7749,36.3551]}]}

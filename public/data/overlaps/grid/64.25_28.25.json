@@ -1,1 +1,1 @@
-{"lat":64.25,"lon":28.25,"programs":["wwff"],"count":1,"references":[{"code":"OHFF-1701","program":"wwff","name":"Koljatin suojelualue","coordinates":[28.25253,64.48124]}]}
+{"lat":64.25,"lon":28.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1720","program":"pota","name":"Saukkovaaran ja Koljatinvaaran lehdot Natura 2000","coordinates":[28.2716,64.4871]},{"code":"OHFF-1701","program":"wwff","name":"Koljatin suojelualue","coordinates":[28.25253,64.48124]}]}
