@@ -1,1 +1,1 @@
-{"lat":38.5,"lon":-7.5,"programs":["pota"],"count":1,"references":[{"code":"PT-0133","program":"pota","name":"Rio Guadiana/Juromenha Natura 2000","coordinates":[-7.27139,38.6556]}]}
+{"lat":38.5,"lon":-7.5,"programs":["pota","tota"],"count":2,"references":[{"code":"PT-0133","program":"pota","name":"Rio Guadiana/Juromenha Natura 2000","coordinates":[-7.27139,38.6556]},{"code":"CTR-0908","program":"tota","name":"Torre do Castelo de Terena","coordinates":[-7.407463,38.62138]}]}

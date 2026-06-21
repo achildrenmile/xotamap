@@ -1,1 +1,1 @@
-{"lat":48.75,"lon":4.25,"programs":["wwbota"],"count":1,"references":[{"code":"B/F-6464","program":"wwbota","name":"Chalon en Champagne - Gare","coordinates":[4.349523,48.954351]}]}
+{"lat":48.75,"lon":4.25,"programs":["pota","wwbota"],"count":2,"references":[{"code":"FR-15630","program":"pota","name":"vallee de la marne de vitry-le-francois a epernay Biological Reserve","coordinates":[4.32583,48.9155]},{"code":"B/F-6464","program":"wwbota","name":"Chalon en Champagne - Gare","coordinates":[4.349523,48.954351]}]}

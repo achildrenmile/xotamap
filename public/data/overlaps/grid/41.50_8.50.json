@@ -1,1 +1,1 @@
-{"lat":41.5,"lon":8.5,"programs":["arlhs"],"count":1,"references":[{"code":"COR 014","program":"arlhs","name":"Cape Muro","coordinates":[8.67000008,41.72999954]}]}
+{"lat":41.5,"lon":8.5,"programs":["arlhs","pota"],"count":3,"references":[{"code":"COR 014","program":"arlhs","name":"Cape Muro","coordinates":[8.67000008,41.72999954]},{"code":"FR-15764","program":"pota","name":"cala di cigliu Biological Reserve","coordinates":[8.74693,41.737]},{"code":"FR-15765","program":"pota","name":"capu di moru – capo neru Biological Reserve","coordinates":[8.68658,41.7423]}]}

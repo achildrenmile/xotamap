@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":1,"programs":["wwff"],"count":1,"references":[{"code":"FFF-2299","program":"wwff","name":"Vasieres Cote Est d Oléron","coordinates":[1.1983,45.92476]}]}
+{"lat":45.75,"lon":1,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-9222","program":"pota","name":"foret des loges Biological Reserve","coordinates":[1.06904,45.8216]},{"code":"FFF-2299","program":"wwff","name":"Vasieres Cote Est d Oléron","coordinates":[1.1983,45.92476]}]}
