@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":40,"programs":["pota"],"count":1,"references":[{"code":"TR-0091","program":"pota","name":"Çamburnu Nature Park","coordinates":[40.2134,40.9244]}]}
+{"lat":40.75,"lon":40,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0091","program":"pota","name":"Çamburnu Nature Park","coordinates":[40.2134,40.9244]},{"code":"TAFF-0232","program":"wwff","name":"Surmene Camburnu Tabiat Parki","coordinates":[40.21482,40.92273]}]}

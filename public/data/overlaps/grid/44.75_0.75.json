@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":0.75,"programs":["wwff"],"count":1,"references":[{"code":"FFF-3994","program":"wwff","name":"FORET DE LA BESSEDE","coordinates":[0.88013,44.80697]}]}
+{"lat":44.75,"lon":0.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-15912","program":"pota","name":"foret de la bessede Biological Reserve","coordinates":[0.898628,44.7931]},{"code":"FFF-3994","program":"wwff","name":"FORET DE LA BESSEDE","coordinates":[0.88013,44.80697]}]}
