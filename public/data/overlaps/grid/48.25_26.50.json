@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":26.5,"programs":["wwff"],"count":1,"references":[{"code":"URFF-0083","program":"wwff","name":"Khotynskyi National Park","coordinates":[26.55241,48.49971]}]}
+{"lat":48.25,"lon":26.5,"programs":["gma","wwff"],"count":3,"references":[{"code":"ERM/MD-133","program":"gma","name":"Movila Mică","coordinates":[26.698168,48.322572]},{"code":"ERM/MD-276","program":"gma","name":"Movila Zedlenei","coordinates":[26.691126,48.352315]},{"code":"URFF-0083","program":"wwff","name":"Khotynskyi National Park","coordinates":[26.55241,48.49971]}]}

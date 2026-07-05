@@ -1,1 +1,1 @@
-{"lat":59.5,"lon":28,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0553","program":"wwff","name":"Kurgalsky zakaznik","coordinates":[28.112,59.705]}]}
+{"lat":59.5,"lon":28,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0070","program":"pota","name":"Kurgalsky State Sanctuary","coordinates":[28.2217,59.6752]},{"code":"RFF-0553","program":"wwff","name":"Kurgalsky zakaznik","coordinates":[28.112,59.705]}]}

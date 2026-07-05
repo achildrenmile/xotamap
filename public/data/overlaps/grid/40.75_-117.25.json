@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":-117.25,"programs":["sota"],"count":1,"references":[{"code":"W7N/HU-122","program":"sota","name":"5892","coordinates":[-117.2284,40.7658]}]}
+{"lat":40.75,"lon":-117.25,"programs":["pota","sota"],"count":2,"references":[{"code":"US-13476","program":"pota","name":"Stonehouse Nevada State Historical Monument","coordinates":[-117.191,40.8398]},{"code":"W7N/HU-122","program":"sota","name":"5892","coordinates":[-117.2284,40.7658]}]}
