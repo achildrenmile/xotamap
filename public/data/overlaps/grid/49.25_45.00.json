@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":45,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0449","program":"wwff","name":"Aleksandrovsky Graben, pamyatnik prirody","coordinates":[45.04983,49.46988]}]}
+{"lat":49.25,"lon":45,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0106","program":"pota","name":"Aleksandrovskiy Graben Nature Reserve","coordinates":[45.0526,49.467]},{"code":"RFF-0449","program":"wwff","name":"Aleksandrovsky Graben, pamyatnik prirody","coordinates":[45.04983,49.46988]}]}

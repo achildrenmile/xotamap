@@ -1,1 +1,1 @@
-{"lat":37,"lon":27.25,"programs":["pota"],"count":1,"references":[{"code":"TR-0189","program":"pota","name":"Usuluk Koyu Nature Park","coordinates":[27.4749,37.0794]}]}
+{"lat":37,"lon":27.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"TR-0189","program":"pota","name":"Usuluk Koyu Nature Park","coordinates":[27.4749,37.0794]},{"code":"TR-0458","program":"pota","name":"Golkoy Wetland Reserve","coordinates":[27.4011,37.1134]},{"code":"TAFF-0235","program":"wwff","name":"Golkoy Sulak Alani","coordinates":[27.40113,37.11345]}]}

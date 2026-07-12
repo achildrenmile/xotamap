@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":41,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0270","program":"wwff","name":"Sumarokovskiy","coordinates":[41.19324,57.6656]}]}
+{"lat":57.5,"lon":41,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0119","program":"pota","name":"Sumarokovskiy Gosudarstvennyy Nature Reserve","coordinates":[41.2048,57.6615]},{"code":"RFF-0270","program":"wwff","name":"Sumarokovskiy","coordinates":[41.19324,57.6656]}]}

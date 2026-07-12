@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":35.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0042","program":"wwff","name":"Kaluzhskie Zaseki","coordinates":[35.72342,53.79274]}]}
+{"lat":53.75,"lon":35.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0077","program":"pota","name":"Kaluga Zaseki North Nature Reserve","coordinates":[35.7254,53.7855]},{"code":"RFF-0042","program":"wwff","name":"Kaluzhskie Zaseki","coordinates":[35.72342,53.79274]}]}

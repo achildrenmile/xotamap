@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":44.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0568","program":"wwff","name":"Leschevskiy  zakaznik","coordinates":[44.86,48.52]}]}
+{"lat":48.5,"lon":44.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0107","program":"pota","name":"Leshchevsky Nature Reserve","coordinates":[44.8221,48.5278]},{"code":"RFF-0568","program":"wwff","name":"Leschevskiy  zakaznik","coordinates":[44.86,48.52]}]}

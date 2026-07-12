@@ -1,1 +1,1 @@
-{"lat":49,"lon":43.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0177","program":"wwff","name":"Donskoy","coordinates":[43.94188,49.12534]}]}
+{"lat":49,"lon":43.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0114","program":"pota","name":"Donskoy Park","coordinates":[43.9223,49.0935]},{"code":"RFF-0177","program":"wwff","name":"Donskoy","coordinates":[43.94188,49.12534]}]}

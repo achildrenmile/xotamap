@@ -1,1 +1,1 @@
-{"lat":60,"lon":30.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1035","program":"wwff","name":"Novoorlovskiy, Zakaznik","coordinates":[30.28,60.045]}]}
+{"lat":60,"lon":30.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0101","program":"pota","name":"Sosnovka Park","coordinates":[30.3516,60.0216]},{"code":"RFF-1035","program":"wwff","name":"Novoorlovskiy, Zakaznik","coordinates":[30.28,60.045]}]}
