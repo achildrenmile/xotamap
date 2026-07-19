@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":1.5,"programs":["sota"],"count":1,"references":[{"code":"FL/NO-137","program":"sota","name":"Les Dutots","coordinates":[1.5844,49.4974]}]}
+{"lat":49.25,"lon":1.5,"programs":["pota","sota"],"count":3,"references":[{"code":"FR-16252","program":"pota","name":"la foret de lyons Biological Reserve","coordinates":[1.50347,49.4232]},{"code":"FR-16254","program":"pota","name":"la haute vallee de la levriere Biological Reserve","coordinates":[1.70112,49.3582]},{"code":"FL/NO-137","program":"sota","name":"Les Dutots","coordinates":[1.5844,49.4974]}]}

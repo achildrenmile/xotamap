@@ -1,1 +1,1 @@
-{"lat":39.25,"lon":-119,"programs":["sota"],"count":1,"references":[{"code":"W7N/PC-181","program":"sota","name":"Red Mountain","coordinates":[-118.9729,39.3886]}]}
+{"lat":39.25,"lon":-119,"programs":["pota","sota"],"count":3,"references":[{"code":"US-13504","program":"pota","name":"Far East -Nevada BLM Backcountry Airstrip","coordinates":[-118.992,39.3275]},{"code":"US-13508","program":"pota","name":"Stink Bug, NV BLM Backcountry Airstrip","coordinates":[-118.979,39.4377]},{"code":"W7N/PC-181","program":"sota","name":"Red Mountain","coordinates":[-118.9729,39.3886]}]}
