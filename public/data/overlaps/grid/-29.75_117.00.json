@@ -1,1 +1,1 @@
-{"lat":-29.75,"lon":117,"programs":["pota"],"count":1,"references":[{"code":"AU-7092","program":"pota","name":"Mt Gibson Private Nature Reserve","coordinates":[117.237,-29.7045]}]}
+{"lat":-29.75,"lon":117,"programs":["gma","pota"],"count":3,"references":[{"code":"VK6/HCE-036","program":"gma","name":"Mount Gibson","coordinates":[117.189,-29.5967]},{"code":"VK6/HCE-072","program":"gma","name":"Yandhanoo Hill","coordinates":[117.236,-29.53]},{"code":"AU-7092","program":"pota","name":"Mt Gibson Private Nature Reserve","coordinates":[117.237,-29.7045]}]}

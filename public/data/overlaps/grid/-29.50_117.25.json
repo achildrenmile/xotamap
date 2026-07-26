@@ -1,1 +1,1 @@
-{"lat":-29.5,"lon":117.25,"programs":["sota"],"count":1,"references":[{"code":"VK6/SW-015","program":"sota","name":"Mt Singleton","coordinates":[117.2989,-29.4663]}]}
+{"lat":-29.5,"lon":117.25,"programs":["gma","sota"],"count":3,"references":[{"code":"VK6/HCE-065","program":"gma","name":"Watheragabbing Hill","coordinates":[117.303,-29.4258]},{"code":"VK6/HCE-071","program":"gma","name":"Wylacoopin Hill","coordinates":[117.257,-29.4067]},{"code":"VK6/SW-015","program":"sota","name":"Mt Singleton","coordinates":[117.2989,-29.4663]}]}

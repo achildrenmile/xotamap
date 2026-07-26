@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":-8.75,"programs":["sota"],"count":1,"references":[{"code":"EI/IN-089","program":"sota","name":"Mullaghanoe","coordinates":[-8.7255,53.93826]}]}
+{"lat":53.75,"lon":-8.75,"programs":["gma","sota"],"count":2,"references":[{"code":"EI/HIN-009","program":"gma","name":"Bockagh Hill","coordinates":[-8.60672,53.9353]},{"code":"EI/IN-089","program":"sota","name":"Mullaghanoe","coordinates":[-8.7255,53.93826]}]}

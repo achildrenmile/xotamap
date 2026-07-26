@@ -1,1 +1,1 @@
-{"lat":52,"lon":-8.25,"programs":["sota"],"count":1,"references":[{"code":"EI/IS-031","program":"sota","name":"Knockshanahullion","coordinates":[-8.001455,52.246162]}]}
+{"lat":52,"lon":-8.25,"programs":["gma","sota"],"count":3,"references":[{"code":"EI/HIS-078","program":"gma","name":"Knockadullaun","coordinates":[-8.04517,52.1889]},{"code":"EI/HIS-080","program":"gma","name":"Knockakeo","coordinates":[-8.08229,52.0175]},{"code":"EI/IS-031","program":"sota","name":"Knockshanahullion","coordinates":[-8.001455,52.246162]}]}

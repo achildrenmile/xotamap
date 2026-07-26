@@ -1,1 +1,1 @@
-{"lat":-30.5,"lon":115.5,"programs":["pota"],"count":1,"references":[{"code":"AU-3386","program":"pota","name":"Boothendarra Nature Reserve","coordinates":[115.657,-30.2702]}]}
+{"lat":-30.5,"lon":115.5,"programs":["gma","pota"],"count":2,"references":[{"code":"VK6/HCE-017","program":"gma","name":"Dinner Hill","coordinates":[115.637,-30.39]},{"code":"AU-3386","program":"pota","name":"Boothendarra Nature Reserve","coordinates":[115.657,-30.2702]}]}

@@ -1,1 +1,1 @@
-{"lat":-33.5,"lon":123.25,"programs":["sota"],"count":1,"references":[{"code":"VK6/SG-002","program":"sota","name":"Tower Peak","coordinates":[123.4751,-33.4448]}]}
+{"lat":-33.5,"lon":123.25,"programs":["gma","sota"],"count":2,"references":[{"code":"VK6/HCE-069","program":"gma","name":"Wolgrah Hill","coordinates":[123.448,-33.3733]},{"code":"VK6/SG-002","program":"sota","name":"Tower Peak","coordinates":[123.4751,-33.4448]}]}

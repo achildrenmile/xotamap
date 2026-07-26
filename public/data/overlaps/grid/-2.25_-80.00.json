@@ -1,1 +1,1 @@
-{"lat":-2.25,"lon":-80,"programs":["wwff"],"count":1,"references":[{"code":"HCFF-0013","program":"wwff","name":"Los Samanes","coordinates":[-79.96053,-2.12896]}]}
+{"lat":-2.25,"lon":-80,"programs":["pota","wwff"],"count":2,"references":[{"code":"EC-0037","program":"pota","name":"Cerro El Paraiso State Wildlife Area","coordinates":[-79.9226,-2.17648]},{"code":"HCFF-0013","program":"wwff","name":"Los Samanes","coordinates":[-79.96053,-2.12896]}]}

@@ -1,1 +1,1 @@
-{"lat":-31,"lon":121,"programs":["sota"],"count":1,"references":[{"code":"VK6/SG-020","program":"sota","name":"Mount Burges","coordinates":[121.0964,-30.8353]}]}
+{"lat":-31,"lon":121,"programs":["gma","sota"],"count":2,"references":[{"code":"VK6/HCE-029","program":"gma","name":"Mount Burges","coordinates":[121.097,-30.835]},{"code":"VK6/SG-020","program":"sota","name":"Mount Burges","coordinates":[121.0964,-30.8353]}]}

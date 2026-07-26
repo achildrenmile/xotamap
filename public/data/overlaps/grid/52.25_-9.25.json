@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-9.25,"programs":["sota"],"count":1,"references":[{"code":"EI/IS-093","program":"sota","name":"Knockanimpaha","coordinates":[-9.15383,52.44867]}]}
+{"lat":52.25,"lon":-9.25,"programs":["gma","sota"],"count":2,"references":[{"code":"EI/HIW-048","program":"gma","name":"Knockacummer [Cnoc an Chomair]","coordinates":[-9.092,52.2677]},{"code":"EI/IS-093","program":"sota","name":"Knockanimpaha","coordinates":[-9.15383,52.44867]}]}

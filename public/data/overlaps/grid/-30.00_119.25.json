@@ -1,1 +1,1 @@
-{"lat":-30,"lon":119.25,"programs":["sota"],"count":1,"references":[{"code":"VK6/SG-018","program":"sota","name":"VK6/SG-018","coordinates":[119.3668,-29.92]}]}
+{"lat":-30,"lon":119.25,"programs":["gma","sota"],"count":2,"references":[{"code":"VK6/HCE-016","program":"gma","name":"[Die Hardy Peak]","coordinates":[119.371,-29.9292]},{"code":"VK6/SG-018","program":"sota","name":"VK6/SG-018","coordinates":[119.3668,-29.92]}]}

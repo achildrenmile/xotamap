@@ -1,1 +1,1 @@
-{"lat":-29.25,"lon":117.25,"programs":["sota"],"count":1,"references":[{"code":"VK6/SW-044","program":"sota","name":"Pinyalling Hill","coordinates":[117.3157,-29.0952]}]}
+{"lat":-29.25,"lon":117.25,"programs":["gma","sota"],"count":3,"references":[{"code":"VK6/HCE-009","program":"gma","name":"[Bullajungadeah 3]","coordinates":[117.291,-29.065]},{"code":"VK6/HCE-064","program":"gma","name":"Walagnumming Hill","coordinates":[117.421,-29.0483]},{"code":"VK6/SW-044","program":"sota","name":"Pinyalling Hill","coordinates":[117.3157,-29.0952]}]}

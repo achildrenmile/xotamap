@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":-9.75,"programs":["wwff"],"count":1,"references":[{"code":"EIFF-0101","program":"wwff","name":"Ballyseedy Wood SAC","coordinates":[-9.65699,52.2551]}]}
+{"lat":52.25,"lon":-9.75,"programs":["gma","wwff"],"count":2,"references":[{"code":"EI/HIW-035","program":"gma","name":"Crusline","coordinates":[-9.618,52.3111]},{"code":"EIFF-0101","program":"wwff","name":"Ballyseedy Wood SAC","coordinates":[-9.65699,52.2551]}]}
