@@ -1,1 +1,1 @@
-{"lat":31.5,"lon":117.5,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0016","program":"wwff","name":"Chaohu (Lake Chao)","coordinates":[117.54047,31.52945]}]}
+{"lat":31.5,"lon":117.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1280","program":"pota","name":"安徽巢湖半岛国家湿地公园 Wetland Reserve","coordinates":[117.563,31.5813]},{"code":"BYFF-0016","program":"wwff","name":"Chaohu (Lake Chao)","coordinates":[117.54047,31.52945]}]}

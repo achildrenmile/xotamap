@@ -1,1 +1,1 @@
-{"lat":67.5,"lon":28.5,"programs":["wwff"],"count":1,"references":[{"code":"OHFF-1899","program":"wwff","name":"Hukka-aavan luonnonsuojelualue","coordinates":[28.6399,67.5437]}]}
+{"lat":67.5,"lon":28.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1761","program":"pota","name":"Hukka-aavan luonnonsuojelualue State Nature Preserve","coordinates":[28.6659,67.572]},{"code":"OHFF-1899","program":"wwff","name":"Hukka-aavan luonnonsuojelualue","coordinates":[28.6399,67.5437]}]}

@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":0,"programs":["wwff"],"count":1,"references":[{"code":"FFF-2321","program":"wwff","name":"Natura 2000 - La Dordogne","coordinates":[0.08278,44.83306]}]}
+{"lat":44.75,"lon":0,"programs":["pota","wwff"],"count":2,"references":[{"code":"FR-16528","program":"pota","name":"la dordogne 2 Biological Reserve","coordinates":[0.2274,44.8891]},{"code":"FFF-2321","program":"wwff","name":"Natura 2000 - La Dordogne","coordinates":[0.08278,44.83306]}]}

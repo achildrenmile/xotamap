@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":26,"programs":["sota"],"count":1,"references":[{"code":"OH/KI-070","program":"sota","name":"Paistipuolet","coordinates":[26.2485,67.8236]}]}
+{"lat":67.75,"lon":26,"programs":["pota","sota"],"count":2,"references":[{"code":"FI-1755","program":"pota","name":"Pomokairan luonnonsuojelualue State Nature Preserve","coordinates":[26.1875,67.8587]},{"code":"OH/KI-070","program":"sota","name":"Paistipuolet","coordinates":[26.2485,67.8236]}]}
