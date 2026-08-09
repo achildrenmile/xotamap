@@ -1,1 +1,1 @@
-{"lat":-16.25,"lon":-46.25,"programs":["sota"],"count":1,"references":[{"code":"PY4/NO-030","program":"sota","name":"Serra Cafundo","coordinates":[-46.14627,-16.01942]}]}
+{"lat":-16.25,"lon":-46.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"PY4/NO-030","program":"sota","name":"Serra Cafundo","coordinates":[-46.14627,-16.01942]},{"code":"PYFF-0859","program":"wwff","name":"Parque Estadual de SAGARANA - MG","coordinates":[-46.17719,-16.16313]}]}

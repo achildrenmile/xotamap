@@ -1,1 +1,1 @@
-{"lat":5.75,"lon":118,"programs":["arlhs"],"count":1,"references":[{"code":"EMA 001","program":"arlhs","name":"Berhala (Sabah)","coordinates":[118.15000153,5.86999989]}]}
+{"lat":5.75,"lon":118,"programs":["arlhs","tota"],"count":3,"references":[{"code":"EMA 001","program":"arlhs","name":"Berhala (Sabah)","coordinates":[118.15000153,5.86999989]},{"code":"9MR-1006","program":"tota","name":"Rotary Observation Pavilion","coordinates":[118.116427,5.841888]},{"code":"9MR-1005","program":"tota","name":"Trigg Hill Rotary Tower","coordinates":[118.099049,5.841556]}]}

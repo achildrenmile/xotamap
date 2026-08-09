@@ -1,1 +1,1 @@
-{"lat":5.25,"lon":115.25,"programs":["arlhs"],"count":1,"references":[{"code":"EMA 015","program":"arlhs","name":"Bethune Head","coordinates":[115.25,5.4000001]}]}
+{"lat":5.25,"lon":115.25,"programs":["arlhs","tota"],"count":2,"references":[{"code":"EMA 015","program":"arlhs","name":"Bethune Head","coordinates":[115.25,5.4000001]},{"code":"9MR-1602","program":"tota","name":"Labuan Maritime Museum Observation Tower","coordinates":[115.254888,5.274204]}]}

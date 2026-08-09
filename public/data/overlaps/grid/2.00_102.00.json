@@ -1,1 +1,1 @@
-{"lat":2,"lon":102,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-0675","program":"wlota","name":"Batu Gelama","coordinates":[102.2480011,2.1730001]}]}
+{"lat":2,"lon":102,"programs":["tota","wlota"],"count":3,"references":[{"code":"9MR-0401","program":"tota","name":"Menara Taming Sari","coordinates":[102.247259,2.19098]},{"code":"9MR-0402","program":"tota","name":"The Shore Sky Tower","coordinates":[102.249585,2.202663]},{"code":"WLOTA-0675","program":"wlota","name":"Batu Gelama","coordinates":[102.2480011,2.1730001]}]}

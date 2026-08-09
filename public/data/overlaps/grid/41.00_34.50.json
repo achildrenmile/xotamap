@@ -1,1 +1,1 @@
-{"lat":41,"lon":34.5,"programs":["wwff"],"count":1,"references":[{"code":"TAFF-0226","program":"wwff","name":"Aksu Tabiat Parki","coordinates":[34.62266,41.19655]}]}
+{"lat":41,"lon":34.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0299","program":"pota","name":"Aksu Nature Park","coordinates":[34.6207,41.1964]},{"code":"TAFF-0226","program":"wwff","name":"Aksu Tabiat Parki","coordinates":[34.62266,41.19655]}]}

@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":45.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1354","program":"wwff","name":"Burkinskiy Les, Pamyatnik Prirody","coordinates":[45.74,51.41]}]}
+{"lat":51.25,"lon":45.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0164","program":"pota","name":"Burkinsky Forest National Monument","coordinates":[45.7442,51.4074]},{"code":"RFF-1354","program":"wwff","name":"Burkinskiy Les, Pamyatnik Prirody","coordinates":[45.74,51.41]}]}

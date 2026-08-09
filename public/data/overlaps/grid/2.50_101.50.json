@@ -1,1 +1,1 @@
-{"lat":2.5,"lon":101.5,"programs":["arlhs"],"count":1,"references":[{"code":"WMA 015","program":"arlhs","name":"Kuala Sepang Besar","coordinates":[101.72000122,2.57999992]}]}
+{"lat":2.5,"lon":101.5,"programs":["arlhs","tota"],"count":2,"references":[{"code":"WMA 015","program":"arlhs","name":"Kuala Sepang Besar","coordinates":[101.72000122,2.57999992]},{"code":"9MR-1202","program":"tota","name":"Anjung Spotter KLIA","coordinates":[101.71196,2.716378]}]}

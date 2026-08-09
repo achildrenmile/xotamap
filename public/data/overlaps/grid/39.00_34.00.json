@@ -1,1 +1,1 @@
-{"lat":39,"lon":34,"programs":["pota"],"count":1,"references":[{"code":"TR-0074","program":"pota","name":"Aşıkpaşa Nature Park","coordinates":[34.1768,39.1444]}]}
+{"lat":39,"lon":34,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0074","program":"pota","name":"Aşıkpaşa Nature Park","coordinates":[34.1768,39.1444]},{"code":"TAFF-0237","program":"wwff","name":"Asikpasa Tabiat Parki","coordinates":[34.17729,39.14431]}]}

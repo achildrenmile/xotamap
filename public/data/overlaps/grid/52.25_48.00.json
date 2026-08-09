@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":48,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0148","program":"wwff","name":"Khvalynskiy","coordinates":[48.00407,52.46992]}]}
+{"lat":52.25,"lon":48,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0014","program":"pota","name":"Khvalynsky National Park","coordinates":[48.0256,52.4491]},{"code":"RFF-0148","program":"wwff","name":"Khvalynskiy","coordinates":[48.00407,52.46992]}]}

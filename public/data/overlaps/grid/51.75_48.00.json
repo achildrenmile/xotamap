@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":48,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1298","program":"wwff","name":"Grachevskaya lesnaya dacha, Pamyatnik Prirody","coordinates":[48.12,51.975]}]}
+{"lat":51.75,"lon":48,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0180","program":"pota","name":"Grachevsky Forest Tract Nature Reserve","coordinates":[48.1348,51.9863]},{"code":"RFF-1298","program":"wwff","name":"Grachevskaya lesnaya dacha, Pamyatnik Prirody","coordinates":[48.12,51.975]}]}

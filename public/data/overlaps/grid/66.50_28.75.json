@@ -1,1 +1,1 @@
-{"lat":66.5,"lon":28.75,"programs":["sota"],"count":1,"references":[{"code":"OH/KU-007","program":"sota","name":"Ruuhitunturi","coordinates":[28.7783,66.7156]}]}
+{"lat":66.5,"lon":28.75,"programs":["pota","sota"],"count":2,"references":[{"code":"FI-1768","program":"pota","name":"Suksenpaistama - Miehinkävaara Natura 2000","coordinates":[28.8031,66.6476]},{"code":"OH/KU-007","program":"sota","name":"Ruuhitunturi","coordinates":[28.7783,66.7156]}]}

@@ -1,1 +1,1 @@
-{"lat":51,"lon":47.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0281","program":"wwff","name":"Saratovskiy","coordinates":[47.76306,51.23183]}]}
+{"lat":51,"lon":47.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0175","program":"pota","name":"Saratovsky State National Park","coordinates":[47.7774,51.2199]},{"code":"RFF-0281","program":"wwff","name":"Saratovskiy","coordinates":[47.76306,51.23183]}]}

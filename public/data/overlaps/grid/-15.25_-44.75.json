@@ -1,1 +1,1 @@
-{"lat":-15.25,"lon":-44.75,"programs":["pota"],"count":1,"references":[{"code":"BR-0230","program":"pota","name":"Veredas do Peruaçu State Park","coordinates":[-44.6443,-15.0031]}]}
+{"lat":-15.25,"lon":-44.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0230","program":"pota","name":"Veredas do Peruaçu State Park","coordinates":[-44.6443,-15.0031]},{"code":"PYFF-0860","program":"wwff","name":"Parque Estadual VEREDAS DO PERUAÇU - MG","coordinates":[-44.64433,-15.00282]}]}

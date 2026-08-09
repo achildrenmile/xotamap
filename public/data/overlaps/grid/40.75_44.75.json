@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":44.75,"programs":["wwff"],"count":1,"references":[{"code":"EKFF-0002","program":"wwff","name":"Dilizhanskiy","coordinates":[44.92347,40.79765]}]}
+{"lat":40.75,"lon":44.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"AM-0022","program":"pota","name":"Igevan State Sanctuary","coordinates":[44.992,40.9439]},{"code":"EKFF-0002","program":"wwff","name":"Dilizhanskiy","coordinates":[44.92347,40.79765]}]}

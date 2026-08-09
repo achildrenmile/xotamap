@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":46.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1366","program":"wwff","name":"Diakovskiy Les, Pamyatnik Prirody","coordinates":[46.73,50.72]}]}
+{"lat":50.5,"lon":46.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0176","program":"pota","name":"Dyakovsky Les National Park","coordinates":[46.7171,50.7061]},{"code":"RFF-1366","program":"wwff","name":"Diakovskiy Les, Pamyatnik Prirody","coordinates":[46.73,50.72]}]}
