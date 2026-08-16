@@ -1,1 +1,1 @@
-{"lat":48.25,"lon":45.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1084","program":"wwff","name":"Vyazovskaya dubrava, Zakaznik","coordinates":[45.67,48.34]}]}
+{"lat":48.25,"lon":45.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0186","program":"pota","name":"Vyazovskaya Dubrava State National Park","coordinates":[45.6626,48.3384]},{"code":"RFF-1084","program":"wwff","name":"Vyazovskaya dubrava, Zakaznik","coordinates":[45.67,48.34]}]}
