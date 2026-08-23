@@ -1,1 +1,1 @@
-{"lat":68.5,"lon":22.25,"programs":["pota"],"count":1,"references":[{"code":"FI-1643","program":"pota","name":"Lätäsenon-Hietajoen soidensuojelualue Protected Area","coordinates":[22.3645,68.6873]}]}
+{"lat":68.5,"lon":22.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1643","program":"pota","name":"Lätäsenon-Hietajoen soidensuojelualue Protected Area","coordinates":[22.3645,68.6873]},{"code":"OHFF-2194","program":"wwff","name":"Harjunpään luonnonsuojelualue","coordinates":[22.49728,68.60775]}]}

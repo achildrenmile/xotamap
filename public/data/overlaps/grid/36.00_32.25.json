@@ -1,1 +1,1 @@
-{"lat":36,"lon":32.25,"programs":["wwff"],"count":1,"references":[{"code":"TAFF-0154","program":"wwff","name":"Koru Plaji","coordinates":[32.29692,36.2368]}]}
+{"lat":36,"lon":32.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"TR-0466","program":"pota","name":"Koru Beach Flora and Fauna Reserve","coordinates":[32.2969,36.2368]},{"code":"TAFF-0154","program":"wwff","name":"Koru Plaji","coordinates":[32.29692,36.2368]}]}

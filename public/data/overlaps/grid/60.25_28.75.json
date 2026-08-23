@@ -1,1 +1,1 @@
-{"lat":60.25,"lon":28.75,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 216","program":"arlhs","name":"Kurenniemi (Baltic Sea)","coordinates":[28.92000008,60.27000046]}]}
+{"lat":60.25,"lon":28.75,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 216","program":"arlhs","name":"Kurenniemi (Baltic Sea)","coordinates":[28.92000008,60.27000046]},{"code":"RU-0220","program":"pota","name":"Zheltaya Bay Nature Monument","coordinates":[28.9622,60.2539]}]}

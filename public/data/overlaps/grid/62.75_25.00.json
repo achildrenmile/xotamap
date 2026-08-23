@@ -1,1 +1,1 @@
-{"lat":62.75,"lon":25,"programs":["wwff"],"count":1,"references":[{"code":"OHFF-1964","program":"wwff","name":"Julmatlammit-Kitukorpi","coordinates":[25.13623,62.76553]}]}
+{"lat":62.75,"lon":25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-1824","program":"pota","name":"Julmatlammit - Kitukorpi Natura 2000","coordinates":[25.1335,62.7693]},{"code":"OHFF-1964","program":"wwff","name":"Julmatlammit-Kitukorpi","coordinates":[25.13623,62.76553]}]}

@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1404","program":"wwff","name":"Mikhailovskiy, Zakaznik","coordinates":[40.25,51.62]}]}
+{"lat":51.5,"lon":40.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0233","program":"pota","name":"Bityugsky State Natural Reserve","coordinates":[40.4493,51.547]},{"code":"RFF-1404","program":"wwff","name":"Mikhailovskiy, Zakaznik","coordinates":[40.25,51.62]}]}

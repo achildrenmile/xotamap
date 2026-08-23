@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":39.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1315","program":"wwff","name":"Baygorovskiy, Zakaznik","coordinates":[39.92,51.89]}]}
+{"lat":51.75,"lon":39.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0232","program":"pota","name":"Baygorovsky State Natural Reserve","coordinates":[39.9301,51.8996]},{"code":"RFF-1315","program":"wwff","name":"Baygorovskiy, Zakaznik","coordinates":[39.92,51.89]}]}

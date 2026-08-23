@@ -1,1 +1,1 @@
-{"lat":51,"lon":37.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0010","program":"wwff","name":"Belogorje","coordinates":[37.64603,51.18774]}]}
+{"lat":51,"lon":37.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0278","program":"pota","name":"Belogorye State Natural Reserve","coordinates":[37.6454,51.1904]},{"code":"RFF-0010","program":"wwff","name":"Belogorje","coordinates":[37.64603,51.18774]}]}

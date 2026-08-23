@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":27.25,"programs":["pota"],"count":1,"references":[{"code":"FI-0498","program":"pota","name":"Kuivasaari Nature Reserve","coordinates":[27.497,61.4404]}]}
+{"lat":61.25,"lon":27.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"FI-0498","program":"pota","name":"Kuivasaari Nature Reserve","coordinates":[27.497,61.4404]},{"code":"OHFF-2192","program":"wwff","name":"Kuituranniemen luonnonsuojelualue","coordinates":[27.27832,61.36832]}]}

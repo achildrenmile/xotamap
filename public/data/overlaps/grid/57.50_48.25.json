@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":48.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0636","program":"wwff","name":"Pizhemskiy, zakaznik","coordinates":[48.38,57.6]}]}
+{"lat":57.5,"lon":48.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0283","program":"pota","name":"Pizhemsky State Natural Reserve","coordinates":[48.2634,57.6111]},{"code":"RFF-0636","program":"wwff","name":"Pizhemskiy, zakaznik","coordinates":[48.38,57.6]}]}

@@ -1,1 +1,1 @@
-{"lat":55,"lon":40,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0129","program":"wwff","name":"Mescherskiy","coordinates":[40.14954,55.14513]}]}
+{"lat":55,"lon":40,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0025","program":"pota","name":"Meschyorsky National Park","coordinates":[40.12,55.1424]},{"code":"RFF-0129","program":"wwff","name":"Mescherskiy","coordinates":[40.14954,55.14513]}]}

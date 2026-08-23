@@ -1,1 +1,1 @@
-{"lat":51.75,"lon":39.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0266","program":"wwff","name":"Voronezhskiy","coordinates":[39.46838,51.82729]}]}
+{"lat":51.75,"lon":39.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0229","program":"pota","name":"\"Voronezhsky\" State Natural Reserve","coordinates":[39.483,51.8475]},{"code":"RFF-0266","program":"wwff","name":"Voronezhskiy","coordinates":[39.46838,51.82729]}]}

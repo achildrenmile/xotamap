@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":42.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0182","program":"wwff","name":"Nizhnekhoperskiy","coordinates":[42.43469,49.81849]}]}
+{"lat":49.75,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0282","program":"pota","name":"Nizhnehopersky Nature Park","coordinates":[42.335,49.851]},{"code":"RFF-0182","program":"wwff","name":"Nizhnekhoperskiy","coordinates":[42.43469,49.81849]}]}

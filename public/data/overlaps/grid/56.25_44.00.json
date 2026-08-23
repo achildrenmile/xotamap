@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":44,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0842","program":"wwff","name":"Sitnikovskiy, Zakaznik","coordinates":[44.09,56.446]}]}
+{"lat":56.25,"lon":44,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0241","program":"pota","name":"Shchelokovsky Khutor Nature Park","coordinates":[44.0122,56.274]},{"code":"RFF-0842","program":"wwff","name":"Sitnikovskiy, Zakaznik","coordinates":[44.09,56.446]}]}

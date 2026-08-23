@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":45.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0309","program":"wwff","name":"Voskresenskoye Povetluzhie","coordinates":[45.50468,56.79467]}]}
+{"lat":56.75,"lon":45.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0240","program":"pota","name":"Voskresenskoye Povetluzhye Nature Park","coordinates":[45.5293,56.8033]},{"code":"RFF-0309","program":"wwff","name":"Voskresenskoye Povetluzhie","coordinates":[45.50468,56.79467]}]}

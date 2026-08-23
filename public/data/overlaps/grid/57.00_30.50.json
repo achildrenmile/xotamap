@@ -1,1 +1,1 @@
-{"lat":57,"lon":30.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0072","program":"wwff","name":"Polistovskiy","coordinates":[30.56534,57.15821]}]}
+{"lat":57,"lon":30.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0279","program":"pota","name":"Polistovsky State Natural Reserve","coordinates":[30.5729,57.1461]},{"code":"RFF-0072","program":"wwff","name":"Polistovskiy","coordinates":[30.56534,57.15821]}]}

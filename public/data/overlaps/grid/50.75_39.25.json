@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":39.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1341","program":"wwff","name":"Divnogoriye, Zakaznik","coordinates":[39.3,50.97]}]}
+{"lat":50.75,"lon":39.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0238","program":"pota","name":"Divnogorye State Natural Reserve","coordinates":[39.2944,50.9822]},{"code":"RFF-1341","program":"wwff","name":"Divnogoriye, Zakaznik","coordinates":[39.3,50.97]}]}

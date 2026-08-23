@@ -1,1 +1,1 @@
-{"lat":60.25,"lon":29.5,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-0700","program":"wlota","name":"Tolbukhin","coordinates":[29.54500008,60.40000153]}]}
+{"lat":60.25,"lon":29.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"RU-0219","program":"pota","name":"Ozyornoye Bog State Natural Reserve","coordinates":[29.5667,60.3433]},{"code":"WLOTA-0700","program":"wlota","name":"Tolbukhin","coordinates":[29.54500008,60.40000153]}]}
