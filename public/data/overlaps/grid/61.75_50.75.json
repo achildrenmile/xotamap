@@ -1,1 +1,1 @@
-{"lat":61.75,"lon":50.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0894","program":"wwff","name":"Beloborskiy, Zakaznik","coordinates":[50.885,61.75]}]}
+{"lat":61.75,"lon":50.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0312","program":"pota","name":"Beloborsky State Natural Reserve","coordinates":[50.8671,61.7608]},{"code":"RFF-0894","program":"wwff","name":"Beloborskiy, Zakaznik","coordinates":[50.885,61.75]}]}

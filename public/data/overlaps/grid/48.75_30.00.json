@@ -1,1 +1,1 @@
-{"lat":48.75,"lon":30,"programs":["wwff"],"count":1,"references":[{"code":"URFF-0059","program":"wwff","name":"Sofiivka National Park (Dendrological)","coordinates":[30.23446,48.76238]}]}
+{"lat":48.75,"lon":30,"programs":["pota","wwff"],"count":2,"references":[{"code":"UA-0072","program":"pota","name":"Sofiyivka National Dendrological Nature Park","coordinates":[30.2358,48.7637]},{"code":"URFF-0059","program":"wwff","name":"Sofiivka National Park (Dendrological)","coordinates":[30.23446,48.76238]}]}

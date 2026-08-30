@@ -1,1 +1,1 @@
-{"lat":-9.25,"lon":-37.5,"programs":["sota"],"count":1,"references":[{"code":"PP7/SA-002","program":"sota","name":"Serra da Cai","coordinates":[-37.3394,-9.2436]}]}
+{"lat":-9.25,"lon":-37.5,"programs":["sota","wwff"],"count":2,"references":[{"code":"PP7/SA-002","program":"sota","name":"Serra da Cai","coordinates":[-37.3394,-9.2436]},{"code":"PYFF-0845","program":"wwff","name":"Área de Prot. Amb. SERRA DA CAIÇARA - AL","coordinates":[-37.32824,-9.23885]}]}

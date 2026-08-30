@@ -1,1 +1,1 @@
-{"lat":47,"lon":-88.5,"programs":["wwff"],"count":1,"references":[{"code":"KFF-0740","program":"wwff","name":"Keweenaw","coordinates":[-88.45237,47.244]}]}
+{"lat":47,"lon":-88.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-0740","program":"pota","name":"Keweenaw National Historical Park","coordinates":[-88.4525,47.2441]},{"code":"KFF-0740","program":"wwff","name":"Keweenaw","coordinates":[-88.45237,47.244]}]}

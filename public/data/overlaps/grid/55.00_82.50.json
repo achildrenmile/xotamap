@@ -1,1 +1,1 @@
-{"lat":55,"lon":82.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0683","program":"wwff","name":"Kudryashovskiy bor, zakaznik","coordinates":[82.68,55.172]}]}
+{"lat":55,"lon":82.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0284","program":"pota","name":"Kudryashovsky pine forest Nature Reserve","coordinates":[82.6856,55.1697]},{"code":"RFF-0683","program":"wwff","name":"Kudryashovskiy bor, zakaznik","coordinates":[82.68,55.172]}]}

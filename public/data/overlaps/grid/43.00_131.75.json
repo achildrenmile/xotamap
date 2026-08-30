@@ -1,1 +1,1 @@
-{"lat":43,"lon":131.75,"programs":["arlhs"],"count":1,"references":[{"code":"ASR 090","program":"arlhs","name":"Firsova (Japan Sea)","coordinates":[131.8999939,43.16999817]}]}
+{"lat":43,"lon":131.75,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ASR 090","program":"arlhs","name":"Firsova (Japan Sea)","coordinates":[131.8999939,43.16999817]},{"code":"RU-0359","program":"pota","name":"FEBRAC Botanical Gardens","coordinates":[131.989,43.2175]}]}

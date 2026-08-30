@@ -1,1 +1,1 @@
-{"lat":48,"lon":134.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0014","program":"wwff","name":"Bol'shehehtsirskiy","coordinates":[134.90266,48.1885]}]}
+{"lat":48,"lon":134.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0356","program":"pota","name":"Bolshekhekhtsirsky State Natural Reserve","coordinates":[134.886,48.1773]},{"code":"RFF-0014","program":"wwff","name":"Bol'shehehtsirskiy","coordinates":[134.90266,48.1885]}]}

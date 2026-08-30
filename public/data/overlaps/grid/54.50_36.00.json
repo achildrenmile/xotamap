@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":36,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0917","program":"wwff","name":"Kaluzhsky Bor, Nature Monument","coordinates":[36.198,54.534]}]}
+{"lat":54.5,"lon":36,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0292","program":"pota","name":"Kaluga Pine Forest Nature Monument","coordinates":[36.198,54.5327]},{"code":"RFF-0917","program":"wwff","name":"Kaluzhsky Bor, Nature Monument","coordinates":[36.198,54.534]}]}

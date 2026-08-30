@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":20.5,"programs":["tota"],"count":1,"references":[{"code":"HAR-0401","program":"tota","name":"Panorama kilato","coordinates":[20.6847,46.5609]}]}
+{"lat":46.5,"lon":20.5,"programs":["pota","tota"],"count":2,"references":[{"code":"HU-0205","program":"pota","name":"Lowlands Blue Trail Section 05: Mindszent vá. - Szarvas State Trail","coordinates":[20.5534,46.6265]},{"code":"HAR-0401","program":"tota","name":"Panorama kilato","coordinates":[20.6847,46.5609]}]}

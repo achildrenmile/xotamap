@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":146,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0054","program":"wwff","name":"Kuril'skiy","coordinates":[146.17857,44.3759]}]}
+{"lat":44.25,"lon":146,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0347","program":"pota","name":"Kuril State Natural Reserve","coordinates":[146.209,44.3836]},{"code":"RFF-0054","program":"wwff","name":"Kuril'skiy","coordinates":[146.17857,44.3759]}]}

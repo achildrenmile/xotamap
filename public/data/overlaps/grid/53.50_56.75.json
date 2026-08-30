@@ -1,1 +1,1 @@
-{"lat":53.5,"lon":56.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-105","program":"sota","name":"R9U/SO-105","coordinates":[56.89,53.6133]}]}
+{"lat":53.5,"lon":56.75,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-0321","program":"pota","name":"Ishimbay Nature and Landscape Complex","coordinates":[56.7551,53.6019]},{"code":"R9U/SO-105","program":"sota","name":"R9U/SO-105","coordinates":[56.89,53.6133]}]}

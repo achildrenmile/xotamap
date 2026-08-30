@@ -1,1 +1,1 @@
-{"lat":-11,"lon":-37,"programs":["arlhs"],"count":1,"references":[{"code":"BRA 240","program":"arlhs","name":"Santa Isabel (SE)","coordinates":[-36.93000031,-10.81999969]}]}
+{"lat":-11,"lon":-37,"programs":["arlhs","wwff"],"count":2,"references":[{"code":"BRA 240","program":"arlhs","name":"Santa Isabel (SE)","coordinates":[-36.93000031,-10.81999969]},{"code":"PYFF-0874","program":"wwff","name":"Parque Estadual MARITUBA - SE","coordinates":[-36.91507,-10.79009]}]}
