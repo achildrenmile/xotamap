@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":-117.75,"programs":["pota"],"count":1,"references":[{"code":"CA-3583","program":"pota","name":"Hamling Lakes Wildlife Management Area","coordinates":[-117.553,50.291]}]}
+{"lat":50.25,"lon":-117.75,"programs":["pota","sota"],"count":2,"references":[{"code":"CA-3583","program":"pota","name":"Hamling Lakes Wildlife Management Area","coordinates":[-117.553,50.291]},{"code":"VE7/CP-543","program":"sota","name":"Wilkie W1","coordinates":[-117.51743,50.46807]}]}

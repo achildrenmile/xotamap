@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":-111.5,"programs":["sota"],"count":1,"references":[{"code":"W7U/SP-008","program":"sota","name":"9731","coordinates":[-111.2655,39.6558]}]}
+{"lat":39.5,"lon":-111.5,"programs":["pota","sota"],"count":2,"references":[{"code":"US-11731","program":"pota","name":"The Energy Loop: Huntington/Eccles Canyons Scenic National Parkway","coordinates":[-111.268,39.5907]},{"code":"W7U/SP-008","program":"sota","name":"9731","coordinates":[-111.2655,39.6558]}]}

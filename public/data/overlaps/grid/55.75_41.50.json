@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":41.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1051","program":"wwff","name":"Kolp, Zakaznik","coordinates":[41.67,55.89]}]}
+{"lat":55.75,"lon":41.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-0392","program":"pota","name":"Kolp Nature Reserve","coordinates":[41.5668,55.9111]},{"code":"RU-0405","program":"pota","name":"Selivanovsky State Zoological Nature Reserve","coordinates":[41.5775,55.8557]},{"code":"RFF-1051","program":"wwff","name":"Kolp, Zakaznik","coordinates":[41.67,55.89]}]}

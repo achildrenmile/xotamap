@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":42.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0989","program":"wwff","name":"Klyazminsko-Lukhskiy, Zakaznik","coordinates":[42.37,56.34]}]}
+{"lat":56.25,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0391","program":"pota","name":"Klyazma-Lukh State Natural Reserve","coordinates":[42.3687,56.3487]},{"code":"RFF-0989","program":"wwff","name":"Klyazminsko-Lukhskiy, Zakaznik","coordinates":[42.37,56.34]}]}

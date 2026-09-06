@@ -1,1 +1,1 @@
-{"lat":54,"lon":90.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0710","program":"wwff","name":"Bogradskiy, zakaznik","coordinates":[90.71,54.18]}]}
+{"lat":54,"lon":90.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0440","program":"pota","name":"Bogradsky Nature Reserve","coordinates":[90.6788,54.1574]},{"code":"RFF-0710","program":"wwff","name":"Bogradskiy, zakaznik","coordinates":[90.71,54.18]}]}

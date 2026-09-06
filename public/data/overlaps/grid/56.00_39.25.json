@@ -1,1 +1,1 @@
-{"lat":56,"lon":39.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0537","program":"wwff","name":"Kolchuginskiy zakaznik","coordinates":[39.443,56.189]}]}
+{"lat":56,"lon":39.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0373","program":"pota","name":"Kolchuginsky State Natural Reserve","coordinates":[39.3261,56.1676]},{"code":"RFF-0537","program":"wwff","name":"Kolchuginskiy zakaznik","coordinates":[39.443,56.189]}]}

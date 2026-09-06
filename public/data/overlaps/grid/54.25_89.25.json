@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":89.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0649","program":"wwff","name":"Iyusskiy, zakaznik","coordinates":[89.44,54.365]}]}
+{"lat":54.25,"lon":89.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0444","program":"pota","name":"Iyussky Nature Reserve","coordinates":[89.4559,54.4071]},{"code":"RFF-0649","program":"wwff","name":"Iyusskiy, zakaznik","coordinates":[89.44,54.365]}]}

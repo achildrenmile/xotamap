@@ -1,1 +1,1 @@
-{"lat":56,"lon":40.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0982","program":"wwff","name":"Davydovskiy, Zakaznik","coordinates":[40.7,56.15]}]}
+{"lat":56,"lon":40.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0374","program":"pota","name":"Davydovsky State Natural Reserve","coordinates":[40.7035,56.1532]},{"code":"RFF-0982","program":"wwff","name":"Davydovskiy, Zakaznik","coordinates":[40.7,56.15]}]}

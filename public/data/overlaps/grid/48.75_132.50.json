@@ -1,1 +1,1 @@
-{"lat":48.75,"lon":132.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0588","program":"wwff","name":"Shuhi-Poktoj, zakaznik","coordinates":[132.60001,48.75]}]}
+{"lat":48.75,"lon":132.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0377","program":"pota","name":"Shukhi-Poktoy Nature Reserve","coordinates":[132.516,48.8493]},{"code":"RFF-0588","program":"wwff","name":"Shuhi-Poktoj, zakaznik","coordinates":[132.60001,48.75]}]}

@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":42.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0264","program":"wwff","name":"Muromskiy","coordinates":[42.37427,55.90919]}]}
+{"lat":55.75,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0389","program":"pota","name":"Muromsky Federal Significance State Natural Reserve","coordinates":[42.3579,55.893]},{"code":"RFF-0264","program":"wwff","name":"Muromskiy","coordinates":[42.37427,55.90919]}]}

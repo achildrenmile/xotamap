@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":75.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0741","program":"wwff","name":"Ust'-Tarkskiy, zakaznik","coordinates":[75.82,55.89]}]}
+{"lat":55.75,"lon":75.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0415","program":"pota","name":"Ust-Tarksky State Natural Reserve","coordinates":[75.8235,55.8993]},{"code":"RFF-0741","program":"wwff","name":"Ust'-Tarkskiy, zakaznik","coordinates":[75.82,55.89]}]}

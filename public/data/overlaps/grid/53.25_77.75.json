@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":77.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0734","program":"wwff","name":"Yuzhnyi, zakaznik","coordinates":[77.75,53.45]}]}
+{"lat":53.25,"lon":77.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0413","program":"pota","name":"Southern State Natural Reserve","coordinates":[77.7671,53.4547]},{"code":"RFF-0734","program":"wwff","name":"Yuzhnyi, zakaznik","coordinates":[77.75,53.45]}]}

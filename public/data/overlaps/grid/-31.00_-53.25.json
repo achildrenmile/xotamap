@@ -1,1 +1,1 @@
-{"lat":-31,"lon":-53.25,"programs":["sota"],"count":1,"references":[{"code":"PY3/SE-005","program":"sota","name":"PY3/SE-005","coordinates":[-53.2314,-30.9253]}]}
+{"lat":-31,"lon":-53.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"PY3/SE-005","program":"sota","name":"PY3/SE-005","coordinates":[-53.2314,-30.9253]},{"code":"PYFF-0894","program":"wwff","name":"Reserva Particular do Patrimônio Natural Estadual BOA VISTA - RS","coordinates":[-53.20376,-30.91971]}]}

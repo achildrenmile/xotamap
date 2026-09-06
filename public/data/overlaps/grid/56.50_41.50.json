@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":41.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0263","program":"wwff","name":"Kljazmenskiy","coordinates":[41.71509,56.53223]}]}
+{"lat":56.5,"lon":41.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0412","program":"pota","name":"Klyazminsky Federal State Natural Reserve","coordinates":[41.6107,56.508]},{"code":"RFF-0263","program":"wwff","name":"Kljazmenskiy","coordinates":[41.71509,56.53223]}]}

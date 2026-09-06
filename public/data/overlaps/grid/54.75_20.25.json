@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":20.25,"programs":["arlhs"],"count":1,"references":[{"code":"KAL 003","program":"arlhs","name":"Gvardeyskiy (Baltic Sea)","coordinates":[20.27000046,54.97000122]}]}
+{"lat":54.75,"lon":20.25,"programs":["arlhs","pota"],"count":3,"references":[{"code":"KAL 003","program":"arlhs","name":"Gvardeyskiy (Baltic Sea)","coordinates":[20.27000046,54.97000122]},{"code":"RU-0481","program":"pota","name":"Mogaykino State Natural Reserve","coordinates":[20.3219,54.8833]},{"code":"RU-0496","program":"pota","name":"Western City Park","coordinates":[20.4403,54.9503]}]}

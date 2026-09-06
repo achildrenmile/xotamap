@@ -1,1 +1,1 @@
-{"lat":49,"lon":133,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0008","program":"wwff","name":"Bastak","coordinates":[133.05269,49.01844]}]}
+{"lat":49,"lon":133,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0378","program":"pota","name":"Bastak State Natural Reserve","coordinates":[133.042,49.0215]},{"code":"RFF-0008","program":"wwff","name":"Bastak","coordinates":[133.05269,49.01844]}]}
