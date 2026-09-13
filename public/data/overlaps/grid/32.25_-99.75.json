@@ -1,1 +1,1 @@
-{"lat":32.25,"lon":-99.75,"programs":["sota"],"count":1,"references":[{"code":"W5T/NT-019","program":"sota","name":"Callahan Divide","coordinates":[-99.7346,32.2821]}]}
+{"lat":32.25,"lon":-99.75,"programs":["sota","wwbota"],"count":2,"references":[{"code":"W5T/NT-019","program":"sota","name":"Callahan Divide","coordinates":[-99.7346,32.2821]},{"code":"B/US-0534","program":"wwbota","name":"578-4","coordinates":[-99.54137777777778,32.27385277777778]}]}

@@ -1,1 +1,1 @@
-{"lat":40.75,"lon":-104.25,"programs":["wwff"],"count":1,"references":[{"code":"KFF-4548","program":"wwff","name":"Pawnee","coordinates":[-104.0927,40.8429]}]}
+{"lat":40.75,"lon":-104.25,"programs":["wwbota","wwff"],"count":2,"references":[{"code":"B/US-0540","program":"wwbota","name":"566-5","coordinates":[-104.2159805555556,40.94572222222222]},{"code":"KFF-4548","program":"wwff","name":"Pawnee","coordinates":[-104.0927,40.8429]}]}

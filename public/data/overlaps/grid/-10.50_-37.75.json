@@ -1,1 +1,1 @@
-{"lat":-10.5,"lon":-37.75,"programs":["sota"],"count":1,"references":[{"code":"PP6/SE-007","program":"sota","name":"Serra Preta","coordinates":[-37.5933,-10.4828]}]}
+{"lat":-10.5,"lon":-37.75,"programs":["sota","wwff"],"count":2,"references":[{"code":"PP6/SE-007","program":"sota","name":"Serra Preta","coordinates":[-37.5933,-10.4828]},{"code":"PYFF-0874","program":"wwff","name":"RPPN CAMPOS NOVOS - SE","coordinates":[-37.6222,-10.41507]}]}

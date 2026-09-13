@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":21.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0603","program":"wwff","name":"Gromovskiy, zakaznik","coordinates":[21.5,54.93]}]}
+{"lat":54.75,"lon":21.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0526","program":"pota","name":"Ginkgo biloba Flora Reserve","coordinates":[21.6509,54.8755]},{"code":"RFF-0603","program":"wwff","name":"Gromovskiy, zakaznik","coordinates":[21.5,54.93]}]}

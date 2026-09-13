@@ -1,1 +1,1 @@
-{"lat":32.25,"lon":-99.5,"programs":["sota"],"count":1,"references":[{"code":"W5T/NT-024","program":"sota","name":"2182","coordinates":[-99.2787,32.2621]}]}
+{"lat":32.25,"lon":-99.5,"programs":["sota","wwbota"],"count":2,"references":[{"code":"W5T/NT-024","program":"sota","name":"2182","coordinates":[-99.2787,32.2621]},{"code":"B/US-0533","program":"wwbota","name":"578-3","coordinates":[-99.46068611111112,32.38183611111111]}]}

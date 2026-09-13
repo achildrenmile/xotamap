@@ -1,1 +1,1 @@
-{"lat":55,"lon":21.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0611","program":"wwff","name":"Djunnyi, zakaznik","coordinates":[21.35,55.245]}]}
+{"lat":55,"lon":21.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0529","program":"pota","name":"\"Dyunny\" State Natural Reserve","coordinates":[21.3466,55.2328]},{"code":"RFF-0611","program":"wwff","name":"Djunnyi, zakaznik","coordinates":[21.35,55.245]}]}

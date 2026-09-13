@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":36.25,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 178","program":"arlhs","name":"Andomskiy (Onego Lake)","coordinates":[36.34999847,61.27000046]}]}
+{"lat":61.25,"lon":36.25,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 178","program":"arlhs","name":"Andomskiy (Onego Lake)","coordinates":[36.34999847,61.27000046]},{"code":"RU-0540","program":"pota","name":"Andom-Gora, Andoma geological section (Andoma Mountain) Natural Monument","coordinates":[36.3575,61.2839]}]}

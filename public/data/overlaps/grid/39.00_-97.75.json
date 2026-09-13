@@ -1,1 +1,1 @@
-{"lat":39,"lon":-97.75,"programs":["pota"],"count":1,"references":[{"code":"US-7420","program":"pota","name":"Ottawa State Fishing Lake","coordinates":[-97.5751,39.1059]}]}
+{"lat":39,"lon":-97.75,"programs":["pota","wwbota"],"count":3,"references":[{"code":"US-7420","program":"pota","name":"Ottawa State Fishing Lake","coordinates":[-97.5751,39.1059]},{"code":"B/US-0565","program":"wwbota","name":"550-1","coordinates":[-97.54341111111111,39.09892222222223]},{"code":"B/US-0568","program":"wwbota","name":"550-12","coordinates":[-97.66409722222222,39.16445277777778]}]}

@@ -1,1 +1,1 @@
-{"lat":55,"lon":-119.5,"programs":["sota"],"count":1,"references":[{"code":"VE6/ST-278","program":"sota","name":"Saskatoon Peak","coordinates":[-119.3006,55.2283]}]}
+{"lat":55,"lon":-119.5,"programs":["pota","sota"],"count":2,"references":[{"code":"CA-6603","program":"pota","name":"Saskatoon Mountain Provincial Recreation Park","coordinates":[-119.282,55.2186]},{"code":"VE6/ST-278","program":"sota","name":"Saskatoon Peak","coordinates":[-119.3006,55.2283]}]}
