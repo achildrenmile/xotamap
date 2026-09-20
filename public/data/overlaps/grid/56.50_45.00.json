@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":45,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0046","program":"wwff","name":"Kerzhenskiy","coordinates":[45.0079,56.50372]}]}
+{"lat":56.5,"lon":45,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0557","program":"pota","name":"Kerzhensky State Natural Reserve","coordinates":[45.0333,56.5007]},{"code":"RFF-0046","program":"wwff","name":"Kerzhenskiy","coordinates":[45.0079,56.50372]}]}

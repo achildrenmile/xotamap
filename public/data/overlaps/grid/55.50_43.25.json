@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":43.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0821","program":"wwff","name":"Pustynskiy, Zakaznik","coordinates":[43.41,55.685]}]}
+{"lat":55.5,"lon":43.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0558","program":"pota","name":"Pustynskie Lakes Nature Reserve","coordinates":[43.3589,55.6754]},{"code":"RFF-0821","program":"wwff","name":"Pustynskiy, Zakaznik","coordinates":[43.41,55.685]}]}

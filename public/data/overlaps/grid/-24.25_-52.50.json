@@ -1,1 +1,1 @@
-{"lat":-24.25,"lon":-52.5,"programs":["pota"],"count":1,"references":[{"code":"BR-0295","program":"pota","name":"Lago Azul State Park","coordinates":[-52.3161,-24.1021]}]}
+{"lat":-24.25,"lon":-52.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0295","program":"pota","name":"Lago Azul State Park","coordinates":[-52.3161,-24.1021]},{"code":"PYFF-0959","program":"wwff","name":"Parque Estadual do LAGO AZUL - PR","coordinates":[-52.32581,-24.10463]}]}

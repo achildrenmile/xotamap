@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":44,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0782","program":"wwff","name":"Koverninskiy, Zakaznik","coordinates":[44.24,57.435]}]}
+{"lat":57.25,"lon":44,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0551","program":"pota","name":"Koverninsky National Park","coordinates":[44.0771,57.4086]},{"code":"RFF-0782","program":"wwff","name":"Koverninskiy, Zakaznik","coordinates":[44.24,57.435]}]}
