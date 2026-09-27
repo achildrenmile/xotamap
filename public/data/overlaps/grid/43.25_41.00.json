@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":41,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1166","program":"wwff","name":"Arkhyzskiy, Zakaznik","coordinates":[41.18,43.49]}]}
+{"lat":43.25,"lon":41,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0623","program":"pota","name":"Arkhyzskiy State Natural Reserve","coordinates":[41.2102,43.4807]},{"code":"RFF-1166","program":"wwff","name":"Arkhyzskiy, Zakaznik","coordinates":[41.18,43.49]}]}

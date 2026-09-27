@@ -1,1 +1,1 @@
-{"lat":59.5,"lon":37.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0532","program":"wwff","name":"Belozerskiy zakaznik","coordinates":[37.865,59.718]}]}
+{"lat":59.5,"lon":37.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0708","program":"pota","name":"Belozerskiy State Natural Reserve","coordinates":[37.8454,59.7047]},{"code":"RFF-0532","program":"wwff","name":"Belozerskiy zakaznik","coordinates":[37.865,59.718]}]}

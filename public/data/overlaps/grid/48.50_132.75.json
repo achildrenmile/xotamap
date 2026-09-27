@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":132.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0614","program":"wwff","name":"Ul'dury, zakaznik","coordinates":[132.925,48.52]}]}
+{"lat":48.5,"lon":132.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0619","program":"pota","name":"Uldury State Natural Reserve","coordinates":[132.909,48.507]},{"code":"RFF-0614","program":"wwff","name":"Ul'dury, zakaznik","coordinates":[132.925,48.52]}]}

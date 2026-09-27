@@ -1,1 +1,1 @@
-{"lat":37.25,"lon":122,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-2061","program":"wlota","name":"Ri Dao","coordinates":[122.19999695,37.47700119]}]}
+{"lat":37.25,"lon":122,"programs":["pota","wlota"],"count":2,"references":[{"code":"CN-1529","program":"pota","name":"山东威海海西头国家级海洋公园 Marine National Park","coordinates":[122.174,37.314]},{"code":"WLOTA-2061","program":"wlota","name":"Ri Dao","coordinates":[122.19999695,37.47700119]}]}

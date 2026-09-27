@@ -1,1 +1,1 @@
-{"lat":49,"lon":130.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0093","program":"wwff","name":"Khinganskiy","coordinates":[130.49011,49.08196]}]}
+{"lat":49,"lon":130.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0593","program":"pota","name":"Khinganskiy State Nature Preserve","coordinates":[130.336,49.1528]},{"code":"RFF-0093","program":"wwff","name":"Khinganskiy","coordinates":[130.49011,49.08196]}]}

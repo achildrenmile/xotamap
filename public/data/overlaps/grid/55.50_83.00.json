@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":83,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0670","program":"wwff","name":"Tsentral'nyi, zakaznik","coordinates":[83.03,55.65]}]}
+{"lat":55.5,"lon":83,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0653","program":"pota","name":"Central (Tsentralnyy) State Natural Reserve","coordinates":[83.0158,55.6553]},{"code":"RFF-0670","program":"wwff","name":"Tsentral'nyi, zakaznik","coordinates":[83.03,55.65]}]}

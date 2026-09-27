@@ -1,1 +1,1 @@
-{"lat":60.5,"lon":33,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0062","program":"wwff","name":"Nizhne-Svirskiy","coordinates":[33.05237,60.65367]}]}
+{"lat":60.5,"lon":33,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0583","program":"pota","name":"Nizhne-Svirskiy State Natural Reserve","coordinates":[33.0556,60.6384]},{"code":"RFF-0062","program":"wwff","name":"Nizhne-Svirskiy","coordinates":[33.05237,60.65367]}]}

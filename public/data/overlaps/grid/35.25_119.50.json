@@ -1,1 +1,1 @@
-{"lat":35.25,"lon":119.5,"programs":["arlhs"],"count":1,"references":[{"code":"PRC 056","program":"arlhs","name":"Rizhao","coordinates":[119.56999969,35.40000153]}]}
+{"lat":35.25,"lon":119.5,"programs":["arlhs","pota"],"count":2,"references":[{"code":"PRC 056","program":"arlhs","name":"Rizhao","coordinates":[119.56999969,35.40000153]},{"code":"CN-1512","program":"pota","name":"山东日照国家级海洋公园 Marine National Park","coordinates":[119.575,35.389]}]}

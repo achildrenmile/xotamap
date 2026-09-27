@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":45.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0709","program":"wwff","name":"Vedenskiy, zakaznik","coordinates":[45.99,42.78]}]}
+{"lat":42.75,"lon":45.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0604","program":"pota","name":"Vedenskiy State Natural Reserve","coordinates":[45.9867,42.7877]},{"code":"RFF-0709","program":"wwff","name":"Vedenskiy, zakaznik","coordinates":[45.99,42.78]}]}

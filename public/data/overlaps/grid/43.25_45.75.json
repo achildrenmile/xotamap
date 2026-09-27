@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":45.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0753","program":"wwff","name":"Argunskiy, zakaznik","coordinates":[45.93,43.335]}]}
+{"lat":43.25,"lon":45.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0602","program":"pota","name":"Argunskiy State Natural Reserve","coordinates":[45.9392,43.3336]},{"code":"RFF-0753","program":"wwff","name":"Argunskiy, zakaznik","coordinates":[45.93,43.335]}]}

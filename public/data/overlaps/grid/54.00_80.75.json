@@ -1,1 +1,1 @@
-{"lat":54,"lon":80.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0890","program":"wwff","name":"Aleusskiy, Zakaznik","coordinates":[80.91,54.03]}]}
+{"lat":54,"lon":80.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0690","program":"pota","name":"Aleusskiy State Natural Reserve","coordinates":[80.9227,54.0333]},{"code":"RFF-0890","program":"wwff","name":"Aleusskiy, Zakaznik","coordinates":[80.91,54.03]}]}

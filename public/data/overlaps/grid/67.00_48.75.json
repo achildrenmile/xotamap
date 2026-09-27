@@ -1,1 +1,1 @@
-{"lat":67,"lon":48.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1361","program":"wwff","name":"Severnyi Timan, Prirodniy Park","coordinates":[48.79,67.19]}]}
+{"lat":67,"lon":48.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0683","program":"pota","name":"Northern Timan (Severnyy Timan) Nature Park","coordinates":[48.8052,67.192]},{"code":"RFF-1361","program":"wwff","name":"Severnyi Timan, Prirodniy Park","coordinates":[48.79,67.19]}]}

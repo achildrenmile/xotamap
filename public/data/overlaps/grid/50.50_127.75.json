@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":127.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1214","program":"wwff","name":"Beryozovskiy, Zakaznik","coordinates":[127.77,50.58]}]}
+{"lat":50.5,"lon":127.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0705","program":"pota","name":"Berezovskiy State Natural Reserve","coordinates":[127.782,50.5848]},{"code":"RFF-1214","program":"wwff","name":"Beryozovskiy, Zakaznik","coordinates":[127.77,50.58]}]}

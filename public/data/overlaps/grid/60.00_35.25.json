@@ -1,1 +1,1 @@
-{"lat":60,"lon":35.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1278","program":"wwff","name":"Boloto Dobroozerskoye, Zakaznik","coordinates":[35.32,60.1]}]}
+{"lat":60,"lon":35.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0709","program":"pota","name":"Bog Dobroozerskoe (Boloto Dobroozerskoe) State Natural Reserve","coordinates":[35.32,60.1051]},{"code":"RFF-1278","program":"wwff","name":"Boloto Dobroozerskoye, Zakaznik","coordinates":[35.32,60.1]}]}

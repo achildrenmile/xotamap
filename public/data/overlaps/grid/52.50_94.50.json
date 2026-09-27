@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":94.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0823","program":"wwff","name":"Khutinskiy, Zakaznik","coordinates":[94.67,52.68]}]}
+{"lat":52.5,"lon":94.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0597","program":"pota","name":"Khutinskiy State Natural Reserve","coordinates":[94.6667,52.6153]},{"code":"RFF-0823","program":"wwff","name":"Khutinskiy, Zakaznik","coordinates":[94.67,52.68]}]}

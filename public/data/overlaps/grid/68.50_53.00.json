@@ -1,1 +1,1 @@
-{"lat":68.5,"lon":53,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0291","program":"wwff","name":"Nenetskiy","coordinates":[53.06396,68.66055]}]}
+{"lat":68.5,"lon":53,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0664","program":"pota","name":"Nenetskiy State Natural Reserve","coordinates":[53.0482,68.5489]},{"code":"RFF-0291","program":"wwff","name":"Nenetskiy","coordinates":[53.06396,68.66055]}]}

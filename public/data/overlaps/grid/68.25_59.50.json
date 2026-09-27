@@ -1,1 +1,1 @@
-{"lat":68.25,"lon":59.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1397","program":"wwff","name":"Khaipudyrskiy, Zakaznik","coordinates":[59.68,68.31]}]}
+{"lat":68.25,"lon":59.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0684","program":"pota","name":"Khaypudyrskiy State Natural Reserve","coordinates":[59.7217,68.2674]},{"code":"RFF-1397","program":"wwff","name":"Khaipudyrskiy, Zakaznik","coordinates":[59.68,68.31]}]}

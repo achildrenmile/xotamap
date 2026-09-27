@@ -1,1 +1,1 @@
-{"lat":55,"lon":77.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0276","program":"wwff","name":"Kirzinskiy","coordinates":[77.61292,55.18671]}]}
+{"lat":55,"lon":77.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0649","program":"pota","name":"Kirzinskiy State Natural Reserve","coordinates":[77.6303,55.1793]},{"code":"RFF-0276","program":"wwff","name":"Kirzinskiy","coordinates":[77.61292,55.18671]}]}

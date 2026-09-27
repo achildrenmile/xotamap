@@ -1,1 +1,1 @@
-{"lat":48,"lon":131.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0618","program":"wwff","name":"Zhuravliny, zakaznik","coordinates":[131.46001,48.17]}]}
+{"lat":48,"lon":131.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0621","program":"pota","name":"Crane (Zhuravlinyy) State Natural Reserve","coordinates":[131.467,48.1565]},{"code":"RFF-0618","program":"wwff","name":"Zhuravliny, zakaznik","coordinates":[131.46001,48.17]}]}

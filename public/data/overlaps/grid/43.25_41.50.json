@@ -1,1 +1,1 @@
-{"lat":43.25,"lon":41.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0086","program":"wwff","name":"Teberdinskiy","coordinates":[41.70605,43.34005]}]}
+{"lat":43.25,"lon":41.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0622","program":"pota","name":"Teberdinskiy National Park","coordinates":[41.5097,43.3806]},{"code":"RFF-0086","program":"wwff","name":"Teberdinskiy","coordinates":[41.70605,43.34005]}]}

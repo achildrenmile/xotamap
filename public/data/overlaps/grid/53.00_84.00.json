@@ -1,1 +1,1 @@
-{"lat":53,"lon":84,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0903","program":"wwff","name":"Bobrovskiy, Zakaznik","coordinates":[84.13,53.14]}]}
+{"lat":53,"lon":84,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0695","program":"pota","name":"Bobrovskiy State Natural Reserve","coordinates":[84.115,53.1376]},{"code":"RFF-0903","program":"wwff","name":"Bobrovskiy, Zakaznik","coordinates":[84.13,53.14]}]}

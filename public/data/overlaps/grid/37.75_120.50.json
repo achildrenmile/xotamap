@@ -1,1 +1,1 @@
-{"lat":37.75,"lon":120.5,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-2653","program":"wlota","name":"Beichangshan Dao","coordinates":[120.69300079,37.99200058]}]}
+{"lat":37.75,"lon":120.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"CN-1514","program":"pota","name":"山东长岛国家级海洋公园 Marine National Park","coordinates":[120.735,37.921]},{"code":"WLOTA-2653","program":"wlota","name":"Beichangshan Dao","coordinates":[120.69300079,37.99200058]}]}

@@ -1,1 +1,1 @@
-{"lat":25.75,"lon":119.5,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-3333","program":"wlota","name":"Shuangpi Dao","coordinates":[119.65799713,25.78199959]}]}
+{"lat":25.75,"lon":119.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"CN-1518","program":"pota","name":"福建长乐国家级海洋公园 Marine National Park","coordinates":[119.676,25.868]},{"code":"WLOTA-3333","program":"wlota","name":"Shuangpi Dao","coordinates":[119.65799713,25.78199959]}]}

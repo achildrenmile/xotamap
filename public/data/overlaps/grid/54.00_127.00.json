@@ -1,1 +1,1 @@
-{"lat":54,"lon":127,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0038","program":"wwff","name":"Zeyskiy","coordinates":[127.11181,54.0755]}]}
+{"lat":54,"lon":127,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0588","program":"pota","name":"Zeyskiy State Nature Preserve","coordinates":[127.11,54.0614]},{"code":"RFF-0038","program":"wwff","name":"Zeyskiy","coordinates":[127.11181,54.0755]}]}

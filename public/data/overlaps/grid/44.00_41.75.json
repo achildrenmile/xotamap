@@ -1,1 +1,1 @@
-{"lat":44,"lon":41.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1110","program":"wwff","name":"Elburganskiy, Zakaznik","coordinates":[41.88,44.075]}]}
+{"lat":44,"lon":41.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0717","program":"pota","name":"Elburganskiy State Zoological Sanctuary","coordinates":[41.874,44.0678]},{"code":"RFF-1110","program":"wwff","name":"Elburganskiy, Zakaznik","coordinates":[41.88,44.075]}]}

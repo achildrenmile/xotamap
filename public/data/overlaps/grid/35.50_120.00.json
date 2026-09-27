@@ -1,1 +1,1 @@
-{"lat":35.5,"lon":120,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-0895","program":"wlota","name":"Lingshan Dao","coordinates":[120.15699768,35.74499893]}]}
+{"lat":35.5,"lon":120,"programs":["pota","wlota"],"count":2,"references":[{"code":"CN-1528","program":"pota","name":"山东青岛西海岸国家级海洋公园 Marine National Park","coordinates":[120.115,35.707]},{"code":"WLOTA-0895","program":"wlota","name":"Lingshan Dao","coordinates":[120.15699768,35.74499893]}]}

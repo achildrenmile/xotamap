@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":36.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1208","program":"wwff","name":"Korsunskiy, Zakaznik","coordinates":[36.96,52.725]}]}
+{"lat":52.5,"lon":36.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0608","program":"pota","name":"Korsunskiy State Natural Reserve","coordinates":[36.9623,52.7254]},{"code":"RFF-1208","program":"wwff","name":"Korsunskiy, Zakaznik","coordinates":[36.96,52.725]}]}

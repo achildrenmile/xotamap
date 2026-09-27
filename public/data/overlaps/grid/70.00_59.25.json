@@ -1,1 +1,1 @@
-{"lat":70,"lon":59.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0567","program":"wwff","name":"Vaigach zakaznik","coordinates":[59.3,70.08]}]}
+{"lat":70,"lon":59.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0674","program":"pota","name":"Vaygach State Natural Reserve","coordinates":[59.3469,70.0777]},{"code":"RFF-0567","program":"wwff","name":"Vaigach zakaznik","coordinates":[59.3,70.08]}]}

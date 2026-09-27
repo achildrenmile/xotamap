@@ -1,1 +1,1 @@
-{"lat":69,"lon":49,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1347","program":"wwff","name":"Kolguyevskiy, Zakaznik","coordinates":[49.16,69.07]}]}
+{"lat":69,"lon":49,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0678","program":"pota","name":"Kolguevskiy State Natural Reserve","coordinates":[49.0305,69.0382]},{"code":"RFF-1347","program":"wwff","name":"Kolguyevskiy, Zakaznik","coordinates":[49.16,69.07]}]}

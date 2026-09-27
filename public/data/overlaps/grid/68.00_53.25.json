@@ -1,1 +1,1 @@
-{"lat":68,"lon":53.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1327","program":"wwff","name":"Nizhnepechorskiy — Zapadnaya Poima, Zakaznik","coordinates":[53.35,68.13]}]}
+{"lat":68,"lon":53.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0680","program":"pota","name":"Nizhnepechorskiy State Natural Reserve","coordinates":[53.3968,68.0425]},{"code":"RFF-1327","program":"wwff","name":"Nizhnepechorskiy — Zapadnaya Poima, Zakaznik","coordinates":[53.35,68.13]}]}

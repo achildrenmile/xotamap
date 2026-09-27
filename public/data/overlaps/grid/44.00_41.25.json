@@ -1,1 +1,1 @@
-{"lat":44,"lon":41.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1116","program":"wwff","name":"Belaya skala, Zakaznik","coordinates":[41.26,44.037]}]}
+{"lat":44,"lon":41.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0718","program":"pota","name":"White Rock (Belaya Skala) Reserve","coordinates":[41.257,44.0389]},{"code":"RFF-1116","program":"wwff","name":"Belaya skala, Zakaznik","coordinates":[41.26,44.037]}]}

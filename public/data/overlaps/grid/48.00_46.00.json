@@ -1,1 +1,1 @@
-{"lat":48,"lon":46,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0445","program":"wwff","name":"Volga-Akhtuba interfluvium","coordinates":[46.108,48.17]}]}
+{"lat":48,"lon":46,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0689","program":"pota","name":"Volga-Akhtuba Interfluve (Volgo-Akhtubinskoe Mezhdureche) Nature Park","coordinates":[46.1311,48.2347]},{"code":"RFF-0445","program":"wwff","name":"Volga-Akhtuba interfluvium","coordinates":[46.108,48.17]}]}

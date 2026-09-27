@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":130.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0629","program":"wwff","name":"Dichun, zakaznik","coordinates":[130.92,48.54]}]}
+{"lat":48.5,"lon":130.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0620","program":"pota","name":"Dichun State Natural Reserve","coordinates":[130.919,48.535]},{"code":"RFF-0629","program":"wwff","name":"Dichun, zakaznik","coordinates":[130.92,48.54]}]}

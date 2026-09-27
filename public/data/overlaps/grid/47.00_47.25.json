@@ -1,1 +1,1 @@
-{"lat":47,"lon":47.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1099","program":"wwff","name":"Kabaniy, Zakaznik","coordinates":[47.25,47.13]}]}
+{"lat":47,"lon":47.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0763","program":"pota","name":"Seroglazovskoye Spawning Ground Natural Monument","coordinates":[47.4637,47.0145]},{"code":"RFF-1099","program":"wwff","name":"Kabaniy, Zakaznik","coordinates":[47.25,47.13]}]}

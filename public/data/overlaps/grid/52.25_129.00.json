@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":129,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0260","program":"wwff","name":"Orlovskiy","coordinates":[129.1333,52.31519]}]}
+{"lat":52.25,"lon":129,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0590","program":"pota","name":"Orlovskiy State Natural Reserve","coordinates":[129.125,52.3013]},{"code":"RFF-0260","program":"wwff","name":"Orlovskiy","coordinates":[129.1333,52.31519]}]}

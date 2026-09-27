@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":43,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1387","program":"wwff","name":"Babushkinskiy, Zakaznik","coordinates":[43.05,59.88]}]}
+{"lat":59.75,"lon":43,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0707","program":"pota","name":"Babushkinskiy State Natural Reserve","coordinates":[43.0544,59.8848]},{"code":"RFF-1387","program":"wwff","name":"Babushkinskiy, Zakaznik","coordinates":[43.05,59.88]}]}

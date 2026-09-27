@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":42,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1202","program":"wwff","name":"Galichskiy, Zakaznik","coordinates":[42.2,58.4]}]}
+{"lat":58.25,"lon":42,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0720","program":"pota","name":"Galichskiy State Natural Reserve","coordinates":[42.1518,58.4208]},{"code":"RFF-1202","program":"wwff","name":"Galichskiy, Zakaznik","coordinates":[42.2,58.4]}]}

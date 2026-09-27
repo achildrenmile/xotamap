@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":61.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1290","program":"wwff","name":"Vashutkinskiy, Zakaznik","coordinates":[61.75,67.85]}]}
+{"lat":67.75,"lon":61.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0675","program":"pota","name":"Vashutkinskiy State Natural Reserve","coordinates":[61.81,67.8371]},{"code":"RFF-1290","program":"wwff","name":"Vashutkinskiy, Zakaznik","coordinates":[61.75,67.85]}]}

@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":37.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0969","program":"wwff","name":"Dubrovitskiy les, Zakaznik","coordinates":[37.47,55.455]}]}
+{"lat":55.25,"lon":37.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0581","program":"pota","name":"Broad-leaved forests of the Podolsk Forestry District State Natural Reserve","coordinates":[37.4912,55.4031]},{"code":"RFF-0969","program":"wwff","name":"Dubrovitskiy les, Zakaznik","coordinates":[37.47,55.455]}]}
