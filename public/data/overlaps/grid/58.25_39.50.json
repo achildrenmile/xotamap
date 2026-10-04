@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":39.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1066","program":"wwff","name":"Kuchenevskiy, Zakaznik","coordinates":[39.54,58.46]}]}
+{"lat":58.25,"lon":39.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1048","program":"pota","name":"Kuchenevsky State Natural Reserve","coordinates":[39.5384,58.4611]},{"code":"RFF-1066","program":"wwff","name":"Kuchenevskiy, Zakaznik","coordinates":[39.54,58.46]}]}

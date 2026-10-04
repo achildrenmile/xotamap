@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":64,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0628","program":"wwff","name":"Kurtamyshskiy, zakaznik","coordinates":[64.22,54.82]}]}
+{"lat":54.75,"lon":64,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0942","program":"pota","name":"Kurtamyshsky State Natural Reserve","coordinates":[64.1923,54.8158]},{"code":"RFF-0628","program":"wwff","name":"Kurtamyshskiy, zakaznik","coordinates":[64.22,54.82]}]}

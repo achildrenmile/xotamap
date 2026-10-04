@@ -1,1 +1,1 @@
-{"lat":43,"lon":133.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0055","program":"wwff","name":"Lazovskiy","coordinates":[133.95216,43.12555]}]}
+{"lat":43,"lon":133.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1046","program":"pota","name":"Lazovsky named after L. G. Kaplanov State Nature Preserve","coordinates":[133.942,43.1147]},{"code":"RFF-0055","program":"wwff","name":"Lazovskiy","coordinates":[133.95216,43.12555]}]}

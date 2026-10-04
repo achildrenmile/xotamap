@@ -1,1 +1,1 @@
-{"lat":59,"lon":152,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0901","program":"wwff","name":"Odyan, Zakaznik","coordinates":[152.03999,59.04]}]}
+{"lat":59,"lon":152,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0968","program":"pota","name":"Odyan State Natural Reserve","coordinates":[152.021,59.0521]},{"code":"RFF-0901","program":"wwff","name":"Odyan, Zakaznik","coordinates":[152.03999,59.04]}]}

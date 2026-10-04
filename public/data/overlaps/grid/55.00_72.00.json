@@ -1,1 +1,1 @@
-{"lat":55,"lon":72,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1085","program":"wwff","name":"Luzinskaya Dacha, Zakaznik","coordinates":[72.09,55.24]}]}
+{"lat":55,"lon":72,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1035","program":"pota","name":"Luzinskaya Dacha State Natural Reserve","coordinates":[72.0831,55.2475]},{"code":"RFF-1085","program":"wwff","name":"Luzinskaya Dacha, Zakaznik","coordinates":[72.09,55.24]}]}

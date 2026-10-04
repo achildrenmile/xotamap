@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":45.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0244","program":"wwff","name":"Mekletinskiy","coordinates":[45.93384,45.58714]}]}
+{"lat":45.5,"lon":45.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0786","program":"pota","name":"Mekletinskiy State Natural Reserve","coordinates":[45.8268,45.5744]},{"code":"RFF-0244","program":"wwff","name":"Mekletinskiy","coordinates":[45.93384,45.58714]}]}

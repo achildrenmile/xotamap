@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":85.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0319","program":"wwff","name":"Pisany zakaznik","coordinates":[85.62,55.67]}]}
+{"lat":55.5,"lon":85.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0912","program":"pota","name":"Pisanyy State Natural Reserve","coordinates":[85.666,55.7439]},{"code":"RFF-0319","program":"wwff","name":"Pisany zakaznik","coordinates":[85.62,55.67]}]}

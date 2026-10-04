@@ -1,1 +1,1 @@
-{"lat":49.5,"lon":86,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0044","program":"wwff","name":"Katunskiy","coordinates":[86.09537,49.70566]}]}
+{"lat":49.5,"lon":86,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0831","program":"pota","name":"Katunskiy State Nature Preserve","coordinates":[86.0793,49.6902]},{"code":"RFF-0044","program":"wwff","name":"Katunskiy","coordinates":[86.09537,49.70566]}]}

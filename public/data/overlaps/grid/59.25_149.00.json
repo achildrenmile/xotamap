@@ -1,1 +1,1 @@
-{"lat":59.25,"lon":149,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0907","program":"wwff","name":"Ostrov Talan, Pamyatnik prirody","coordinates":[149.08299,59.311]}]}
+{"lat":59.25,"lon":149,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0970","program":"pota","name":"Talan Island (Ostrov Talan) Natural Monument","coordinates":[149.083,59.3116]},{"code":"RFF-0907","program":"wwff","name":"Ostrov Talan, Pamyatnik prirody","coordinates":[149.08299,59.311]}]}

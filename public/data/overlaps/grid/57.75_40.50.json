@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":40.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0290","program":"wwff","name":"Yaroslavskiy","coordinates":[40.54504,57.92506]}]}
+{"lat":57.75,"lon":40.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1051","program":"pota","name":"Yaroslavsky State Natural Reserve","coordinates":[40.5447,57.9237]},{"code":"RFF-0290","program":"wwff","name":"Yaroslavskiy","coordinates":[40.54504,57.92506]}]}

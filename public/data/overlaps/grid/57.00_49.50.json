@@ -1,1 +1,1 @@
-{"lat":57,"lon":49.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1204","program":"wwff","name":"Bushkovskiy Les, Zakaznik","coordinates":[49.52,57.11]}]}
+{"lat":57,"lon":49.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0918","program":"pota","name":"Bushkovsky Forest (Bushkovskiy Les) State Natural Reserve","coordinates":[49.5167,57.1174]},{"code":"RFF-1204","program":"wwff","name":"Bushkovskiy Les, Zakaznik","coordinates":[49.52,57.11]}]}

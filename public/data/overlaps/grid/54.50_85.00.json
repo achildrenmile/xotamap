@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":85,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0980","program":"wwff","name":"Salairskiy, Zakaznik","coordinates":[85.05,54.62]}]}
+{"lat":54.5,"lon":85,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0911","program":"pota","name":"Salairskiy State Natural Reserve","coordinates":[85.0799,54.6355]},{"code":"RFF-0980","program":"wwff","name":"Salairskiy, Zakaznik","coordinates":[85.05,54.62]}]}

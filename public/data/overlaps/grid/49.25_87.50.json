@@ -1,1 +1,1 @@
-{"lat":49.25,"lon":87.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0228","program":"wwff","name":"Zona pokoya Ukok","coordinates":[87.52808,49.29289]}]}
+{"lat":49.25,"lon":87.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0828","program":"pota","name":"Quiet Zone Ukok (Zona Pokoya Ukok) Nature Park","coordinates":[87.5384,49.3189]},{"code":"RFF-0228","program":"wwff","name":"Zona pokoya Ukok","coordinates":[87.52808,49.29289]}]}

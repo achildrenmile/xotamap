@@ -1,1 +1,1 @@
-{"lat":59.5,"lon":147.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0845","program":"wwff","name":"Kavinskaya dolina, Zakaznik","coordinates":[147.72,59.56]}]}
+{"lat":59.5,"lon":147.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0967","program":"pota","name":"Kavinskaya Valley (Kavinskaya Dolina) State Natural Reserve","coordinates":[147.736,59.5499]},{"code":"RFF-0845","program":"wwff","name":"Kavinskaya dolina, Zakaznik","coordinates":[147.72,59.56]}]}

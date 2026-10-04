@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":64.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0593","program":"wwff","name":"Proryvinskiy, zakaznik","coordinates":[64.685,54.44]}]}
+{"lat":54.25,"lon":64.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0945","program":"pota","name":"Proryvinsky State Natural Reserve","coordinates":[64.5758,54.4192]},{"code":"RFF-0593","program":"wwff","name":"Proryvinskiy, zakaznik","coordinates":[64.685,54.44]}]}

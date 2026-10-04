@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":74,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1173","program":"wwff","name":"Nadezhdinskiy, Zakaznik","coordinates":[74.23,56.41]}]}
+{"lat":56.25,"lon":74,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1034","program":"pota","name":"Nadezhdinsky State Natural Reserve","coordinates":[74.1712,56.362]},{"code":"RFF-1173","program":"wwff","name":"Nadezhdinskiy, Zakaznik","coordinates":[74.23,56.41]}]}

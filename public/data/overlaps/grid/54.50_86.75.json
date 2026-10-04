@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":86.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0995","program":"wwff","name":"Bungarapsko-Azhendarovskiy, Zakaznik","coordinates":[86.97,54.67]}]}
+{"lat":54.5,"lon":86.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0907","program":"pota","name":"Bungarapsko-Azhendarovskiy State Natural Reserve","coordinates":[86.9729,54.6562]},{"code":"RFF-0995","program":"wwff","name":"Bungarapsko-Azhendarovskiy, Zakaznik","coordinates":[86.97,54.67]}]}

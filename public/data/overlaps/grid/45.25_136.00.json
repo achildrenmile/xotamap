@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":136,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0082","program":"wwff","name":"Sihote-Alinskiy","coordinates":[136.20573,45.31643]}]}
+{"lat":45.25,"lon":136,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1044","program":"pota","name":"Sikhote-Alinsky UNESCO Biosphere Reserve","coordinates":[136.193,45.2884]},{"code":"RFF-0082","program":"wwff","name":"Sihote-Alinskiy","coordinates":[136.20573,45.31643]}]}

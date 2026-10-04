@@ -1,1 +1,1 @@
-{"lat":67.75,"lon":38,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0274","program":"wwff","name":"Murmanskiy tundrovyy","coordinates":[38.06763,67.88174]}]}
+{"lat":67.75,"lon":38,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0971","program":"pota","name":"Murmansk Tundra (Murmanskiy Tundrovyy) State Natural Reserve","coordinates":[38.0534,67.8933]},{"code":"RFF-0274","program":"wwff","name":"Murmanskiy tundrovyy","coordinates":[38.06763,67.88174]}]}

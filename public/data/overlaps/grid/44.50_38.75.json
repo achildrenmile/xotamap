@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":38.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1266","program":"wwff","name":"Goryacheklyuchevskoi, Zakaznik","coordinates":[38.98,44.51]}]}
+{"lat":44.5,"lon":38.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0926","program":"pota","name":"Goryacheklyuchevskaya (Goryache-Klyuchevskaya) State Natural Reserve","coordinates":[38.9729,44.5504]},{"code":"RFF-1266","program":"wwff","name":"Goryacheklyuchevskoi, Zakaznik","coordinates":[38.98,44.51]}]}

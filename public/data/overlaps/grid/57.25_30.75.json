@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":30.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0861","program":"wwff","name":"Rdeyskiy, Zakaznik","coordinates":[30.95,57.28]}]}
+{"lat":57.25,"lon":30.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-0981","program":"pota","name":"Rdeisky State Nature Preserve","coordinates":[30.7705,57.2562]},{"code":"RU-0989","program":"pota","name":"Rdeisky State Natural Reserve","coordinates":[30.9363,57.2775]},{"code":"RFF-0861","program":"wwff","name":"Rdeyskiy, Zakaznik","coordinates":[30.95,57.28]}]}

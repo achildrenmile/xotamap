@@ -1,1 +1,1 @@
-{"lat":-3.75,"lon":-41.25,"programs":["sota"],"count":1,"references":[{"code":"PT7/NO-180","program":"sota","name":"PT7/NO-180","coordinates":[-41.1273,-3.5022]}]}
+{"lat":-3.75,"lon":-41.25,"programs":["sota","wwff"],"count":2,"references":[{"code":"PT7/NO-180","program":"sota","name":"PT7/NO-180","coordinates":[-41.1273,-3.5022]},{"code":"PYFF-1059","program":"wwff","name":"RPPN PAULINO VELOSO CAMELO - CE","coordinates":[-41.04167,-3.60417]}]}

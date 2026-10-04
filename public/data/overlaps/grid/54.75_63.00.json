@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":63,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0630","program":"wwff","name":"Al'menevskiy, zakaznik","coordinates":[63.18,54.96]}]}
+{"lat":54.75,"lon":63,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0940","program":"pota","name":"Almenevskiy State Natural Reserve","coordinates":[63.1814,54.9568]},{"code":"RFF-0630","program":"wwff","name":"Al'menevskiy, zakaznik","coordinates":[63.18,54.96]}]}

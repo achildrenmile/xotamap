@@ -1,1 +1,1 @@
-{"lat":57,"lon":71.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1134","program":"wwff","name":"Kileiny, Zakaznik","coordinates":[71.52,57.08]}]}
+{"lat":57,"lon":71.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1028","program":"pota","name":"Kileyny State Natural Reserve","coordinates":[71.5219,57.109]},{"code":"RFF-1134","program":"wwff","name":"Kileiny, Zakaznik","coordinates":[71.52,57.08]}]}

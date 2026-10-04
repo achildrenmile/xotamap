@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":105,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0294","program":"wwff","name":"Krasniy Yar","coordinates":[105.08422,52.51789]}]}
+{"lat":52.5,"lon":105,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0873","program":"pota","name":"Krasny Yar (Krasnyy Yar) State Natural Reserve","coordinates":[105.098,52.5234]},{"code":"RFF-0294","program":"wwff","name":"Krasniy Yar","coordinates":[105.08422,52.51789]}]}

@@ -1,1 +1,1 @@
-{"lat":58,"lon":39.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0979","program":"wwff","name":"Ukhrinskiy, Zakaznik","coordinates":[39.67,58.12]}]}
+{"lat":58,"lon":39.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1049","program":"pota","name":"Ukhrinsky State Natural Reserve","coordinates":[39.6573,58.1696]},{"code":"RFF-0979","program":"wwff","name":"Ukhrinskiy, Zakaznik","coordinates":[39.67,58.12]}]}

@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":73.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1122","program":"wwff","name":"Vysokiy Uval, Zakaznik","coordinates":[73.59,55.69]}]}
+{"lat":55.5,"lon":73.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1033","program":"pota","name":"Vysoky Uval State Natural Reserve","coordinates":[73.5,55.632]},{"code":"RFF-1122","program":"wwff","name":"Vysokiy Uval, Zakaznik","coordinates":[73.59,55.69]}]}

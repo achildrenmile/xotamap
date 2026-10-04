@@ -1,1 +1,1 @@
-{"lat":66.75,"lon":34.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0273","program":"wwff","name":"Kanozerskiy","coordinates":[34.4751,66.96662]}]}
+{"lat":66.75,"lon":34.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0974","program":"pota","name":"Kanozersky State Natural Reserve","coordinates":[34.4832,66.9707]},{"code":"RFF-0273","program":"wwff","name":"Kanozerskiy","coordinates":[34.4751,66.96662]}]}

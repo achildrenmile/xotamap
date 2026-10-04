@@ -1,1 +1,1 @@
-{"lat":54,"lon":57,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-167","program":"sota","name":"Avdyrdak","coordinates":[57.133,54.2175]}]}
+{"lat":54,"lon":57,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-0846","program":"pota","name":"Zilim Nature Park","coordinates":[57.0138,54.0395]},{"code":"R9U/SO-167","program":"sota","name":"Avdyrdak","coordinates":[57.133,54.2175]}]}

@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":34.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0756","program":"wwff","name":"Igorevskie mhi, Zakaznik","coordinates":[34.65,58.76]}]}
+{"lat":58.75,"lon":34.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0987","program":"pota","name":"Igorevskie Mosses (Igorevskie Mkhi) State Natural Reserve","coordinates":[34.6485,58.7619]},{"code":"RFF-0756","program":"wwff","name":"Igorevskie mhi, Zakaznik","coordinates":[34.65,58.76]}]}

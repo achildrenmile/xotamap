@@ -1,1 +1,1 @@
-{"lat":43,"lon":43.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0781","program":"wwff","name":"Kara-Su, Zakaznik","coordinates":[43.455,43.24]}]}
+{"lat":43,"lon":43.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0860","program":"pota","name":"Kara-Su State Natural Reserve","coordinates":[43.4554,43.2374]},{"code":"RFF-0781","program":"wwff","name":"Kara-Su, Zakaznik","coordinates":[43.455,43.24]}]}

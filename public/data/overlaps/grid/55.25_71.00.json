@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":71,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1175","program":"wwff","name":"Prigranichny, Zakaznik","coordinates":[71.14,55.39]}]}
+{"lat":55.25,"lon":71,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1031","program":"pota","name":"Border (Prigranichnyy) State Natural Reserve","coordinates":[71.1221,55.3855]},{"code":"RFF-1175","program":"wwff","name":"Prigranichny, Zakaznik","coordinates":[71.14,55.39]}]}

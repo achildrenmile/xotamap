@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":71.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1142","program":"wwff","name":"Amrinskaya balka, Zakaznik","coordinates":[71.79,54.53]}]}
+{"lat":54.5,"lon":71.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1026","program":"pota","name":"Amrinskaya Ravine (Amrinskaya Balka) State Natural Reserve","coordinates":[71.7684,54.5405]},{"code":"RFF-1142","program":"wwff","name":"Amrinskaya balka, Zakaznik","coordinates":[71.79,54.53]}]}

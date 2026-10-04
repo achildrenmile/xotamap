@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":46.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0246","program":"wwff","name":"Kharbinskiy","coordinates":[46.51611,46.86395]}]}
+{"lat":46.75,"lon":46.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0788","program":"pota","name":"Kharbinskiy State Natural Reserve","coordinates":[46.5332,46.7926]},{"code":"RFF-0246","program":"wwff","name":"Kharbinskiy","coordinates":[46.51611,46.86395]}]}

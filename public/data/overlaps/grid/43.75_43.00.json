@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":43,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1253","program":"wwff","name":"Ozero Tambukan, Zakaznik","coordinates":[43.15,43.965]}]}
+{"lat":43.75,"lon":43,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0866","program":"pota","name":"Tambukan State Natural Reserve","coordinates":[43.1667,43.9602]},{"code":"RFF-1253","program":"wwff","name":"Ozero Tambukan, Zakaznik","coordinates":[43.15,43.965]}]}

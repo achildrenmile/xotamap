@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":39,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1071","program":"wwff","name":"Donskoy, Zakaznik","coordinates":[39,52.7]}]}
+{"lat":52.5,"lon":39,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0957","program":"pota","name":"Donskoy State Natural Reserve","coordinates":[39.0048,52.7051]},{"code":"RFF-1071","program":"wwff","name":"Donskoy, Zakaznik","coordinates":[39,52.7]}]}

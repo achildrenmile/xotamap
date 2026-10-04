@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":32.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0891","program":"wwff","name":"Spasskie mkhi, Zakaznik","coordinates":[32.63,58.94]}]}
+{"lat":58.75,"lon":32.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0983","program":"pota","name":"Spassky Mosses (Spasskie Mkhi) State Natural Reserve","coordinates":[32.6299,58.9332]},{"code":"RFF-0891","program":"wwff","name":"Spasskie mkhi, Zakaznik","coordinates":[32.63,58.94]}]}

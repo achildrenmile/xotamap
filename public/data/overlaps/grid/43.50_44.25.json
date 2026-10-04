@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":44.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0877","program":"wwff","name":"Verhne-Kurpskiy, Zakaznik","coordinates":[44.415,43.5]}]}
+{"lat":43.5,"lon":44.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0864","program":"pota","name":"Verkhne-Kurpskiy State Natural Reserve","coordinates":[44.4189,43.5069]},{"code":"RFF-0877","program":"wwff","name":"Verhne-Kurpskiy, Zakaznik","coordinates":[44.415,43.5]}]}

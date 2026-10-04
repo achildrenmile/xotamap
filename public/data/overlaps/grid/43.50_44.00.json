@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":44,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0860","program":"wwff","name":"Tersko-Aleksandrovskiy, Zakaznik","coordinates":[44.04,43.5]}]}
+{"lat":43.5,"lon":44,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0861","program":"pota","name":"Tersko-Aleksandrovskiy State Natural Reserve","coordinates":[44.01,43.5458]},{"code":"RFF-0860","program":"wwff","name":"Tersko-Aleksandrovskiy, Zakaznik","coordinates":[44.04,43.5]}]}

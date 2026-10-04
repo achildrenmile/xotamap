@@ -1,1 +1,1 @@
-{"lat":72.25,"lon":87,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0292","program":"wwff","name":"Purinskiy","coordinates":[87.01172,72.38906]}]}
+{"lat":72.25,"lon":87,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0931","program":"pota","name":"Purinsky State Natural Reserve","coordinates":[87.2478,72.3624]},{"code":"RFF-0292","program":"wwff","name":"Purinskiy","coordinates":[87.01172,72.38906]}]}

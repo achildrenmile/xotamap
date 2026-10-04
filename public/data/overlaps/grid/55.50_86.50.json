@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":86.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1017","program":"wwff","name":"Barzasskiy, Zakaznik","coordinates":[86.6,55.51]}]}
+{"lat":55.5,"lon":86.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0908","program":"pota","name":"Barzasskiy State Natural Reserve","coordinates":[86.6137,55.5055]},{"code":"RFF-1017","program":"wwff","name":"Barzasskiy, Zakaznik","coordinates":[86.6,55.51]}]}

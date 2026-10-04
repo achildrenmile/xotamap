@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":44.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0637","program":"wwff","name":"Chograiskiy, zakaznik","coordinates":[44.442,45.509]}]}
+{"lat":45.5,"lon":44.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0795","program":"pota","name":"Zunda State Natural Reserve","coordinates":[44.2709,45.7314]},{"code":"RFF-0637","program":"wwff","name":"Chograiskiy, zakaznik","coordinates":[44.442,45.509]}]}

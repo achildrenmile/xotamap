@@ -1,1 +1,1 @@
-{"lat":52,"lon":39.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0997","program":"wwff","name":"Pervomaiskiy, Zakaznik","coordinates":[39.42,52.23]}]}
+{"lat":52,"lon":39.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0959","program":"pota","name":"Pervomaisky State Natural Reserve","coordinates":[39.4214,52.2306]},{"code":"RFF-0997","program":"wwff","name":"Pervomaiskiy, Zakaznik","coordinates":[39.42,52.23]}]}

@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":59.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-056","program":"sota","name":"Kruglaya Sopka","coordinates":[59.4669,54.7099]}]}
+{"lat":54.5,"lon":59.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-0842","program":"pota","name":"Ural-Tau (Uraltau) State Natural Reserve","coordinates":[59.3123,54.5689]},{"code":"R9U/SO-056","program":"sota","name":"Kruglaya Sopka","coordinates":[59.4669,54.7099]}]}

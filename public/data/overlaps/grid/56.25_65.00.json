@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":65,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0613","program":"wwff","name":"Shatrovskiy, zakaznik","coordinates":[65,56.3]}]}
+{"lat":56.25,"lon":65,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0937","program":"pota","name":"Shatrovsky State Natural Reserve","coordinates":[65.0452,56.2888]},{"code":"RFF-0613","program":"wwff","name":"Shatrovskiy, zakaznik","coordinates":[65,56.3]}]}

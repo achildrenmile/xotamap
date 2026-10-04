@@ -1,1 +1,1 @@
-{"lat":56,"lon":72.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0237","program":"wwff","name":"Bairovskiy","coordinates":[72.9657,56.10421]}]}
+{"lat":56,"lon":72.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1032","program":"pota","name":"Bairovskiy State Natural Reserve","coordinates":[72.9873,56.0946]},{"code":"RFF-0237","program":"wwff","name":"Bairovskiy","coordinates":[72.9657,56.10421]}]}

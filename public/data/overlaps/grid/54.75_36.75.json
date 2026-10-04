@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":36.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0268","program":"wwff","name":"Tarusa","coordinates":[36.97449,54.98864]}]}
+{"lat":54.75,"lon":36.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0883","program":"pota","name":"Tarusa State Natural Reserve","coordinates":[36.9914,54.9887]},{"code":"RFF-0268","program":"wwff","name":"Tarusa","coordinates":[36.97449,54.98864]}]}

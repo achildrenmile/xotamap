@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":56,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-186","program":"sota","name":"R9U/SO-186","coordinates":[56.1765,52.7431]}]}
+{"lat":52.5,"lon":56,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-0848","program":"pota","name":"Nakazbashevskiy State Natural Reserve","coordinates":[56.1572,52.7204]},{"code":"R9U/SO-186","program":"sota","name":"R9U/SO-186","coordinates":[56.1765,52.7431]}]}

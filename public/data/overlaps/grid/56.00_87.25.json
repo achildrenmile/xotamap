@@ -1,1 +1,1 @@
-{"lat":56,"lon":87.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1040","program":"wwff","name":"Antibesskiy, Zakaznik","coordinates":[87.42,56.09]}]}
+{"lat":56,"lon":87.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0909","program":"pota","name":"Antibesskiy State Natural Reserve","coordinates":[87.4046,56.0835]},{"code":"RFF-1040","program":"wwff","name":"Antibesskiy, Zakaznik","coordinates":[87.42,56.09]}]}

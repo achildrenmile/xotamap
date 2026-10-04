@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":38.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0974","program":"wwff","name":"Verkhne-Volzhskiy, Zakaznik","coordinates":[38.48,57.69]}]}
+{"lat":57.5,"lon":38.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1050","program":"pota","name":"Verkhne-Volzhsky State Natural Reserve","coordinates":[38.4795,57.6869]},{"code":"RFF-0974","program":"wwff","name":"Verkhne-Volzhskiy, Zakaznik","coordinates":[38.48,57.69]}]}

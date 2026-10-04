@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":50,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1258","program":"wwff","name":"Medvedskiy Bor, Pamyatnik Prirody","coordinates":[50.13,57.39]}]}
+{"lat":57.25,"lon":50,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0920","program":"pota","name":"Medvedsky Bor Nature Monument","coordinates":[50.0905,57.378]},{"code":"RFF-1258","program":"wwff","name":"Medvedskiy Bor, Pamyatnik Prirody","coordinates":[50.13,57.39]}]}

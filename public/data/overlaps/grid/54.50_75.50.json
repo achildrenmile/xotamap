@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":75.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0277","program":"wwff","name":"Stepnoy","coordinates":[75.52551,54.5641]}]}
+{"lat":54.5,"lon":75.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1029","program":"pota","name":"Stepnoy State Natural Reserve","coordinates":[75.5188,54.5471]},{"code":"RFF-0277","program":"wwff","name":"Stepnoy","coordinates":[75.52551,54.5641]}]}

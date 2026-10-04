@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":71.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1147","program":"wwff","name":"Ozero Aebeity, Zakaznik","coordinates":[71.74,54.64]}]}
+{"lat":54.5,"lon":71.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1036","program":"pota","name":"Lake Ebeity (Ozero Ebeyty) State Natural Reserve","coordinates":[71.7374,54.6434]},{"code":"RFF-1147","program":"wwff","name":"Ozero Aebeity, Zakaznik","coordinates":[71.74,54.64]}]}

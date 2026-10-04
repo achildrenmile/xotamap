@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":37.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1390","program":"wwff","name":"Lotos, Zakaznik","coordinates":[37.96,45.79]}]}
+{"lat":45.75,"lon":37.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0925","program":"pota","name":"Lotus (Lotos) State Natural Reserve","coordinates":[37.95,45.783]},{"code":"RFF-1390","program":"wwff","name":"Lotos, Zakaznik","coordinates":[37.96,45.79]}]}

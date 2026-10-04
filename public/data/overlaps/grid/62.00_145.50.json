@@ -1,1 +1,1 @@
-{"lat":62,"lon":145.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0858","program":"wwff","name":"Khinike, Zakaznik","coordinates":[145.62,62.22]}]}
+{"lat":62,"lon":145.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0966","program":"pota","name":"Hinike State Natural Reserve","coordinates":[145.597,62.2132]},{"code":"RFF-0858","program":"wwff","name":"Khinike, Zakaznik","coordinates":[145.62,62.22]}]}

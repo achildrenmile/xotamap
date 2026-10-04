@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":42.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0615","program":"wwff","name":"Cheremshino, zakaznik","coordinates":[42.775,44.656]}]}
+{"lat":44.5,"lon":42.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1022","program":"pota","name":"Alexandrovsky State Natural Reserve","coordinates":[42.7751,44.7288]},{"code":"RFF-0615","program":"wwff","name":"Cheremshino, zakaznik","coordinates":[42.775,44.656]}]}

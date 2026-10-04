@@ -1,1 +1,1 @@
-{"lat":52,"lon":91.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0080","program":"wwff","name":"Sayano-Shushenskiy","coordinates":[91.85944,52.18488]}]}
+{"lat":52,"lon":91.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0934","program":"pota","name":"Sayano-Shushenskiy State Nature Preserve","coordinates":[91.8624,52.1698]},{"code":"RFF-0080","program":"wwff","name":"Sayano-Shushenskiy","coordinates":[91.85944,52.18488]}]}

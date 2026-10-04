@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":49.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1197","program":"wwff","name":"Nizevskiy, Pamyatnik Prirody","coordinates":[49.29,57.82]}]}
+{"lat":57.75,"lon":49.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0917","program":"pota","name":"Oshet Natural Monument","coordinates":[49.2935,57.8214]},{"code":"RFF-1197","program":"wwff","name":"Nizevskiy, Pamyatnik Prirody","coordinates":[49.29,57.82]}]}

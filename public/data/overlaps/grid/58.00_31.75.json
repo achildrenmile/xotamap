@@ -1,1 +1,1 @@
-{"lat":58,"lon":31.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0764","program":"wwff","name":"Vostochno-Il'menskiy, Zakaznik","coordinates":[31.755,58.23]}]}
+{"lat":58,"lon":31.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0988","program":"pota","name":"East Ilmensky (Vostochno-Ilmenskiy) State Natural Reserve","coordinates":[31.7509,58.23]},{"code":"RFF-0764","program":"wwff","name":"Vostochno-Il'menskiy, Zakaznik","coordinates":[31.755,58.23]}]}

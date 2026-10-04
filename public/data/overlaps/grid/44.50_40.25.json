@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0885","program":"wwff","name":"Kuzhorskiy, Zakaznik","coordinates":[40.27,44.695]}]}
+{"lat":44.5,"lon":40.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0817","program":"pota","name":"Kuzhorskiy State Natural Reserve","coordinates":[40.2718,44.6955]},{"code":"RFF-0885","program":"wwff","name":"Kuzhorskiy, Zakaznik","coordinates":[40.27,44.695]}]}

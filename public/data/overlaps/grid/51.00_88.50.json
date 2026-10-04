@@ -1,1 +1,1 @@
-{"lat":51,"lon":88.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0002","program":"wwff","name":"Altajskiy","coordinates":[88.66241,51.05952]}]}
+{"lat":51,"lon":88.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0827","program":"pota","name":"Altayskiy State Nature Preserve","coordinates":[88.6922,51.033]},{"code":"RFF-0002","program":"wwff","name":"Altajskiy","coordinates":[88.66241,51.05952]}]}

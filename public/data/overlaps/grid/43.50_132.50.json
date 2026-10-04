@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":132.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0089","program":"wwff","name":"Ussurijskiy","coordinates":[132.50336,43.67482]}]}
+{"lat":43.5,"lon":132.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1047","program":"pota","name":"Ussuriysky named after V. L. Komarov State Nature Preserve","coordinates":[132.503,43.6511]},{"code":"RFF-0089","program":"wwff","name":"Ussurijskiy","coordinates":[132.50336,43.67482]}]}

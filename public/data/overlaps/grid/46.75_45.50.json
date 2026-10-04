@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":45.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0245","program":"wwff","name":"Sarpinsky","coordinates":[45.69214,46.909]}]}
+{"lat":46.75,"lon":45.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0787","program":"pota","name":"Sarpinskiy State Natural Reserve","coordinates":[45.7077,46.9142]},{"code":"RFF-0245","program":"wwff","name":"Sarpinsky","coordinates":[45.69214,46.909]}]}

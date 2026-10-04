@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":54.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0153","program":"wwff","name":"Asly-Kul'","coordinates":[54.57664,54.31357]}]}
+{"lat":54.25,"lon":54.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0845","program":"pota","name":"Asly-Kul Nature Park","coordinates":[54.524,54.2699]},{"code":"RFF-0153","program":"wwff","name":"Asly-Kul'","coordinates":[54.57664,54.31357]}]}

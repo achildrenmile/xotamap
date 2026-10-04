@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":88.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0970","program":"wwff","name":"Belsinskiy, Zakaznik","coordinates":[88.81,53.79]}]}
+{"lat":53.75,"lon":88.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0906","program":"pota","name":"Belsinskiy State Natural Reserve","coordinates":[88.818,53.8053]},{"code":"RFF-0970","program":"wwff","name":"Belsinskiy, Zakaznik","coordinates":[88.81,53.79]}]}

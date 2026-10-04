@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":88.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0053","program":"wwff","name":"Kuznetskiy Alatau","coordinates":[88.25867,54.55136]}]}
+{"lat":54.5,"lon":88.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0903","program":"pota","name":"Kuznetsky Alatau State Nature Preserve","coordinates":[88.3442,54.5405]},{"code":"RFF-0053","program":"wwff","name":"Kuznetskiy Alatau","coordinates":[88.25867,54.55136]}]}

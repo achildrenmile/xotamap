@@ -1,1 +1,1 @@
-{"lat":58.5,"lon":35,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0847","program":"wwff","name":"Redrovskiy, Zakaznik","coordinates":[35.04,58.54]}]}
+{"lat":58.5,"lon":35,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0985","program":"pota","name":"Redrovsky State Natural Reserve","coordinates":[35.0509,58.5418]},{"code":"RFF-0847","program":"wwff","name":"Redrovskiy, Zakaznik","coordinates":[35.04,58.54]}]}
