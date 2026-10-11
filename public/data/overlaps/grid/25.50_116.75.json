@@ -1,1 +1,1 @@
-{"lat":25.5,"lon":116.75,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0037","program":"wwff","name":"Guanzhishan (Mount Guanzhi)","coordinates":[116.78465,25.71256]}]}
+{"lat":25.5,"lon":116.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1725","program":"pota","name":"福建连城冠豸山国家地质公园 Geopark","coordinates":[116.75,25.717]},{"code":"BYFF-0037","program":"wwff","name":"Guanzhishan (Mount Guanzhi)","coordinates":[116.78465,25.71256]}]}

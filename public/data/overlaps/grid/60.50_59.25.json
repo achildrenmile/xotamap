@@ -1,1 +1,1 @@
-{"lat":60.5,"lon":59.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0024","program":"wwff","name":"Denezhkin Kamen'","coordinates":[59.48822,60.53229]}]}
+{"lat":60.5,"lon":59.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1305","program":"pota","name":"Denezhkin Stone (Denezhkin Kamen) State Nature Preserve","coordinates":[59.4881,60.5091]},{"code":"RFF-0024","program":"wwff","name":"Denezhkin Kamen'","coordinates":[59.48822,60.53229]}]}

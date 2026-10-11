@@ -1,1 +1,1 @@
-{"lat":30.25,"lon":117.75,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0069","program":"wwff","name":"Jiuhuashan","coordinates":[117.83337,30.43322]}]}
+{"lat":30.25,"lon":117.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1711","program":"pota","name":"安徽池州九华山国家地质公园 Geopark","coordinates":[117.801,30.472]},{"code":"BYFF-0069","program":"wwff","name":"Jiuhuashan","coordinates":[117.83337,30.43322]}]}

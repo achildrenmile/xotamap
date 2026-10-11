@@ -1,1 +1,1 @@
-{"lat":38,"lon":120.75,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-2591","program":"wlota","name":"Xiaozhushan Dao","coordinates":[120.86799622,38.22000122]}]}
+{"lat":38,"lon":120.75,"programs":["pota","wlota"],"count":2,"references":[{"code":"CN-1741","program":"pota","name":"山东长山列岛国家地质公园 Geopark","coordinates":[120.765,38.088]},{"code":"WLOTA-2591","program":"wlota","name":"Xiaozhushan Dao","coordinates":[120.86799622,38.22000122]}]}

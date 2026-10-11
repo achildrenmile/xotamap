@@ -1,1 +1,1 @@
-{"lat":28,"lon":116.75,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0082","program":"wwff","name":"Longhushan","coordinates":[116.99791,28.06802]}]}
+{"lat":28,"lon":116.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1732","program":"pota","name":"江西龙虎山丹霞地貌国家地质公园 Geopark","coordinates":[116.966,28.113]},{"code":"BYFF-0082","program":"wwff","name":"Longhushan","coordinates":[116.99791,28.06802]}]}

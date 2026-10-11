@@ -1,1 +1,1 @@
-{"lat":56,"lon":29.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0559","program":"wwff","name":"Nevelsky zakaznik","coordinates":[29.7135,56.2074]}]}
+{"lat":56,"lon":29.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1141","program":"pota","name":"Nevelsky State Natural Reserve","coordinates":[29.7113,56.2127]},{"code":"RFF-0559","program":"wwff","name":"Nevelsky zakaznik","coordinates":[29.7135,56.2074]}]}

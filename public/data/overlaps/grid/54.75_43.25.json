@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":43.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0060","program":"wwff","name":"Mordovskiy","coordinates":[43.34874,54.82147]}]}
+{"lat":54.75,"lon":43.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1208","program":"pota","name":"Mordovsky named after P. G. Smidovich State Natural Reserve","coordinates":[43.3234,54.8059]},{"code":"RFF-0060","program":"wwff","name":"Mordovskiy","coordinates":[43.34874,54.82147]}]}

@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":59.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0020","program":"wwff","name":"Visimskiy","coordinates":[59.61456,57.41593]}]}
+{"lat":57.25,"lon":59.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1306","program":"pota","name":"Visimsky UNESCO Biosphere Reserve","coordinates":[59.6012,57.3991]},{"code":"RFF-0020","program":"wwff","name":"Visimskiy","coordinates":[59.61456,57.41593]}]}

@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":33.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0467","program":"wwff","name":"Aleksino reserve","coordinates":[33.4023,54.7835]}]}
+{"lat":54.75,"lon":33.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1331","program":"pota","name":"Aleksino State Natural Reserve","coordinates":[33.3971,54.7877]},{"code":"RFF-0467","program":"wwff","name":"Aleksino reserve","coordinates":[33.4023,54.7835]}]}

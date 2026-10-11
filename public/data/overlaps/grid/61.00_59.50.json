@@ -1,1 +1,1 @@
-{"lat":61,"lon":59.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1358","program":"wwff","name":"Toshemskiy, Zakaznik","coordinates":[59.7,61.03]}]}
+{"lat":61,"lon":59.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1310","program":"pota","name":"Toshemsky State Natural Reserve","coordinates":[59.697,61.042]},{"code":"RFF-1358","program":"wwff","name":"Toshemskiy, Zakaznik","coordinates":[59.7,61.03]}]}

@@ -1,1 +1,1 @@
-{"lat":28.5,"lon":105.5,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0017","program":"wwff","name":"Chishui (Red River)","coordinates":[105.68262,28.55654]}]}
+{"lat":28.5,"lon":105.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1833","program":"pota","name":"贵州赤水丹霞国家地质公园 Geopark","coordinates":[105.7,28.58]},{"code":"BYFF-0017","program":"wwff","name":"Chishui (Red River)","coordinates":[105.68262,28.55654]}]}

@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":46,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0651","program":"wwff","name":"Stepnoi, zakaznik","coordinates":[46.05,43.81]}]}
+{"lat":43.75,"lon":46,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1320","program":"pota","name":"Stepnoy State Natural Reserve","coordinates":[46.0303,43.8065]},{"code":"RFF-0651","program":"wwff","name":"Stepnoi, zakaznik","coordinates":[46.05,43.81]}]}

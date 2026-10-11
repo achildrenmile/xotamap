@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":46.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0859","program":"wwff","name":"Yemeshevskiy, Zakaznik","coordinates":[46.375,56.258]}]}
+{"lat":56.25,"lon":46.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1071","program":"pota","name":"Emeshevsky State Natural Reserve","coordinates":[46.3673,56.2554]},{"code":"RFF-0859","program":"wwff","name":"Yemeshevskiy, Zakaznik","coordinates":[46.375,56.258]}]}

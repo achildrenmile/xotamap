@@ -1,1 +1,1 @@
-{"lat":54,"lon":142.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1119","program":"wwff","name":"Severniy, Zakaznik","coordinates":[142.72,54.12]}]}
+{"lat":54,"lon":142.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1303","program":"pota","name":"Northern (Severnyy) State Natural Reserve","coordinates":[142.696,54.1493]},{"code":"RFF-1119","program":"wwff","name":"Severniy, Zakaznik","coordinates":[142.72,54.12]}]}

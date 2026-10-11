@@ -1,1 +1,1 @@
-{"lat":37,"lon":122.5,"programs":["arlhs"],"count":1,"references":[{"code":"PRC 030","program":"arlhs","name":"Haimaozi Tou/Shantung","coordinates":[122.56999969,37.16999817]}]}
+{"lat":37,"lon":122.5,"programs":["arlhs","pota"],"count":2,"references":[{"code":"PRC 030","program":"arlhs","name":"Haimaozi Tou/Shantung","coordinates":[122.56999969,37.16999817]},{"code":"CN-1615","program":"pota","name":"山东荣成桑沟湾国家城市湿地公园 Wetland Reserve","coordinates":[122.55,37.11]}]}

@@ -1,1 +1,1 @@
-{"lat":60,"lon":57,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0918","program":"wwff","name":"Nizhnevisherskiy, Protected Landscape","coordinates":[57.03,60.084]}]}
+{"lat":60,"lon":57,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1116","program":"pota","name":"Nizhnevishersky Protected Landscape Area","coordinates":[57.034,60.0794]},{"code":"RFF-0918","program":"wwff","name":"Nizhnevisherskiy, Protected Landscape","coordinates":[57.03,60.084]}]}

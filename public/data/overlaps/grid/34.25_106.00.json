@@ -1,1 +1,1 @@
-{"lat":34.25,"lon":106,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0089","program":"wwff","name":"Maijishan","coordinates":[106.01024,34.34875]}]}
+{"lat":34.25,"lon":106,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1860","program":"pota","name":"甘肃天水麦积山国家地质公园 Geopark","coordinates":[106.031,34.3528]},{"code":"BYFF-0089","program":"wwff","name":"Maijishan","coordinates":[106.01024,34.34875]}]}

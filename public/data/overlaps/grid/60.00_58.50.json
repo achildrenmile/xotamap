@@ -1,1 +1,1 @@
-{"lat":60,"lon":58.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/NO-010","program":"sota","name":"Vogulskiy Kamen","coordinates":[58.7253,60.2016]}]}
+{"lat":60,"lon":58.5,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-1112","program":"pota","name":"Kvarkush Protected Landscape Area","coordinates":[58.7088,60.1517]},{"code":"R9U/NO-010","program":"sota","name":"Vogulskiy Kamen","coordinates":[58.7253,60.2016]}]}

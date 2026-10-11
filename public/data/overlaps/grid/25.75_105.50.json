@@ -1,1 +1,1 @@
-{"lat":25.75,"lon":105.5,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0047","program":"wwff","name":"Huangguoshu","coordinates":[105.66666,25.98355]}]}
+{"lat":25.75,"lon":105.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1825","program":"pota","name":"贵州关岭化石群国家地质公园 Geopark","coordinates":[105.62,25.94]},{"code":"BYFF-0047","program":"wwff","name":"Huangguoshu","coordinates":[105.66666,25.98355]}]}

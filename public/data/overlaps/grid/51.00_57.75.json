@@ -1,1 +1,1 @@
-{"lat":51,"lon":57.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1273","program":"wwff","name":"Guberlinskiye Gory, Zakaznik","coordinates":[57.87,51.23]}]}
+{"lat":51,"lon":57.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1101","program":"pota","name":"Guberlinskie Mountains (Guberlinskie Gory) State Natural Reserve","coordinates":[57.8386,51.2292]},{"code":"RFF-1273","program":"wwff","name":"Guberlinskiye Gory, Zakaznik","coordinates":[57.87,51.23]}]}

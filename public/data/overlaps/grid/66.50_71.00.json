@@ -1,1 +1,1 @@
-{"lat":66.5,"lon":71,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0301","program":"wwff","name":"Nizhne-Obskiy","coordinates":[71.01563,66.64862]}]}
+{"lat":66.5,"lon":71,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1087","program":"pota","name":"Nizhne-Obsky State Natural Reserve","coordinates":[71.0004,66.6476]},{"code":"RFF-0301","program":"wwff","name":"Nizhne-Obskiy","coordinates":[71.01563,66.64862]}]}

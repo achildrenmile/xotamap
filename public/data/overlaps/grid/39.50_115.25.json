@@ -1,1 +1,1 @@
-{"lat":39.5,"lon":115.25,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0173","program":"wwff","name":"Yeshanpo","coordinates":[115.4497,39.55907]}]}
+{"lat":39.5,"lon":115.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1654","program":"pota","name":"河北涞水野三坡国家地质公园 Geopark","coordinates":[115.375,39.717]},{"code":"BYFF-0173","program":"wwff","name":"Yeshanpo","coordinates":[115.4497,39.55907]}]}

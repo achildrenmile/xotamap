@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":29.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0554","program":"wwff","name":"Nikandrovskaya Dacha zakaznik","coordinates":[29.26,57.8]}]}
+{"lat":57.75,"lon":29.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1139","program":"pota","name":"Nikandrovskaya Dacha State Natural Reserve","coordinates":[29.2559,57.8015]},{"code":"RFF-0554","program":"wwff","name":"Nikandrovskaya Dacha zakaznik","coordinates":[29.26,57.8]}]}

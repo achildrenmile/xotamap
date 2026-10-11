@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":59,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0022","program":"wwff","name":"Visherskiy","coordinates":[59.03913,61.28137]}]}
+{"lat":61.25,"lon":59,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1109","program":"pota","name":"Vishersky State Nature Preserve","coordinates":[59.03,61.2796]},{"code":"RFF-0022","program":"wwff","name":"Visherskiy","coordinates":[59.03913,61.28137]}]}

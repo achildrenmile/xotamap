@@ -1,1 +1,1 @@
-{"lat":43,"lon":43.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1177","program":"wwff","name":"Turmonskiy, Zakaznik","coordinates":[43.94,43.04]}]}
+{"lat":43,"lon":43.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1258","program":"pota","name":"Turmonsky State Natural Reserve","coordinates":[43.9249,43.0284]},{"code":"RFF-1177","program":"wwff","name":"Turmonskiy, Zakaznik","coordinates":[43.94,43.04]}]}

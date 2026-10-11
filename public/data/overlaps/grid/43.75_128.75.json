@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":128.75,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0064","program":"wwff","name":"Jingpohu","coordinates":[128.89455,43.8349]}]}
+{"lat":43.75,"lon":128.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1692","program":"pota","name":"黑龙江镜泊湖国家地质公园 Geopark","coordinates":[128.963,43.895]},{"code":"BYFF-0064","program":"wwff","name":"Jingpohu","coordinates":[128.89455,43.8349]}]}

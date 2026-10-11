@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":36,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0804","program":"wwff","name":"Yelovo-shirokolistvennye i smeshannye lesa s verkhovymi bolotami, Zakaznik","coordinates":[36.242,55.854]}]}
+{"lat":55.75,"lon":36,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1317","program":"pota","name":"Kosino Nature Recreation Area","coordinates":[36.1748,55.8129]},{"code":"RFF-0804","program":"wwff","name":"Yelovo-shirokolistvennye i smeshannye lesa s verkhovymi bolotami, Zakaznik","coordinates":[36.242,55.854]}]}

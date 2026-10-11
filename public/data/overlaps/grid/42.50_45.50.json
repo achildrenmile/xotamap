@@ -1,1 +1,1 @@
-{"lat":42.5,"lon":45.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0251","program":"wwff","name":"Sovetskiy","coordinates":[45.67017,42.66022]}]}
+{"lat":42.5,"lon":45.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1323","program":"pota","name":"Soviet (Sovetskiy) State Natural Reserve","coordinates":[45.7355,42.5438]},{"code":"RFF-0251","program":"wwff","name":"Sovetskiy","coordinates":[45.67017,42.66022]}]}

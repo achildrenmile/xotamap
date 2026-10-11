@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":91.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0754","program":"wwff","name":"Sheminskiy, Zakaznik","coordinates":[91.54,50.9]}]}
+{"lat":50.75,"lon":91.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1267","program":"pota","name":"Sheminsky State Natural Reserve","coordinates":[91.5371,50.9038]},{"code":"RFF-0754","program":"wwff","name":"Sheminskiy, Zakaznik","coordinates":[91.54,50.9]}]}

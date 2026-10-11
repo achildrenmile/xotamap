@@ -1,1 +1,1 @@
-{"lat":62.25,"lon":58.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0070","program":"wwff","name":"Pechoro-Ilychskiy","coordinates":[58.93066,62.31645]}]}
+{"lat":62.25,"lon":58.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1207","program":"pota","name":"Pechora-Ilych (Pechoro-Ilychskiy) UNESCO Biosphere Reserve","coordinates":[58.7703,62.4949]},{"code":"RFF-0070","program":"wwff","name":"Pechoro-Ilychskiy","coordinates":[58.93066,62.31645]}]}

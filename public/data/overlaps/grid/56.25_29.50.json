@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":29.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0558","program":"wwff","name":"Pustoshkinsky zakaznik","coordinates":[29.5405,56.477]}]}
+{"lat":56.25,"lon":29.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1137","program":"pota","name":"Pustoshkinsky State Natural Reserve","coordinates":[29.5382,56.4832]},{"code":"RFF-0558","program":"wwff","name":"Pustoshkinsky zakaznik","coordinates":[29.5405,56.477]}]}

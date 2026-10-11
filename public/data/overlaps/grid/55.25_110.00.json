@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":110,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0240","program":"wwff","name":"Frolikhiskiy","coordinates":[110.08575,55.39666]}]}
+{"lat":55.25,"lon":110,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1184","program":"pota","name":"Frolikhinskiy UNESCO Biosphere Reserve","coordinates":[110.097,55.3905]},{"code":"RFF-0240","program":"wwff","name":"Frolikhiskiy","coordinates":[110.08575,55.39666]}]}

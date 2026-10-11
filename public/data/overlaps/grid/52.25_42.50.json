@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":42.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0028","program":"wwff","name":"Voroninskiy","coordinates":[42.5806,52.369]}]}
+{"lat":52.25,"lon":42.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1336","program":"pota","name":"Voroninsky State Nature Preserve","coordinates":[42.5909,52.4572]},{"code":"RFF-0028","program":"wwff","name":"Voroninskiy","coordinates":[42.5806,52.369]}]}

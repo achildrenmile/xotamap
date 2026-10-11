@@ -1,1 +1,1 @@
-{"lat":55,"lon":111.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0035","program":"wwff","name":"Dzherginskiy","coordinates":[111.52928,55.1658]}]}
+{"lat":55,"lon":111.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1143","program":"pota","name":"Dzherginsky State Nature Preserve","coordinates":[111.512,55.1357]},{"code":"RFF-0035","program":"wwff","name":"Dzherginskiy","coordinates":[111.52928,55.1658]}]}

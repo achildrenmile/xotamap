@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":44,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0081","program":"wwff","name":"Severo-Osetinskiy","coordinates":[44.00024,42.75962]}]}
+{"lat":42.75,"lon":44,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1255","program":"pota","name":"North Ossetian (Severo-Osetinskiy) State Nature Preserve","coordinates":[44.0381,42.7897]},{"code":"RFF-0081","program":"wwff","name":"Severo-Osetinskiy","coordinates":[44.00024,42.75962]}]}

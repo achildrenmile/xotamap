@@ -1,1 +1,1 @@
-{"lat":24.5,"lon":103.75,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0001","program":"wwff","name":"Alu Ancient Cave","coordinates":[103.75203,24.55765]}]}
+{"lat":24.5,"lon":103.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1843","program":"pota","name":"云南泸西阿庐地质公园 Geopark","coordinates":[103.75,24.5]},{"code":"BYFF-0001","program":"wwff","name":"Alu Ancient Cave","coordinates":[103.75203,24.55765]}]}

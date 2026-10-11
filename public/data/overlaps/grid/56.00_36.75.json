@@ -1,1 +1,1 @@
-{"lat":56,"lon":36.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0514","program":"wwff","name":"Pokrovsky","coordinates":[36.8,56.2437]}]}
+{"lat":56,"lon":36.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1092","program":"pota","name":"Cat Swamp (Koshkino Boloto) Natural Monument","coordinates":[36.8295,56.1788]},{"code":"RFF-0514","program":"wwff","name":"Pokrovsky","coordinates":[36.8,56.2437]}]}

@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":47.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0013","program":"wwff","name":"Bol'shaya Kokshaga","coordinates":[47.29889,56.68415]}]}
+{"lat":56.5,"lon":47.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1067","program":"pota","name":"Great Kokshaga (Bolshaya Kokshaga) State Nature Preserve","coordinates":[47.3014,56.6797]},{"code":"RFF-0013","program":"wwff","name":"Bol'shaya Kokshaga","coordinates":[47.29889,56.68415]}]}

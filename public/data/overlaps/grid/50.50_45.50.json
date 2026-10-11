@@ -1,1 +1,1 @@
-{"lat":50.5,"lon":45.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1275","program":"wwff","name":"Nizhne-Bannovskiy, Pamyatnik Prirody","coordinates":[45.59,50.65]}]}
+{"lat":50.5,"lon":45.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1289","program":"pota","name":"Nizhne-Bannovsky Natural Monument","coordinates":[45.5969,50.6528]},{"code":"RFF-1275","program":"wwff","name":"Nizhne-Bannovskiy, Pamyatnik Prirody","coordinates":[45.59,50.65]}]}

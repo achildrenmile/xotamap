@@ -1,1 +1,1 @@
-{"lat":29.25,"lon":114.5,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0068","program":"wwff","name":"Jiugongshan","coordinates":[114.57983,29.36768]}]}
+{"lat":29.25,"lon":114.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1788","program":"pota","name":"湖北咸宁九宫山温泉地质公园 Geopark","coordinates":[114.667,29.417]},{"code":"BYFF-0068","program":"wwff","name":"Jiugongshan","coordinates":[114.57983,29.36768]}]}

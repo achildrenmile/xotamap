@@ -1,1 +1,1 @@
-{"lat":56,"lon":47.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0908","program":"wwff","name":"Lebedan, Zakaznik","coordinates":[47.695,56.22]}]}
+{"lat":56,"lon":47.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1074","program":"pota","name":"Lebedan State Natural Reserve","coordinates":[47.6973,56.2226]},{"code":"RFF-0908","program":"wwff","name":"Lebedan, Zakaznik","coordinates":[47.695,56.22]}]}

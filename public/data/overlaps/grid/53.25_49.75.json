@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":49.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0037","program":"wwff","name":"Zhigulevskiy","coordinates":[49.78317,53.39459]}]}
+{"lat":53.25,"lon":49.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1291","program":"pota","name":"Zhigulevsky named after I. I. Sprygina UNESCO Biosphere Reserve","coordinates":[49.7812,53.3986]},{"code":"RFF-0037","program":"wwff","name":"Zhigulevskiy","coordinates":[49.78317,53.39459]}]}

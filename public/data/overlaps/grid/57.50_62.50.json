@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":62.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0919","program":"wwff","name":"Irbitskiy, Zakaznik","coordinates":[62.585,57.7]}]}
+{"lat":57.5,"lon":62.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1312","program":"pota","name":"Irbitsky State Natural Reserve","coordinates":[62.6113,57.683]},{"code":"RFF-0919","program":"wwff","name":"Irbitskiy, Zakaznik","coordinates":[62.585,57.7]}]}

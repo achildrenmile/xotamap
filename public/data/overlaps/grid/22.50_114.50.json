@@ -1,1 +1,1 @@
-{"lat":22.5,"lon":114.5,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-1800","program":"wlota","name":"Mabian Zhou","coordinates":[114.65000153,22.70000076]}]}
+{"lat":22.5,"lon":114.5,"programs":["pota","wlota"],"count":3,"references":[{"code":"CN-1635","program":"pota","name":"广东惠州大亚湾红树林城市湿地公园 Wetland Reserve","coordinates":[114.532,22.737]},{"code":"CN-1751","program":"pota","name":"广东深圳大鹏半岛国家地质公园 Geopark","coordinates":[114.528,22.528]},{"code":"WLOTA-1800","program":"wlota","name":"Mabian Zhou","coordinates":[114.65000153,22.70000076]}]}

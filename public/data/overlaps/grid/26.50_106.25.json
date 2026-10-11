@@ -1,1 +1,1 @@
-{"lat":26.5,"lon":106.25,"programs":["wwff"],"count":1,"references":[{"code":"BYFF-0045","program":"wwff","name":"Hongfenghu","coordinates":[106.43102,26.53489]}]}
+{"lat":26.5,"lon":106.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"CN-1639","program":"pota","name":"贵州贵阳红枫湖—百花湖城市湿地公园 Wetland Reserve","coordinates":[106.49,26.59]},{"code":"BYFF-0045","program":"wwff","name":"Hongfenghu","coordinates":[106.43102,26.53489]}]}

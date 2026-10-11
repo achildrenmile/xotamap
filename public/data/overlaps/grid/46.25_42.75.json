@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":42.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0098","program":"wwff","name":"Chernye Zemli","coordinates":[42.76428,46.33863]}]}
+{"lat":46.25,"lon":42.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1214","program":"pota","name":"Rostovsky State Nature Preserve","coordinates":[42.7665,46.4647]},{"code":"RFF-0098","program":"wwff","name":"Chernye Zemli","coordinates":[42.76428,46.33863]}]}

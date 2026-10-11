@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":59.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1328","program":"wwff","name":"Ivdelskiy, Zakaznik","coordinates":[59.69,61.72]}]}
+{"lat":61.5,"lon":59.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1308","program":"pota","name":"Ivdelsky Landscape Reserve","coordinates":[59.6794,61.7286]},{"code":"RFF-1328","program":"wwff","name":"Ivdelskiy, Zakaznik","coordinates":[59.69,61.72]}]}

@@ -1,1 +1,1 @@
-{"lat":53.5,"lon":42.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0643","program":"wwff","name":"Zemetchinskiy, zakaznik","coordinates":[42.25,53.585]}]}
+{"lat":53.5,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1061","program":"pota","name":"Zemetchinsky State Natural Reserve","coordinates":[42.2516,53.5826]},{"code":"RFF-0643","program":"wwff","name":"Zemetchinskiy, zakaznik","coordinates":[42.25,53.585]}]}

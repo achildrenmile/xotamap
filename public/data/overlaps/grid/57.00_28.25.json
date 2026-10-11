@@ -1,1 +1,1 @@
-{"lat":57,"lon":28.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0555","program":"wwff","name":"Ostrovsky zakaznik","coordinates":[28.4,57.15]}]}
+{"lat":57,"lon":28.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1136","program":"pota","name":"Ostrovsky State Natural Reserve","coordinates":[28.4018,57.1591]},{"code":"RFF-0555","program":"wwff","name":"Ostrovsky zakaznik","coordinates":[28.4,57.15]}]}
