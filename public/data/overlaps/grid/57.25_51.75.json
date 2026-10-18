@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":51.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1121","program":"wwff","name":"Valamazskiy, Zakaznik","coordinates":[51.96,57.46]}]}
+{"lat":57.25,"lon":51.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1383","program":"pota","name":"Valamazsky State Natural Reserve","coordinates":[51.9682,57.4815]},{"code":"RFF-1121","program":"wwff","name":"Valamazskiy, Zakaznik","coordinates":[51.96,57.46]}]}

@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":53.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1096","program":"wwff","name":"Kuliginskiy, Zakaznik","coordinates":[53.67,58.26]}]}
+{"lat":58.25,"lon":53.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1380","program":"pota","name":"Kuliginsky State Natural Reserve","coordinates":[53.6751,58.2762]},{"code":"RFF-1096","program":"wwff","name":"Kuliginskiy, Zakaznik","coordinates":[53.67,58.26]}]}

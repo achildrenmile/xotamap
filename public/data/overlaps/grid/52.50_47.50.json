@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":47.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0286","program":"wwff","name":"Starokulatkinskiy","coordinates":[47.52686,52.64056]}]}
+{"lat":52.5,"lon":47.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1370","program":"pota","name":"Starokulatkinsky State Natural Reserve","coordinates":[47.5359,52.6238]},{"code":"RFF-0286","program":"wwff","name":"Starokulatkinskiy","coordinates":[47.52686,52.64056]}]}

@@ -1,1 +1,1 @@
-{"lat":61,"lon":63.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0295","program":"wwff","name":"Verkhne-Kondinskiy","coordinates":[63.3252,61.12467]}]}
+{"lat":61,"lon":63.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1388","program":"pota","name":"Verkhne-Kondinsky State Natural Reserve","coordinates":[63.4482,61.1031]},{"code":"RFF-0295","program":"wwff","name":"Verkhne-Kondinskiy","coordinates":[63.3252,61.12467]}]}

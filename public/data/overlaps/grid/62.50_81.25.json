@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":81.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0203","program":"wwff","name":"Sibirskiye uvaly","coordinates":[81.29883,62.56298]}]}
+{"lat":62.5,"lon":81.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1393","program":"pota","name":"Siberian Ridges (Sibirskie Uvaly) Nature Park","coordinates":[81.3377,62.5848]},{"code":"RFF-0203","program":"wwff","name":"Sibirskiye uvaly","coordinates":[81.29883,62.56298]}]}
