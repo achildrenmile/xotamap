@@ -1,1 +1,1 @@
-{"lat":54,"lon":87.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1024","program":"wwff","name":"Chernovoi Naryk, Zakaznik","coordinates":[87.338,54.242]}]}
+{"lat":54,"lon":87.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1556","program":"pota","name":"Chernovoy Naryk State Natural Reserve","coordinates":[87.3395,54.2421]},{"code":"RFF-1024","program":"wwff","name":"Chernovoi Naryk, Zakaznik","coordinates":[87.338,54.242]}]}

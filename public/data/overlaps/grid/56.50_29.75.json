@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":29.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0561","program":"wwff","name":"Loknyansky zakaznik","coordinates":[29.858,56.704]}]}
+{"lat":56.5,"lon":29.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1613","program":"pota","name":"Loknyansky State Natural Reserve","coordinates":[29.8557,56.7057]},{"code":"RFF-0561","program":"wwff","name":"Loknyansky zakaznik","coordinates":[29.858,56.704]}]}

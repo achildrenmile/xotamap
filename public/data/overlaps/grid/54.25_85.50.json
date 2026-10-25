@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":85.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0977","program":"wwff","name":"Gorskinskiy, Zakaznik","coordinates":[85.59,54.43]}]}
+{"lat":54.25,"lon":85.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1548","program":"pota","name":"Gorskinsky State Natural Reserve","coordinates":[85.5898,54.427]},{"code":"RFF-0977","program":"wwff","name":"Gorskinskiy, Zakaznik","coordinates":[85.59,54.43]}]}

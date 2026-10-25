@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-77.75,"programs":["wwff"],"count":1,"references":[{"code":"VEFF-3619","program":"wwff","name":"O'Hara Mill","coordinates":[-77.52501,44.51569]}]}
+{"lat":44.5,"lon":-77.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"CA-6618","program":"pota","name":"O'Hara Mill Homestead Conservation Area","coordinates":[-77.5267,44.5164]},{"code":"VEFF-3619","program":"wwff","name":"O'Hara Mill","coordinates":[-77.52501,44.51569]}]}

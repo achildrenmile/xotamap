@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":38.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0491","program":"wwff","name":"Moskvoretsky floodplain reserve","coordinates":[38.5073,55.3995]}]}
+{"lat":55.25,"lon":38.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1728","program":"pota","name":"Москворецкий пойменный заказник State Natural Reserve","coordinates":[38.5234,55.3998]},{"code":"RFF-0491","program":"wwff","name":"Moskvoretsky floodplain reserve","coordinates":[38.5073,55.3995]}]}

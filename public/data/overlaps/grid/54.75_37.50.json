@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":37.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0075","program":"wwff","name":"Prioksko-Terrasny","coordinates":[37.61169,54.89181]}]}
+{"lat":54.75,"lon":37.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1724","program":"pota","name":"Приокско-Террасный State Nature Preserve","coordinates":[37.6174,54.8853]},{"code":"RFF-0075","program":"wwff","name":"Prioksko-Terrasny","coordinates":[37.61169,54.89181]}]}

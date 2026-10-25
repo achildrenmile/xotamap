@@ -1,1 +1,1 @@
-{"lat":58.5,"lon":43.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1048","program":"wwff","name":"Preobrazhenskaya roshcha, Zakaznik","coordinates":[43.63,58.53]}]}
+{"lat":58.5,"lon":43.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0122","program":"pota","name":"Преображенская роща Nature Reserve","coordinates":[43.634,58.5346]},{"code":"RFF-1048","program":"wwff","name":"Preobrazhenskaya roshcha, Zakaznik","coordinates":[43.63,58.53]}]}

@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":79.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0736","program":"wwff","name":"Dovolenskiy, zakaznik","coordinates":[79.92,54.64]}]}
+{"lat":54.5,"lon":79.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1566","program":"pota","name":"Dovolensky State Natural Reserve","coordinates":[79.9343,54.6451]},{"code":"RFF-0736","program":"wwff","name":"Dovolenskiy, zakaznik","coordinates":[79.92,54.64]}]}

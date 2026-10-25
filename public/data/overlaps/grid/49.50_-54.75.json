@@ -1,1 +1,1 @@
-{"lat":49.5,"lon":-54.75,"programs":["arlhs"],"count":1,"references":[{"code":"CAN 647","program":"arlhs","name":"Bacalhao Island","coordinates":[-54.54999924,49.68000031]}]}
+{"lat":49.5,"lon":-54.75,"programs":["arlhs","tota"],"count":3,"references":[{"code":"CAN 647","program":"arlhs","name":"Bacalhao Island","coordinates":[-54.54999924,49.68000031]},{"code":"VER-1011","program":"tota","name":"Friday's Bay Lookout","coordinates":[-54.723518,49.556284]},{"code":"VER-1007","program":"tota","name":"Top of Twillingate Observation Tower","coordinates":[-54.747641,49.621984]}]}

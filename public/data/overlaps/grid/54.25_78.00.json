@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":78,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0749","program":"wwff","name":"Maiskoe utro, zakaznik","coordinates":[78.08,54.42]}]}
+{"lat":54.25,"lon":78,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1577","program":"pota","name":"May Morning (Mayskoe Utro) State Natural Reserve","coordinates":[78.0893,54.4154]},{"code":"RFF-0749","program":"wwff","name":"Maiskoe utro, zakaznik","coordinates":[78.08,54.42]}]}

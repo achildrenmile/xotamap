@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":78.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0705","program":"wwff","name":"Zdvinskiy, zakaznik","coordinates":[78.93,54.52]}]}
+{"lat":54.5,"lon":78.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1568","program":"pota","name":"Zdvinsky State Natural Reserve","coordinates":[78.8607,54.502]},{"code":"RFF-0705","program":"wwff","name":"Zdvinskiy, zakaznik","coordinates":[78.93,54.52]}]}

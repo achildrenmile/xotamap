@@ -1,1 +1,1 @@
-{"lat":51.5,"lon":91,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0853","program":"wwff","name":"Sut-Kholskiy, Zakaznik","coordinates":[91.165,51.52]}]}
+{"lat":51.5,"lon":91,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-1647","program":"pota","name":"Сут-Хольский State Natural Reserve","coordinates":[91.1834,51.5191]},{"code":"RU-1662","program":"pota","name":"Озеро Сут-Холь Natural Monument","coordinates":[91.1631,51.5201]},{"code":"RFF-0853","program":"wwff","name":"Sut-Kholskiy, Zakaznik","coordinates":[91.165,51.52]}]}

@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":78,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0715","program":"wwff","name":"Chanovskiy, zakaznik","coordinates":[78.23,54.665]}]}
+{"lat":54.5,"lon":78,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-1579","program":"pota","name":"Chanovsky State Natural Reserve","coordinates":[78.2195,54.6599]},{"code":"RU-1606","program":"pota","name":"Griva Vertkova Natural Monument","coordinates":[78.1196,54.6352]},{"code":"RFF-0715","program":"wwff","name":"Chanovskiy, zakaznik","coordinates":[78.23,54.665]}]}

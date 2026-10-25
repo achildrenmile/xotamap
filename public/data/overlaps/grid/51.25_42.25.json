@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":42.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1365","program":"wwff","name":"Peskovskiy, Zakaznik","coordinates":[42.44,51.27]}]}
+{"lat":51.25,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1713","program":"pota","name":"Песковский State Natural Reserve","coordinates":[42.4431,51.2818]},{"code":"RFF-1365","program":"wwff","name":"Peskovskiy, Zakaznik","coordinates":[42.44,51.27]}]}

@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":30.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0560","program":"wwff","name":"Velikoluksky zakaznik","coordinates":[30.5169,56.5284]}]}
+{"lat":56.5,"lon":30.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1612","program":"pota","name":"Velikoluksky State Natural Reserve","coordinates":[30.5135,56.5309]},{"code":"RFF-0560","program":"wwff","name":"Velikoluksky zakaznik","coordinates":[30.5169,56.5284]}]}

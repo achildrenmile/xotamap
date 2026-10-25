@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":86.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1032","program":"wwff","name":"Karakanskiy, Zakaznik","coordinates":[86.865,54.405]}]}
+{"lat":54.25,"lon":86.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1552","program":"pota","name":"Karakansky State Natural Reserve","coordinates":[86.9143,54.3863]},{"code":"RFF-1032","program":"wwff","name":"Karakanskiy, Zakaznik","coordinates":[86.865,54.405]}]}

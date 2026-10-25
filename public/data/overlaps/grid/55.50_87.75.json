@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":87.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0972","program":"wwff","name":"Chumaisko-Irkutyanskiy, Zakaznik","coordinates":[87.89,55.63]}]}
+{"lat":55.5,"lon":87.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1546","program":"pota","name":"Chumaisko-Irkutyanovsky State Natural Reserve","coordinates":[87.8943,55.6259]},{"code":"RFF-0972","program":"wwff","name":"Chumaisko-Irkutyanskiy, Zakaznik","coordinates":[87.89,55.63]}]}

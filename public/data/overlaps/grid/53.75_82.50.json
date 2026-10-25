@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":82.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0725","program":"wwff","name":"Suzunskiy, zakaznik","coordinates":[82.55,53.84]}]}
+{"lat":53.75,"lon":82.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1562","program":"pota","name":"Suzunsky State Natural Reserve","coordinates":[82.5554,53.8581]},{"code":"RFF-0725","program":"wwff","name":"Suzunskiy, zakaznik","coordinates":[82.55,53.84]}]}

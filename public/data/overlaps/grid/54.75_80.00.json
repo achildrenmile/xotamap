@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":80,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0702","program":"wwff","name":"Kargatskiy, zakaznik","coordinates":[80.06,54.97]}]}
+{"lat":54.75,"lon":80,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1564","program":"pota","name":"Kargatsky State Natural Reserve","coordinates":[80.0489,54.9749]},{"code":"RFF-0702","program":"wwff","name":"Kargatskiy, zakaznik","coordinates":[80.06,54.97]}]}

@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":78,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0659","program":"wwff","name":"Kazatovskiy, zakaznik","coordinates":[78.23,55.77]}]}
+{"lat":55.75,"lon":78,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1571","program":"pota","name":"Kazatovsky State Natural Reserve","coordinates":[78.2216,55.7866]},{"code":"RFF-0659","program":"wwff","name":"Kazatovskiy, zakaznik","coordinates":[78.23,55.77]}]}

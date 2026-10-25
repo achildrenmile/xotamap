@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":63.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0271","program":"wwff","name":"Kurganskiy","coordinates":[63.56689,54.33254]}]}
+{"lat":54.25,"lon":63.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0938","program":"pota","name":"Курганский State Natural Reserve","coordinates":[63.5746,54.309]},{"code":"RFF-0271","program":"wwff","name":"Kurganskiy","coordinates":[63.56689,54.33254]}]}

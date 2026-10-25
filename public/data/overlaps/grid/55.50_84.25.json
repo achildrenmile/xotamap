@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":84.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0730","program":"wwff","name":"Manuylovskiy, zakaznik","coordinates":[84.33,55.52]}]}
+{"lat":55.5,"lon":84.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1576","program":"pota","name":"Manuylovsky State Natural Reserve","coordinates":[84.3201,55.512]},{"code":"RFF-0730","program":"wwff","name":"Manuylovskiy, zakaznik","coordinates":[84.33,55.52]}]}

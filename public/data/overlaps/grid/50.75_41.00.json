@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":41,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0316","program":"wwff","name":"Lomovskiy","coordinates":[41.15479,50.76252]}]}
+{"lat":50.75,"lon":41,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1711","program":"pota","name":"Ломовский природный Nature and Landscape Complex","coordinates":[41.1701,50.7509]},{"code":"RFF-0316","program":"wwff","name":"Lomovskiy","coordinates":[41.15479,50.76252]}]}

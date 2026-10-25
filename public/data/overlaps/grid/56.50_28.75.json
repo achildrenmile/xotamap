@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":28.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0557","program":"wwff","name":"Opochetsky zakaznik","coordinates":[28.8838,56.6475]}]}
+{"lat":56.5,"lon":28.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1610","program":"pota","name":"Opochetsky State Natural Reserve","coordinates":[28.8824,56.6489]},{"code":"RFF-0557","program":"wwff","name":"Opochetsky zakaznik","coordinates":[28.8838,56.6475]}]}

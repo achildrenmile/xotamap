@@ -1,1 +1,1 @@
-{"lat":51,"lon":94.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0895","program":"wwff","name":"Chagytaiskiy, Zakaznik","coordinates":[94.735,51.015]}]}
+{"lat":51,"lon":94.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-1653","program":"pota","name":"Чагытайский State Natural Reserve","coordinates":[94.74,51.0162]},{"code":"RU-1657","program":"pota","name":"Озеро Чагытай Natural Monument","coordinates":[94.7312,51.0162]},{"code":"RFF-0895","program":"wwff","name":"Chagytaiskiy, Zakaznik","coordinates":[94.735,51.015]}]}

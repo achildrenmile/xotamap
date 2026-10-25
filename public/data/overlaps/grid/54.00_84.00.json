@@ -1,1 +1,1 @@
-{"lat":54,"lon":84,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0696","program":"wwff","name":"Talitskiy, zakaznik","coordinates":[84.18,54.24]}]}
+{"lat":54,"lon":84,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1567","program":"pota","name":"Talitsky State Natural Reserve","coordinates":[84.1785,54.2343]},{"code":"RFF-0696","program":"wwff","name":"Talitskiy, zakaznik","coordinates":[84.18,54.24]}]}

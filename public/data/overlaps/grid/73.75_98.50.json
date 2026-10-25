@@ -1,1 +1,1 @@
-{"lat":73.75,"lon":98.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0085","program":"wwff","name":"Taymyrskiy","coordinates":[98.74512,73.91638]}]}
+{"lat":73.75,"lon":98.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-0929","program":"pota","name":"Taimyr (Taymyrskiy) State Nature Preserve","coordinates":[98.674,73.9775]},{"code":"RFF-0085","program":"wwff","name":"Taymyrskiy","coordinates":[98.74512,73.91638]}]}

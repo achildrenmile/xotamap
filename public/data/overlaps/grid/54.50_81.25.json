@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":81.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0701","program":"wwff","name":"Chikmanskiy, zakaznik","coordinates":[81.295,54.65]}]}
+{"lat":54.5,"lon":81.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1570","program":"pota","name":"Chikmansky State Natural Reserve","coordinates":[81.2793,54.6555]},{"code":"RFF-0701","program":"wwff","name":"Chikmanskiy, zakaznik","coordinates":[81.295,54.65]}]}

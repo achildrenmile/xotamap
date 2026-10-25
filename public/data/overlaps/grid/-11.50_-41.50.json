@@ -1,1 +1,1 @@
-{"lat":-11.5,"lon":-41.5,"programs":["pota"],"count":1,"references":[{"code":"BR-0123","program":"pota","name":"Morro do Chapéu State Park","coordinates":[-41.2809,-11.3854]}]}
+{"lat":-11.5,"lon":-41.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"BR-0123","program":"pota","name":"Morro do Chapéu State Park","coordinates":[-41.2809,-11.3854]},{"code":"PYFF-0557","program":"wwff","name":"Parque Estadual MORRO DO CHAPÉU - BA","coordinates":[-41.29167,-11.35417]}]}

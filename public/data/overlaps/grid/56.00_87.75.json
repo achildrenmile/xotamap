@@ -1,1 +1,1 @@
-{"lat":56,"lon":87.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1053","program":"wwff","name":"Archekasskiy kryazh, Zakaznik","coordinates":[87.78,56.16]}]}
+{"lat":56,"lon":87.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1551","program":"pota","name":"Archekassky Ridge (Archekasskiy Kryazh) State Natural Reserve","coordinates":[87.808,56.1602]},{"code":"RFF-1053","program":"wwff","name":"Archekasskiy kryazh, Zakaznik","coordinates":[87.78,56.16]}]}

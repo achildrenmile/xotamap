@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":27.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0323","program":"wwff","name":"Izborsko-Malskaya dolina","coordinates":[27.86,57.72]}]}
+{"lat":57.5,"lon":27.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1620","program":"pota","name":"Izborsk-Mal Valley (Izborsko-Malskaya Dolina) Natural Monument","coordinates":[27.8213,57.7313]},{"code":"RFF-0323","program":"wwff","name":"Izborsko-Malskaya dolina","coordinates":[27.86,57.72]}]}

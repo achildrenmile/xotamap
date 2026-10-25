@@ -1,1 +1,1 @@
-{"lat":57,"lon":29,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0556","program":"wwff","name":"Novorzhevsky zakaznik","coordinates":[29.13,57.16]}]}
+{"lat":57,"lon":29,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1614","program":"pota","name":"Novorzhevsky State Natural Reserve","coordinates":[29.1288,57.1561]},{"code":"RFF-0556","program":"wwff","name":"Novorzhevsky zakaznik","coordinates":[29.13,57.16]}]}

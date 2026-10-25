@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":81,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0666","program":"wwff","name":"Ordynsky, zakaznik","coordinates":[81.19,54.27]}]}
+{"lat":54.25,"lon":81,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1569","program":"pota","name":"Ordynsky State Natural Reserve","coordinates":[81.1665,54.2678]},{"code":"RFF-0666","program":"wwff","name":"Ordynsky, zakaznik","coordinates":[81.19,54.27]}]}

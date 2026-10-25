@@ -1,1 +1,1 @@
-{"lat":51,"lon":38.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1355","program":"wwff","name":"Rodniki, Zakaznik","coordinates":[38.97,51.13]}]}
+{"lat":51,"lon":38.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1706","program":"pota","name":"Родники State Natural Reserve","coordinates":[38.9747,51.1384]},{"code":"RFF-1355","program":"wwff","name":"Rodniki, Zakaznik","coordinates":[38.97,51.13]}]}

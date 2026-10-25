@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":89.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0771","program":"wwff","name":"Kara-Khol, Pamyatnik prirody","coordinates":[89.485,51.41]}]}
+{"lat":51.25,"lon":89.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-1658","program":"pota","name":"Озеро Кара-Холь Natural Monument","coordinates":[89.4801,51.4091]},{"code":"RFF-0771","program":"wwff","name":"Kara-Khol, Pamyatnik prirody","coordinates":[89.485,51.41]}]}
