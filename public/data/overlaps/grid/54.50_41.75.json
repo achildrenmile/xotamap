@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":41.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1067","program":"wwff","name":"Mokshinskiy, Zakaznik","coordinates":[41.98,54.69]}]}
+{"lat":54.5,"lon":41.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7166","program":"pota","name":"Мокшинский State Natural Reserve","coordinates":[41.982,54.6905]},{"code":"RU-7229","program":"pota","name":"Урочище Болото Муча Natural Monument","coordinates":[41.9141,54.5913]},{"code":"RFF-1067","program":"wwff","name":"Mokshinskiy, Zakaznik","coordinates":[41.98,54.69]}]}

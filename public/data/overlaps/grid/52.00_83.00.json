@@ -1,1 +1,1 @@
-{"lat":52,"lon":83,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0883","program":"wwff","name":"Urzhumskiy, Zakaznik","coordinates":[83.095,52.235]}]}
+{"lat":52,"lon":83,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4162","program":"pota","name":"Уржумский State Natural Reserve","coordinates":[83.1013,52.2364]},{"code":"RFF-0883","program":"wwff","name":"Urzhumskiy, Zakaznik","coordinates":[83.095,52.235]}]}

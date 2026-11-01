@@ -1,1 +1,1 @@
-{"lat":44,"lon":45,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0608","program":"wwff","name":"Stepan Bugor, zakaznik","coordinates":[45.007,44.168]}]}
+{"lat":44,"lon":45,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7751","program":"pota","name":"Степан Бугор State Natural Reserve","coordinates":[45.0077,44.1669]},{"code":"RFF-0608","program":"wwff","name":"Stepan Bugor, zakaznik","coordinates":[45.007,44.168]}]}

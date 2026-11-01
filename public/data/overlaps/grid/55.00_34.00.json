@@ -1,1 +1,1 @@
-{"lat":55,"lon":34,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1081","program":"wwff","name":"Rusyatka Lesopark Pamyatnik prirody","coordinates":[34.24,55.19]}]}
+{"lat":55,"lon":34,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7862","program":"pota","name":"Лесопарк State Natural Reserve","coordinates":[34.2095,55.2066]},{"code":"RFF-1081","program":"wwff","name":"Rusyatka Lesopark Pamyatnik prirody","coordinates":[34.24,55.19]}]}

@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":81,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0914","program":"wwff","name":"Zaviyalovskiy, Zakaznik","coordinates":[81.16,52.92]}]}
+{"lat":52.75,"lon":81,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4170","program":"pota","name":"Завьяловский State Natural Reserve","coordinates":[81.157,52.9201]},{"code":"RFF-0914","program":"wwff","name":"Zaviyalovskiy, Zakaznik","coordinates":[81.16,52.92]}]}

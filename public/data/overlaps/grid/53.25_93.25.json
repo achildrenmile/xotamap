@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":93.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1194","program":"wwff","name":"Tyukhtetsko-Shadatskiy, Zakaznik","coordinates":[93.47,53.26]}]}
+{"lat":53.25,"lon":93.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3357","program":"pota","name":"Тюхтетско-Шадатский State Natural Reserve","coordinates":[93.4636,53.2658]},{"code":"RFF-1194","program":"wwff","name":"Tyukhtetsko-Shadatskiy, Zakaznik","coordinates":[93.47,53.26]}]}

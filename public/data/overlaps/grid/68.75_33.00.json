@@ -1,1 +1,1 @@
-{"lat":68.75,"lon":33,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 089","program":"arlhs","name":"Drovyanoy (Barents Sea)","coordinates":[33,68.93000031]}]}
+{"lat":68.75,"lon":33,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 089","program":"arlhs","name":"Drovyanoy (Barents Sea)","coordinates":[33,68.93000031]},{"code":"RU-5924","program":"pota","name":"Бараний лоб у озера Семёновское Natural Monument","coordinates":[33.0716,68.9945]}]}

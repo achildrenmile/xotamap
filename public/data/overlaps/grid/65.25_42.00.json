@@ -1,1 +1,1 @@
-{"lat":65.25,"lon":42,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1272","program":"wwff","name":"Soyanskiy, Zakaznik","coordinates":[42,65.4]}]}
+{"lat":65.25,"lon":42,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4057","program":"pota","name":"Соянский State Natural Reserve","coordinates":[42.0456,65.4144]},{"code":"RFF-1272","program":"wwff","name":"Soyanskiy, Zakaznik","coordinates":[42,65.4]}]}

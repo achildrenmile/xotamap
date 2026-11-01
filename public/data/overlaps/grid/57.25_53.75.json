@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":53.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0119","program":"wwff","name":"Sharkan","coordinates":[53.82048,57.34176]}]}
+{"lat":57.25,"lon":53.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7479","program":"pota","name":"Шаркан Nature Park","coordinates":[53.9164,57.3836]},{"code":"RU-7537","program":"pota","name":"Итинский Natural Monument","coordinates":[53.7936,57.4639]},{"code":"RFF-0119","program":"wwff","name":"Sharkan","coordinates":[53.82048,57.34176]}]}

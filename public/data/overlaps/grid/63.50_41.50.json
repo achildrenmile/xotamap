@@ -1,1 +1,1 @@
-{"lat":63.5,"lon":41.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0261","program":"wwff","name":"Siyskiy","coordinates":[41.53931,63.57056]}]}
+{"lat":63.5,"lon":41.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4069","program":"pota","name":"Сийский State Natural Reserve","coordinates":[41.545,63.5539]},{"code":"RFF-0261","program":"wwff","name":"Siyskiy","coordinates":[41.53931,63.57056]}]}

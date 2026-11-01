@@ -1,1 +1,1 @@
-{"lat":45,"lon":42.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0632","program":"wwff","name":"Solenoe ozero II, zakaznik","coordinates":[42.83,45.177]}]}
+{"lat":45,"lon":42.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7746","program":"pota","name":"Соленое озеро State Natural Reserve","coordinates":[42.814,45.214]},{"code":"RFF-0632","program":"wwff","name":"Solenoe ozero II, zakaznik","coordinates":[42.83,45.177]}]}

@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":37.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0534","program":"wwff","name":"Koltsevaya struktura Chermzha, zakaznik","coordinates":[37.6397,59.8017]}]}
+{"lat":59.75,"lon":37.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5248","program":"pota","name":"Кольцевая структура Чермжа State Natural Reserve","coordinates":[37.638,59.8023]},{"code":"RFF-0534","program":"wwff","name":"Koltsevaya struktura Chermzha, zakaznik","coordinates":[37.6397,59.8017]}]}

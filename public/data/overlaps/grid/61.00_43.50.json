@@ -1,1 +1,1 @@
-{"lat":61,"lon":43.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0528","program":"wwff","name":"Ustyansky zakaznik","coordinates":[43.58,61.09]}]}
+{"lat":61,"lon":43.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4084","program":"pota","name":"Устьянский State Natural Reserve","coordinates":[43.5776,61.0859]},{"code":"RFF-0528","program":"wwff","name":"Ustyansky zakaznik","coordinates":[43.58,61.09]}]}

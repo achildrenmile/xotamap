@@ -1,1 +1,1 @@
-{"lat":52,"lon":80.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0798","program":"wwff","name":"Yegorievskiy, Zakaznik","coordinates":[80.96,52.03]}]}
+{"lat":52,"lon":80.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4164","program":"pota","name":"Егорьевский State Natural Reserve","coordinates":[80.9648,52.029]},{"code":"RFF-0798","program":"wwff","name":"Yegorievskiy, Zakaznik","coordinates":[80.96,52.03]}]}

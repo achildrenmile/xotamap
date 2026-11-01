@@ -1,1 +1,1 @@
-{"lat":61,"lon":42.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0527","program":"wwff","name":"Vazhskiy zakaznik","coordinates":[42.289,61.227]}]}
+{"lat":61,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4076","program":"pota","name":"Важский State Natural Reserve","coordinates":[42.2871,61.2271]},{"code":"RFF-0527","program":"wwff","name":"Vazhskiy zakaznik","coordinates":[42.289,61.227]}]}

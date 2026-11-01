@@ -1,1 +1,1 @@
-{"lat":45,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1263","program":"wwff","name":"Sredne-Labinskiy, Zakaznik","coordinates":[40.4,45.05]}]}
+{"lat":45,"lon":40.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3462","program":"pota","name":"Средне-Лабинский (Шовгеновский) State Natural Reserve","coordinates":[40.376,45.0588]},{"code":"RFF-1263","program":"wwff","name":"Sredne-Labinskiy, Zakaznik","coordinates":[40.4,45.05]}]}

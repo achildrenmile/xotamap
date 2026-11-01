@@ -1,1 +1,1 @@
-{"lat":53,"lon":86.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0778","program":"wwff","name":"Sary-Chumyshskiy, Zakaznik","coordinates":[86.87,53.04]}]}
+{"lat":53,"lon":86.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4236","program":"pota","name":"Сары-Чумышский Natural Monument","coordinates":[86.8917,53.0021]},{"code":"RFF-0778","program":"wwff","name":"Sary-Chumyshskiy, Zakaznik","coordinates":[86.87,53.04]}]}

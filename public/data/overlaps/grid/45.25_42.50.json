@@ -1,1 +1,1 @@
-{"lat":45.25,"lon":42.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0585","program":"wwff","name":"Peski, urochische, zakaznik","coordinates":[42.561,45.332]}]}
+{"lat":45.25,"lon":42.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7780","program":"pota","name":"Урочище Пески State Natural Reserve","coordinates":[42.5625,45.3306]},{"code":"RFF-0585","program":"wwff","name":"Peski, urochische, zakaznik","coordinates":[42.561,45.332]}]}

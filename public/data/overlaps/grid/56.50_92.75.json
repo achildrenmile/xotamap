@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":92.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1305","program":"wwff","name":"Talsko-Garevskiy, Zakaznik","coordinates":[92.93,56.64]}]}
+{"lat":56.5,"lon":92.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3351","program":"pota","name":"Тальско-Гаревский State Natural Reserve","coordinates":[92.9157,56.6452]},{"code":"RFF-1305","program":"wwff","name":"Talsko-Garevskiy, Zakaznik","coordinates":[92.93,56.64]}]}

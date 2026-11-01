@@ -1,1 +1,1 @@
-{"lat":58.5,"lon":45.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1042","program":"wwff","name":"Shangskiy, Zakaznik","coordinates":[45.46,58.53]}]}
+{"lat":58.5,"lon":45.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2731","program":"pota","name":"Шангский State Natural Reserve","coordinates":[45.4886,58.539]},{"code":"RFF-1042","program":"wwff","name":"Shangskiy, Zakaznik","coordinates":[45.46,58.53]}]}

@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":39.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1057","program":"wwff","name":"Kozmodemyanskiy, Zakaznik","coordinates":[39.6,57.56]}]}
+{"lat":57.5,"lon":39.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2786","program":"pota","name":"Козьмодемьянский State Natural Reserve","coordinates":[39.5935,57.5636]},{"code":"RFF-1057","program":"wwff","name":"Kozmodemyanskiy, Zakaznik","coordinates":[39.6,57.56]}]}

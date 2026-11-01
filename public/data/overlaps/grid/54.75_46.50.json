@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":46.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0076","program":"wwff","name":"Prisurskiy","coordinates":[46.74408,54.98943]}]}
+{"lat":54.75,"lon":46.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7904","program":"pota","name":"Алатырский State Natural Reserve","coordinates":[46.5685,54.8574]},{"code":"RFF-0076","program":"wwff","name":"Prisurskiy","coordinates":[46.74408,54.98943]}]}

@@ -1,1 +1,1 @@
-{"lat":50,"lon":43.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1224","program":"wwff","name":"Razdorskiy, Zakaznik","coordinates":[43.66,50.14]}]}
+{"lat":50,"lon":43.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3066","program":"pota","name":"Раздорский State Natural Reserve","coordinates":[43.6688,50.1417]},{"code":"RFF-1224","program":"wwff","name":"Razdorskiy, Zakaznik","coordinates":[43.66,50.14]}]}

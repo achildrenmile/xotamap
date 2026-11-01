@@ -1,1 +1,1 @@
-{"lat":52,"lon":86.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0888","program":"wwff","name":"Mikhailovskiy, Zakaznik","coordinates":[86.63,52.135]}]}
+{"lat":52,"lon":86.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4180","program":"pota","name":"Михайловский State Natural Reserve","coordinates":[86.6275,52.1332]},{"code":"RFF-0888","program":"wwff","name":"Mikhailovskiy, Zakaznik","coordinates":[86.63,52.135]}]}

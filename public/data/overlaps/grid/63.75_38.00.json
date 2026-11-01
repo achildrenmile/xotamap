@@ -1,1 +1,1 @@
-{"lat":63.75,"lon":38,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 241","program":"arlhs","name":"Gorodskoy (White Sea)","coordinates":[38.09999847,63.90000153]}]}
+{"lat":63.75,"lon":38,"programs":["arlhs","pota"],"count":3,"references":[{"code":"ERU 241","program":"arlhs","name":"Gorodskoy (White Sea)","coordinates":[38.09999847,63.90000153]},{"code":"RU-4137","program":"pota","name":"Сосновая роща Natural Monument","coordinates":[38.108,63.9125]},{"code":"RU-4147","program":"pota","name":"Талицкий ключ Natural Monument","coordinates":[38.1443,63.8959]}]}

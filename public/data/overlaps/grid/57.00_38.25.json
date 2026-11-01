@@ -1,1 +1,1 @@
-{"lat":57,"lon":38.25,"programs":["sota"],"count":1,"references":[{"code":"R3/CF-005","program":"sota","name":"Demyany","coordinates":[38.49,57.2242]}]}
+{"lat":57,"lon":38.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-2976","program":"pota","name":"Парк с. Загорье Natural Monument","coordinates":[38.35,57.0301]},{"code":"R3/CF-005","program":"sota","name":"Demyany","coordinates":[38.49,57.2242]}]}

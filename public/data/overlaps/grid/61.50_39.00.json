@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":39,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0524","program":"wwff","name":"Filatovskiy zakaznik","coordinates":[39.075,61.688]}]}
+{"lat":61.5,"lon":39,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4073","program":"pota","name":"Филатовский State Natural Reserve","coordinates":[39.083,61.6916]},{"code":"RFF-0524","program":"wwff","name":"Filatovskiy zakaznik","coordinates":[39.075,61.688]}]}

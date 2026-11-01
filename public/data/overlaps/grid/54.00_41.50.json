@@ -1,1 +1,1 @@
-{"lat":54,"lon":41.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0968","program":"wwff","name":"Shevyrlyayevskiy, Zakaznik","coordinates":[41.52,54.13]}]}
+{"lat":54,"lon":41.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7163","program":"pota","name":"Шевырляевский State Natural Reserve","coordinates":[41.5206,54.1282]},{"code":"RFF-0968","program":"wwff","name":"Shevyrlyayevskiy, Zakaznik","coordinates":[41.52,54.13]}]}

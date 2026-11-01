@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":36.25,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 181","program":"arlhs","name":"Besov Nos (Onego Lake)","coordinates":[36.29999924,61.66999817]}]}
+{"lat":61.5,"lon":36.25,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 181","program":"arlhs","name":"Besov Nos (Onego Lake)","coordinates":[36.29999924,61.66999817]},{"code":"RU-6771","program":"pota","name":"Муромский State Natural Reserve","coordinates":[36.2939,61.5718]}]}

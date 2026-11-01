@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":44,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0729","program":"wwff","name":"Kurakinskiy park, pamyatnik prirody","coordinates":[44.061,52.54]}]}
+{"lat":52.5,"lon":44,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5715","program":"pota","name":"Куракинский парк Natural Monument","coordinates":[44.0612,52.5402]},{"code":"RFF-0729","program":"wwff","name":"Kurakinskiy park, pamyatnik prirody","coordinates":[44.061,52.54]}]}

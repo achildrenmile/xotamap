@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":37,"programs":["sota"],"count":1,"references":[{"code":"R3/CF-007","program":"sota","name":"R3/CF-007","coordinates":[37.19,58.3325]}]}
+{"lat":58.25,"lon":37,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-2533","program":"pota","name":"Парк Пруды Natural Monument","coordinates":[37.0619,58.4018]},{"code":"R3/CF-007","program":"sota","name":"R3/CF-007","coordinates":[37.19,58.3325]}]}

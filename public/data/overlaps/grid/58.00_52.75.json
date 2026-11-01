@@ -1,1 +1,1 @@
-{"lat":58,"lon":52.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1201","program":"wwff","name":"Adamskiy, Zakaznik","coordinates":[52.9,58.12]}]}
+{"lat":58,"lon":52.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7485","program":"pota","name":"Адамский State Natural Reserve","coordinates":[52.8967,58.1165]},{"code":"RU-7511","program":"pota","name":"Качкашур-II Natural Monument","coordinates":[52.8198,58.1163]},{"code":"RFF-1201","program":"wwff","name":"Adamskiy, Zakaznik","coordinates":[52.9,58.12]}]}

@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":92,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1237","program":"wwff","name":"Khabykskiy, Zakaznik","coordinates":[92.17,54.48]}]}
+{"lat":54.25,"lon":92,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3370","program":"pota","name":"Хабыкский State Natural Reserve","coordinates":[92.2027,54.4793]},{"code":"RFF-1237","program":"wwff","name":"Khabykskiy, Zakaznik","coordinates":[92.17,54.48]}]}

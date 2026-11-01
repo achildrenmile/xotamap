@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":85,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0796","program":"wwff","name":"Zalesovskiy, Zakaznik","coordinates":[85.155,54.34]}]}
+{"lat":54.25,"lon":85,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4159","program":"pota","name":"Залесовский State Natural Reserve","coordinates":[85.1531,54.3365]},{"code":"RFF-0796","program":"wwff","name":"Zalesovskiy, Zakaznik","coordinates":[85.155,54.34]}]}

@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":93.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1406","program":"wwff","name":"Bolshemurtinskiy, Zakaznik","coordinates":[93.28,56.8]}]}
+{"lat":56.75,"lon":93.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3337","program":"pota","name":"Большемуртинский State Natural Reserve","coordinates":[93.2782,56.8089]},{"code":"RFF-1406","program":"wwff","name":"Bolshemurtinskiy, Zakaznik","coordinates":[93.28,56.8]}]}

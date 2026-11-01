@@ -1,1 +1,1 @@
-{"lat":48,"lon":22.25,"programs":["wwff"],"count":1,"references":[{"code":"HAFF-0011","program":"wwff","name":"Szatmar-beregi TK","coordinates":[22.46457,48.09998]}]}
+{"lat":48,"lon":22.25,"programs":["tota","wwff"],"count":3,"references":[{"code":"HAR-1607","program":"tota","name":"Bakcsi-tagi-kilátó","coordinates":[22.384067,48.122667]},{"code":"HAR-1608","program":"tota","name":"Kalodási-kilátó","coordinates":[22.411133,48.107648]},{"code":"HAFF-0011","program":"wwff","name":"Szatmar-beregi TK","coordinates":[22.46457,48.09998]}]}

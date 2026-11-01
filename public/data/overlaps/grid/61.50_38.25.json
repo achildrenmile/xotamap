@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":38.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1235","program":"wwff","name":"Lekshmokh, Zakaznik","coordinates":[38.37,61.68]}]}
+{"lat":61.5,"lon":38.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4068","program":"pota","name":"Лекшмох State Natural Reserve","coordinates":[38.3636,61.6795]},{"code":"RFF-1235","program":"wwff","name":"Lekshmokh, Zakaznik","coordinates":[38.37,61.68]}]}

@@ -1,1 +1,1 @@
-{"lat":54,"lon":31.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0476","program":"wwff","name":"Khislavichsky reserve","coordinates":[31.945,54.2042]}]}
+{"lat":54,"lon":31.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7843","program":"pota","name":"Хиславичский State Natural Reserve","coordinates":[31.9516,54.2101]},{"code":"RFF-0476","program":"wwff","name":"Khislavichsky reserve","coordinates":[31.945,54.2042]}]}

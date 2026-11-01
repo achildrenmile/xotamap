@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":42,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0231","program":"wwff","name":"Shelakovo","coordinates":[42.17274,57.60399]}]}
+{"lat":57.5,"lon":42,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4608","program":"pota","name":"Местечко Соколово Natural Monument","coordinates":[42.0501,57.5001]},{"code":"RFF-0231","program":"wwff","name":"Shelakovo","coordinates":[42.17274,57.60399]}]}

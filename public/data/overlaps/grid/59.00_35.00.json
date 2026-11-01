@@ -1,1 +1,1 @@
-{"lat":59,"lon":35,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1294","program":"wwff","name":"Chagodeshchenskiy, Zakaznik","coordinates":[35.235,59.24]}]}
+{"lat":59,"lon":35,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5242","program":"pota","name":"Чагодощенский State Natural Reserve","coordinates":[35.2371,59.2375]},{"code":"RFF-1294","program":"wwff","name":"Chagodeshchenskiy, Zakaznik","coordinates":[35.235,59.24]}]}

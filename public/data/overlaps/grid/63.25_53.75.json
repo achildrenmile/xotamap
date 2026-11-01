@@ -1,1 +1,1 @@
-{"lat":63.25,"lon":53.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0826","program":"wwff","name":"Sed'yuskiy, Zakaznik","coordinates":[53.855,63.31]}]}
+{"lat":63.25,"lon":53.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-5028","program":"pota","name":"Седьюский State Natural Reserve","coordinates":[53.8553,63.3148]},{"code":"RU-5221","program":"pota","name":"Риф Седью Natural Monument","coordinates":[53.9725,63.4073]},{"code":"RFF-0826","program":"wwff","name":"Sed'yuskiy, Zakaznik","coordinates":[53.855,63.31]}]}

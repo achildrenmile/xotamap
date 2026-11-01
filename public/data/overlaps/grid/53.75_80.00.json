@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":80,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0763","program":"wwff","name":"Pankrushikhinskiy, Zakaznik","coordinates":[80.2,53.83]}]}
+{"lat":53.75,"lon":80,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4167","program":"pota","name":"Панкрушихинский State Natural Reserve","coordinates":[80.2045,53.8287]},{"code":"RFF-0763","program":"wwff","name":"Pankrushikhinskiy, Zakaznik","coordinates":[80.2,53.83]}]}

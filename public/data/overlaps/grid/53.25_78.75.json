@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":78.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0898","program":"wwff","name":"Ondatrovyi, Zakaznik","coordinates":[78.855,53.453]}]}
+{"lat":53.25,"lon":78.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4182","program":"pota","name":"Пеликаний (Ондатровый) State Natural Reserve","coordinates":[78.8565,53.4517]},{"code":"RFF-0898","program":"wwff","name":"Ondatrovyi, Zakaznik","coordinates":[78.855,53.453]}]}

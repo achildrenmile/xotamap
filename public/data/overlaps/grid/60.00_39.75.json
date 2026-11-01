@@ -1,1 +1,1 @@
-{"lat":60,"lon":39.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1359","program":"wwff","name":"Nizhne-Kubenskiy, Zakaznik","coordinates":[39.9,60.06]}]}
+{"lat":60,"lon":39.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5229","program":"pota","name":"Нижне-Кубенский State Natural Reserve","coordinates":[39.9049,60.0628]},{"code":"RFF-1359","program":"wwff","name":"Nizhne-Kubenskiy, Zakaznik","coordinates":[39.9,60.06]}]}

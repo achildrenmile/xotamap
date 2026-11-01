@@ -1,1 +1,1 @@
-{"lat":53.75,"lon":39,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0990","program":"wwff","name":"Churikovskiy, Zakaznik","coordinates":[39.22,53.98]}]}
+{"lat":53.75,"lon":39,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7169","program":"pota","name":"Чуриковский State Natural Reserve","coordinates":[39.2192,53.9878]},{"code":"RU-7291","program":"pota","name":"Болото без названия (Клюквенное) State Natural Reserve","coordinates":[39.0443,53.9143]},{"code":"RFF-0990","program":"wwff","name":"Churikovskiy, Zakaznik","coordinates":[39.22,53.98]}]}

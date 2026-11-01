@@ -1,1 +1,1 @@
-{"lat":63,"lon":39.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0523","program":"wwff","name":"Plesetskiy zakaznik","coordinates":[39.588,63.145]}]}
+{"lat":63,"lon":39.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4070","program":"pota","name":"Плесецкий State Natural Reserve","coordinates":[39.5871,63.1515]},{"code":"RFF-0523","program":"wwff","name":"Plesetskiy zakaznik","coordinates":[39.588,63.145]}]}

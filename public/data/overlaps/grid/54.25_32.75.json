@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":32.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0469","program":"wwff","name":"Yelninsky reserve","coordinates":[32.905,54.441]}]}
+{"lat":54.25,"lon":32.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7840","program":"pota","name":"Ельнинский State Natural Reserve","coordinates":[32.8945,54.4421]},{"code":"RU-7865","program":"pota","name":"Исток р. Остер Natural Monument","coordinates":[32.9403,54.3137]},{"code":"RFF-0469","program":"wwff","name":"Yelninsky reserve","coordinates":[32.905,54.441]}]}

@@ -1,1 +1,1 @@
-{"lat":49,"lon":46.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0181","program":"wwff","name":"El'ton","coordinates":[46.62598,49.16375]}]}
+{"lat":49,"lon":46.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3063","program":"pota","name":"Эльтонский Nature Park","coordinates":[46.6673,49.1755]},{"code":"RFF-0181","program":"wwff","name":"El'ton","coordinates":[46.62598,49.16375]}]}

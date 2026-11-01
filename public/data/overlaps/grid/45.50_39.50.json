@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":39.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1360","program":"wwff","name":"Novo-Berezanskiy, Zakaznik","coordinates":[39.52,45.68]}]}
+{"lat":45.5,"lon":39.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3455","program":"pota","name":"Ново-Березанский State Natural Reserve","coordinates":[39.5214,45.6877]},{"code":"RFF-1360","program":"wwff","name":"Novo-Berezanskiy, Zakaznik","coordinates":[39.52,45.68]}]}

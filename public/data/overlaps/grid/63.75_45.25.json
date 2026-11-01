@@ -1,1 +1,1 @@
-{"lat":63.75,"lon":45.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1239","program":"wwff","name":"Shungerovskiy, Zakaznik","coordinates":[45.38,63.8]}]}
+{"lat":63.75,"lon":45.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4062","program":"pota","name":"Веркольский State Natural Reserve","coordinates":[45.3645,63.8101]},{"code":"RFF-1239","program":"wwff","name":"Shungerovskiy, Zakaznik","coordinates":[45.38,63.8]}]}

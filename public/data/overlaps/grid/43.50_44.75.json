@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":44.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0640","program":"wwff","name":"Galjugaevkiy, zakaznik","coordinates":[44.88,43.67]}]}
+{"lat":43.5,"lon":44.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-6596","program":"pota","name":"Дуб Санчинского Natural Monument","coordinates":[44.8229,43.6986]},{"code":"RU-7757","program":"pota","name":"Галюгаевский State Natural Reserve","coordinates":[44.8802,43.6722]},{"code":"RFF-0640","program":"wwff","name":"Galjugaevkiy, zakaznik","coordinates":[44.88,43.67]}]}

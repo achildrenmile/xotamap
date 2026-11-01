@@ -1,1 +1,1 @@
-{"lat":54,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1014","program":"wwff","name":"Shelukhovskiy, Zakaznik","coordinates":[40.47,54.16]}]}
+{"lat":54,"lon":40.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7165","program":"pota","name":"Шелуховский State Natural Reserve","coordinates":[40.468,54.1584]},{"code":"RFF-1014","program":"wwff","name":"Shelukhovskiy, Zakaznik","coordinates":[40.47,54.16]}]}

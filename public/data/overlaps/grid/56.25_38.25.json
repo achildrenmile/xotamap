@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":38.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1139","program":"wwff","name":"Molokchinskiy, Zakaznik","coordinates":[38.41,56.39]}]}
+{"lat":56.25,"lon":38.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3219","program":"pota","name":"Молокчинский ботанико-энтомологический заказник State Natural Reserve","coordinates":[38.413,56.393]},{"code":"RFF-1139","program":"wwff","name":"Molokchinskiy, Zakaznik","coordinates":[38.41,56.39]}]}

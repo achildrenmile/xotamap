@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":41.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0602","program":"wwff","name":"Solenoe ozero I, zakaznik","coordinates":[41.68,45.682]}]}
+{"lat":45.5,"lon":41.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7753","program":"pota","name":"Соленое озеро State Natural Reserve","coordinates":[41.6794,45.6826]},{"code":"RU-7774","program":"pota","name":"Озеро Птичье Natural Monument","coordinates":[41.7066,45.5899]},{"code":"RFF-0602","program":"wwff","name":"Solenoe ozero I, zakaznik","coordinates":[41.68,45.682]}]}

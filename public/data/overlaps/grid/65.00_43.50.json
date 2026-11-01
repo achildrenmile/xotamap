@@ -1,1 +1,1 @@
-{"lat":65,"lon":43.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0916","program":"wwff","name":"Kuloiskiy, Zakaznik","coordinates":[43.5,65.054]}]}
+{"lat":65,"lon":43.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4066","program":"pota","name":"Кулойский State Natural Reserve","coordinates":[43.509,65.0521]},{"code":"RFF-0916","program":"wwff","name":"Kuloiskiy, Zakaznik","coordinates":[43.5,65.054]}]}

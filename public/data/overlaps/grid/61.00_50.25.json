@@ -1,1 +1,1 @@
-{"lat":61,"lon":50.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0887","program":"wwff","name":"Kadzheromskiy, Zakaznik","coordinates":[50.375,61.135]}]}
+{"lat":61,"lon":50.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-5157","program":"pota","name":"Каджеромский State Natural Reserve","coordinates":[50.3736,61.1355]},{"code":"RU-5199","program":"pota","name":"Гарсибский Natural Monument","coordinates":[50.258,61.0183]},{"code":"RFF-0887","program":"wwff","name":"Kadzheromskiy, Zakaznik","coordinates":[50.375,61.135]}]}

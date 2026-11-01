@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":40,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0525","program":"wwff","name":"Shultusskiy zakaznik","coordinates":[40.018,61.689]}]}
+{"lat":61.5,"lon":40,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4080","program":"pota","name":"Шултусский State Natural Reserve","coordinates":[40.0148,61.6957]},{"code":"RFF-0525","program":"wwff","name":"Shultusskiy zakaznik","coordinates":[40.018,61.689]}]}

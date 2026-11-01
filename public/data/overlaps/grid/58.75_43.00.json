@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":43,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1324","program":"wwff","name":"Verkhoviya reki Vigi, Zakaznik","coordinates":[43.2,58.83]}]}
+{"lat":58.75,"lon":43,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-2749","program":"pota","name":"Верховья р. Виги State Natural Reserve","coordinates":[43.2018,58.83]},{"code":"RU-2759","program":"pota","name":"Болото Токовое State Natural Reserve","coordinates":[43.0217,58.9014]},{"code":"RFF-1324","program":"wwff","name":"Verkhoviya reki Vigi, Zakaznik","coordinates":[43.2,58.83]}]}

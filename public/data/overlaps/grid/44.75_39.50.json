@@ -1,1 +1,1 @@
-{"lat":44.75,"lon":39.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1190","program":"wwff","name":"Belorechenskiy, Zakaznik","coordinates":[39.69,44.75]}]}
+{"lat":44.75,"lon":39.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3460","program":"pota","name":"Белореченский State Natural Reserve","coordinates":[39.7161,44.7624]},{"code":"RFF-1190","program":"wwff","name":"Belorechenskiy, Zakaznik","coordinates":[39.69,44.75]}]}

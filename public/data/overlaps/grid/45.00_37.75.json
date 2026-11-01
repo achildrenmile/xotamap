@@ -1,1 +1,1 @@
-{"lat":45,"lon":37.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1400","program":"wwff","name":"Krymskiy, Zakaznik","coordinates":[37.98,45.09]}]}
+{"lat":45,"lon":37.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-3456","program":"pota","name":"Крымский State Natural Reserve","coordinates":[37.9644,45.0987]},{"code":"RU-3518","program":"pota","name":"Массив крымской сосны Natural Monument","coordinates":[37.7707,45.0132]},{"code":"RFF-1400","program":"wwff","name":"Krymskiy, Zakaznik","coordinates":[37.98,45.09]}]}

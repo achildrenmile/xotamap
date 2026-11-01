@@ -1,1 +1,1 @@
-{"lat":55,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0314","program":"wwff","name":"Mescherskiy","coordinates":[40.41046,55.16299]}]}
+{"lat":55,"lon":40.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7286","program":"pota","name":"Озеро Селезневское Natural Monument","coordinates":[40.2587,55.1438]},{"code":"RU-7289","program":"pota","name":"Болото Озерное State Natural Reserve","coordinates":[40.2527,55.1402]},{"code":"RFF-0314","program":"wwff","name":"Mescherskiy","coordinates":[40.41046,55.16299]}]}

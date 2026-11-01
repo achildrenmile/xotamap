@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":49,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1232","program":"wwff","name":"Yarenskiy, Zakaznik","coordinates":[49.02,62.54]}]}
+{"lat":62.5,"lon":49,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4064","program":"pota","name":"Яренский State Natural Reserve","coordinates":[49.0168,62.5386]},{"code":"RFF-1232","program":"wwff","name":"Yarenskiy, Zakaznik","coordinates":[49.02,62.54]}]}

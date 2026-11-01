@@ -1,1 +1,1 @@
-{"lat":-42.5,"lon":173.75,"programs":["sota"],"count":1,"references":[{"code":"ZL3/CB-817","program":"sota","name":"Rangiaeta","coordinates":[173.7937,-42.2527]}]}
+{"lat":-42.5,"lon":173.75,"programs":["pota","sota"],"count":2,"references":[{"code":"NZ-0928","program":"pota","name":"Te Whata Kai O Rakhouia i Te Tai O Marokura - Kaikoura Marine Reserve","coordinates":[173.811,-42.434]},{"code":"ZL3/CB-817","program":"sota","name":"Rangiaeta","coordinates":[173.7937,-42.2527]}]}

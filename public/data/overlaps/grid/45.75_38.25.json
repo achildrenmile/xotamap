@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":38.25,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 174","program":"arlhs","name":"Sazalnikskiy","coordinates":[38.47000122,45.86999893]}]}
+{"lat":45.75,"lon":38.25,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 174","program":"arlhs","name":"Sazalnikskiy","coordinates":[38.47000122,45.86999893]},{"code":"RU-3463","program":"pota","name":"Ахтарские соленые озера State Natural Reserve","coordinates":[38.2627,45.9302]}]}

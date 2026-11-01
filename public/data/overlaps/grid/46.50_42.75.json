@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":42.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0079","program":"wwff","name":"Rostovskiy","coordinates":[42.88994,46.52225]}]}
+{"lat":46.5,"lon":42.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7360","program":"pota","name":"Источник Кислый Protected Area","coordinates":[42.9537,46.5491]},{"code":"RFF-0079","program":"wwff","name":"Rostovskiy","coordinates":[42.88994,46.52225]}]}

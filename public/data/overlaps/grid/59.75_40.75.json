@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":40.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0529","program":"wwff","name":"Ust-Retskiy zakaznik","coordinates":[40.88,59.94]}]}
+{"lat":59.75,"lon":40.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5226","program":"pota","name":"Усть-Рецкий State Natural Reserve","coordinates":[40.8436,59.9459]},{"code":"RFF-0529","program":"wwff","name":"Ust-Retskiy zakaznik","coordinates":[40.88,59.94]}]}

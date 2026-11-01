@@ -1,1 +1,1 @@
-{"lat":48,"lon":42.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0184","program":"wwff","name":"Tsimlyanskiye peski","coordinates":[42.70386,48.05284]}]}
+{"lat":48,"lon":42.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3064","program":"pota","name":"Цимлянские пески Nature Park","coordinates":[42.7019,48.0307]},{"code":"RFF-0184","program":"wwff","name":"Tsimlyanskiye peski","coordinates":[42.70386,48.05284]}]}

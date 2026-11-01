@@ -1,1 +1,1 @@
-{"lat":65,"lon":46.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0921","program":"wwff","name":"Onskiy, Zakaznik","coordinates":[46.635,65.007]}]}
+{"lat":65,"lon":46.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4071","program":"pota","name":"Онский State Natural Reserve","coordinates":[46.652,65.0057]},{"code":"RFF-0921","program":"wwff","name":"Onskiy, Zakaznik","coordinates":[46.635,65.007]}]}

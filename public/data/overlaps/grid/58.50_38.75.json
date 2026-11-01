@@ -1,1 +1,1 @@
-{"lat":58.5,"lon":38.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1019","program":"wwff","name":"Kamchatskiy, Zakaznik","coordinates":[38.84,58.63]}]}
+{"lat":58.5,"lon":38.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2784","program":"pota","name":"Камчатский State Natural Reserve","coordinates":[38.8368,58.6341]},{"code":"RFF-1019","program":"wwff","name":"Kamchatskiy, Zakaznik","coordinates":[38.84,58.63]}]}

@@ -1,1 +1,1 @@
-{"lat":60.5,"lon":41.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0531","program":"wwff","name":"Listvennichny Bor, zakaznik","coordinates":[41.804,60.582]}]}
+{"lat":60.5,"lon":41.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5262","program":"pota","name":"Лиственничный бор State Natural Reserve","coordinates":[41.8025,60.5816]},{"code":"RFF-0531","program":"wwff","name":"Listvennichny Bor, zakaznik","coordinates":[41.804,60.582]}]}

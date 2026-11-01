@@ -1,1 +1,1 @@
-{"lat":49.5,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1329","program":"wwff","name":"Stepnoi, Zakaznik","coordinates":[40.3,49.65]}]}
+{"lat":49.5,"lon":40.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-5389","program":"pota","name":"Степной State Natural Reserve","coordinates":[40.2989,49.6537]},{"code":"RU-5441","program":"pota","name":"Хрипунская степь Natural Monument","coordinates":[40.4048,49.5878]},{"code":"RFF-1329","program":"wwff","name":"Stepnoi, Zakaznik","coordinates":[40.3,49.65]}]}

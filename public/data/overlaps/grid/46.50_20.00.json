@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":20,"programs":["wwff"],"count":1,"references":[{"code":"HAFF-0036","program":"wwff","name":"Pusztaszeri TK","coordinates":[20.08787,46.54804]}]}
+{"lat":46.5,"lon":20,"programs":["tota","wwff"],"count":2,"references":[{"code":"HAR-0604","program":"tota","name":"Rév-kilátó","coordinates":[20.184367,46.715833]},{"code":"HAFF-0036","program":"wwff","name":"Pusztaszeri TK","coordinates":[20.08787,46.54804]}]}

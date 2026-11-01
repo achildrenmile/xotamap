@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":91.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1252","program":"wwff","name":"Khabykskiy, Zakaznik","coordinates":[91.66,54.25]}]}
+{"lat":54.25,"lon":91.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3348","program":"pota","name":"Краснотуранский Бор State Natural Reserve","coordinates":[91.6575,54.2512]},{"code":"RFF-1252","program":"wwff","name":"Khabykskiy, Zakaznik","coordinates":[91.66,54.25]}]}

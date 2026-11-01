@@ -1,1 +1,1 @@
-{"lat":58,"lon":40.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0967","program":"wwff","name":"Sotinskiy, Zakaznik","coordinates":[40.7,58.04]}]}
+{"lat":58,"lon":40.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-2779","program":"pota","name":"Сотинский State Natural Reserve","coordinates":[40.6936,58.0372]},{"code":"RU-2858","program":"pota","name":"Озеро в истоке р. Прости Natural Monument","coordinates":[40.7436,58.018]},{"code":"RFF-0967","program":"wwff","name":"Sotinskiy, Zakaznik","coordinates":[40.7,58.04]}]}

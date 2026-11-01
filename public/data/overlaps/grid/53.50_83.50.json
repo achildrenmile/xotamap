@@ -1,1 +1,1 @@
-{"lat":53.5,"lon":83.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0913","program":"wwff","name":"Kislukhinskiy, Zakaznik","coordinates":[83.555,53.535]}]}
+{"lat":53.5,"lon":83.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4156","program":"pota","name":"Кислухинский State Natural Reserve","coordinates":[83.5519,53.5377]},{"code":"RFF-0913","program":"wwff","name":"Kislukhinskiy, Zakaznik","coordinates":[83.555,53.535]}]}

@@ -1,1 +1,1 @@
-{"lat":44,"lon":40.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1187","program":"wwff","name":"Psebayskiy, Zakaznik","coordinates":[40.57,44.02]}]}
+{"lat":44,"lon":40.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-3452","program":"pota","name":"Псебайский State Natural Reserve","coordinates":[40.5754,44.0246]},{"code":"RU-3531","program":"pota","name":"Урочище Дольмены Natural Monument","coordinates":[40.5328,44.2373]},{"code":"RFF-1187","program":"wwff","name":"Psebayskiy, Zakaznik","coordinates":[40.57,44.02]}]}

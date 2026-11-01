@@ -1,1 +1,1 @@
-{"lat":57,"lon":39.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0992","program":"wwff","name":"Gavrilov-Yamskiy, Zakaznik","coordinates":[39.9,57.21]}]}
+{"lat":57,"lon":39.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-2782","program":"pota","name":"Гаврилов-Ямский State Natural Reserve","coordinates":[39.8942,57.212]},{"code":"RU-2901","program":"pota","name":"Болото Комариха Natural Monument","coordinates":[39.9939,57.2383]},{"code":"RFF-0992","program":"wwff","name":"Gavrilov-Yamskiy, Zakaznik","coordinates":[39.9,57.21]}]}

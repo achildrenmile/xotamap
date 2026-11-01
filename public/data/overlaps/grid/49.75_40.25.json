@@ -1,1 +1,1 @@
-{"lat":49.75,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1386","program":"wwff","name":"Lipchanskaya Gora, Zakaznik","coordinates":[40.39,49.75]}]}
+{"lat":49.75,"lon":40.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5388","program":"pota","name":"Липчанская гора State Natural Reserve","coordinates":[40.385,49.7502]},{"code":"RFF-1386","program":"wwff","name":"Lipchanskaya Gora, Zakaznik","coordinates":[40.39,49.75]}]}

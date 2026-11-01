@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":45.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0717","program":"wwff","name":"Krasnyi mar, pamyatnik prirody","coordinates":[45.274,52.628]}]}
+{"lat":52.5,"lon":45.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-5725","program":"pota","name":"Красный мар Natural Monument","coordinates":[45.2778,52.6296]},{"code":"RU-5757","program":"pota","name":"Каржимантские склоны Natural Monument","coordinates":[45.4849,52.7381]},{"code":"RFF-0717","program":"wwff","name":"Krasnyi mar, pamyatnik prirody","coordinates":[45.274,52.628]}]}

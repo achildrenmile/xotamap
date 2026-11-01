@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":42,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0818","program":"wwff","name":"Navashinskiy, Zakaznik","coordinates":[42.142,55.508]}]}
+{"lat":55.5,"lon":42,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4618","program":"pota","name":"Навашинский State Natural Reserve","coordinates":[42.1706,55.5863]},{"code":"RFF-0818","program":"wwff","name":"Navashinskiy, Zakaznik","coordinates":[42.142,55.508]}]}

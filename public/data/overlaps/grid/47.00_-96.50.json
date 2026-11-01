@@ -1,1 +1,1 @@
-{"lat":47,"lon":-96.5,"programs":["pota"],"count":1,"references":[{"code":"US-13006","program":"pota","name":"Flowing Prairie Wildlife Management Area","coordinates":[-96.4784,47.0098]}]}
+{"lat":47,"lon":-96.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-13006","program":"pota","name":"Flowing Prairie Wildlife Management Area","coordinates":[-96.4784,47.0098]},{"code":"KFF-7561","program":"wwff","name":"Flowing Prairie","coordinates":[-96.4784,47.0098]}]}

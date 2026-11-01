@@ -1,1 +1,1 @@
-{"lat":44.25,"lon":45,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0604","program":"wwff","name":"Bazhigan, zakaznik","coordinates":[45.24,44.455]}]}
+{"lat":44.25,"lon":45,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-7743","program":"pota","name":"Восточный State Natural Reserve","coordinates":[45.1768,44.4879]},{"code":"RU-7806","program":"pota","name":"Бажиган State Natural Reserve","coordinates":[45.2403,44.4551]},{"code":"RFF-0604","program":"wwff","name":"Bazhigan, zakaznik","coordinates":[45.24,44.455]}]}

@@ -1,1 +1,1 @@
-{"lat":61.5,"lon":50.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0879","program":"wwff","name":"Vazh'el'yu, Zakaznik","coordinates":[50.67,61.645]}]}
+{"lat":61.5,"lon":50.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-5072","program":"pota","name":"Важъелью State Natural Reserve","coordinates":[50.6681,61.6497]},{"code":"RU-5152","program":"pota","name":"Сыктывкарский State Natural Reserve","coordinates":[50.6461,61.5547]},{"code":"RFF-0879","program":"wwff","name":"Vazh'el'yu, Zakaznik","coordinates":[50.67,61.645]}]}

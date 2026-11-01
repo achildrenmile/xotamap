@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":43,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0806","program":"wwff","name":"Mukhtolovskiy, Zakaznik","coordinates":[43.015,55.435]}]}
+{"lat":55.25,"lon":43,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4867","program":"pota","name":"Озеро Нуксинское (Озеро Нуксенское) Natural Monument","coordinates":[43.2042,55.4945]},{"code":"RFF-0806","program":"wwff","name":"Mukhtolovskiy, Zakaznik","coordinates":[43.015,55.435]}]}

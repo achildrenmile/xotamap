@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":44.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1018","program":"wwff","name":"Kologrivskaya poima, Zakaznik","coordinates":[44.3,58.8]}]}
+{"lat":58.75,"lon":44.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2767","program":"pota","name":"Кологривская пойма State Natural Reserve","coordinates":[44.3138,58.8088]},{"code":"RFF-1018","program":"wwff","name":"Kologrivskaya poima, Zakaznik","coordinates":[44.3,58.8]}]}

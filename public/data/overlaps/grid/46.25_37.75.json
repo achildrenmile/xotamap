@@ -1,1 +1,1 @@
-{"lat":46.25,"lon":37.75,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 322","program":"arlhs","name":"Kamyshevatskaya (Sea of Azov)","coordinates":[37.91999817,46.40000153]}]}
+{"lat":46.25,"lon":37.75,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 322","program":"arlhs","name":"Kamyshevatskaya (Sea of Azov)","coordinates":[37.91999817,46.40000153]},{"code":"RU-3472","program":"pota","name":"Коса Камышеватская Natural Monument","coordinates":[37.9786,46.3886]}]}

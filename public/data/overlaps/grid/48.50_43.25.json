@@ -1,1 +1,1 @@
-{"lat":48.5,"lon":43.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1279","program":"wwff","name":"Irisovyi, Pamyatnik Prirody","coordinates":[43.47,48.69]}]}
+{"lat":48.5,"lon":43.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3085","program":"pota","name":"Ирисовый Natural Monument","coordinates":[43.4703,48.6866]},{"code":"RFF-1279","program":"wwff","name":"Irisovyi, Pamyatnik Prirody","coordinates":[43.47,48.69]}]}

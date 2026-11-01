@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":49.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0023","program":"wwff","name":"Volzhsko-Kamskiy","coordinates":[49.27368,55.30179]}]}
+{"lat":55.25,"lon":49.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-6259","program":"pota","name":"Устье реки Меши State Natural Reserve","coordinates":[49.3897,55.3656]},{"code":"RFF-0023","program":"wwff","name":"Volzhsko-Kamskiy","coordinates":[49.27368,55.30179]}]}

@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":35.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0956","program":"wwff","name":"Istoki r. Inoch', Zakaznik","coordinates":[35.25,55.864]}]}
+{"lat":55.75,"lon":35.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3164","program":"pota","name":"Истоки р. Иночи State Natural Reserve","coordinates":[35.2522,55.8663]},{"code":"RFF-0956","program":"wwff","name":"Istoki r. Inoch', Zakaznik","coordinates":[35.25,55.864]}]}

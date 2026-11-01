@@ -1,1 +1,1 @@
-{"lat":58,"lon":37.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1021","program":"wwff","name":"Parfeniyevskiy, Zakaznik","coordinates":[37.65,58.02]}]}
+{"lat":58,"lon":37.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2783","program":"pota","name":"Парфеньевский State Natural Reserve","coordinates":[37.6547,58.0188]},{"code":"RFF-1021","program":"wwff","name":"Parfeniyevskiy, Zakaznik","coordinates":[37.65,58.02]}]}

@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":42,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1247","program":"wwff","name":"Chernichkin Sad, Pamyatnik Prirody","coordinates":[42,50.77]}]}
+{"lat":50.75,"lon":42,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3093","program":"pota","name":"Черничкин сад Natural Monument","coordinates":[42.0039,50.7721]},{"code":"RFF-1247","program":"wwff","name":"Chernichkin Sad, Pamyatnik Prirody","coordinates":[42,50.77]}]}

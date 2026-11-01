@@ -1,1 +1,1 @@
-{"lat":59,"lon":45,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1348","program":"wwff","name":"Michug-Konyugskiy, Zakaznik","coordinates":[45.1,59.12]}]}
+{"lat":59,"lon":45,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2726","program":"pota","name":"Мичуг-Конюгский State Natural Reserve","coordinates":[45.1117,59.1214]},{"code":"RFF-1348","program":"wwff","name":"Michug-Konyugskiy, Zakaznik","coordinates":[45.1,59.12]}]}

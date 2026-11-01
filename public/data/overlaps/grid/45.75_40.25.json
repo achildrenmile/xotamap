@@ -1,1 +1,1 @@
-{"lat":45.75,"lon":40.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1319","program":"wwff","name":"Tikhoretskiy, Zakaznik","coordinates":[40.38,45.92]}]}
+{"lat":45.75,"lon":40.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3457","program":"pota","name":"Тихорецкий State Natural Reserve","coordinates":[40.3747,45.9237]},{"code":"RFF-1319","program":"wwff","name":"Tikhoretskiy, Zakaznik","coordinates":[40.38,45.92]}]}

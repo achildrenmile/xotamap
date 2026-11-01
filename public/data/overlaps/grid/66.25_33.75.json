@@ -1,1 +1,1 @@
-{"lat":66.25,"lon":33.75,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 242","program":"arlhs","name":"Kemluda (White Sea)","coordinates":[33.84999847,66.41999817]}]}
+{"lat":66.25,"lon":33.75,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 242","program":"arlhs","name":"Kemluda (White Sea)","coordinates":[33.84999847,66.41999817]},{"code":"RU-6779","program":"pota","name":"Керетский State Natural Reserve","coordinates":[33.8084,66.3037]}]}

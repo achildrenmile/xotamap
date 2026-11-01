@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":45,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0878","program":"wwff","name":"Varnavinskiy, Zakaznik","coordinates":[45.13,57.474]}]}
+{"lat":57.25,"lon":45,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-4614","program":"pota","name":"Варнавинский State Natural Reserve","coordinates":[45.1229,57.4524]},{"code":"RU-4725","program":"pota","name":"Болото Костыль Natural Monument","coordinates":[45.1108,57.3475]},{"code":"RFF-0878","program":"wwff","name":"Varnavinskiy, Zakaznik","coordinates":[45.13,57.474]}]}

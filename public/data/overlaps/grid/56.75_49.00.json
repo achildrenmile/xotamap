@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":49,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0897","program":"wwff","name":"Gornoye Zadel'e, Zakaznik","coordinates":[49.065,56.85]}]}
+{"lat":56.75,"lon":49,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-6725","program":"pota","name":"Горное Заделье State Natural Reserve","coordinates":[49.0634,56.8518]},{"code":"RU-6747","program":"pota","name":"Эталонные насаждения ели Natural Monument","coordinates":[49.0117,56.7624]},{"code":"RFF-0897","program":"wwff","name":"Gornoye Zadel'e, Zakaznik","coordinates":[49.065,56.85]}]}

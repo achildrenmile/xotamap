@@ -1,1 +1,1 @@
-{"lat":55,"lon":33.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0473","program":"wwff","name":"Semlevskoye Lake","coordinates":[33.9414,55.0355]}]}
+{"lat":55,"lon":33.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-7895","program":"pota","name":"Озеро Семлёвское (Стоячее) Natural Monument","coordinates":[33.9419,55.0354]},{"code":"RFF-0473","program":"wwff","name":"Semlevskoye Lake","coordinates":[33.9414,55.0355]}]}

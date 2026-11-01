@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":42.25,"programs":["sota"],"count":1,"references":[{"code":"R3/CF-003","program":"sota","name":"Sondoba","coordinates":[42.3236,58.8076]}]}
+{"lat":58.75,"lon":42.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-2745","program":"pota","name":"Иваньковское болото State Natural Reserve","coordinates":[42.4519,58.9761]},{"code":"R3/CF-003","program":"sota","name":"Sondoba","coordinates":[42.3236,58.8076]}]}

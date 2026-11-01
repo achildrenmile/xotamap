@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":42.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1010","program":"wwff","name":"Gorokhovetskiye bolota, Pamyatnik prirody","coordinates":[42.6,56.25]}]}
+{"lat":56.25,"lon":42.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2655","program":"pota","name":"Гороховецкие болота Natural Monument","coordinates":[42.6004,56.2542]},{"code":"RFF-1010","program":"wwff","name":"Gorokhovetskiye bolota, Pamyatnik prirody","coordinates":[42.6,56.25]}]}

@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":90.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1309","program":"wwff","name":"Zhura, Zakaznik","coordinates":[90.95,55.3]}]}
+{"lat":55.25,"lon":90.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3355","program":"pota","name":"Жура State Natural Reserve","coordinates":[90.9564,55.3137]},{"code":"RFF-1309","program":"wwff","name":"Zhura, Zakaznik","coordinates":[90.95,55.3]}]}

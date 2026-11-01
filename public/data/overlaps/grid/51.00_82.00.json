@@ -1,1 +1,1 @@
-{"lat":51,"lon":82,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0850","program":"wwff","name":"Liflyandskiy (Gilevskiy), Zakaznik","coordinates":[82,51.12]}]}
+{"lat":51,"lon":82,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4171","program":"pota","name":"Лифляндский (Гилевский) State Natural Reserve","coordinates":[82.0001,51.121]},{"code":"RFF-0850","program":"wwff","name":"Liflyandskiy (Gilevskiy), Zakaznik","coordinates":[82,51.12]}]}

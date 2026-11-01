@@ -1,1 +1,1 @@
-{"lat":-35.25,"lon":174,"programs":["sota"],"count":1,"references":[{"code":"ZL1/NL-077","program":"sota","name":"Mataka","coordinates":[174.115,-35.1611]}]}
+{"lat":-35.25,"lon":174,"programs":["pota","sota"],"count":2,"references":[{"code":"NZ-0925","program":"pota","name":"Te Pewharangi (Bay of Islands) Marine Mammal Sanctuary","coordinates":[174.154,-35.22]},{"code":"ZL1/NL-077","program":"sota","name":"Mataka","coordinates":[174.115,-35.1611]}]}

@@ -1,1 +1,1 @@
-{"lat":45,"lon":37,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1300","program":"wwff","name":"Anapskaya Peresyp, Prirodniy Park","coordinates":[37.11,45.11]}]}
+{"lat":45,"lon":37,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-3454","program":"pota","name":"Анапская пересыпь Nature Park","coordinates":[37.0814,45.1062]},{"code":"RFF-1300","program":"wwff","name":"Anapskaya Peresyp, Prirodniy Park","coordinates":[37.11,45.11]}]}

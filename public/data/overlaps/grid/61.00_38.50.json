@@ -1,1 +1,1 @@
-{"lat":61,"lon":38.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0526","program":"wwff","name":"Lachskiy zakaznik","coordinates":[38.6285,61.217]}]}
+{"lat":61,"lon":38.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-4081","program":"pota","name":"Лачский State Natural Reserve","coordinates":[38.6413,61.2224]},{"code":"RU-4151","program":"pota","name":"Кедровые посадки у д. Никифорово Natural Monument","coordinates":[38.5874,61.1779]},{"code":"RFF-0526","program":"wwff","name":"Lachskiy zakaznik","coordinates":[38.6285,61.217]}]}

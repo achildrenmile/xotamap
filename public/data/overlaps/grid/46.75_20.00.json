@@ -1,1 +1,1 @@
-{"lat":46.75,"lon":20,"programs":["pota"],"count":1,"references":[{"code":"HU-0042","program":"pota","name":"Bokros puszta National Reserve","coordinates":[20.0659,46.766]}]}
+{"lat":46.75,"lon":20,"programs":["pota","tota"],"count":3,"references":[{"code":"HU-0042","program":"pota","name":"Bokros puszta National Reserve","coordinates":[20.0659,46.766]},{"code":"HAR-0203","program":"tota","name":"Tiszakécskei kilátó","coordinates":[20.110617,46.935467]},{"code":"HAR-0606","program":"tota","name":"Mámai-réti kilátó","coordinates":[20.113617,46.783467]}]}

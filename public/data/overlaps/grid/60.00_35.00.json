@@ -1,1 +1,1 @@
-{"lat":60,"lon":35,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1345","program":"wwff","name":"Koloshemskiy Les, Zakaznik","coordinates":[35.21,60.23]}]}
+{"lat":60,"lon":35,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5273","program":"pota","name":"Колошемский лес State Natural Reserve","coordinates":[35.2086,60.2355]},{"code":"RFF-1345","program":"wwff","name":"Koloshemskiy Les, Zakaznik","coordinates":[35.21,60.23]}]}

@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":40.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1068","program":"wwff","name":"Naumovskiy, Zakaznik","coordinates":[40.87,58.38]}]}
+{"lat":58.25,"lon":40.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-2781","program":"pota","name":"Наумовский State Natural Reserve","coordinates":[40.8604,58.3762]},{"code":"RU-2800","program":"pota","name":"Болото Соколено в бассейне р. Никши Natural Monument","coordinates":[40.7512,58.3099]},{"code":"RFF-1068","program":"wwff","name":"Naumovskiy, Zakaznik","coordinates":[40.87,58.38]}]}

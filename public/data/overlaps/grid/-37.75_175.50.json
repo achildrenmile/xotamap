@@ -1,1 +1,1 @@
-{"lat":-37.75,"lon":175.5,"programs":["sota"],"count":1,"references":[{"code":"ZL1/WK-035","program":"sota","name":"Te Aroha","coordinates":[175.7423,-37.5338]}]}
+{"lat":-37.75,"lon":175.5,"programs":["sota","tota"],"count":2,"references":[{"code":"ZL1/WK-035","program":"sota","name":"Te Aroha","coordinates":[175.7423,-37.5338]},{"code":"ZLR-0303","program":"tota","name":"Te Aroha – Whakapipi Lookout","coordinates":[175.72109,-37.54089]}]}

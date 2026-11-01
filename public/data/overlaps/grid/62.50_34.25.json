@@ -1,1 +1,1 @@
-{"lat":62.5,"lon":34.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0450","program":"wwff","name":"Pigma Wetland","coordinates":[34.4962,62.5792]}]}
+{"lat":62.5,"lon":34.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-6808","program":"pota","name":"Болото Пигма Natural Monument","coordinates":[34.4839,62.5979]},{"code":"RU-6823","program":"pota","name":"Болото Пала Natural Monument","coordinates":[34.3584,62.5345]},{"code":"RFF-0450","program":"wwff","name":"Pigma Wetland","coordinates":[34.4962,62.5792]}]}

@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":81.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0765","program":"wwff","name":"Mamontovskiy, Zakaznik","coordinates":[81.55,52.64]}]}
+{"lat":52.5,"lon":81.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4174","program":"pota","name":"Мамонтовский State Natural Reserve","coordinates":[81.5477,52.6381]},{"code":"RFF-0765","program":"wwff","name":"Mamontovskiy, Zakaznik","coordinates":[81.55,52.64]}]}

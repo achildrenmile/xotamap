@@ -1,1 +1,1 @@
-{"lat":64.5,"lon":39.25,"programs":["arlhs"],"count":1,"references":[{"code":"ERU 280","program":"arlhs","name":"Tolstik (White Sea)","coordinates":[39.27000046,64.65000153]}]}
+{"lat":64.5,"lon":39.25,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ERU 280","program":"arlhs","name":"Tolstik (White Sea)","coordinates":[39.27000046,64.65000153]},{"code":"RU-4100","program":"pota","name":"Урочище Куртяево Natural Monument","coordinates":[39.2625,64.5219]}]}

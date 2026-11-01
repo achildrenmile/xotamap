@@ -1,1 +1,1 @@
-{"lat":52.75,"lon":86.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0822","program":"wwff","name":"Neninskiy, Zakaznik","coordinates":[86.65,52.83]}]}
+{"lat":52.75,"lon":86.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-4199","program":"pota","name":"Ненинский State Natural Reserve","coordinates":[86.6495,52.8286]},{"code":"RFF-0822","program":"wwff","name":"Neninskiy, Zakaznik","coordinates":[86.65,52.83]}]}

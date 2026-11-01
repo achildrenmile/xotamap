@@ -1,1 +1,1 @@
-{"lat":46.5,"lon":19,"programs":["pota"],"count":1,"references":[{"code":"HU-0077","program":"pota","name":"Akasztói State Fishing Lake","coordinates":[19.159,46.7424]}]}
+{"lat":46.5,"lon":19,"programs":["pota","tota"],"count":3,"references":[{"code":"HU-0077","program":"pota","name":"Akasztói State Fishing Lake","coordinates":[19.159,46.7424]},{"code":"HAR-0212","program":"tota","name":"Bekó kilátó","coordinates":[19.196377,46.529324]},{"code":"HAR-0211","program":"tota","name":"Méhesfoki-kilátó","coordinates":[19.190407,46.542404]}]}

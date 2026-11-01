@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":41.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0530","program":"wwff","name":"Shichengskiy zakaznik","coordinates":[41.36,59.95]}]}
+{"lat":59.75,"lon":41.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5233","program":"pota","name":"Шиченгский State Natural Reserve","coordinates":[41.3416,59.9745]},{"code":"RFF-0530","program":"wwff","name":"Shichengskiy zakaznik","coordinates":[41.36,59.95]}]}

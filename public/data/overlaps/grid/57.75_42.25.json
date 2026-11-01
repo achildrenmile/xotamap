@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":42.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1063","program":"wwff","name":"Igodovskiy, Zakaznik","coordinates":[42.42,57.99]}]}
+{"lat":57.75,"lon":42.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2739","program":"pota","name":"Игодовский State Natural Reserve","coordinates":[42.4182,57.9904]},{"code":"RFF-1063","program":"wwff","name":"Igodovskiy, Zakaznik","coordinates":[42.42,57.99]}]}

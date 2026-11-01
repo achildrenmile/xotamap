@@ -1,1 +1,1 @@
-{"lat":62,"lon":50.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0889","program":"wwff","name":"Bely, Zakaznik","coordinates":[50.38,62.085]}]}
+{"lat":62,"lon":50.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5035","program":"pota","name":"Белый State Natural Reserve","coordinates":[50.3864,62.0861]},{"code":"RFF-0889","program":"wwff","name":"Bely, Zakaznik","coordinates":[50.38,62.085]}]}

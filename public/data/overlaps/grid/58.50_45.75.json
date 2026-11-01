@@ -1,1 +1,1 @@
-{"lat":58.5,"lon":45.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1050","program":"wwff","name":"Vasenyovskiy, Zakaznik","coordinates":[45.87,58.55]}]}
+{"lat":58.5,"lon":45.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-2764","program":"pota","name":"Васеневский State Natural Reserve","coordinates":[45.873,58.5505]},{"code":"RFF-1050","program":"wwff","name":"Vasenyovskiy, Zakaznik","coordinates":[45.87,58.55]}]}

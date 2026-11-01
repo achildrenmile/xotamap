@@ -1,1 +1,1 @@
-{"lat":66.5,"lon":30,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1344","program":"wwff","name":"Kutsa, Zakaznik","coordinates":[30.22,66.72]}]}
+{"lat":66.5,"lon":30,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-5873","program":"pota","name":"Кутса State Natural Reserve","coordinates":[30.1877,66.7183]},{"code":"RFF-1344","program":"wwff","name":"Kutsa, Zakaznik","coordinates":[30.22,66.72]}]}
