@@ -1,1 +1,1 @@
-{"lat":47.75,"lon":-92,"programs":["wwff"],"count":1,"references":[{"code":"KFF-5467","program":"wwff","name":"Bear Island","coordinates":[-91.94631,47.7778]}]}
+{"lat":47.75,"lon":-92,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-13649","program":"pota","name":"Old Koschak Farm Wildlife Management Area","coordinates":[-91.8297,47.9224]},{"code":"KFF-5467","program":"wwff","name":"Bear Island","coordinates":[-91.94631,47.7778]}]}

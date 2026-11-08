@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":-95.75,"programs":["wwff"],"count":1,"references":[{"code":"KFF-7555","program":"wwff","name":"Badger Lake","coordinates":[-95.7403,43.9295]}]}
+{"lat":43.75,"lon":-95.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-13647","program":"pota","name":"Badger Lake Wildlife Management Area","coordinates":[-95.7295,43.9228]},{"code":"KFF-7555","program":"wwff","name":"Badger Lake","coordinates":[-95.7403,43.9295]}]}

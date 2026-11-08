@@ -1,1 +1,1 @@
-{"lat":44.5,"lon":-95.75,"programs":["wwff"],"count":1,"references":[{"code":"KFF-7564","program":"wwff","name":"Green Valley","coordinates":[-95.7035,44.5159]}]}
+{"lat":44.5,"lon":-95.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-13641","program":"pota","name":"Green Valley Wildlife Management Area","coordinates":[-95.6988,44.5043]},{"code":"KFF-7564","program":"wwff","name":"Green Valley","coordinates":[-95.7035,44.5159]}]}

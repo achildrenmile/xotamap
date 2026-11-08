@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":-92.25,"programs":["sota"],"count":1,"references":[{"code":"K0M/NE-016","program":"sota","name":"Embarrass Mountains","coordinates":[-92.1884,47.6037]}]}
+{"lat":47.5,"lon":-92.25,"programs":["pota","sota"],"count":2,"references":[{"code":"US-13650","program":"pota","name":"Darwin S. Meyers Wildlife Management Area","coordinates":[-92.2233,47.6364]},{"code":"K0M/NE-016","program":"sota","name":"Embarrass Mountains","coordinates":[-92.1884,47.6037]}]}

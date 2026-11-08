@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":-95.5,"programs":["wwff"],"count":1,"references":[{"code":"KFF-7575","program":"wwff","name":"Talcot Lake","coordinates":[-95.4365,43.8854]}]}
+{"lat":43.75,"lon":-95.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-13633","program":"pota","name":"Talcot Lake Wildlife Management Area","coordinates":[-95.4529,43.8942]},{"code":"KFF-7575","program":"wwff","name":"Talcot Lake","coordinates":[-95.4365,43.8854]}]}

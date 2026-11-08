@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":-96,"programs":["wwff"],"count":1,"references":[{"code":"KFF-7560","program":"wwff","name":"Fenmont","coordinates":[-95.8223,43.8338]}]}
+{"lat":43.75,"lon":-96,"programs":["pota","wwff"],"count":2,"references":[{"code":"US-13642","program":"pota","name":"Fenmont Wildlife Management Area","coordinates":[-95.8295,43.8475]},{"code":"KFF-7560","program":"wwff","name":"Fenmont","coordinates":[-95.8223,43.8338]}]}
