@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":82,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0719","program":"wwff","name":"Poskoevskiy, zakaznik","coordinates":[82.24,57.86]}]}
+{"lat":57.75,"lon":82,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9951","program":"pota","name":"Поскоевский State Natural Reserve","coordinates":[82.2346,57.8639]},{"code":"RFF-0719","program":"wwff","name":"Poskoevskiy, zakaznik","coordinates":[82.24,57.86]}]}

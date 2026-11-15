@@ -1,1 +1,1 @@
-{"lat":56,"lon":59.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/CE-026","program":"sota","name":"R9U/CE-026","coordinates":[59.4484,56.2487]}]}
+{"lat":56,"lon":59.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8817","program":"pota","name":"Участок реки Уфа между Тимофеевым и Зайкиным камнями Natural Monument","coordinates":[59.328,56.1975]},{"code":"R9U/CE-026","program":"sota","name":"R9U/CE-026","coordinates":[59.4484,56.2487]}]}

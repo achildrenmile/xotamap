@@ -1,1 +1,1 @@
-{"lat":52,"lon":56.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-208","program":"sota","name":"R9U/SO-208","coordinates":[56.9138,52.1281]}]}
+{"lat":52,"lon":56.75,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9680","program":"pota","name":"Заросли пиона уклоняющегося на горе Дур-Дур Natural Monument","coordinates":[56.9768,52.0883]},{"code":"R9U/SO-208","program":"sota","name":"R9U/SO-208","coordinates":[56.9138,52.1281]}]}

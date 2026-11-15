@@ -1,1 +1,1 @@
-{"lat":56,"lon":57.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/CE-048","program":"sota","name":"R9U/CE-048","coordinates":[57.816,56.2285]}]}
+{"lat":56,"lon":57.75,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9508","program":"pota","name":"Абдуллинская гора Natural Monument","coordinates":[57.9659,56.0401]},{"code":"R9U/CE-048","program":"sota","name":"R9U/CE-048","coordinates":[57.816,56.2285]}]}

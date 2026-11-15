@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":86.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0648","program":"wwff","name":"Oktyabrskiy, zakaznik","coordinates":[86.28,57.66]}]}
+{"lat":57.5,"lon":86.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9953","program":"pota","name":"Октябрьский State Natural Reserve","coordinates":[86.2718,57.6584]},{"code":"RFF-0648","program":"wwff","name":"Oktyabrskiy, zakaznik","coordinates":[86.28,57.66]}]}

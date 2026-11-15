@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":65,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0285","program":"wwff","name":"Tumenskiy","coordinates":[65.05005,57.50107]}]}
+{"lat":57.5,"lon":65,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-9898","program":"pota","name":"Веселая грива Natural Monument","coordinates":[65.1404,57.6112]},{"code":"RU-9926","program":"pota","name":"Урочище Орлы Natural Monument","coordinates":[65.0178,57.5785]},{"code":"RFF-0285","program":"wwff","name":"Tumenskiy","coordinates":[65.05005,57.50107]}]}

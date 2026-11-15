@@ -1,1 +1,1 @@
-{"lat":48,"lon":139,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0016","program":"wwff","name":"Botchinskiy","coordinates":[139.13084,48.12943]}]}
+{"lat":48,"lon":139,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9747","program":"pota","name":"Ботчинский State Nature Preserve","coordinates":[139.141,48.116]},{"code":"RFF-0016","program":"wwff","name":"Botchinskiy","coordinates":[139.13084,48.12943]}]}

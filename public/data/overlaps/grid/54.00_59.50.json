@@ -1,1 +1,1 @@
-{"lat":54,"lon":59.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-182","program":"sota","name":"R9U/SO-182","coordinates":[59.5988,54.1475]}]}
+{"lat":54,"lon":59.5,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8780","program":"pota","name":"Карагайский State Natural Reserve","coordinates":[59.6516,54.1216]},{"code":"R9U/SO-182","program":"sota","name":"R9U/SO-182","coordinates":[59.5988,54.1475]}]}

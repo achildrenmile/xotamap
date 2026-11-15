@@ -1,1 +1,1 @@
-{"lat":54,"lon":59.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-141","program":"sota","name":"Utanktash","coordinates":[59.3754,54.2121]}]}
+{"lat":54,"lon":59.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8831","program":"pota","name":"Озеро Чебачье I Natural Monument","coordinates":[59.3918,54.0756]},{"code":"R9U/SO-141","program":"sota","name":"Utanktash","coordinates":[59.3754,54.2121]}]}

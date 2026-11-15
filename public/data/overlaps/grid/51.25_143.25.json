@@ -1,1 +1,1 @@
-{"lat":51.25,"lon":143.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1103","program":"wwff","name":"Lunskiy zaliv, Pamyatnik Prirody","coordinates":[143.44,51.28]}]}
+{"lat":51.25,"lon":143.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-10350","program":"pota","name":"Лунский залив Natural Monument","coordinates":[143.436,51.2901]},{"code":"RFF-1103","program":"wwff","name":"Lunskiy zaliv, Pamyatnik Prirody","coordinates":[143.44,51.28]}]}

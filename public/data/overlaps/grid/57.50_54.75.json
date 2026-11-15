@@ -1,1 +1,1 @@
-{"lat":57.5,"lon":54.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0866","program":"wwff","name":"Ocherskiy, Zakaznik","coordinates":[54.95,57.68]}]}
+{"lat":57.5,"lon":54.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9240","program":"pota","name":"Очерский State Natural Reserve","coordinates":[54.9487,57.6799]},{"code":"RFF-0866","program":"wwff","name":"Ocherskiy, Zakaznik","coordinates":[54.95,57.68]}]}

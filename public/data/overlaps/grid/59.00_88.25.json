@@ -1,1 +1,1 @@
-{"lat":59,"lon":88.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0678","program":"wwff","name":"Ket'-Kasskiy, zakaznik","coordinates":[88.49,59.11]}]}
+{"lat":59,"lon":88.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9946","program":"pota","name":"Кеть-Касский State Natural Reserve","coordinates":[88.4682,59.1079]},{"code":"RFF-0678","program":"wwff","name":"Ket'-Kasskiy, zakaznik","coordinates":[88.49,59.11]}]}

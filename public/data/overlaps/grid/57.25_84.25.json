@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":84.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0677","program":"wwff","name":"Pershinskiy, zakaznik","coordinates":[84.33,57.3]}]}
+{"lat":57.25,"lon":84.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9956","program":"pota","name":"Першинский State Natural Reserve","coordinates":[84.3227,57.3153]},{"code":"RFF-0677","program":"wwff","name":"Pershinskiy, zakaznik","coordinates":[84.33,57.3]}]}

@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":61,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1259","program":"wwff","name":"Rezhevskoy, Zakaznik","coordinates":[61.01,57.34]}]}
+{"lat":57.25,"lon":61,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8356","program":"pota","name":"Режевской State Natural Reserve","coordinates":[61.0147,57.3544]},{"code":"RFF-1259","program":"wwff","name":"Rezhevskoy, Zakaznik","coordinates":[61.01,57.34]}]}

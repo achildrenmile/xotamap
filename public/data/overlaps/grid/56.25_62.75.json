@@ -1,1 +1,1 @@
-{"lat":56.25,"lon":62.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0577","program":"wwff","name":"Dalmatovskiy, zakaznik","coordinates":[62.905,56.335]}]}
+{"lat":56.25,"lon":62.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-10132","program":"pota","name":"Далматовский State Natural Reserve","coordinates":[62.9067,56.3331]},{"code":"RFF-0577","program":"wwff","name":"Dalmatovskiy, zakaznik","coordinates":[62.905,56.335]}]}

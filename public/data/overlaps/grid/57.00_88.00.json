@@ -1,1 +1,1 @@
-{"lat":57,"lon":88,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0733","program":"wwff","name":"Yuzhno-Tayezhny, zakaznik","coordinates":[88,57.03]}]}
+{"lat":57,"lon":88,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9964","program":"pota","name":"Сосновые боры Причетья Landscape Park","coordinates":[88.2236,57.0983]},{"code":"RFF-0733","program":"wwff","name":"Yuzhno-Tayezhny, zakaznik","coordinates":[88,57.03]}]}

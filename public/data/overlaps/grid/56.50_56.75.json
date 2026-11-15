@@ -1,1 +1,1 @@
-{"lat":56.5,"lon":56.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0770","program":"wwff","name":"Oktyabr'skiy, Zakaznik","coordinates":[56.8,56.54]}]}
+{"lat":56.5,"lon":56.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-9248","program":"pota","name":"Октябрьский State Natural Reserve","coordinates":[56.7978,56.5376]},{"code":"RU-9422","program":"pota","name":"Кашкинская дубрава Natural Monument","coordinates":[56.9644,56.563]},{"code":"RFF-0770","program":"wwff","name":"Oktyabr'skiy, Zakaznik","coordinates":[56.8,56.54]}]}

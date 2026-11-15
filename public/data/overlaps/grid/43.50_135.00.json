@@ -1,1 +1,1 @@
-{"lat":43.5,"lon":135,"programs":["arlhs"],"count":1,"references":[{"code":"ASR 049","program":"arlhs","name":"Nizmenny (Japan Sea)","coordinates":[135.13000488,43.5]}]}
+{"lat":43.5,"lon":135,"programs":["arlhs","pota"],"count":3,"references":[{"code":"ASR 049","program":"arlhs","name":"Nizmenny (Japan Sea)","coordinates":[135.13000488,43.5]},{"code":"RU-8137","program":"pota","name":"Васильковский State Natural Reserve","coordinates":[135.072,43.575]},{"code":"RU-8185","program":"pota","name":"Озеро Цаплинник Natural Monument","coordinates":[135.206,43.7236]}]}

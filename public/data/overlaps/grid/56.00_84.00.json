@@ -1,1 +1,1 @@
-{"lat":56,"lon":84,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0283","program":"wwff","name":"Tomskiy","coordinates":[84.10034,56.09962]}]}
+{"lat":56,"lon":84,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9949","program":"pota","name":"Томский State Natural Reserve","coordinates":[84.1307,56.0899]},{"code":"RFF-0283","program":"wwff","name":"Tomskiy","coordinates":[84.10034,56.09962]}]}

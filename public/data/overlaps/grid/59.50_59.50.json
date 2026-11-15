@@ -1,1 +1,1 @@
-{"lat":59.5,"lon":59.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/NO-040","program":"sota","name":"R9U/NO-040","coordinates":[59.5513,59.6792]}]}
+{"lat":59.5,"lon":59.5,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8540","program":"pota","name":"Гора Голобокий Чурок (вершина) Natural Monument","coordinates":[59.58,59.7]},{"code":"R9U/NO-040","program":"sota","name":"R9U/NO-040","coordinates":[59.5513,59.6792]}]}

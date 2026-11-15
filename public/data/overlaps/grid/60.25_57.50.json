@@ -1,1 +1,1 @@
-{"lat":60.25,"lon":57.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/NO-026","program":"sota","name":"Pomyanenniy Kamen","coordinates":[57.5896,60.3132]}]}
+{"lat":60.25,"lon":57.5,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9299","program":"pota","name":"Колчимский (Помяненный) камень Protected Landscape Area","coordinates":[57.6073,60.3201]},{"code":"R9U/NO-026","program":"sota","name":"Pomyanenniy Kamen","coordinates":[57.5896,60.3132]}]}

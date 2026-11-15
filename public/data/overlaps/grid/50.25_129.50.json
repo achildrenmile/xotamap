@@ -1,1 +1,1 @@
-{"lat":50.25,"lon":129.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1211","program":"wwff","name":"Zavitinskiy, Zakaznik","coordinates":[129.7,50.35]}]}
+{"lat":50.25,"lon":129.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8020","program":"pota","name":"Завитинский State Natural Reserve","coordinates":[129.69,50.3515]},{"code":"RFF-1211","program":"wwff","name":"Zavitinskiy, Zakaznik","coordinates":[129.7,50.35]}]}

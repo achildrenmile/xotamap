@@ -1,1 +1,1 @@
-{"lat":54.25,"lon":59.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-152","program":"sota","name":"R9U/SO-152","coordinates":[59.3598,54.3053]}]}
+{"lat":54.25,"lon":59.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9497","program":"pota","name":"Озеро Ургун и Ургунский бор Natural Monument","coordinates":[59.3855,54.4185]},{"code":"R9U/SO-152","program":"sota","name":"R9U/SO-152","coordinates":[59.3598,54.3053]}]}

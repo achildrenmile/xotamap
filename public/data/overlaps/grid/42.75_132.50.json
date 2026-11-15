@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":132.5,"programs":["arlhs"],"count":1,"references":[{"code":"ASR 113","program":"arlhs","name":"Trambetskogo (Japan Sea)","coordinates":[132.52999878,42.83000183]}]}
+{"lat":42.75,"lon":132.5,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ASR 113","program":"arlhs","name":"Trambetskogo (Japan Sea)","coordinates":[132.52999878,42.83000183]},{"code":"RU-8159","program":"pota","name":"Бухта Анна Natural Monument","coordinates":[132.555,42.8474]}]}

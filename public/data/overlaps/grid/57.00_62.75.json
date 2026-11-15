@@ -1,1 +1,1 @@
-{"lat":57,"lon":62.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0957","program":"wwff","name":"Yurmychskiy, Zakaznik","coordinates":[62.85,57.171]}]}
+{"lat":57,"lon":62.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8362","program":"pota","name":"Юрмычский им. А. В. Григорьева State Natural Reserve","coordinates":[62.8598,57.1727]},{"code":"RFF-0957","program":"wwff","name":"Yurmychskiy, Zakaznik","coordinates":[62.85,57.171]}]}

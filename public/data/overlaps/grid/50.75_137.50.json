@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":137.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0049","program":"wwff","name":"Komsomolskiy","coordinates":[137.61475,50.83543]}]}
+{"lat":50.75,"lon":137.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9752","program":"pota","name":"Комсомольский State Nature Preserve","coordinates":[137.606,50.8181]},{"code":"RFF-0049","program":"wwff","name":"Komsomolskiy","coordinates":[137.61475,50.83543]}]}

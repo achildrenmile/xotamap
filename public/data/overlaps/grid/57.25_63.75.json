@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":63.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0963","program":"wwff","name":"Baykalovskiy, Zakaznik","coordinates":[63.966,57.481]}]}
+{"lat":57.25,"lon":63.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8363","program":"pota","name":"Байкаловский State Natural Reserve","coordinates":[63.9675,57.4819]},{"code":"RFF-0963","program":"wwff","name":"Baykalovskiy, Zakaznik","coordinates":[63.966,57.481]}]}

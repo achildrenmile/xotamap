@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":57.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-175","program":"sota","name":"Greben","coordinates":[57.8101,54.8415]}]}
+{"lat":54.75,"lon":57.75,"programs":["pota","sota"],"count":3,"references":[{"code":"RU-8770","program":"pota","name":"Серпиевский State Natural Reserve","coordinates":[57.7804,54.7773]},{"code":"RU-8902","program":"pota","name":"Пещера Соломенная Natural Monument","coordinates":[57.8856,54.8424]},{"code":"R9U/SO-175","program":"sota","name":"Greben","coordinates":[57.8101,54.8415]}]}

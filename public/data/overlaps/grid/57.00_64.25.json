@@ -1,1 +1,1 @@
-{"lat":57,"lon":64.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1198","program":"wwff","name":"Tugulymskiy, Zakaznik","coordinates":[64.47,57.02]}]}
+{"lat":57,"lon":64.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8361","program":"pota","name":"Тугулымский State Natural Reserve","coordinates":[64.4614,57.0151]},{"code":"RFF-1198","program":"wwff","name":"Tugulymskiy, Zakaznik","coordinates":[64.47,57.02]}]}

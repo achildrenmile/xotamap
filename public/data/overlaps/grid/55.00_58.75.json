@@ -1,1 +1,1 @@
-{"lat":55,"lon":58.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-161","program":"sota","name":"R9U/SO-161","coordinates":[58.8365,55.0969]}]}
+{"lat":55,"lon":58.75,"programs":["pota","sota"],"count":3,"references":[{"code":"RU-8887","program":"pota","name":"Пещеры Natural Monument","coordinates":[58.7712,55.1352]},{"code":"RU-8904","program":"pota","name":"Пещера Сухокаменная (Понорная) Natural Monument","coordinates":[58.845,55.092]},{"code":"R9U/SO-161","program":"sota","name":"R9U/SO-161","coordinates":[58.8365,55.0969]}]}

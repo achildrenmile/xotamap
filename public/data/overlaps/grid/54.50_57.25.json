@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":57.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-125","program":"sota","name":"R9U/SO-125","coordinates":[57.3981,54.6573]}]}
+{"lat":54.5,"lon":57.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9598","program":"pota","name":"Водопад Атыш на р. Лемезе Natural Monument","coordinates":[57.2801,54.5557]},{"code":"R9U/SO-125","program":"sota","name":"R9U/SO-125","coordinates":[57.3981,54.6573]}]}

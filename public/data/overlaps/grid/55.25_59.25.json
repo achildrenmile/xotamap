@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":59.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-192","program":"sota","name":"Kopanets","coordinates":[59.4032,55.3917]}]}
+{"lat":55.25,"lon":59.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8877","program":"pota","name":"Геологический разрез Саткинской свиты верхнего протерозоя Natural Monument","coordinates":[59.4177,55.3432]},{"code":"R9U/SO-192","program":"sota","name":"Kopanets","coordinates":[59.4032,55.3917]}]}

@@ -1,1 +1,1 @@
-{"lat":53.25,"lon":58.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-195","program":"sota","name":"R9U/SO-195","coordinates":[58.595,53.4982]}]}
+{"lat":53.25,"lon":58.5,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9652","program":"pota","name":"Урочище Ултык-Карагас хр. Крыктытау Natural Monument","coordinates":[58.5265,53.4476]},{"code":"R9U/SO-195","program":"sota","name":"R9U/SO-195","coordinates":[58.595,53.4982]}]}

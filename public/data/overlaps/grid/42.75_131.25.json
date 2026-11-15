@@ -1,1 +1,1 @@
-{"lat":42.75,"lon":131.25,"programs":["arlhs"],"count":1,"references":[{"code":"ASR 018","program":"arlhs","name":"Bryusa (Japan Sea)","coordinates":[131.47000122,42.88000107]}]}
+{"lat":42.75,"lon":131.25,"programs":["arlhs","pota"],"count":2,"references":[{"code":"ASR 018","program":"arlhs","name":"Bryusa (Japan Sea)","coordinates":[131.47000122,42.88000107]},{"code":"RU-8208","program":"pota","name":"Бухта Миноносок Natural Monument","coordinates":[131.427,42.9314]}]}

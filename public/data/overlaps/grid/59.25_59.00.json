@@ -1,1 +1,1 @@
-{"lat":59.25,"lon":59,"programs":["sota"],"count":1,"references":[{"code":"R9U/CE-011","program":"sota","name":"R9U/CE-011","coordinates":[59.2335,59.3928]}]}
+{"lat":59.25,"lon":59,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8562","program":"pota","name":"Кытлымский естественный кедровник Natural Monument","coordinates":[59.1425,59.4983]},{"code":"R9U/CE-011","program":"sota","name":"R9U/CE-011","coordinates":[59.2335,59.3928]}]}

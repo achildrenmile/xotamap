@@ -1,1 +1,1 @@
-{"lat":60.25,"lon":57.25,"programs":["gma"],"count":1,"references":[{"code":"R4/PM-001","program":"gma","name":"Churochnaya","coordinates":[57.4158333,60.3841667]}]}
+{"lat":60.25,"lon":57.25,"programs":["gma","pota"],"count":2,"references":[{"code":"R4/PM-001","program":"gma","name":"Churochnaya","coordinates":[57.4158333,60.3841667]},{"code":"RU-9415","program":"pota","name":"Большеколчимский карстовый мост Natural Monument","coordinates":[57.4593,60.4086]}]}

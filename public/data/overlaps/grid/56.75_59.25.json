@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":59.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/CE-065","program":"sota","name":"Kirgishanskij Uval","coordinates":[59.3377,56.9222]}]}
+{"lat":56.75,"lon":59.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8532","program":"pota","name":"Высокопроизводительные насаждения березы, сосны, ели Natural Monument","coordinates":[59.3646,56.9701]},{"code":"R9U/CE-065","program":"sota","name":"Kirgishanskij Uval","coordinates":[59.3377,56.9222]}]}

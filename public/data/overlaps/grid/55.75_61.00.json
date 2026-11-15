@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":61,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0307","program":"wwff","name":"Vostochno-Uralskiy Radiaktivnyy Sled","coordinates":[61.09497,55.9907]}]}
+{"lat":55.75,"lon":61,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8835","program":"pota","name":"Клюквенное болото Natural Monument","coordinates":[61.1943,55.7523]},{"code":"RFF-0307","program":"wwff","name":"Vostochno-Uralskiy Radiaktivnyy Sled","coordinates":[61.09497,55.9907]}]}

@@ -1,1 +1,1 @@
-{"lat":55.75,"lon":67,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0605","program":"wwff","name":"Mokrousovskiy, zakaznik","coordinates":[67.19,55.89]}]}
+{"lat":55.75,"lon":67,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-10129","program":"pota","name":"Мокроусовский State Natural Reserve","coordinates":[67.1977,55.89]},{"code":"RU-10161","program":"pota","name":"Одиновский Рям Natural Monument","coordinates":[67.0157,55.8126]},{"code":"RFF-0605","program":"wwff","name":"Mokrousovskiy, zakaznik","coordinates":[67.19,55.89]}]}

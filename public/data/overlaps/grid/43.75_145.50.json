@@ -1,1 +1,1 @@
-{"lat":43.75,"lon":145.5,"programs":["arlhs"],"count":1,"references":[{"code":"JPN 302","program":"arlhs","name":"Kunbetu (Hokkaido)","coordinates":[145.69999695,43.79999924]}]}
+{"lat":43.75,"lon":145.5,"programs":["arlhs","pota"],"count":2,"references":[{"code":"JPN 302","program":"arlhs","name":"Kunbetu (Hokkaido)","coordinates":[145.69999695,43.79999924]},{"code":"RU-10358","program":"pota","name":"Вулкан Менделеева Natural Monument","coordinates":[145.74,43.9877]}]}

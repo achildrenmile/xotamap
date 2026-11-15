@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":54,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0107","program":"wwff","name":"Kandry-Kul'","coordinates":[54.08569,54.50354]}]}
+{"lat":54.5,"lon":54,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-9493","program":"pota","name":"Кандры-Куль Nature Park","coordinates":[54.0613,54.5004]},{"code":"RU-9645","program":"pota","name":"Сосновые посадки у ж.д. станции Кандры Natural Monument","coordinates":[54.0797,54.5455]},{"code":"RFF-0107","program":"wwff","name":"Kandry-Kul'","coordinates":[54.08569,54.50354]}]}

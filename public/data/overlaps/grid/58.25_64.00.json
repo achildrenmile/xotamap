@@ -1,1 +1,1 @@
-{"lat":58.25,"lon":64,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1230","program":"wwff","name":"Ozero Dikoye, Zakaznik","coordinates":[64.23,58.4]}]}
+{"lat":58.25,"lon":64,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8385","program":"pota","name":"Озеро Дикое Landscape Reserve","coordinates":[64.2304,58.3972]},{"code":"RFF-1230","program":"wwff","name":"Ozero Dikoye, Zakaznik","coordinates":[64.23,58.4]}]}

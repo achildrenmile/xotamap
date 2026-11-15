@@ -1,1 +1,1 @@
-{"lat":52.25,"lon":56.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-210","program":"sota","name":"R9U/SO-210","coordinates":[56.8351,52.253]}]}
+{"lat":52.25,"lon":56.75,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9495","program":"pota","name":"Пойма р. М. Сурень в устье р. Азакла Natural Monument","coordinates":[56.7996,52.373]},{"code":"R9U/SO-210","program":"sota","name":"R9U/SO-210","coordinates":[56.8351,52.253]}]}

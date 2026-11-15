@@ -1,1 +1,1 @@
-{"lat":54.75,"lon":58,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-153","program":"sota","name":"R9U/SO-153","coordinates":[58.0694,54.7757]}]}
+{"lat":54.75,"lon":58,"programs":["pota","sota"],"count":3,"references":[{"code":"RU-8878","program":"pota","name":"Пещера Большая Усть-Катавская Natural Monument","coordinates":[58.1066,54.9051]},{"code":"RU-8891","program":"pota","name":"Пещера Станционная Natural Monument","coordinates":[58.1194,54.9426]},{"code":"R9U/SO-153","program":"sota","name":"R9U/SO-153","coordinates":[58.0694,54.7757]}]}

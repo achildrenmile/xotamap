@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":59,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-206","program":"sota","name":"Cheka","coordinates":[59.0817,52.5841]}]}
+{"lat":52.5,"lon":59,"programs":["pota","sota"],"count":3,"references":[{"code":"RU-8828","program":"pota","name":"гора Чека Natural Monument","coordinates":[59.0809,52.5842]},{"code":"RU-8867","program":"pota","name":"Утесы Семь Братьев Natural Monument","coordinates":[59.0275,52.5201]},{"code":"R9U/SO-206","program":"sota","name":"Cheka","coordinates":[59.0817,52.5841]}]}

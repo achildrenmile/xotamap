@@ -1,1 +1,1 @@
-{"lat":62,"lon":149.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0189","program":"wwff","name":"Ozero Djeka Londona","coordinates":[149.52461,62.07455]}]}
+{"lat":62,"lon":149.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-10238","program":"pota","name":"Лондонский (озеро Джека Лондона) Natural Monument","coordinates":[149.528,62.077]},{"code":"RFF-0189","program":"wwff","name":"Ozero Djeka Londona","coordinates":[149.52461,62.07455]}]}

@@ -1,1 +1,1 @@
-{"lat":57,"lon":59.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/CE-062","program":"sota","name":"Pereval","coordinates":[59.9551,57.23]}]}
+{"lat":57,"lon":59.75,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8560","program":"pota","name":"Культуры сосны 1892 года Natural Monument","coordinates":[59.8537,57.0083]},{"code":"R9U/CE-062","program":"sota","name":"Pereval","coordinates":[59.9551,57.23]}]}

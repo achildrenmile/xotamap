@@ -1,1 +1,1 @@
-{"lat":56,"lon":85,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0662","program":"wwff","name":"Larinskiy, zakaznik","coordinates":[85.055,56.215]}]}
+{"lat":56,"lon":85,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9969","program":"pota","name":"Ларинский State Natural Reserve","coordinates":[85.0468,56.2119]},{"code":"RFF-0662","program":"wwff","name":"Larinskiy, zakaznik","coordinates":[85.055,56.215]}]}

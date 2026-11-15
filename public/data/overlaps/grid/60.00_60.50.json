@@ -1,1 +1,1 @@
-{"lat":60,"lon":60.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1356","program":"wwff","name":"Langurskiy, Zakaznik","coordinates":[60.73,60.02]}]}
+{"lat":60,"lon":60.5,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-8364","program":"pota","name":"Лангурский State Natural Reserve","coordinates":[60.7292,60.0252]},{"code":"RU-8384","program":"pota","name":"Болото Каменное Landscape Reserve","coordinates":[60.5558,60.142]},{"code":"RFF-1356","program":"wwff","name":"Langurskiy, Zakaznik","coordinates":[60.73,60.02]}]}

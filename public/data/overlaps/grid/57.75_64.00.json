@@ -1,1 +1,1 @@
-{"lat":57.75,"lon":64,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0952","program":"wwff","name":"Slobodo-Turinskiy, Zakaznik","coordinates":[64.215,57.815]}]}
+{"lat":57.75,"lon":64,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8359","program":"pota","name":"Слободо-Туринский State Natural Reserve","coordinates":[64.2172,57.8162]},{"code":"RFF-0952","program":"wwff","name":"Slobodo-Turinskiy, Zakaznik","coordinates":[64.215,57.815]}]}

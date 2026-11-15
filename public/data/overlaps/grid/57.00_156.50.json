@@ -1,1 +1,1 @@
-{"lat":57,"lon":156.5,"programs":["wlota"],"count":1,"references":[{"code":"WLOTA-0417","program":"wlota","name":"Ptichiy Island","coordinates":[156.58500671,57.17499924]}]}
+{"lat":57,"lon":156.5,"programs":["pota","wlota"],"count":2,"references":[{"code":"RU-10124","program":"pota","name":"Остров Скала Natural Monument","coordinates":[156.598,57.1928]},{"code":"WLOTA-0417","program":"wlota","name":"Ptichiy Island","coordinates":[156.58500671,57.17499924]}]}

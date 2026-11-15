@@ -1,1 +1,1 @@
-{"lat":47.5,"lon":142.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1095","program":"wwff","name":"Dolinskiy (Izyubrovy), Zakaznik","coordinates":[142.58,47.56]}]}
+{"lat":47.5,"lon":142.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-10353","program":"pota","name":"Долинский (Изюбровый) State Natural Reserve","coordinates":[142.583,47.5578]},{"code":"RFF-1095","program":"wwff","name":"Dolinskiy (Izyubrovy), Zakaznik","coordinates":[142.58,47.56]}]}

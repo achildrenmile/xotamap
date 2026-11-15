@@ -1,1 +1,1 @@
-{"lat":50.75,"lon":134.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0236","program":"wwff","name":"Badzhal'sky","coordinates":[134.85716,50.89264]}]}
+{"lat":50.75,"lon":134.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9746","program":"pota","name":"Баджальский State Natural Reserve","coordinates":[134.8,50.8734]},{"code":"RFF-0236","program":"wwff","name":"Badzhal'sky","coordinates":[134.85716,50.89264]}]}

@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":63.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0638","program":"wwff","name":"Shumihinskiy, zakaznik","coordinates":[63.27,55.33]}]}
+{"lat":55.25,"lon":63.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-10155","program":"pota","name":"Кушмянский лог Natural Monument","coordinates":[63.3714,55.3452]},{"code":"RU-10190","program":"pota","name":"Островной бор Natural Monument","coordinates":[63.4278,55.4527]},{"code":"RFF-0638","program":"wwff","name":"Shumihinskiy, zakaznik","coordinates":[63.27,55.33]}]}

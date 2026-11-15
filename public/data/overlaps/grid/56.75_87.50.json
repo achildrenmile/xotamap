@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":87.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0680","program":"wwff","name":"Tongulskiy, zakaznik","coordinates":[87.7,56.81]}]}
+{"lat":56.75,"lon":87.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9955","program":"pota","name":"Тонгульский State Natural Reserve","coordinates":[87.7396,56.8051]},{"code":"RFF-0680","program":"wwff","name":"Tongulskiy, zakaznik","coordinates":[87.7,56.81]}]}

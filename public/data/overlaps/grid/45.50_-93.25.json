@@ -1,1 +1,1 @@
-{"lat":45.5,"lon":-93.25,"programs":["wwff"],"count":1,"references":[{"code":"KFF-6934","program":"wwff","name":"Rice Creek","coordinates":[-93.2038,45.7315]}]}
+{"lat":45.5,"lon":-93.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"US-13656","program":"pota","name":"Rush Lake Wildlife Management Area","coordinates":[-93.0298,45.683]},{"code":"US-13657","program":"pota","name":"Nessel Wildlife Management Area","coordinates":[-93.1146,45.7061]},{"code":"KFF-6934","program":"wwff","name":"Rice Creek","coordinates":[-93.2038,45.7315]}]}

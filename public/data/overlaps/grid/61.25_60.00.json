@@ -1,1 +1,1 @@
-{"lat":61.25,"lon":60,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1310","program":"wwff","name":"Vizhayskiye skaly, Zakaznik","coordinates":[60.11,61.26]}]}
+{"lat":61.25,"lon":60,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-8400","program":"pota","name":"Вижайские скалы Landscape Reserve","coordinates":[60.1084,61.2574]},{"code":"RU-8436","program":"pota","name":"Скалы на р. Северная Тошемка Natural Monument","coordinates":[60.138,61.3053]},{"code":"RFF-1310","program":"wwff","name":"Vizhayskiye skaly, Zakaznik","coordinates":[60.11,61.26]}]}

@@ -1,1 +1,1 @@
-{"lat":55.5,"lon":64.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0584","program":"wwff","name":"Yurgamyshskiy, zakaznik","coordinates":[64.43,55.59]}]}
+{"lat":55.5,"lon":64.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-10137","program":"pota","name":"Юргамышский State Natural Reserve","coordinates":[64.422,55.5887]},{"code":"RFF-0584","program":"wwff","name":"Yurgamyshskiy, zakaznik","coordinates":[64.43,55.59]}]}

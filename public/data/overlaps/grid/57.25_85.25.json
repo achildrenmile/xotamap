@@ -1,1 +1,1 @@
-{"lat":57.25,"lon":85.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0665","program":"wwff","name":"Maloyuksinskiy, zakaznik","coordinates":[85.4,57.29]}]}
+{"lat":57.25,"lon":85.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9952","program":"pota","name":"Малоюксинский State Natural Reserve","coordinates":[85.4043,57.2872]},{"code":"RFF-0665","program":"wwff","name":"Maloyuksinskiy, zakaznik","coordinates":[85.4,57.29]}]}

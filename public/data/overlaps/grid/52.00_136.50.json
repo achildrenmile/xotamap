@@ -1,1 +1,1 @@
-{"lat":52,"lon":136.5,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0255","program":"wwff","name":"Ol'dzhikanskiy","coordinates":[136.62872,52.06726]}]}
+{"lat":52,"lon":136.5,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9748","program":"pota","name":"Ольджиканский State Natural Reserve","coordinates":[136.621,52.0574]},{"code":"RFF-0255","program":"wwff","name":"Ol'dzhikanskiy","coordinates":[136.62872,52.06726]}]}

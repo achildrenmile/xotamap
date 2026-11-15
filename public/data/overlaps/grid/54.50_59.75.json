@@ -1,1 +1,1 @@
-{"lat":54.5,"lon":59.75,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-155","program":"sota","name":"Kumach","coordinates":[59.7615,54.6651]}]}
+{"lat":54.5,"lon":59.75,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8813","program":"pota","name":"Ларинский бор Natural Monument","coordinates":[59.9944,54.5853]},{"code":"R9U/SO-155","program":"sota","name":"Kumach","coordinates":[59.7615,54.6651]}]}

@@ -1,1 +1,1 @@
-{"lat":58.75,"lon":59.5,"programs":["sota"],"count":1,"references":[{"code":"R9U/CE-029","program":"sota","name":"Sarannaya","coordinates":[59.5266,58.8992]}]}
+{"lat":58.75,"lon":59.5,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-8388","program":"pota","name":"Гора Саранная Landscape Reserve","coordinates":[59.5121,58.8882]},{"code":"R9U/CE-029","program":"sota","name":"Sarannaya","coordinates":[59.5266,58.8992]}]}

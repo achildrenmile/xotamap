@@ -1,1 +1,1 @@
-{"lat":59.75,"lon":56.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0813","program":"wwff","name":"Solikamskiy, Zakaznik","coordinates":[56.835,59.98]}]}
+{"lat":59.75,"lon":56.75,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-9253","program":"pota","name":"Соликамский State Natural Reserve","coordinates":[56.8251,59.9797]},{"code":"RU-9321","program":"pota","name":"Косое болото Protected Landscape Area","coordinates":[56.8648,59.9368]},{"code":"RFF-0813","program":"wwff","name":"Solikamskiy, Zakaznik","coordinates":[56.835,59.98]}]}

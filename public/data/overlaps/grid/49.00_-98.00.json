@@ -1,1 +1,1 @@
-{"lat":49,"lon":-98,"programs":["wwbota"],"count":1,"references":[{"code":"B/CA-0489","program":"wwbota","name":"FRP HE33","coordinates":[-97.9086685,49.001368]}]}
+{"lat":49,"lon":-98,"programs":["tota","wwbota"],"count":2,"references":[{"code":"VER-4608","program":"tota","name":"Kroeker Farms Viewing Platform","coordinates":[-97.914835,49.190774]},{"code":"B/CA-0489","program":"wwbota","name":"FRP HE33","coordinates":[-97.9086685,49.001368]}]}

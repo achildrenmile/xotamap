@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":63.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1325","program":"wwff","name":"Pyshminskiy, Zakaznik","coordinates":[63.35,56.82]}]}
+{"lat":56.75,"lon":63.25,"programs":["pota","wwff"],"count":3,"references":[{"code":"RU-8354","program":"pota","name":"Пышминский State Natural Reserve","coordinates":[63.3425,56.8226]},{"code":"RU-8412","program":"pota","name":"Чернышевский бор Natural Monument","coordinates":[63.2621,56.9256]},{"code":"RFF-1325","program":"wwff","name":"Pyshminskiy, Zakaznik","coordinates":[63.35,56.82]}]}

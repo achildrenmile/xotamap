@@ -1,1 +1,1 @@
-{"lat":52.5,"lon":-103.75,"programs":["pota"],"count":1,"references":[{"code":"CA-2735","program":"pota","name":"Marean Lake Recreation Site","coordinates":[-103.601,52.5041]}]}
+{"lat":52.5,"lon":-103.75,"programs":["pota","tota"],"count":2,"references":[{"code":"CA-2735","program":"pota","name":"Marean Lake Recreation Site","coordinates":[-103.601,52.5041]},{"code":"VER-4712","program":"tota","name":"Marean Lake Birding Trail Observation Tower","coordinates":[-103.571338,52.502193]}]}

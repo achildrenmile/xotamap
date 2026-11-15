@@ -1,1 +1,1 @@
-{"lat":59,"lon":58.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/CE-023","program":"sota","name":"R9U/CE-023","coordinates":[58.3766,59.1649]}]}
+{"lat":59,"lon":58.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9238","program":"pota","name":"Ослянский Protected Landscape Area","coordinates":[58.4964,59.1489]},{"code":"R9U/CE-023","program":"sota","name":"R9U/CE-023","coordinates":[58.3766,59.1649]}]}

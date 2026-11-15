@@ -1,1 +1,1 @@
-{"lat":56.75,"lon":83.75,"programs":["wwff"],"count":1,"references":[{"code":"RFF-0667","program":"wwff","name":"Ilovskiy, zakaznik","coordinates":[83.79,56.77]}]}
+{"lat":56.75,"lon":83.75,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-9947","program":"pota","name":"Иловский State Natural Reserve","coordinates":[83.7874,56.7643]},{"code":"RFF-0667","program":"wwff","name":"Ilovskiy, zakaznik","coordinates":[83.79,56.77]}]}

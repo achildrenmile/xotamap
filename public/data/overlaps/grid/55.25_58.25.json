@@ -1,1 +1,1 @@
-{"lat":55.25,"lon":58.25,"programs":["sota"],"count":1,"references":[{"code":"R9U/SO-228","program":"sota","name":"R9U/SO-228","coordinates":[58.3067,55.494]}]}
+{"lat":55.25,"lon":58.25,"programs":["pota","sota"],"count":2,"references":[{"code":"RU-9541","program":"pota","name":"Лагеревское болото Natural Monument","coordinates":[58.4141,55.2798]},{"code":"R9U/SO-228","program":"sota","name":"R9U/SO-228","coordinates":[58.3067,55.494]}]}

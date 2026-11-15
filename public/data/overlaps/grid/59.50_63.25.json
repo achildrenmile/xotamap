@@ -1,1 +1,1 @@
-{"lat":59.5,"lon":63.25,"programs":["wwff"],"count":1,"references":[{"code":"RFF-1195","program":"wwff","name":"Pelymskiy, Zakaznik","coordinates":[63.41,59.68]}]}
+{"lat":59.5,"lon":63.25,"programs":["pota","wwff"],"count":2,"references":[{"code":"RU-8358","program":"pota","name":"Пелымский State Natural Reserve","coordinates":[63.4063,59.6784]},{"code":"RFF-1195","program":"wwff","name":"Pelymskiy, Zakaznik","coordinates":[63.41,59.68]}]}
